@@ -5,6 +5,26 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>歷屆作文題目索引｜學測、指考英文作文 83–115 學年度</title>
 <meta name="description" content="大學入學考試中心學測與指定科目考試英文作文題目索引，收錄 83 至 115 學年度共 62 題，可依年度、文體、主題篩選。免費，免註冊。">
+<link rel="canonical" href="https://staresto-create.github.io/essay-prompts/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="zh_TW">
+<meta property="og:site_name" content="歷屆作文題目索引">
+<meta property="og:title" content="歷屆作文題目索引｜學測、指考英文作文 83–115 學年度">
+<meta property="og:description" content="學測與指考英文作文題目 62 題全數收錄，可依年度、文體、主題篩選，圖片題附原卷圖片。免費，免註冊。">
+<meta property="og:url" content="https://staresto-create.github.io/essay-prompts/">
+<meta property="og:image" content="https://staresto-create.github.io/essay-prompts/images/E115_GSAT.png">
+<meta name="twitter:card" content="summary_large_image">
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Dataset",
+ "name":"歷屆作文題目索引：學測與指考英文作文題目 83–115 學年度",
+ "description":"大學入學考試中心學科能力測驗與指定科目考試英文考科作文題目共 62 題，含年度、考試場次、文體、主題與原卷圖片。",
+ "url":"https://staresto-create.github.io/essay-prompts/",
+ "inLanguage":"zh-Hant-TW","isAccessibleForFree":true,
+ "temporalCoverage":"1994/2026",
+ "creator":{"@type":"Person","name":"張敬欣"},
+ "distribution":{"@type":"DataDownload","encodingFormat":"application/json",
+   "contentUrl":"https://staresto-create.github.io/essay-prompts/data/prompts.json"}}
+</script>
 <style>
 :root{
   --paper:#F2F3EF;
@@ -21,7 +41,7 @@
   --mono:ui-monospace,"SFMono-Regular","Menlo",monospace;
 }
 *{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:64px}
 body{
   margin:0;background:var(--paper);color:var(--ink);
   font-family:var(--sans);font-size:16px;line-height:1.75;
@@ -116,11 +136,13 @@ h1 .sub{display:block;font-size:.45em;font-weight:400;letter-spacing:.22em;color
   position:sticky;top:0;z-index:10;background:var(--paper);
   border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
   margin-top:22px;padding:11px 0;
+  box-shadow:0 6px 12px -8px rgba(28,35,33,.35);
   display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap
 }
 .tally{font-size:14px;color:var(--ink-soft)}
 .tally b{font-family:var(--mono);font-size:18px;color:var(--ink)}
 .tally .gap{color:var(--seal)}
+.tally .v-short{display:none}
 .reset{
   font:inherit;font-size:13px;background:none;border:1px solid var(--rule);
   padding:4px 12px;border-radius:2px;cursor:pointer;color:var(--ink-soft)
@@ -181,6 +203,13 @@ footer{border-top:1px solid var(--rule);padding:20px 0 40px;font-size:13px;color
   .fgroup>.flabel{flex-basis:100%}
   .iyear{font-size:22px}
   .item{padding:16px 15px}
+  .resultbar{padding:8px 0;flex-wrap:nowrap}
+  .tally{font-size:13px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .tally b{font-size:16px}
+  .tally .v-long{display:none}
+  .tally .v-short{display:inline}
+  .reset{flex:0 0 auto;padding:4px 9px;font-size:12.5px}
+  .reset .v-long{display:none}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
@@ -225,7 +254,7 @@ footer{border-top:1px solid var(--rule);padding:20px 0 40px;font-size:13px;color
 
   <div class="resultbar">
     <p class="tally" id="tally">載入中…</p>
-    <button class="reset" id="reset" type="button">清除全部條件</button>
+    <button class="reset" id="reset" type="button">清除<span class="v-long">全部條件</span></button>
   </div>
 
   <section class="list" id="list" aria-live="polite"></section>
@@ -357,7 +386,29 @@ function card(it){
   return d;
 }
 
+function writeHash(){
+  const p=new URLSearchParams();
+  if(S.years.length)p.set('y',S.years.join(','));
+  if(S.genres.length)p.set('g',S.genres.join(','));
+  if(S.themes.length)p.set('t',S.themes.join(','));
+  if(S.pic)p.set('pic','1');
+  if(S.official)p.set('off','1');
+  const s=p.toString();
+  history.replaceState(null,'',s?'#'+s:location.pathname);
+}
+function readHash(){
+  const h=location.hash.replace(/^#/,'');
+  if(!h)return;
+  const p=new URLSearchParams(h);
+  S.years=(p.get('y')||'').split(',').filter(Boolean).map(Number);
+  S.genres=(p.get('g')||'').split(',').filter(Boolean);
+  S.themes=(p.get('t')||'').split(',').filter(Boolean);
+  S.pic=p.get('pic')==='1';
+  S.official=p.get('off')==='1';
+}
+
 function render(){
+  writeHash();
   paintStrip();
   document.querySelectorAll('#fGenre .chip').forEach(b=>
     b.setAttribute('aria-pressed',S.genres.includes(b.firstChild.textContent)));
@@ -370,13 +421,20 @@ function render(){
   const yrsAll=new Set(DATA.map(h=>h.year));
   const gap=yrsAll.size-yrsHit.size;
   const t=$('#tally');t.innerHTML='';
-  t.appendChild(document.createTextNode('目前條件涵蓋 '));
-  const b1=el('b',null,String(hits.length));t.appendChild(b1);
-  t.appendChild(document.createTextNode(' 題，分布在 '));
-  const b2=el('b',null,String(yrsHit.size));t.appendChild(b2);
-  t.appendChild(document.createTextNode(' 個年度'));
+  const long=el('span','v-long');
+  long.appendChild(document.createTextNode('目前條件涵蓋 '));
+  long.appendChild(el('b',null,String(hits.length)));
+  long.appendChild(document.createTextNode(' 題，分布在 '));
+  long.appendChild(el('b',null,String(yrsHit.size)));
+  long.appendChild(document.createTextNode(' 個年度'));
+  const short=el('span','v-short');
+  short.appendChild(el('b',null,String(hits.length)));
+  short.appendChild(document.createTextNode(' 題 · '));
+  short.appendChild(el('b',null,String(yrsHit.size)));
+  short.appendChild(document.createTextNode(' 年度'));
+  t.appendChild(long);t.appendChild(short);
   if(gap>0){
-    const g=el('span','gap','　未涵蓋 '+gap+' 個年度');t.appendChild(g);
+    const g=el('span','gap','　未涵蓋 '+gap+' 年');t.appendChild(g);
   }
 
   const list=$('#list');list.innerHTML='';
@@ -400,6 +458,7 @@ fetch('data/prompts.json')
       return [...m.entries()].sort((a,b)=>b[1]-a[1])};
     buildChips('#fGenre','genres',tally('genre'));
     buildChips('#fTheme','themes',tally('theme'));
+    readHash();
     buildStrip();
     render();
   })
