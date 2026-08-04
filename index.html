@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>歷屆作文題目索引｜學測、指考英文作文 83–115 學年度</title>
+<meta name="description" content="大學入學考試中心學測與指定科目考試英文作文題目索引，收錄 83 至 115 學年度共 62 題，可依年度、文體、主題篩選。免費，免註冊。">
+<style>
+:root{
+  --paper:#F2F3EF;
+  --card:#FCFCFA;
+  --ink:#1C2321;
+  --ink-soft:#5A625E;
+  --rule:#C7CAC2;
+  --rule-soft:#E2E4DE;
+  --seal:#9E2B25;
+  --wash:#42626C;
+  --focus:#9E2B25;
+  --serif:"Noto Serif TC","Source Han Serif TC","Songti TC","PMingLiU",serif;
+  --sans:"Noto Sans TC","PingFang TC","Microsoft JhengHei","Heiti TC",sans-serif;
+  --mono:ui-monospace,"SFMono-Regular","Menlo",monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--sans);font-size:16px;line-height:1.75;
+}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+
+/* ─── 頁首：仿試卷版心 ─── */
+header.masthead{border-bottom:3px double var(--ink);background:var(--paper)}
+.masthead .wrap{padding-top:34px;padding-bottom:22px}
+.corner{
+  font-family:var(--mono);font-size:12px;letter-spacing:.08em;
+  color:var(--ink-soft);display:flex;justify-content:space-between;
+  border-bottom:1px solid var(--rule-soft);padding-bottom:6px;margin-bottom:18px;
+}
+h1{
+  font-family:var(--serif);font-weight:700;
+  font-size:clamp(28px,5vw,42px);line-height:1.25;letter-spacing:.02em;
+  margin:0 0 10px;
+}
+h1 .sub{display:block;font-size:.45em;font-weight:400;letter-spacing:.22em;color:var(--ink-soft);margin-bottom:10px}
+.standfirst{max-width:44em;margin:0;color:var(--ink-soft);font-size:15px}
+.counts{margin-top:16px;font-family:var(--mono);font-size:13px;color:var(--ink-soft)}
+.counts b{color:var(--ink);font-size:17px}
+
+/* ─── 年度帶（本站的核心裝置）─── */
+.strip{margin:26px 0 4px}
+.strip-head{
+  display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;
+  font-size:13px;color:var(--ink-soft);margin-bottom:8px
+}
+.strip-head h2{font-family:var(--serif);font-size:16px;margin:0;color:var(--ink);letter-spacing:.04em}
+.strip-row{display:flex;align-items:stretch;gap:8px;margin-bottom:6px}
+.strip-label{
+  flex:0 0 3.2em;font-family:var(--serif);font-size:13px;color:var(--ink-soft);
+  display:flex;align-items:center;justify-content:flex-end
+}
+.years{display:flex;flex:1;gap:2px;min-width:0}
+.yr{
+  flex:1 1 0;min-width:0;border:0;padding:0;cursor:pointer;background:transparent;
+  font-family:var(--mono);font-size:10px;color:var(--ink-soft);
+  display:flex;flex-direction:column;align-items:center;gap:3px;
+}
+.yr .bar{
+  width:100%;height:22px;border:1px solid var(--rule);
+  background:#fff;border-radius:1px;transition:background .12s,border-color .12s
+}
+.yr[data-state="pic"]  .bar{background:var(--seal);border-color:var(--seal)}
+.yr[data-state="text"] .bar{background:var(--wash);border-color:var(--wash)}
+.yr[data-state="off"]  .bar{background:repeating-linear-gradient(45deg,#fff,#fff 3px,var(--rule-soft) 3px,var(--rule-soft) 6px)}
+.yr[data-state="none"] .bar{background:transparent;border-style:dotted;border-color:var(--rule-soft)}
+.yr[data-state="none"]{cursor:default}
+.yr[aria-pressed="true"] .bar{outline:2px solid var(--ink);outline-offset:1px}
+.yr:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.yr .num{transform:scale(.92)}
+.axis{display:none;position:relative;height:1.3em;margin-left:2.6em;padding-left:8px;
+  font-family:var(--mono);font-size:11px;color:var(--ink-soft);margin-top:3px}
+.axis span{position:absolute;transform:translateX(-50%)}
+.axis span:nth-child(1){left:1.5%}
+.axis span:nth-child(2){left:22.7%}
+.axis span:nth-child(3){left:53%}
+.axis span:nth-child(4){left:83.3%}
+.axis span:nth-child(5){left:98.5%}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--ink-soft);margin-top:10px}
+.legend i{display:inline-block;width:14px;height:11px;border:1px solid var(--rule);margin-right:5px;vertical-align:-1px}
+.legend .l-pic{background:var(--seal);border-color:var(--seal)}
+.legend .l-text{background:var(--wash);border-color:var(--wash)}
+.legend .l-off{background:repeating-linear-gradient(45deg,#fff,#fff 3px,var(--rule-soft) 3px,var(--rule-soft) 6px)}
+
+/* ─── 篩選 ─── */
+.filters{border-top:1px solid var(--rule);padding-top:20px;margin-top:24px}
+.fgroup{display:flex;gap:10px;align-items:baseline;margin-bottom:12px;flex-wrap:wrap}
+.fgroup > .flabel{
+  flex:0 0 4.2em;font-family:var(--serif);font-size:14px;color:var(--ink-soft);
+  letter-spacing:.08em
+}
+.chips{display:flex;flex-wrap:wrap;gap:6px;flex:1}
+.chip{
+  font:inherit;font-size:13.5px;line-height:1.4;
+  border:1px solid var(--rule);background:var(--card);color:var(--ink);
+  padding:5px 12px;border-radius:2px;cursor:pointer;transition:.12s
+}
+.chip:hover{border-color:var(--ink-soft)}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--paper);border-color:var(--ink)}
+.chip .n{font-family:var(--mono);font-size:11px;opacity:.65;margin-left:5px}
+.chip:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.toggles{display:flex;gap:18px;flex-wrap:wrap;font-size:14px;margin-top:4px}
+.toggles label{display:flex;align-items:center;gap:7px;cursor:pointer;color:var(--ink-soft)}
+.toggles input{accent-color:var(--seal);width:16px;height:16px}
+
+/* ─── 結果列 ─── */
+.resultbar{
+  position:sticky;top:0;z-index:10;background:var(--paper);
+  border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  margin-top:22px;padding:11px 0;
+  display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap
+}
+.tally{font-size:14px;color:var(--ink-soft)}
+.tally b{font-family:var(--mono);font-size:18px;color:var(--ink)}
+.tally .gap{color:var(--seal)}
+.reset{
+  font:inherit;font-size:13px;background:none;border:1px solid var(--rule);
+  padding:4px 12px;border-radius:2px;cursor:pointer;color:var(--ink-soft)
+}
+.reset:hover{border-color:var(--ink);color:var(--ink)}
+
+/* ─── 題目卡 ─── */
+.list{padding:26px 0 10px}
+.item{
+  background:var(--card);border:1px solid var(--rule-soft);
+  border-left:3px solid var(--wash);
+  padding:20px 22px;margin-bottom:16px;border-radius:2px
+}
+.item.has-pic{border-left-color:var(--seal)}
+.item.unofficial{border-left-style:dashed}
+.ihead{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin-bottom:4px}
+.iyear{font-family:var(--serif);font-size:26px;font-weight:700;letter-spacing:.02em}
+.iyear small{font-size:.5em;font-weight:400;margin-left:2px;color:var(--ink-soft)}
+.iexam{font-family:var(--serif);font-size:15px;color:var(--ink-soft)}
+.badge{
+  font-size:11.5px;letter-spacing:.06em;padding:2px 8px;border-radius:2px;
+  border:1px solid var(--rule);color:var(--ink-soft);background:#fff
+}
+.badge.warn{border-color:var(--seal);color:var(--seal)}
+.itags{display:flex;flex-wrap:wrap;gap:5px;margin:8px 0 12px}
+.tag{font-size:12px;padding:2px 9px;border:1px solid var(--rule-soft);border-radius:2px;color:var(--ink-soft);background:var(--paper)}
+.tag.g{border-color:var(--wash);color:var(--wash)}
+.prompt{
+  white-space:pre-wrap;font-size:15.5px;line-height:1.85;
+  border-left:1px solid var(--rule-soft);padding-left:16px;margin:0
+}
+.reuse{
+  margin-top:12px;font-size:13.5px;color:var(--seal);
+  border:1px dashed var(--rule);padding:8px 12px;border-radius:2px;background:#fff
+}
+figure{margin:16px 0 0}
+figure img{width:100%;height:auto;display:block;border:1px solid var(--rule-soft);background:#fff}
+figcaption{font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(--mono)}
+.empty{
+  text-align:center;padding:56px 20px;color:var(--ink-soft);
+  border:1px dashed var(--rule);border-radius:2px;background:var(--card)
+}
+.empty b{display:block;font-family:var(--serif);font-size:19px;color:var(--ink);margin-bottom:8px}
+
+/* ─── 說明 ─── */
+.notes{border-top:3px double var(--ink);margin-top:20px;padding:34px 0 60px}
+.notes h2{font-family:var(--serif);font-size:21px;margin:0 0 14px;letter-spacing:.04em}
+.notes h3{font-family:var(--serif);font-size:17px;margin:26px 0 8px}
+.notes p{max-width:46em;font-size:15px;margin:0 0 12px}
+.notes strong{background:linear-gradient(transparent 62%,rgba(158,43,37,.16) 62%)}
+footer{border-top:1px solid var(--rule);padding:20px 0 40px;font-size:13px;color:var(--ink-soft)}
+
+@media (max-width:640px){
+  .strip-label{flex-basis:2.6em;font-size:12px}
+  .yr .num{display:none}
+  .yr .bar{height:34px}
+  .axis{display:block}
+  .fgroup>.flabel{flex-basis:100%}
+  .iyear{font-size:22px}
+  .item{padding:16px 15px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="corner"><span>大學入學考試中心　英文考科</span><span>83–115 學年度</span></div>
+    <h1><span class="sub">歷屆試題索引</span>英文作文題目</h1>
+    <p class="standfirst">學測與指定科目考試的英文作文題目，83 學年度至今全數收錄。可依年度、文體、主題篩選，圖片題附原卷圖片。免費使用，不需註冊。</p>
+    <p class="counts">共 <b id="cTotal">–</b> 題　｜　圖片題 <b id="cPic">–</b> 題　｜　非正式考題 <b id="cUnof">–</b> 題</p>
+  </div>
+</header>
+
+<main class="wrap">
+
+  <section class="strip" aria-labelledby="stripH">
+    <div class="strip-head">
+      <h2 id="stripH">年度一覽</h2>
+      <span>點選年度即可篩選；再點一次取消。斜線代表被目前條件排除。此帶只列正式考題，補考與參考試卷不在其中，仍會出現在下方題目列表。</span>
+    </div>
+    <div class="strip-row"><div class="strip-label">學測</div><div class="years" id="rowGsat"></div></div>
+    <div class="strip-row"><div class="strip-label">指考</div><div class="years" id="rowJcee"></div></div>
+    <div class="axis" aria-hidden="true"><span>83</span><span>90</span><span>100</span><span>110</span><span>115</span></div>
+    <div class="legend">
+      <span><i class="l-pic"></i>圖片題</span>
+      <span><i class="l-text"></i>文字題</span>
+      <span><i class="l-off"></i>已被條件排除</span>
+      <span><i></i>該年無此考試</span>
+    </div>
+  </section>
+
+  <section class="filters" aria-label="篩選條件">
+    <div class="fgroup"><div class="flabel">文體</div><div class="chips" id="fGenre"></div></div>
+    <div class="fgroup"><div class="flabel">主題</div><div class="chips" id="fTheme"></div></div>
+    <div class="toggles">
+      <label><input type="checkbox" id="tPic">只看圖片題</label>
+      <label><input type="checkbox" id="tOfficial">只看正式考題</label>
+    </div>
+  </section>
+
+  <div class="resultbar">
+    <p class="tally" id="tally">載入中…</p>
+    <button class="reset" id="reset" type="button">清除全部條件</button>
+  </div>
+
+  <section class="list" id="list" aria-live="polite"></section>
+
+  <section class="notes">
+    <h2>兩種命題方式</h2>
+    <p>學測與指考的英文作文，命題方式分成兩路，練的能力不一樣。</p>
+    <p><strong>看圖寫作</strong>——題目給一張照片、一組連環圖（comic strip）或一份圖表，要你依圖敘事或依圖說明。這種以圖為題幹的作法，在英語測驗研究中稱為 picture prompt。學測 40 題中有 24 題屬於這一類，其中連環圖佔了大宗，考的是把四格圖串成一個有頭有尾的故事。</p>
+    <p><strong>文字命題寫作</strong>——題目只給一段中文說明，要你就某個議題陳述看法。指考 22 題中有 19 題屬於這一類，比例遠高於學測。</p>
+    <p>兩者的差距很明顯：<strong>學測愛用圖，指考幾乎全是文字命題。</strong>準備學測要練得出畫面、講得出情節；準備指考型的題目要練得出立場、舉得出例子。</p>
+    <p>另有少數圖表題（108 指考、103 指考、111 學年度起適用參考試卷），要求描述數據並比較差異。這類題目與雅思學術組寫作第一部分（IELTS Academic Writing Task 1）性質相近——寫的是一份報告，不是一篇議論文，重點在選出主要趨勢並做比較，不是把每個數字都唸一遍。</p>
+
+    <h3>不要拿題型當押寶的依據</h3>
+    <p>109 到 115 學測連續七年出圖片題，很容易讓人以為學測就是考看圖寫作。但 105、107、108 三年都是純文字命題，108 年考「臺灣最讓你引以為榮的兩個面向」，一張圖也沒有。近年的連續只是近年的事。</p>
+    <p>主題也一樣抓不住：健康與身心兩次間隔都是 12 年，文化與認同從 92 年到 108 年空了 16 年，環境與災害沉寂 11 年、12 年後，卻在 110、111 連續兩屆出現。</p>
+    <p><strong>兩種都要練得動筆，才不會遇到不熟的形式當場慌掉。</strong></p>
+
+    <h3>關於非正式考題</h3>
+    <p>本站收錄的 62 題中，有 9 題不是正式考試題目，包括補考、參考試卷、試辦考試與課綱參考試卷，卡片上均以虛線邊框與標籤標明。參考試卷是大考中心為預告命題方向而公布的示例，其中部分題目直接採用歷年考題——例如 115 學年度起適用參考試卷的作文題，與 111 學測完全相同。遇到這種情形，本站在該題下方註明來源，不合併也不隱藏。</p>
+  </section>
+</main>
+
+<footer class="wrap">
+  <p>題目與圖片版權屬財團法人大學入學考試中心基金會所有，本站僅供非營利之教學與練習使用。每張圖片均標示出處。</p>
+</footer>
+
+<script>
+const S={years:[],genres:[],themes:[],pic:false,official:false};
+let DATA=[];
+
+const $=s=>document.querySelector(s);
+const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
+
+function matches(it){
+  if(S.years.length && !S.years.includes(it.year)) return false;
+  if(S.genres.length && !S.genres.some(g=>it.genre.includes(g))) return false;
+  if(S.themes.length && !S.themes.some(t=>it.theme.includes(t))) return false;
+  if(S.pic && !it.hasImage) return false;
+  if(S.official && !it.isOfficial) return false;
+  return true;
+}
+
+function buildStrip(){
+  const yrs=[];for(let y=83;y<=115;y++)yrs.push(y);
+  [['rowGsat','GSAT'],['rowJcee','JCEE']].forEach(([id,code])=>{
+    const box=$('#'+id);box.innerHTML='';
+    yrs.forEach(y=>{
+      const it=DATA.find(d=>d.year===y && d.examCode===code);
+      const b=el('button','yr');
+      b.appendChild(el('span','bar'));
+      b.appendChild(el('span','num',String(y)));
+      b.dataset.year=y;
+      if(!it){b.dataset.state='none';b.disabled=true;b.setAttribute('aria-label',y+' 學年度無此考試');}
+      else{
+        b.setAttribute('aria-pressed',S.years.includes(y));
+        const nm=y+' 學年度'+(code==='GSAT'?'學測':'指考');
+        b.setAttribute('aria-label',nm); b.title=nm;
+        b.addEventListener('click',()=>{
+          const i=S.years.indexOf(y);
+          i<0?S.years.push(y):S.years.splice(i,1);
+          render();
+        });
+      }
+      box.appendChild(b);
+    });
+  });
+}
+function paintStrip(){
+  document.querySelectorAll('.yr').forEach(b=>{
+    if(b.dataset.state==='none')return;
+    const y=+b.dataset.year;
+    const code=b.closest('.strip-row').querySelector('.strip-label').textContent==='學測'?'GSAT':'JCEE';
+    const it=DATA.find(d=>d.year===y&&d.examCode===code);
+    b.dataset.state = matches(it) ? (it.hasImage?'pic':'text') : 'off';
+    b.setAttribute('aria-pressed',S.years.includes(y));
+  });
+}
+
+function buildChips(host,key,values){
+  const box=$(host);box.innerHTML='';
+  values.forEach(([v,n])=>{
+    const b=el('button','chip');
+    b.appendChild(document.createTextNode(v));
+    b.appendChild(el('span','n',String(n)));
+    b.type='button';
+    b.setAttribute('aria-pressed',S[key].includes(v));
+    b.addEventListener('click',()=>{
+      const i=S[key].indexOf(v);
+      i<0?S[key].push(v):S[key].splice(i,1);
+      render();
+    });
+    box.appendChild(b);
+  });
+}
+
+function card(it){
+  const d=el('div','item'+(it.hasImage?' has-pic':'')+(it.isOfficial?'':' unofficial'));
+  const h=el('div','ihead');
+  const y=el('div','iyear');y.appendChild(document.createTextNode(String(it.year)));
+  const sm=el('small',null,'學年度');y.appendChild(sm);
+  h.appendChild(y);
+  h.appendChild(el('div','iexam',it.exam));
+  if(!it.isOfficial)h.appendChild(el('span','badge warn','非正式考題'));
+  h.appendChild(el('span','badge',it.promptFormat));
+  d.appendChild(h);
+
+  const tags=el('div','itags');
+  it.genre.forEach(g=>tags.appendChild(el('span','tag g',g)));
+  it.theme.forEach(t=>tags.appendChild(el('span','tag',t)));
+  d.appendChild(tags);
+
+  d.appendChild(el('p','prompt',it.prompt));
+
+  if(it.reuseNote)d.appendChild(el('p','reuse',it.reuseNote));
+
+  it.images.forEach(img=>{
+    const f=document.createElement('figure');
+    const p=document.createElement('picture');
+    const s=document.createElement('source');
+    s.srcset='images/'+img.webp;s.type='image/webp';p.appendChild(s);
+    const i=document.createElement('img');
+    i.src='images/'+img.png;i.loading='lazy';i.decoding='async';
+    i.width=img.size[0];i.height=img.size[1];
+    i.alt=it.year+' 學年度'+it.exam+'英文作文題目圖片';
+    p.appendChild(i);f.appendChild(p);
+    f.appendChild(el('figcaption',null,'圖片出處：'+it.source));
+    d.appendChild(f);
+  });
+  return d;
+}
+
+function render(){
+  paintStrip();
+  document.querySelectorAll('#fGenre .chip').forEach(b=>
+    b.setAttribute('aria-pressed',S.genres.includes(b.firstChild.textContent)));
+  document.querySelectorAll('#fTheme .chip').forEach(b=>
+    b.setAttribute('aria-pressed',S.themes.includes(b.firstChild.textContent)));
+  $('#tPic').checked=S.pic;$('#tOfficial').checked=S.official;
+
+  const hits=DATA.filter(matches);
+  const yrsHit=new Set(hits.map(h=>h.year));
+  const yrsAll=new Set(DATA.map(h=>h.year));
+  const gap=yrsAll.size-yrsHit.size;
+  const t=$('#tally');t.innerHTML='';
+  t.appendChild(document.createTextNode('目前條件涵蓋 '));
+  const b1=el('b',null,String(hits.length));t.appendChild(b1);
+  t.appendChild(document.createTextNode(' 題，分布在 '));
+  const b2=el('b',null,String(yrsHit.size));t.appendChild(b2);
+  t.appendChild(document.createTextNode(' 個年度'));
+  if(gap>0){
+    const g=el('span','gap','　未涵蓋 '+gap+' 個年度');t.appendChild(g);
+  }
+
+  const list=$('#list');list.innerHTML='';
+  if(!hits.length){
+    const e=el('div','empty');
+    e.appendChild(el('b',null,'這組條件沒有對應的題目'));
+    e.appendChild(el('p',null,'減少幾個條件，或按「清除全部條件」重新開始。'));
+    list.appendChild(e);return;
+  }
+  hits.forEach(it=>list.appendChild(card(it)));
+}
+
+fetch('data/prompts.json')
+  .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
+  .then(j=>{
+    DATA=j.items;
+    $('#cTotal').textContent=DATA.length;
+    $('#cPic').textContent=DATA.filter(d=>d.hasImage).length;
+    $('#cUnof').textContent=DATA.filter(d=>!d.isOfficial).length;
+    const tally=k=>{const m=new Map();DATA.forEach(d=>d[k].forEach(v=>m.set(v,(m.get(v)||0)+1)));
+      return [...m.entries()].sort((a,b)=>b[1]-a[1])};
+    buildChips('#fGenre','genres',tally('genre'));
+    buildChips('#fTheme','themes',tally('theme'));
+    buildStrip();
+    render();
+  })
+  .catch(()=>{
+    $('#tally').textContent='題目資料載入失敗。';
+    $('#list').innerHTML='<div class="empty"><b>讀不到題目資料</b><p>請確認 data/prompts.json 與 index.html 放在同一個 repo，且檔名大小寫相符。</p></div>';
+  });
+
+$('#reset').addEventListener('click',()=>{
+  S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;render();
+});
+$('#tPic').addEventListener('change',e=>{S.pic=e.target.checked;render()});
+$('#tOfficial').addEventListener('change',e=>{S.official=e.target.checked;render()});
+</script>
+</body>
+</html>
