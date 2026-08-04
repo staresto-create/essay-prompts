@@ -15,7 +15,7 @@
 | `index.html` | 網站本體，無外部相依套件 |
 | `data/prompts.json` | 62 題資料 |
 | `images/` | 27 張圖，各有 WebP 與 PNG 兩種格式 |
-| `extras/` | 102 學測連環圖分格與整版備援，暫未使用 |
+| `sitemap.xml` | 給搜尋引擎的網址清單 |
 
 ## 資料欄位
 
