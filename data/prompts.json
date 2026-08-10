@@ -666,7 +666,7 @@
    "exam": "指考",
    "examCode": "JCEE",
    "isOfficial": true,
-   "promptFormat": "圖片",
+   "promptFormat": "圖表",
    "hasImage": true,
    "genre": [
     "圖表分析"
