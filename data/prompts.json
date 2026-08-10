@@ -41,7 +41,6 @@
    "examCode": "GSAT_REF",
    "isOfficial": false,
    "promptFormat": "圖片",
-   "reuseNote": "本卷部分試題沿用歷年正式試題；本題的提示文字與圖片皆與 111 年學測英文作文題相同。",
    "hasImage": true,
    "genre": [
     "論說文"
