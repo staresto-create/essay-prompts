@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-08-04",
+ "updated": "2026-08-10",
  "count": 62,
  "items": [
   {
@@ -41,6 +41,7 @@
    "examCode": "GSAT_REF",
    "isOfficial": false,
    "promptFormat": "圖片",
+   "reuseNote": "本卷部分試題沿用歷年正式試題；本題的提示文字與圖片皆與 111 年學測英文作文題相同。",
    "hasImage": true,
    "genre": [
     "論說文"
@@ -168,7 +169,7 @@
    "exam": "學測",
    "examCode": "GSAT",
    "isOfficial": true,
-   "promptFormat": "圖表",
+   "promptFormat": "圖片",
    "hasImage": true,
    "genre": [
     "論說文"
@@ -397,7 +398,7 @@
    "exam": "指考",
    "examCode": "JCEE",
    "isOfficial": true,
-   "promptFormat": "文字&圖表",
+   "promptFormat": "文字與圖表",
    "hasImage": true,
    "genre": [
     "圖表分析"
@@ -725,7 +726,7 @@
    "exam": "指考",
    "examCode": "JCEE",
    "isOfficial": true,
-   "promptFormat": "文字及圖片",
+   "promptFormat": "文字與圖片",
    "hasImage": true,
    "genre": [
     "論說文"
@@ -1375,7 +1376,7 @@
    "exam": "學測",
    "examCode": "GSAT",
    "isOfficial": true,
-   "promptFormat": "圖片 (簡答題延伸)",
+   "promptFormat": "圖片（簡答題延伸）",
    "hasImage": true,
    "genre": [
     "論說文"
@@ -1404,7 +1405,7 @@
    "exam": "學測",
    "examCode": "GSAT",
    "isOfficial": true,
-   "promptFormat": "文字 (簡答題延伸)",
+   "promptFormat": "文字（簡答題延伸）",
    "hasImage": false,
    "genre": [
     "記敘文",
@@ -1424,7 +1425,7 @@
    "exam": "學測",
    "examCode": "GSAT",
    "isOfficial": true,
-   "promptFormat": "文字 (簡答題延伸)",
+   "promptFormat": "文字（簡答題延伸）",
    "hasImage": false,
    "genre": [
     "論說文"
