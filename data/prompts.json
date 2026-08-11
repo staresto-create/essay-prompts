@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-08-10",
+ "updated": "2026-08-11",
  "count": 62,
  "items": [
   {
@@ -1186,6 +1186,7 @@
     "家庭與生活",
     "個人成長與自我探索"
    ],
+   "officialTitle": "Travel Is The Best Teacher",
    "prompt": "請以“Travel Is The Best Teacher”為主題，寫一篇至少 120 個字的英文作文。第一段針對文章主題，說\n明旅行的優點，並在第二段舉自己的旅行經驗，以印證第一段的說明。",
    "images": [],
    "source": "大學入學考試中心 93 學年度指定科目考試英文考科"
@@ -1206,6 +1207,7 @@
     "人際關係與友誼",
     "個人成長與自我探索"
    ],
+   "officialTitle": "What Makes A Good Friend?",
    "prompt": "請以 “What Makes A Good Friend?” 為主題，寫一篇至少120個字的英文作文。第一段針對文章主題，說\n明什麼樣的朋友才算是「好朋友」，並在第二段舉自己的交友經驗為例，以印證第一段的說明。",
    "images": [],
    "source": "大學入學考試中心 93 學年度指定科目考試補考英文考科"
@@ -1227,6 +1229,7 @@
     "家庭與生活",
     "人際關係與友誼"
    ],
+   "officialTitle": "Music Is An Important Part of Our Life",
    "prompt": "請以 “Music Is An Important Part of Our Life” 為題，說明音樂（例如古典音樂、流行歌曲、搖滾音樂等）\n在生活中的重要性，並以你或他人的經驗為例，敘述音樂所帶來的好處。",
    "images": [],
    "source": "大學入學考試中心 92 學年度學科能力測驗英文考科"
@@ -1286,6 +1289,7 @@
     "家庭與生活",
     "個人成長與自我探索"
    ],
+   "officialTitle": "The Most Precious Thing in My Room",
    "prompt": "以“The Most Precious Thing in My Room”為題寫一篇英文作文，描述你的房間內一件你最珍愛的物品\n，同時並說明珍愛的理由。(這一件你最珍愛的物品不一定是貴重的，但對你來說卻是最有意義或是最值\n得紀念的。",
    "images": [],
    "source": "大學入學考試中心 91 學年度學科能力測驗英文考科"
@@ -1306,6 +1310,7 @@
     "個人成長與自我探索",
     "家庭與生活"
    ],
+   "officialTitle": "Growing up is a/an _____ experience",
    "prompt": "以“Growing up is a/an _____ experience”為題寫一篇英文作文，描述你成長的經驗是令人興奮的(exciting)\n，令人困惑的(confusing)，快樂的(happy)或是痛苦的 (painful)。除了這些形容詞之外，你也可以用其他的\n形容詞來描述你成長的經驗。請務必提出具體的例子以描述你成長的經驗。(注意：如果你用的形容詞以子\n音起始，請選擇冠詞“a”，如“a confusing experience”；如果你用的形容詞以母音起始，請選擇冠詞“an”，\n如“an exciting experience”。",
    "images": [],
    "source": "大學入學考試中心 91 學年度學科能力測驗補考英文考科"
@@ -1344,6 +1349,7 @@
     "校園與學習",
     "人際關係與友誼"
    ],
+   "officialTitle": "Something Interesting about a Classmate of Mine",
    "prompt": "請以 “Something Interesting about a Classmate of Mine” 為題，寫出有關你一位同學的一件趣事。這\n位同學可以是你任何時期的同學，例如中學、小學或幼稚園的同學。",
    "images": [],
    "source": "大學入學考試中心 90 學年度學科能力測驗英文考科"
@@ -1365,6 +1371,7 @@
     "家庭與生活",
     "個人成長與自我探索"
    ],
+   "officialTitle": "Weight Loss",
    "prompt": "一篇英文作文，主題為 “Weight Loss”：以你個人或你熟悉的人(朋友、親戚) 為例，說明造成這個人體重\n過重的原因，並提出你認為理想的解決之道。",
    "images": [],
    "source": "大學入學考試中心 89 學年度學科能力測驗英文考科"
