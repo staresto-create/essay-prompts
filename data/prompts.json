@@ -784,6 +784,23 @@
      }
     ]
    },
+   "listening": {
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但語域與書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。",
+    "items": [
+     {
+      "title": "Who does the housework?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-08-13",
+      "length": "6 分 36 秒",
+      "blurb": "Pippa 與 Neil 討論家裡的家事由誰做、誰沒盡到本分。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260813",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://open.spotify.com/episode/1t8rbX8xV0y7eTpvOwXICW",
+      "altLabel": "Spotify",
+      "checked": "2026 年 8 月"
+     }
+    ]
+   },
    "model": {
     "essay": {
      "words": 207,
