@@ -41,6 +41,27 @@
   .wbOwn{font-size:11px;color:#8A8271;border:1px solid #DED5BF;border-radius:3px;padding:0 4px;margin-left:5px;}
   .wbSrc{display:none;font-size:11.5px;color:#8A8271;}
   .wbBox.showSrc .wbSrc{display:block;}
+  .mdBox{margin-top:12px;border:1px solid #E3DCC9;border-radius:6px;background:#FDFBF5;padding:12px 13px;}
+  .mdBtn{font:inherit;font-size:13px;font-weight:700;padding:4px 12px;border:1px solid #C9BFA6;border-radius:999px;background:#fff;cursor:pointer;}
+  .mdBody{display:none;margin-top:11px;}
+  .mdBox.open .mdBody{display:block;}
+  .mdEssay p{margin:0 0 9px;font-size:13.5px;line-height:1.85;}
+  .mdWords{font-size:11.5px;color:#8A8271;}
+  .mdCaveat{font-size:12px;color:#7A7263;border-left:3px solid #DED5BF;padding-left:8px;margin:10px 0;}
+  .mdH{font-size:13px;font-weight:700;margin:13px 0 5px;}
+  .mdIntro{font-size:12.5px;line-height:1.8;color:#4A443A;margin:0 0 7px;}
+  .mdKey{font-size:12.5px;line-height:1.8;background:#F4EEDF;border-radius:4px;padding:8px 10px;margin:0 0 9px;}
+  .mdMap{list-style:none;padding:0;margin:0;}
+  .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
+  .mdK{font-weight:700;margin-right:6px;}
+  .mdSrc{font-size:11.5px;color:#8A8271;margin-top:9px;}
+  .lsBox{margin-top:12px;border:1px solid #D9E2E6;border-radius:6px;background:#F5F9FA;padding:11px 13px;}
+  .lsHd{font-weight:700;font-size:13.5px;margin-bottom:6px;}
+  .lsItem{font-size:13px;line-height:1.8;}
+  .lsT{font-weight:700;}
+  .lsMeta{font-size:11.5px;color:#6F7B80;}
+  .lsLinks a{font-size:12.5px;margin-right:12px;}
+  .lsNote{font-size:12px;color:#5E6A6F;margin-top:8px;line-height:1.75;}
 :root{
   --paper:#F2F3EF;
   --card:#FCFCFA;
@@ -430,6 +451,67 @@ function card(it){
       gd.appendChild(ul);b.appendChild(gd);
     });
     d.appendChild(b);
+  }
+
+  if(it.listening && it.listening.items && it.listening.items.length){
+    const b=el('div','lsBox');
+    b.appendChild(el('div','lsHd','延伸聽力'));
+    it.listening.items.forEach(x=>{
+      const w=el('div','lsItem');
+      w.appendChild(el('span','lsT',x.title));
+      w.appendChild(el('span','lsMeta','　'+x.series+'　'+x.date+'　'+x.length));
+      if(x.blurb)w.appendChild(el('div',null,x.blurb));
+      const ln=el('div','lsLinks');
+      const a=document.createElement('a');
+      a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=(x.urlLabel||'官方頁')+' ↗';
+      ln.appendChild(a);
+      if(x.alt){
+        const a2=document.createElement('a');
+        a2.href=x.alt;a2.target='_blank';a2.rel='noopener';a2.textContent=(x.altLabel||'另一個來源')+' ↗';
+        ln.appendChild(a2);
+      }
+      w.appendChild(ln);
+      if(x.checked)w.appendChild(el('div','lsMeta','最後核對日期：'+x.checked));
+      b.appendChild(w);
+    });
+    if(it.listening.note)b.appendChild(el('p','lsNote',it.listening.note));
+    d.appendChild(b);
+  }
+
+  if(it.model && it.model.essay){
+    const m=it.model, b=el('div','mdBox');
+    const btn=document.createElement('button');
+    btn.className='mdBtn';btn.type='button';btn.textContent='看一篇示範與評分對照 →';
+    btn.addEventListener('click',()=>{
+      const on=b.classList.toggle('open');
+      btn.textContent=on?'收起示範':'看一篇示範與評分對照 →';
+    });
+    b.appendChild(btn);
+    const body=el('div','mdBody');
+    const es=el('div','mdEssay');
+    es.appendChild(el('p',null,m.essay.p1));
+    es.appendChild(el('p',null,m.essay.p2));
+    if(m.essay.words)es.appendChild(el('div','mdWords','全文 '+m.essay.words+' 詞'));
+    body.appendChild(es);
+    if(m.essay.caveat)body.appendChild(el('p','mdCaveat',m.essay.caveat));
+    if(m.rubric){
+      body.appendChild(el('div','mdH','官方怎麼給分'));
+      if(m.rubric.intro)body.appendChild(el('p','mdIntro',m.rubric.intro));
+      if(m.rubric.keypoint)body.appendChild(el('p','mdKey',m.rubric.keypoint));
+    }
+    if(m.mapping && m.mapping.length){
+      body.appendChild(el('div','mdH','這篇在五個項目上各做了什麼'));
+      const ul=document.createElement('ul');ul.className='mdMap';
+      m.mapping.forEach(x=>{
+        const li=document.createElement('li');
+        li.appendChild(el('span','mdK',x.k));
+        li.appendChild(document.createTextNode(x.t));
+        ul.appendChild(li);
+      });
+      body.appendChild(ul);
+    }
+    if(m.rubric && m.rubric.source)body.appendChild(el('div','mdSrc','評分說明出處：'+m.rubric.source));
+    b.appendChild(body);d.appendChild(b);
   }
 
   it.images.forEach(img=>{
