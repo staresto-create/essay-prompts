@@ -26,6 +26,21 @@
    "contentUrl":"https://staresto-create.github.io/essay-prompts/data/prompts.json"}}
 </script>
 <style>
+  .wbBox{margin-top:14px;border:1px solid #E3DCC9;border-radius:6px;background:#FBF8F0;padding:12px 13px;}
+  .wbHd{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;}
+  .wbTitle{font-weight:700;font-size:14px;}
+  .wbNote{font-size:12px;color:#7A7263;margin:6px 0 10px;}
+  .wbBtn{font:inherit;font-size:12px;padding:3px 10px;border:1px solid #C9BFA6;border-radius:999px;background:#fff;cursor:pointer;}
+  .wbGrp{margin-top:10px;}
+  .wbGrpName{font-size:12.5px;font-weight:700;color:#5C5342;margin-bottom:4px;}
+  .wbList{list-style:none;padding:0;margin:0;}
+  .wbList li{padding:5px 0;border-top:1px dotted #E3DCC9;font-size:13px;line-height:1.7;}
+  .wbW{font-weight:700;}
+  .wbZh{color:#6B6455;}
+  .wbEx{display:block;color:#3E3A31;}
+  .wbOwn{font-size:11px;color:#8A8271;border:1px solid #DED5BF;border-radius:3px;padding:0 4px;margin-left:5px;}
+  .wbSrc{display:none;font-size:11.5px;color:#8A8271;}
+  .wbBox.showSrc .wbSrc{display:block;}
 :root{
   --paper:#F2F3EF;
   --card:#FCFCFA;
@@ -385,6 +400,37 @@ function card(it){
   d.appendChild(el('p','prompt',it.prompt));
 
   if(it.reuseNote)d.appendChild(el('p','reuse',it.reuseNote));
+
+  if(it.wordBank && it.wordBank.groups && it.wordBank.groups.length){
+    const b=el('div','wbBox');
+    const hd=el('div','wbHd');
+    hd.appendChild(el('span','wbTitle','主題字庫'));
+    const btn=document.createElement('button');
+    btn.className='wbBtn';btn.type='button';btn.textContent='顯示出處';
+    btn.addEventListener('click',()=>{
+      const on=b.classList.toggle('showSrc');
+      btn.textContent=on?'隱藏出處':'顯示出處';
+    });
+    hd.appendChild(btn);b.appendChild(hd);
+    if(it.wordBank.note)b.appendChild(el('p','wbNote',it.wordBank.note));
+    it.wordBank.groups.forEach(g=>{
+      const gd=el('div','wbGrp');
+      gd.appendChild(el('div','wbGrpName',g.name));
+      const ul=document.createElement('ul');ul.className='wbList';
+      g.entries.forEach(e=>{
+        const li=document.createElement('li');
+        li.appendChild(el('span','wbW',e.w));
+        li.appendChild(document.createTextNode('　'));
+        li.appendChild(el('span','wbZh',e.zh));
+        if(e.own)li.appendChild(el('span','wbOwn','本站補充'));
+        if(e.ex)li.appendChild(el('span','wbEx',e.ex));
+        if(e.src)li.appendChild(el('span','wbSrc','出處：'+e.src));
+        ul.appendChild(li);
+      });
+      gd.appendChild(ul);b.appendChild(gd);
+    });
+    d.appendChild(b);
+  }
 
   it.images.forEach(img=>{
     const f=document.createElement('figure');
