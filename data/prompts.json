@@ -561,6 +561,229 @@
    ],
    "prompt": "你認為家裡生活環境的維持應該是誰的責任?請寫一篇短文說明你的看法。文分兩段，第一段說明你對家事該如何分工的看法及理由，第二段舉例說明你家中家事分工的情形，並描述你自己做家事的經驗及感想。",
    "images": [],
+   "wordBank": {
+    "updated": "2026-08-13",
+    "note": "取自本站題庫歷屆真題，缺口由本站補足；例句為本站自撰。",
+    "groups": [
+     {
+      "name": "家事怎麼說",
+      "entries": [
+       {
+        "w": "chore / chores",
+        "zh": "雜務、家事",
+        "ex": "Doing chores is not a favor to my parents; it is my part of the work.",
+        "src": "99 學測單字第 10 題"
+       },
+       {
+        "w": "household",
+        "zh": "家庭的、一家人的",
+        "ex": "Every household member should take on some of the work.",
+        "src": "99 學測克漏字第 19 題"
+       },
+       {
+        "w": "domestic",
+        "zh": "家庭的、家務的",
+        "ex": "Domestic work is real work, even though no one pays for it.",
+        "src": "101 學測單字第 9 題"
+       },
+       {
+        "w": "do the laundry / fold the clothes",
+        "zh": "洗衣／摺衣服",
+        "ex": "I do the laundry on Saturday morning and fold the clothes before dinner.",
+        "own": true
+       },
+       {
+        "w": "wash the dishes / do the dishes",
+        "zh": "洗碗",
+        "ex": "My sister cooks, and I wash the dishes.",
+        "own": true
+       },
+       {
+        "w": "take out the trash",
+        "zh": "倒垃圾",
+        "ex": "Taking out the trash takes five minutes, but no one wants to do it.",
+        "own": true
+       },
+       {
+        "w": "sweep / mop the floor",
+        "zh": "掃地／拖地",
+        "ex": "We sweep the floor every day and mop it once a week.",
+        "own": true
+       },
+       {
+        "w": "make the bed",
+        "zh": "鋪床",
+        "ex": "My mother believes that a child who makes the bed learns to take care of himself.",
+        "own": true
+       },
+       {
+        "w": "set / clear the table",
+        "zh": "擺碗筷／收桌子",
+        "ex": "My little brother sets the table, and I clear it afterward.",
+        "own": true
+       },
+       {
+        "w": "water the plants",
+        "zh": "澆花",
+        "ex": "Watering the plants is the only chore I have never complained about.",
+        "own": true
+       },
+       {
+        "w": "tidy up / clean up",
+        "zh": "整理／收拾",
+        "ex": "It takes the four of us only twenty minutes to tidy up the whole house.",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "分工與責任",
+      "entries": [
+       {
+        "w": "division of labor",
+        "zh": "分工",
+        "ex": "A clear division of labor keeps the house running.",
+        "src": "96 學測單字第 6 題、83 指考單字第 1 題"
+       },
+       {
+        "w": "divide A among B",
+        "zh": "把 A 分配給 B",
+        "ex": "We divide the chores among the four of us every Sunday.",
+        "src": "100 學測單字第 2 題"
+       },
+       {
+        "w": "be responsible for",
+        "zh": "負責",
+        "ex": "I am responsible for taking out the trash and washing the dishes.",
+        "src": "97 指考克漏字第 17 題"
+       },
+       {
+        "w": "take responsibility (for)",
+        "zh": "承擔責任",
+        "ex": "Taking responsibility for a small task is how you learn to run a home.",
+        "src": "110 學測試辦考試第 14 題"
+       },
+       {
+        "w": "assign sb to sth",
+        "zh": "指派某人做某事",
+        "ex": "My mother assigns each of us to a different task.",
+        "src": "113 學測克漏字第 12 題"
+       },
+       {
+        "w": "be in charge of",
+        "zh": "負責掌管",
+        "ex": "My father is in charge of the kitchen on weekends.",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "公平與分擔",
+      "entries": [
+       {
+        "w": "share (n.)",
+        "zh": "本分、該盡的一份",
+        "ex": "Everyone should do his or her share.",
+        "src": "99 學測文意選填第 38 格"
+       },
+       {
+        "w": "a fair share",
+        "zh": "公平的一份",
+        "ex": "A fair share does not mean an equal share.",
+        "src": "99 學測文意選填第 38 格"
+       },
+       {
+        "w": "share sth with sb",
+        "zh": "與某人分擔",
+        "ex": "I share the housework with my sister.",
+        "src": "97 學測克漏字第 21 題"
+       },
+       {
+        "w": "equally",
+        "zh": "平均地、平等地",
+        "ex": "The work should be divided equally, not by gender.",
+        "src": "97 學測單字第 13 題、98 指考單字第 1 題"
+       },
+       {
+        "w": "gender roles",
+        "zh": "性別角色",
+        "ex": "Gender roles at home change once both parents work.",
+        "own": true
+       },
+       {
+        "w": "take sth for granted",
+        "zh": "把…視為理所當然",
+        "ex": "For years I took my mother's work at home for granted.",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "合作與貢獻",
+      "entries": [
+       {
+        "w": "cooperate (with)",
+        "zh": "合作",
+        "ex": "When we cooperate, the whole job takes half the time.",
+        "src": "98 學測文意選填第 37 格"
+       },
+       {
+        "w": "cooperation",
+        "zh": "合作",
+        "ex": "Only through the cooperation of every member can a home stay in order.",
+        "src": "99 學測文意選填第 34 格"
+       },
+       {
+        "w": "contribute to",
+        "zh": "對…有貢獻",
+        "ex": "Even a ten-year-old can contribute to the family.",
+        "src": "88 學測克漏字第 28 題"
+       },
+       {
+        "w": "make a contribution to",
+        "zh": "做出貢獻",
+        "ex": "Cooking one meal a week is a small but real contribution.",
+        "src": "91、111 學測單字"
+       },
+       {
+        "w": "participate in",
+        "zh": "參與",
+        "ex": "Children who participate in housework grow up more independent.",
+        "src": "83 學測克漏字第 26 題、104 學測單字第 14 題"
+       },
+       {
+        "w": "pitch in",
+        "zh": "出一份力",
+        "ex": "When everyone pitches in, no one is left with all the work.",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "第二段敘事會用到",
+      "entries": [
+       {
+        "w": "take turns (V-ing)",
+        "zh": "輪流",
+        "ex": "My brother and I take turns doing the dishes.",
+        "own": true
+       },
+       {
+        "w": "at first… later on…",
+        "zh": "起初…後來…",
+        "ex": "At first I saw it as a burden; later on I came to see it differently.",
+        "own": true
+       },
+       {
+        "w": "set a good example",
+        "zh": "樹立榜樣",
+        "ex": "My father sets a good example by never leaving his dishes in the sink.",
+        "own": true
+       }
+      ]
+     }
+    ]
+   },
    "source": "大學入學考試中心 105 學年度學科能力測驗英文考科"
   },
   {
