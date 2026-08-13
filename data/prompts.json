@@ -784,6 +784,41 @@
      }
     ]
    },
+   "model": {
+    "essay": {
+     "words": 207,
+     "p1": "Keeping a home clean should not be one person's job. A family is a team, and every member should do his or her share. Some people still believe that housework belongs to mothers, but I think gender roles at home make little sense today, especially when both parents work. A fair division of labor does not mean that everyone does exactly the same amount. It means the work is divided according to age, time, and ability, so that no one is left with all of it.",
+     "p2": "In my family, the chores are divided every Sunday evening. My father is in charge of cooking on weekends, my mother handles the laundry, and my sister and I take turns washing the dishes and taking out the trash. I used to see this as a burden. I still remember complaining that I had homework to do while my sister was watching television. Later on, however, I noticed how tired my mother looked after a full day at work, and I realized that I had taken her efforts for granted. Now I tidy up my own room without being told. Doing chores has not made me a better student, but it has made me a more useful member of my family.",
+     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。"
+    },
+    "rubric": {
+     "source": "大考中心 105 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人：賴惠玲，政治大學英國語文學系教授）",
+     "intro": "英文作文依五個項目給分：內容、組織、文法句構、詞彙拼字、體例。字數明顯不足另扣總分 1 分。每份試卷由兩位委員各自評分後取平均；兩人差距超過標準時，再由第三位委員評閱。",
+     "keypoint": "官方特別點出 105 這一題最常見的失分：題目要求兩個寫作任務，只寫對家事分工的看法與理由、沒寫自己的經驗感想，或反過來只寫經驗感想、沒寫看法理由，都算沒完成任務，內容與組織兩項都會扣分。這是結構問題，不是英文不夠好。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "兩段各自完成一項任務：第一段給看法與理由，第二段給自家實例與自己的感想。官方講的「細節足夠」指的是週日晚上分工、洗碗、倒垃圾、當年抱怨這些具體的事，不是「家事很重要」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先站定立場再給理由；第二段照時間推進——現在的分工、以前的抱怨、後來的轉變、現在的自己。前後有一條線，不是四句各說各話。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇最難的只有 so that 和 I had taken … for granted 的過去完成式，其餘都是課本句型。句子寫得漂亮不等於分數高，寫得清楚才是。"
+     },
+     {
+      "k": "詞彙拼字",
+      "t": "用的字都在大考中心詞彙表四級以內。官方在同一份說明裡點名拼錯是可惜的失分；laundry、chores、responsibility 這幾個字考前確認拼法。"
+     },
+     {
+      "k": "體例",
+      "t": "題目說兩段就寫兩段，不要一段到底也不要多切一段。句首大寫、句尾標點、段落分明，這一項不必想，檢查就有分。"
+     }
+    ]
+   },
    "source": "大學入學考試中心 105 學年度學科能力測驗英文考科"
   },
   {
