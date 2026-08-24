@@ -562,7 +562,7 @@
    "prompt": "你認為家裡生活環境的維持應該是誰的責任?請寫一篇短文說明你的看法。文分兩段，第一段說明你對家事該如何分工的看法及理由，第二段舉例說明你家中家事分工的情形，並描述你自己做家事的經驗及感想。",
    "images": [],
    "wordBank": {
-    "updated": "2026-08-13",
+    "updated": "2026-08-24",
     "note": "取自本站題庫歷屆真題，缺口由本站補足；例句為本站自撰。",
     "groups": [
      {
@@ -578,7 +578,7 @@
         "w": "household",
         "zh": "家庭的、一家人的",
         "ex": "Every household member should take on some of the work.",
-        "src": "99年學測 Q19"
+        "src": "99年學測 Q10"
        },
        {
         "w": "domestic",
@@ -643,13 +643,13 @@
         "w": "division of labor",
         "zh": "分工",
         "ex": "A clear division of labor keeps the house running.",
-        "src": "96年學測 Q6、83年指考 Q1"
+        "own": true
        },
        {
         "w": "divide A among B",
         "zh": "把 A 分配給 B",
         "ex": "We divide the chores among the four of us every Sunday.",
-        "src": "100年學測 Q2"
+        "own": true
        },
        {
         "w": "be responsible for",
@@ -702,7 +702,7 @@
         "w": "equally",
         "zh": "平均地、平等地",
         "ex": "The work should be divided equally, not by gender.",
-        "src": "97年學測 Q13、98年指考 Q1"
+        "src": "97年學測 Q13、98年指考參考試卷 Q1"
        },
        {
         "w": "gender roles",
@@ -743,19 +743,25 @@
         "w": "make a contribution to",
         "zh": "做出貢獻",
         "ex": "Cooking one meal a week is a small but real contribution.",
-        "src": "91年學測 Q8、111年學測 Q2"
+        "own": true
        },
        {
         "w": "participate in",
         "zh": "參與",
         "ex": "Children who participate in housework grow up more independent.",
-        "src": "83年學測 Q26、104年學測 Q14"
+        "src": "83年學測 Q26"
        },
        {
         "w": "pitch in",
         "zh": "出一份力",
         "ex": "When everyone pitches in, no one is left with all the work.",
         "own": true
+       },
+       {
+        "w": "interact with sb",
+        "zh": "與某人互動",
+        "ex": "Doing chores together gives me more chances to interact with my family.",
+        "src": "104年學測 Q14"
        }
       ]
      },
