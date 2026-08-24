@@ -563,7 +563,6 @@
    "images": [],
    "wordBank": {
     "updated": "2026-08-24",
-    "note": "以下為本題第二段敘事會用到的補充，僅屬本題。",
     "groups": [
      {
       "name": "第二段敘事會用到",
@@ -602,7 +601,8 @@
          "set a good example"
         ]
        }
-      ]
+      ],
+      "note": "這一組僅屬本題，是第二段敘事會用到的補充。"
      }
     ]
    },
@@ -1736,7 +1736,7 @@
        "zh": "負責",
        "src": "97年指考 Q17",
        "srcUrl": [
-        "https://staresto-create.github.io/zhikao-cloze-test/q/Z97_17/"
+        "https://staresto-create.github.io/zhikao-cloze-test/q/z97-17/"
        ]
       },
       {
@@ -1744,7 +1744,7 @@
        "zh": "承擔責任",
        "src": "110年學測試辦 Q14",
        "srcUrl": [
-        "https://staresto-create.github.io/grammar-cloze-test/q/G110試辦考試_14_1/"
+        "https://staresto-create.github.io/grammar-cloze-test/q/g110trial-14-1/"
        ]
       },
       {
@@ -1752,7 +1752,7 @@
        "zh": "指派某人做某事",
        "src": "113年學測 Q12",
        "srcUrl": [
-        "https://staresto-create.github.io/grammar-cloze-test/q/G113_12_1/"
+        "https://staresto-create.github.io/grammar-cloze-test/q/g113-12-1/"
        ]
       },
       {
@@ -1799,7 +1799,7 @@
        "zh": "本分、該盡的一份",
        "src": "99年學測 Q38",
        "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy99_38"
+        "https://staresto-create.github.io/passage-completion/#hard-Vy99_38"
        ]
       },
       {
@@ -1807,7 +1807,7 @@
        "zh": "公平的一份",
        "src": "99年學測 Q38",
        "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy99_38"
+        "https://staresto-create.github.io/passage-completion/#hard-Vy99_38"
        ]
       },
       {
@@ -1815,7 +1815,7 @@
        "zh": "與某人分擔",
        "src": "97年學測 Q21",
        "srcUrl": [
-        "https://staresto-create.github.io/grammar-cloze-test/q/G97_21_2/"
+        "https://staresto-create.github.io/grammar-cloze-test/q/g97-21-2/"
        ]
       },
       {
@@ -1872,7 +1872,7 @@
        "zh": "合作",
        "src": "98年學測 Q37",
        "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy98_37"
+        "https://staresto-create.github.io/passage-completion/#hard-Vy98_37"
        ]
       },
       {
@@ -1880,7 +1880,7 @@
        "zh": "合作",
        "src": "99年學測 Q34",
        "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy99_34"
+        "https://staresto-create.github.io/passage-completion/#hard-Vy99_34"
        ]
       },
       {
@@ -1888,7 +1888,7 @@
        "zh": "對…有貢獻",
        "src": "88年學測 Q28",
        "srcUrl": [
-        "https://staresto-create.github.io/grammar-cloze-test/q/G88_28_2/"
+        "https://staresto-create.github.io/grammar-cloze-test/q/g88-28-2/"
        ]
       },
       {
@@ -1901,7 +1901,7 @@
        "zh": "參與",
        "src": "83年學測 Q26",
        "srcUrl": [
-        "https://staresto-create.github.io/grammar-cloze-test/q/G83_26_2/"
+        "https://staresto-create.github.io/grammar-cloze-test/q/g83-26-2/"
        ]
       },
       {
