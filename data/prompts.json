@@ -563,228 +563,44 @@
    "images": [],
    "wordBank": {
     "updated": "2026-08-24",
-    "note": "取自本站題庫歷屆真題，缺口由本站補足；例句為本站自撰。",
+    "note": "以下為本題第二段敘事會用到的補充，僅屬本題。",
     "groups": [
-     {
-      "name": "家事怎麼說",
-      "entries": [
-       {
-        "w": "chore / chores",
-        "zh": "雜務、家事",
-        "ex": "Doing chores is not a favor to my parents; it is my part of the work.",
-        "src": "99年學測 Q10"
-       },
-       {
-        "w": "household",
-        "zh": "家庭的、一家人的",
-        "ex": "Every household member should take on some of the work.",
-        "src": "99年學測 Q10"
-       },
-       {
-        "w": "domestic",
-        "zh": "家庭的、家務的",
-        "ex": "Domestic work is real work, even though no one pays for it.",
-        "src": "101年學測 Q9"
-       },
-       {
-        "w": "do the laundry / fold the clothes",
-        "zh": "洗衣／摺衣服",
-        "ex": "I do the laundry on Saturday morning and fold the clothes before dinner.",
-        "own": true
-       },
-       {
-        "w": "wash the dishes / do the dishes",
-        "zh": "洗碗",
-        "ex": "My sister cooks, and I wash the dishes.",
-        "own": true
-       },
-       {
-        "w": "take out the trash",
-        "zh": "倒垃圾",
-        "ex": "Taking out the trash takes five minutes, but no one wants to do it.",
-        "own": true
-       },
-       {
-        "w": "sweep / mop the floor",
-        "zh": "掃地／拖地",
-        "ex": "We sweep the floor every day and mop it once a week.",
-        "own": true
-       },
-       {
-        "w": "make the bed",
-        "zh": "鋪床",
-        "ex": "My mother believes that a child who makes the bed learns to take care of himself.",
-        "own": true
-       },
-       {
-        "w": "set / clear the table",
-        "zh": "擺碗筷／收桌子",
-        "ex": "My little brother sets the table, and I clear it afterward.",
-        "own": true
-       },
-       {
-        "w": "water the plants",
-        "zh": "澆花",
-        "ex": "Watering the plants is the only chore I have never complained about.",
-        "own": true
-       },
-       {
-        "w": "tidy up / clean up",
-        "zh": "整理／收拾",
-        "ex": "It takes the four of us only twenty minutes to tidy up the whole house.",
-        "own": true
-       }
-      ]
-     },
-     {
-      "name": "分工與責任",
-      "entries": [
-       {
-        "w": "division of labor",
-        "zh": "分工",
-        "ex": "A clear division of labor keeps the house running.",
-        "own": true
-       },
-       {
-        "w": "divide A among B",
-        "zh": "把 A 分配給 B",
-        "ex": "We divide the chores among the four of us every Sunday.",
-        "own": true
-       },
-       {
-        "w": "be responsible for",
-        "zh": "負責",
-        "ex": "I am responsible for taking out the trash and washing the dishes.",
-        "src": "97年指考 Q17"
-       },
-       {
-        "w": "take responsibility (for)",
-        "zh": "承擔責任",
-        "ex": "Taking responsibility for a small task is how you learn to run a home.",
-        "src": "110年學測試辦 Q14"
-       },
-       {
-        "w": "assign sb to sth",
-        "zh": "指派某人做某事",
-        "ex": "My mother assigns each of us to a different task.",
-        "src": "113年學測 Q12"
-       },
-       {
-        "w": "be in charge of",
-        "zh": "負責掌管",
-        "ex": "My father is in charge of the kitchen on weekends.",
-        "own": true
-       }
-      ]
-     },
-     {
-      "name": "公平與分擔",
-      "entries": [
-       {
-        "w": "share (n.)",
-        "zh": "本分、該盡的一份",
-        "ex": "Everyone should do his or her share.",
-        "src": "99年學測 Q38"
-       },
-       {
-        "w": "a fair share",
-        "zh": "公平的一份",
-        "ex": "A fair share does not mean an equal share.",
-        "src": "99年學測 Q38"
-       },
-       {
-        "w": "share sth with sb",
-        "zh": "與某人分擔",
-        "ex": "I share the housework with my sister.",
-        "src": "97年學測 Q21"
-       },
-       {
-        "w": "equally",
-        "zh": "平均地、平等地",
-        "ex": "The work should be divided equally, not by gender.",
-        "src": "97年學測 Q13、98年指考參考試卷 Q1"
-       },
-       {
-        "w": "gender roles",
-        "zh": "性別角色",
-        "ex": "Gender roles at home change once both parents work.",
-        "own": true
-       },
-       {
-        "w": "take sth for granted",
-        "zh": "把…視為理所當然",
-        "ex": "For years I took my mother's work at home for granted.",
-        "own": true
-       }
-      ]
-     },
-     {
-      "name": "合作與貢獻",
-      "entries": [
-       {
-        "w": "cooperate (with)",
-        "zh": "合作",
-        "ex": "When we cooperate, the whole job takes half the time.",
-        "src": "98年學測 Q37"
-       },
-       {
-        "w": "cooperation",
-        "zh": "合作",
-        "ex": "Only through the cooperation of every member can a home stay in order.",
-        "src": "99年學測 Q34"
-       },
-       {
-        "w": "contribute to",
-        "zh": "對…有貢獻",
-        "ex": "Even a ten-year-old can contribute to the family.",
-        "src": "88年學測 Q28"
-       },
-       {
-        "w": "make a contribution to",
-        "zh": "做出貢獻",
-        "ex": "Cooking one meal a week is a small but real contribution.",
-        "own": true
-       },
-       {
-        "w": "participate in",
-        "zh": "參與",
-        "ex": "Children who participate in housework grow up more independent.",
-        "src": "83年學測 Q26"
-       },
-       {
-        "w": "pitch in",
-        "zh": "出一份力",
-        "ex": "When everyone pitches in, no one is left with all the work.",
-        "own": true
-       },
-       {
-        "w": "interact with sb",
-        "zh": "與某人互動",
-        "ex": "Doing chores together gives me more chances to interact with my family.",
-        "src": "104年學測 Q14"
-       }
-      ]
-     },
      {
       "name": "第二段敘事會用到",
       "entries": [
        {
         "w": "take turns (V-ing)",
         "zh": "輪流",
-        "ex": "My brother and I take turns doing the dishes.",
         "own": true
        },
        {
         "w": "at first… later on…",
         "zh": "起初…後來…",
-        "ex": "At first I saw it as a burden; later on I came to see it differently.",
         "own": true
        },
        {
         "w": "set a good example",
         "zh": "樹立榜樣",
-        "ex": "My father sets a good example by never leaving his dishes in the sink.",
         "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "我跟我哥輪流洗碗。剛開始覺得很煩，後來反而有點期待那十分鐘。",
+        "en": "My brother and I take turns doing the dishes. At first it felt like a chore; later on I even looked forward to those ten minutes.",
+        "hint": "take turns 後面直接接 V-ing。",
+        "covers": [
+         "take turns (V-ing)",
+         "at first… later on…"
+        ]
+       },
+       {
+        "zh": "我爸吃完飯從來不會把碗丟在水槽裡不管。他什麼都沒說，可是我們都看在眼裡。",
+        "en": "My father never leaves his dishes in the sink after a meal. Without saying a word, he has been setting a good example for all of us.",
+        "hint": "「什麼都沒說」用 without ＋ V-ing。",
+        "covers": [
+         "set a good example"
+        ]
        }
       ]
      }
@@ -1791,5 +1607,346 @@
    "images": [],
    "source": "大學入學考試中心 83 學年度學科能力測驗英文考科"
   }
- ]
+ ],
+ "themeWordBanks": {
+  "家庭與生活．家事分工": {
+   "updated": "2026-08-24",
+   "theme": "家庭與生活",
+   "appliesTo": [
+    "E105_GSAT"
+   ],
+   "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本主題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+   "groups": [
+    {
+     "name": "家事怎麼說",
+     "entries": [
+      {
+       "w": "chore / chores",
+       "zh": "雜務、家事",
+       "src": "99年學測 Q10"
+      },
+      {
+       "w": "household",
+       "zh": "家庭的、一家人的",
+       "src": "99年學測 Q10"
+      },
+      {
+       "w": "domestic",
+       "zh": "家庭的、家務的",
+       "src": "101年學測 Q9"
+      },
+      {
+       "w": "do the laundry / fold the clothes",
+       "zh": "洗衣／摺衣服",
+       "own": true
+      },
+      {
+       "w": "wash the dishes / do the dishes",
+       "zh": "洗碗",
+       "own": true
+      },
+      {
+       "w": "take out the trash",
+       "zh": "倒垃圾",
+       "own": true
+      },
+      {
+       "w": "sweep / mop the floor",
+       "zh": "掃地／拖地",
+       "own": true
+      },
+      {
+       "w": "make the bed",
+       "zh": "鋪床",
+       "own": true
+      },
+      {
+       "w": "set / clear the table",
+       "zh": "擺碗筷／收桌子",
+       "own": true
+      },
+      {
+       "w": "water the plants",
+       "zh": "澆花",
+       "own": true
+      },
+      {
+       "w": "tidy up / clean up",
+       "zh": "整理／收拾",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "做家事又不是在幫誰的忙。住在同一個屋簷下，每個人本來就有自己該做的一份。",
+       "en": "Doing chores is not a favor to anyone; under the same roof, every household member has his own share of domestic work.",
+       "hint": "「幫某人的忙」有現成說法 a favor to sb；「該做的一份」就是 share。",
+       "covers": [
+        "chore / chores",
+        "household",
+        "domestic"
+       ]
+      },
+      {
+       "zh": "吃飯前我弟擺碗筷，吃完我洗碗收桌子，垃圾是我哥拿去倒。",
+       "en": "Before dinner my little brother sets the table; afterward I do the dishes and clear the table, while my older brother takes out the trash.",
+       "hint": "三件事接連發生，用分號串起來比一路 and 下去乾淨。",
+       "covers": [
+        "set / clear the table",
+        "wash the dishes / do the dishes",
+        "take out the trash"
+       ]
+      },
+      {
+       "zh": "禮拜六早上我先把衣服洗一洗，趁中午前把地掃過拖過，衣服乾了再摺。",
+       "en": "On Saturday mornings I do the laundry, sweep and mop the floor before noon, and fold the clothes after they dry.",
+       "hint": "中文習慣用動詞，英文常換成名詞，句子會更精簡準確（名詞化 nominalization）。「趁中午前」不必寫成 before it gets late 這種子句，before noon 就夠了。",
+       "covers": [
+        "do the laundry / fold the clothes",
+        "sweep / mop the floor"
+       ]
+      },
+      {
+       "zh": "我媽常說，會自己鋪床的小孩才學得會照顧自己。所以我也澆花，房間亂了就自己收一收。",
+       "en": "My mother often says that a child who makes the bed learns to take care of himself, so I also water the plants and tidy up my room whenever it gets messy.",
+       "hint": "「會自己鋪床的小孩」要用關係子句 a child who…。",
+       "covers": [
+        "make the bed",
+        "water the plants",
+        "tidy up / clean up"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "分工與責任",
+     "entries": [
+      {
+       "w": "division of labor",
+       "zh": "分工",
+       "own": true
+      },
+      {
+       "w": "divide A among B",
+       "zh": "把 A 分配給 B",
+       "own": true
+      },
+      {
+       "w": "be responsible for",
+       "zh": "負責",
+       "src": "97年指考 Q17",
+       "srcUrl": [
+        "https://staresto-create.github.io/zhikao-cloze-test/q/Z97_17/"
+       ]
+      },
+      {
+       "w": "take responsibility (for)",
+       "zh": "承擔責任",
+       "src": "110年學測試辦 Q14",
+       "srcUrl": [
+        "https://staresto-create.github.io/grammar-cloze-test/q/G110試辦考試_14_1/"
+       ]
+      },
+      {
+       "w": "assign sb to sth",
+       "zh": "指派某人做某事",
+       "src": "113年學測 Q12",
+       "srcUrl": [
+        "https://staresto-create.github.io/grammar-cloze-test/q/G113_12_1/"
+       ]
+      },
+      {
+       "w": "be in charge of",
+       "zh": "負責掌管",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "家事又不是我媽一個人的事，大家都住在這裡，本來就該分一分。",
+       "en": "The housework is not my mother's alone; since we all live under the same roof, a clear division of labor means each of us is responsible for something.",
+       "hint": "「大家都住在這裡」可用 under the same roof。",
+       "covers": [
+        "division of labor",
+        "be responsible for"
+       ]
+      },
+      {
+       "zh": "我媽每個禮拜天會排家事，誰做哪一項都講好，沒人能裝沒看到。",
+       "en": "Every Sunday my mother divides the chores among the four of us and assigns each of us to a task, so no one can pretend not to notice.",
+       "hint": "「裝沒看到」＝假裝沒有注意到，用 pretend not to V。",
+       "covers": [
+        "divide A among B",
+        "assign sb to sth"
+       ]
+      },
+      {
+       "zh": "廚房歸我爸管。我後來才發現，肯扛事情的人才是真的長大。",
+       "en": "My father is in charge of the kitchen. Only later did I realize that taking responsibility for something is what makes a person grow up.",
+       "hint": "「我後來才發現」可用 Only later 起頭，後面的主要子句要改成疑問句語序（倒裝在主要子句，不在 Only 帶的片語裡）。",
+       "covers": [
+        "be in charge of",
+        "take responsibility (for)"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "公平與分擔",
+     "entries": [
+      {
+       "w": "share (n.)",
+       "zh": "本分、該盡的一份",
+       "src": "99年學測 Q38",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy99_38"
+       ]
+      },
+      {
+       "w": "a fair share",
+       "zh": "公平的一份",
+       "src": "99年學測 Q38",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy99_38"
+       ]
+      },
+      {
+       "w": "share sth with sb",
+       "zh": "與某人分擔",
+       "src": "97年學測 Q21",
+       "srcUrl": [
+        "https://staresto-create.github.io/grammar-cloze-test/q/G97_21_2/"
+       ]
+      },
+      {
+       "w": "equally",
+       "zh": "平均地、平等地",
+       "src": "97年學測 Q13、98年指考參考試卷 Q1"
+      },
+      {
+       "w": "gender roles",
+       "zh": "性別角色",
+       "own": true
+      },
+      {
+       "w": "take sth for granted",
+       "zh": "把…視為理所當然",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "我覺得公平不是每個人做的量一模一樣，而是每個人都有做到自己該做的那份。",
+       "en": "To me, a fair share does not mean that the work is divided equally; it means that everyone does his or her share.",
+       "hint": "「不是…而是…」用 does not mean that… ; it means that…。",
+       "covers": [
+        "a fair share",
+        "equally",
+        "share (n.)"
+       ]
+      },
+      {
+       "zh": "我媽以前一個人包辦所有家事，現在我爸也會下廚，家裡的分工其實一直在變。",
+       "en": "My mother used to do everything at home; now my father cooks too. Gender roles change once both parents work, and they share the housework with each other.",
+       "hint": "「一直在變」用現在式就好，不必用進行式。",
+       "covers": [
+        "gender roles",
+        "share sth with sb"
+       ]
+      },
+      {
+       "zh": "以前我從來沒想過那些事是誰做的，好像我一回家東西就自己變乾淨了。",
+       "en": "For years I took my mother's work at home for granted, as if the house cleaned itself the moment I walked in.",
+       "hint": "「好像東西自己變乾淨」＝好像房子自己會打掃，再用 as if ＋ 子句。",
+       "covers": [
+        "take sth for granted"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "合作與貢獻",
+     "entries": [
+      {
+       "w": "cooperate (with)",
+       "zh": "合作",
+       "src": "98年學測 Q37",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy98_37"
+       ]
+      },
+      {
+       "w": "cooperation",
+       "zh": "合作",
+       "src": "99年學測 Q34",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/gsat/#hard-Vy99_34"
+       ]
+      },
+      {
+       "w": "contribute to",
+       "zh": "對…有貢獻",
+       "src": "88年學測 Q28",
+       "srcUrl": [
+        "https://staresto-create.github.io/grammar-cloze-test/q/G88_28_2/"
+       ]
+      },
+      {
+       "w": "make a contribution to",
+       "zh": "做出貢獻",
+       "own": true
+      },
+      {
+       "w": "participate in",
+       "zh": "參與",
+       "src": "83年學測 Q26",
+       "srcUrl": [
+        "https://staresto-create.github.io/grammar-cloze-test/q/G83_26_2/"
+       ]
+      },
+      {
+       "w": "pitch in",
+       "zh": "出一份力",
+       "own": true
+      },
+      {
+       "w": "interact with sb",
+       "zh": "與某人互動",
+       "src": "104年學測 Q14"
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "全家一起做，一個下午就弄完了；各做各的大概拖到晚上還收不完。",
+       "en": "When we cooperate, the whole job takes half the time; without the cooperation of every member, a house can never stay in order.",
+       "hint": "「各做各的」＝沒有人合作。先把中文換成這個說法，英文就接得上：without ＋ 名詞（cooperation）。這句同時用到 cooperate 和 cooperation 兩種形式，正是名詞化的例子。",
+       "covers": [
+        "cooperate (with)",
+        "cooperation"
+       ]
+      },
+      {
+       "zh": "我以前覺得自己還小，做不了什麼，後來才發現一個禮拜煮一頓飯，就是實實在在幫了家裡。",
+       "en": "I used to think a student could hardly contribute to the family, but I later found that cooking one meal a week can make a real contribution to the household.",
+       "hint": "「做不了什麼」＝幾乎無法有所貢獻，用 hardly ＋ 動詞。同一個意思，英文有動詞式 contribute to 和名詞式 make a contribution to 兩種說法，這句兩種都用上，正是名詞化（nominalization）。",
+       "covers": [
+        "contribute to",
+        "make a contribution to"
+       ]
+      },
+      {
+       "zh": "一起做家事的時候反而比較有機會跟家人講到話；大家都出一點力，就不會有人做到最後。",
+       "en": "Children who participate in housework have more chances to interact with their families; when everyone pitches in, no one is left doing it all.",
+       "hint": "「不會有人做到最後」＝沒有人被留下來做完剩下的，再用 no one is left ＋ V-ing。",
+       "covers": [
+        "participate in",
+        "interact with sb",
+        "pitch in"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ }
 }

@@ -41,6 +41,22 @@
   .wbOwn{font-size:11px;color:#8A8271;border:1px solid #DED5BF;border-radius:3px;padding:0 4px;margin-left:5px;}
   .wbSrc{display:none;font-size:11.5px;color:#8A8271;}
   .wbBox.showSrc .wbSrc{display:block;}
+  .wbSrc a{color:#6E6553;}
+  .wbPr{margin-top:9px;border-top:1px dotted #E3DCC9;padding-top:9px;}
+  .wbPr>summary{cursor:pointer;font-size:13px;line-height:1.75;color:#3E3A31;list-style:none;padding:5px 0;}
+  .wbPr>summary::-webkit-details-marker{display:none;}
+  .wbPr>summary::before{content:"▸ ";color:#A79C84;}
+  .wbPr[open]>summary::before{content:"▾ ";}
+  .wbBody{padding:6px 0 2px;}
+  .wbTa{width:100%;box-sizing:border-box;font:inherit;font-size:13px;line-height:1.6;min-height:62px;
+        border:1px solid #DED5BF;border-radius:5px;padding:7px 8px;background:#fff;resize:vertical;}
+  .wbRow{display:flex;gap:7px;flex-wrap:wrap;margin-top:7px;}
+  .wbHint{display:none;margin-top:7px;font-size:12.5px;line-height:1.7;color:#6B6455;
+          background:#F4EFE2;border-left:3px solid #D9CFB6;padding:7px 9px;border-radius:0 4px 4px 0;}
+  .wbEn{display:none;margin-top:7px;font-size:13px;line-height:1.7;color:#2F2B24;
+        background:#fff;border:1px solid #E3DCC9;border-radius:5px;padding:8px 9px;}
+  .wbEn b{background:#F2E9D2;font-weight:700;padding:0 1px;}
+  .wbCov{font-size:11.5px;color:#8A8271;margin-top:5px;}
   .mdBox{margin-top:12px;border:1px solid #E3DCC9;border-radius:6px;background:#FDFBF5;padding:12px 13px;}
   .mdBtn{font:inherit;font-size:13px;font-weight:700;padding:4px 12px;border:1px solid #C9BFA6;border-radius:999px;background:#fff;cursor:pointer;}
   .mdBody{display:none;margin-top:11px;}
@@ -330,6 +346,7 @@ footer{border-top:1px solid var(--rule);padding:20px 0 40px;font-size:13px;color
 <script>
 const S={years:[],genres:[],themes:[],pic:false,official:false};
 let DATA=[];
+let THEMEBANKS={};   // 主題級共用字庫，掛在 prompts.json 頂層，非 items 之成員
 
 const $=s=>document.querySelector(s);
 const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
@@ -422,7 +439,23 @@ function card(it){
 
   if(it.reuseNote)d.appendChild(el('p','reuse',it.reuseNote));
 
-  if(it.wordBank && it.wordBank.groups && it.wordBank.groups.length){
+  // 字庫：主題級與題目級用完全相同的 groups 結構，只是掛載點不同，
+  // 渲染前先合併成一個陣列再交給同一支渲染函式（資料形狀一種、渲染函式一支）。
+  (function(){
+    const banks=[];
+    // 主題級字庫自己宣告適用題號；theme 欄只是題材大類，顆粒度太粗不能當授權。
+    // appliesTo 缺漏或不含本題即不顯示——寧可不出現，也不要出現用不上的字庫。
+    Object.keys(THEMEBANKS).forEach(k=>{
+      const tb=THEMEBANKS[k];
+      if(!tb||!tb.groups||!tb.groups.length)return;
+      if(!Array.isArray(tb.appliesTo)||tb.appliesTo.indexOf(it.id)<0)return;
+      banks.push(tb);
+    });
+    if(it.wordBank&&it.wordBank.groups&&it.wordBank.groups.length)banks.push(it.wordBank);
+    if(!banks.length)return;
+    const groups=banks.reduce((a,b)=>a.concat(b.groups),[]);
+    const notes=banks.map(b=>b.note).filter(Boolean);
+
     const b=el('div','wbBox');
     const hd=el('div','wbHd');
     hd.appendChild(el('span','wbTitle','主題字庫'));
@@ -433,25 +466,79 @@ function card(it){
       btn.textContent=on?'隱藏出處':'顯示出處';
     });
     hd.appendChild(btn);b.appendChild(hd);
-    if(it.wordBank.note)b.appendChild(el('p','wbNote',it.wordBank.note));
-    it.wordBank.groups.forEach(g=>{
+    notes.forEach(n=>b.appendChild(el('p','wbNote',n)));
+
+    groups.forEach(g=>{
       const gd=el('div','wbGrp');
       gd.appendChild(el('div','wbGrpName',g.name));
       const ul=document.createElement('ul');ul.className='wbList';
-      g.entries.forEach(e=>{
+      (g.entries||[]).forEach(e=>{
         const li=document.createElement('li');
         li.appendChild(el('span','wbW',e.w));
         li.appendChild(document.createTextNode('　'));
         li.appendChild(el('span','wbZh',e.zh));
         if(e.own)li.appendChild(el('span','wbOwn','本站補充'));
-        if(e.ex)li.appendChild(el('span','wbEx',e.ex));
-        if(e.src)li.appendChild(el('span','wbSrc','出處：'+e.src));
+        if(e.src){
+          const sp=el('span','wbSrc');
+          sp.appendChild(document.createTextNode('出處：'));
+          const parts=String(e.src).split('、');
+          parts.forEach((ps,i)=>{
+            if(i)sp.appendChild(document.createTextNode('、'));
+            const u=e.srcUrl&&e.srcUrl[i];
+            if(u){                                   // 解得出就給連結
+              const a=document.createElement('a');
+              a.href=u;a.target='_blank';a.rel='noopener';a.textContent=ps+' ↗';
+              sp.appendChild(a);
+            }else{                                   // 解不出退回純文字（渲染層負責，不靠人工挑掉）
+              sp.appendChild(document.createTextNode(ps));
+            }
+          });
+          li.appendChild(sp);
+        }
         ul.appendChild(li);
       });
-      gd.appendChild(ul);b.appendChild(gd);
+      gd.appendChild(ul);
+
+      // 練習句：中文 →（想不出來）提示 →（寫完）範文。三層都預設收起，不逼人打字。
+      (g.sentences||[]).forEach(s=>{
+        const dt=document.createElement('details');dt.className='wbPr';
+        const sm=document.createElement('summary');sm.textContent=s.zh;dt.appendChild(sm);
+        const bd=el('div','wbBody');
+        const ta=document.createElement('textarea');
+        ta.className='wbTa';ta.placeholder='請輸入你的英文寫法……（不想寫可以直接看範文）';
+        bd.appendChild(ta);
+        const row=el('div','wbRow');
+        const hintBox=el('div','wbHint',s.hint||'');
+        const enBox=el('div','wbEn');
+        const en=s.en;
+        enBox.appendChild(document.createTextNode(en));
+        if(s.hint){
+          const hb=document.createElement('button');
+          hb.className='wbBtn';hb.type='button';hb.textContent='提示';
+          hb.addEventListener('click',()=>{
+            const on=hintBox.style.display!=='block';
+            hintBox.style.display=on?'block':'none';
+            hb.textContent=on?'收起提示':'提示';
+          });
+          row.appendChild(hb);
+        }
+        const rb=document.createElement('button');
+        rb.className='wbBtn';rb.type='button';rb.textContent='看範文';
+        rb.addEventListener('click',()=>{
+          const on=enBox.style.display!=='block';
+          enBox.style.display=on?'block':'none';
+          rb.textContent=on?'收起範文':'看範文';
+        });
+        row.appendChild(rb);
+        bd.appendChild(row);bd.appendChild(hintBox);bd.appendChild(enBox);
+        if(s.covers&&s.covers.length)
+          bd.appendChild(el('div','wbCov','這句用到：'+s.covers.join('、')));
+        dt.appendChild(bd);gd.appendChild(dt);
+      });
+      b.appendChild(gd);
     });
     d.appendChild(b);
-  }
+  })();
 
   if(it.listening && it.listening.items && it.listening.items.length){
     const b=el('div','lsBox');
@@ -595,6 +682,7 @@ fetch('data/prompts.json')
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
   .then(j=>{
     DATA=j.items;
+    THEMEBANKS=j.themeWordBanks||{};
     $('#cTotal').textContent=DATA.length;
     $('#cPic').textContent=DATA.filter(d=>d.hasImage).length;
     $('#cUnof').textContent=DATA.filter(d=>!d.isOfficial).length;
