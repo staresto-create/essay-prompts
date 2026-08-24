@@ -525,7 +525,28 @@ function card(it){
         const hintBox=el('div','wbHint',s.hint||'');
         const enBox=el('div','wbEn');
         const en=s.en;
-        enBox.appendChild(document.createTextNode(en));
+        // 加粗：bold 欄存的是該句裡要標的字面片段，依序比對後包 <b>。
+        // 標記不寫進 en 欄——資料維持純文字，HTML 只在渲染層產生。
+        // 片段找不到就整句退回純文字，寧可不標，也不要標錯位置。
+        (function(){
+          const segs=Array.isArray(s.bold)?s.bold:[];
+          if(!segs.length){enBox.appendChild(document.createTextNode(en));return;}
+          const parts=[];
+          let pos=0;
+          for(const seg of segs){
+            const i=en.indexOf(seg,pos);
+            if(i<0){parts.length=0;break;}
+            if(i>pos)parts.push([en.slice(pos,i),false]);
+            parts.push([seg,true]);
+            pos=i+seg.length;
+          }
+          if(!parts.length){enBox.appendChild(document.createTextNode(en));return;}
+          if(pos<en.length)parts.push([en.slice(pos),false]);
+          for(const [txt,hit] of parts){
+            if(hit){const b=document.createElement('b');b.textContent=txt;enBox.appendChild(b);}
+            else enBox.appendChild(document.createTextNode(txt));
+          }
+        })();
         if(s.hint){
           const hb=document.createElement('button');
           hb.className='wbBtn';hb.type='button';hb.textContent='提示';
