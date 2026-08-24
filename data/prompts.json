@@ -257,10 +257,98 @@
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
     "updated": "2026-08-24",
+    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
+      "name": "人潮與從眾",
+      "entries": [
+       {
+        "w": "walk right into",
+        "zh": "直接走進去",
+        "own": true
+       },
+       {
+        "w": "popular",
+        "zh": "受歡迎的、熱門的",
+        "src": "100年學測 Q31",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy100_31"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "評價與心態",
+      "entries": [
+       {
+        "w": "behave oneself",
+        "zh": "守規矩、舉止合宜",
+        "src": "99年學測 Q37",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy99_37"
+        ]
+       },
+       {
+        "w": "attitude",
+        "zh": "心態",
+        "own": true
+       },
+       {
+        "w": "courtesy",
+        "zh": "禮貌、為人著想",
+        "src": "96年指考 Q2"
+       }
+      ]
+     },
+     {
+      "name": "規範與場地",
+      "entries": [
+       {
+        "w": "in full bloom",
+        "zh": "開得正盛",
+        "own": true
+       },
+       {
+        "w": "a sign",
+        "zh": "告示牌",
+        "own": true
+       },
+       {
+        "w": "step inside",
+        "zh": "踏進去",
+        "own": true
+       },
+       {
+        "w": "trample",
+        "zh": "踐踏",
+        "own": true
+       },
+       {
+        "w": "wear paths through",
+        "zh": "踩出小徑",
+        "own": true
+       },
+       {
+        "w": "promote",
+        "zh": "推廣、宣傳",
+        "src": "95年學測 Q34、104年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy95_34",
+         null
+        ]
+       },
+       {
+        "w": "obey the rules",
+        "zh": "遵守規定",
+        "src": "97年指考 Q31",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz97_31"
+        ]
+       }
+      ]
+     },
+     {
       "name": "這一題的練習句",
-      "note": "以下練習句是針對本題情境所寫，用到的字都在上面的主題字庫裡。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
       "entries": [],
       "sentences": [
        {
@@ -406,10 +494,86 @@
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
     "updated": "2026-08-24",
+    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
+      "name": "現場動作",
+      "entries": [
+       {
+        "w": "let go",
+        "zh": "放手",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "人潮與從眾",
+      "entries": [
+       {
+        "w": "rush in",
+        "zh": "衝進去",
+        "own": true
+       },
+       {
+        "w": "grab",
+        "zh": "一把抓住",
+        "own": true
+       },
+       {
+        "w": "seize",
+        "zh": "搶下",
+        "own": true
+       },
+       {
+        "w": "influence one's decision",
+        "zh": "影響（他人的選擇）",
+        "src": "96年指考 Q33",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz96_33"
+        ]
+       },
+       {
+        "w": "stretch all the way to",
+        "zh": "一路排到",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "評價與心態",
+      "entries": [
+       {
+        "w": "a moment's hesitation",
+        "zh": "一遲疑",
+        "own": true
+       },
+       {
+        "w": "be willing to V",
+        "zh": "願意",
+        "own": true
+       },
+       {
+        "w": "ashamed",
+        "zh": "感到羞愧的",
+        "src": "98年指考 Q23",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz98_23"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "敘事與轉折骨架",
+      "entries": [
+       {
+        "w": "only after…＋倒裝",
+        "zh": "⋯⋯之後才⋯⋯",
+        "own": true
+       }
+      ]
+     },
+     {
       "name": "這一題的練習句",
-      "note": "以下練習句是針對本題情境所寫，用到的字都在上面的主題字庫裡。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
       "entries": [],
       "sentences": [
        {
@@ -574,10 +738,60 @@
    "source": "大學入學考試中心 107 學年度學科能力測驗英文考科",
    "wordBank": {
     "updated": "2026-08-24",
+    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
+      "name": "人潮與從眾",
+      "entries": [
+       {
+        "w": "form a long line",
+        "zh": "大排長龍",
+        "own": true
+       },
+       {
+        "w": "pass by",
+        "zh": "路過",
+        "own": true
+       },
+       {
+        "w": "join the line",
+        "zh": "跟著排",
+        "own": true
+       },
+       {
+        "w": "impatient",
+        "zh": "不耐煩的",
+        "src": "86年聯考 Q3"
+       },
+       {
+        "w": "miss out on",
+        "zh": "錯過別人有的",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "評價與心態",
+      "entries": [
+       {
+        "w": "be worth the wait",
+        "zh": "值得等",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "敘事與轉折骨架",
+      "entries": [
+       {
+        "w": "the 比較級, the 比較級",
+        "zh": "愈⋯⋯愈⋯⋯",
+        "own": true
+       }
+      ]
+     },
+     {
       "name": "這一題的練習句",
-      "note": "以下練習句是針對本題情境所寫，用到的字都在上面的主題字庫裡。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
       "entries": [],
       "sentences": [
        {
@@ -999,10 +1213,126 @@
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
     "updated": "2026-08-24",
+    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
+      "name": "現場動作",
+      "entries": [
+       {
+        "w": "get on",
+        "zh": "上車",
+        "own": true
+       },
+       {
+        "w": "stare at",
+        "zh": "盯著看",
+        "own": true
+       },
+       {
+        "w": "pretend not to V",
+        "zh": "假裝不",
+        "own": true
+       },
+       {
+        "w": "notice",
+        "zh": "注意到",
+        "src": "97年學測 Q1"
+       },
+       {
+        "w": "stand up",
+        "zh": "站起來",
+        "own": true
+       },
+       {
+        "w": "offer sb one's seat",
+        "zh": "讓座給某人",
+        "own": true
+       },
+       {
+        "w": "look up from",
+        "zh": "從⋯⋯抬起頭",
+        "own": true
+       },
+       {
+        "w": "ignore",
+        "zh": "忽視、不理會",
+        "src": "94年學測 Q2"
+       },
+       {
+        "w": "give up one's seat",
+        "zh": "讓座",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "評價與心態",
+      "entries": [
+       {
+        "w": "considerate",
+        "zh": "體貼的、替人著想的",
+        "src": "103年指考 Q1"
+       },
+       {
+        "w": "aware",
+        "zh": "注意到周遭的",
+        "src": "106年學測 Q14"
+       },
+       {
+        "w": "stay aware of those around one",
+        "zh": "留意身邊的人",
+        "own": true
+       },
+       {
+        "w": "without being asked",
+        "zh": "不必別人開口",
+        "own": true
+       },
+       {
+        "w": "do one's share",
+        "zh": "盡自己的本分",
+        "src": "99年學測 Q38",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy99_38"
+        ]
+       },
+       {
+        "w": "show respect for",
+        "zh": "尊重、對⋯⋯表示敬意",
+        "src": "103年學測 Q31",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy103_31"
+        ]
+       },
+       {
+        "w": "be willing to V",
+        "zh": "願意",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "規範與場地",
+      "entries": [
+       {
+        "w": "priority seat",
+        "zh": "博愛座",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "敘事與轉折骨架",
+      "entries": [
+       {
+        "w": "not until…＋倒裝",
+        "zh": "一直到⋯⋯才⋯⋯",
+        "own": true
+       }
+      ]
+     },
+     {
       "name": "這一題的練習句",
-      "note": "以下練習句是針對本題情境所寫，用到的字都在上面的主題字庫裡。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
       "entries": [],
       "sentences": [
        {
@@ -1223,10 +1553,63 @@
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
     "updated": "2026-08-24",
+    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
+      "name": "現場動作",
+      "entries": [
+       {
+        "w": "notice",
+        "zh": "注意到",
+        "src": "97年學測 Q1"
+       },
+       {
+        "w": "pick sth up",
+        "zh": "撿起來",
+        "own": true
+       },
+       {
+        "w": "hand sth to sb",
+        "zh": "把⋯⋯交給某人",
+        "own": true
+       },
+       {
+        "w": "shake one's head",
+        "zh": "搖頭",
+        "own": true
+       },
+       {
+        "w": "turn sth down",
+        "zh": "婉拒",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "評價與心態",
+      "entries": [
+       {
+        "w": "reward",
+        "zh": "報酬、回報",
+        "src": "96年學測 Q38",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy96_38"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "敘事與轉折骨架",
+      "entries": [
+       {
+        "w": "It is not that…; …simply…",
+        "zh": "不是⋯⋯，只是⋯⋯",
+        "own": true
+       }
+      ]
+     },
+     {
       "name": "這一題的練習句",
-      "note": "以下練習句是針對本題情境所寫，用到的字都在上面的主題字庫裡。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
       "entries": [],
       "sentences": [
        {
@@ -2261,333 +2644,6 @@
         "interact with sb",
         "pitch in"
        ]
-      }
-     ]
-    }
-   ]
-  },
-  "公共場合．行為與公德": {
-   "updated": "2026-08-24",
-   "theme": "公共場合",
-   "appliesTo": [
-    "E99_GSAT",
-    "E102_GSAT",
-    "E107_GSAT",
-    "E109_GSAT",
-    "E110_GSAT"
-   ],
-   "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本主題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
-   "groups": [
-    {
-     "name": "現場動作",
-     "entries": [
-      {
-       "w": "notice",
-       "zh": "注意到",
-       "src": "97年學測 Q1"
-      },
-      {
-       "w": "ignore",
-       "zh": "忽視、不理會",
-       "src": "94年學測 Q2"
-      },
-      {
-       "w": "get on",
-       "zh": "上車",
-       "own": true
-      },
-      {
-       "w": "stare at",
-       "zh": "盯著看",
-       "own": true
-      },
-      {
-       "w": "pretend not to V",
-       "zh": "假裝不",
-       "own": true
-      },
-      {
-       "w": "stand up",
-       "zh": "站起來",
-       "own": true
-      },
-      {
-       "w": "offer sb one's seat",
-       "zh": "讓座給某人",
-       "own": true
-      },
-      {
-       "w": "give up one's seat",
-       "zh": "讓座",
-       "own": true
-      },
-      {
-       "w": "look up from",
-       "zh": "從⋯⋯抬起頭",
-       "own": true
-      },
-      {
-       "w": "pick sth up",
-       "zh": "撿起來",
-       "own": true
-      },
-      {
-       "w": "hand sth to sb",
-       "zh": "把⋯⋯交給某人",
-       "own": true
-      },
-      {
-       "w": "shake one's head",
-       "zh": "搖頭",
-       "own": true
-      },
-      {
-       "w": "turn sth down",
-       "zh": "婉拒",
-       "own": true
-      },
-      {
-       "w": "let go",
-       "zh": "放手",
-       "own": true
-      }
-     ]
-    },
-    {
-     "name": "人潮與從眾",
-     "entries": [
-      {
-       "w": "impatient",
-       "zh": "不耐煩的",
-       "src": "86年聯考 Q3"
-      },
-      {
-       "w": "influence one's decision",
-       "zh": "影響（他人的選擇）",
-       "src": "96年指考 Q33",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vz96_33"
-       ]
-      },
-      {
-       "w": "popular",
-       "zh": "受歡迎的、熱門的",
-       "src": "100年學測 Q31",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vy100_31"
-       ]
-      },
-      {
-       "w": "form a long line",
-       "zh": "大排長龍",
-       "own": true
-      },
-      {
-       "w": "join the line",
-       "zh": "跟著排",
-       "own": true
-      },
-      {
-       "w": "pass by",
-       "zh": "路過",
-       "own": true
-      },
-      {
-       "w": "rush in",
-       "zh": "衝進去",
-       "own": true
-      },
-      {
-       "w": "grab",
-       "zh": "一把抓住",
-       "own": true
-      },
-      {
-       "w": "seize",
-       "zh": "搶下",
-       "own": true
-      },
-      {
-       "w": "stretch all the way to",
-       "zh": "一路排到",
-       "own": true
-      },
-      {
-       "w": "miss out on",
-       "zh": "錯過別人有的",
-       "own": true
-      },
-      {
-       "w": "walk right into",
-       "zh": "直接走進去",
-       "own": true
-      }
-     ]
-    },
-    {
-     "name": "評價與心態",
-     "entries": [
-      {
-       "w": "considerate",
-       "zh": "體貼的、替人著想的",
-       "src": "103年指考 Q1"
-      },
-      {
-       "w": "aware",
-       "zh": "注意到周遭的",
-       "src": "106年學測 Q14"
-      },
-      {
-       "w": "show respect for",
-       "zh": "尊重、對⋯⋯表示敬意",
-       "src": "103年學測 Q31",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vy103_31"
-       ]
-      },
-      {
-       "w": "ashamed",
-       "zh": "感到羞愧的",
-       "src": "98年指考 Q23",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vz98_23"
-       ]
-      },
-      {
-       "w": "reward",
-       "zh": "報酬、回報",
-       "src": "96年學測 Q38",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vy96_38"
-       ]
-      },
-      {
-       "w": "behave oneself",
-       "zh": "守規矩、舉止合宜",
-       "src": "99年學測 Q37",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vy99_37"
-       ]
-      },
-      {
-       "w": "courtesy",
-       "zh": "禮貌、為人著想",
-       "src": "96年指考 Q2"
-      },
-      {
-       "w": "do one's share",
-       "zh": "盡自己的本分",
-       "src": "99年學測 Q38",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vy99_38"
-       ]
-      },
-      {
-       "w": "stay aware of those around one",
-       "zh": "留意身邊的人",
-       "own": true
-      },
-      {
-       "w": "without being asked",
-       "zh": "不必別人開口",
-       "own": true
-      },
-      {
-       "w": "a moment's hesitation",
-       "zh": "一遲疑",
-       "own": true
-      },
-      {
-       "w": "be willing to V",
-       "zh": "願意",
-       "own": true
-      },
-      {
-       "w": "attitude",
-       "zh": "心態",
-       "own": true
-      },
-      {
-       "w": "be worth the wait",
-       "zh": "值得等",
-       "own": true
-      }
-     ]
-    },
-    {
-     "name": "規範與場地",
-     "entries": [
-      {
-       "w": "promote",
-       "zh": "推廣、宣傳",
-       "src": "95年學測 Q34、104年學測 Q11",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vy95_34",
-        null
-       ]
-      },
-      {
-       "w": "obey the rules",
-       "zh": "遵守規定",
-       "src": "97年指考 Q31",
-       "srcUrl": [
-        "https://staresto-create.github.io/passage-completion/#hard-Vz97_31"
-       ]
-      },
-      {
-       "w": "priority seat",
-       "zh": "博愛座",
-       "own": true
-      },
-      {
-       "w": "a sign",
-       "zh": "告示牌",
-       "own": true
-      },
-      {
-       "w": "step inside",
-       "zh": "踏進去",
-       "own": true
-      },
-      {
-       "w": "trample",
-       "zh": "踐踏",
-       "own": true
-      },
-      {
-       "w": "in full bloom",
-       "zh": "開得正盛",
-       "own": true
-      },
-      {
-       "w": "wear paths through",
-       "zh": "踩出小徑",
-       "own": true
-      }
-     ]
-    },
-    {
-     "name": "敘事與轉折骨架",
-     "entries": [
-      {
-       "w": "It is not that…; …simply…",
-       "zh": "不是⋯⋯，只是⋯⋯",
-       "own": true
-      },
-      {
-       "w": "not until…＋倒裝",
-       "zh": "一直到⋯⋯才⋯⋯",
-       "own": true
-      },
-      {
-       "w": "only after…＋倒裝",
-       "zh": "⋯⋯之後才⋯⋯",
-       "own": true
-      },
-      {
-       "w": "the 比較級, the 比較級",
-       "zh": "愈⋯⋯愈⋯⋯",
-       "own": true
       }
      ]
     }
