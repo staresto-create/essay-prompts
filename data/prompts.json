@@ -357,6 +357,10 @@
         "covers": [
          "in full bloom",
          "walk right into"
+        ],
+        "bold": [
+         "in full bloom",
+         "walked right into"
         ]
        },
        {
@@ -367,6 +371,11 @@
          "a sign",
          "step inside",
          "trample"
+        ],
+        "bold": [
+         "A sign",
+         "step inside",
+         "trample"
         ]
        },
        {
@@ -375,12 +384,19 @@
         "hint": "「踩出一條路」的動詞是 wear（磨出、踩出），不是 step out，後面接 through。",
         "covers": [
          "wear paths through"
+        ],
+        "bold": [
+         "worn narrow paths"
         ]
        },
        {
         "zh": "農場主人在網路上推廣花季，本來只是想跟大家分享，沒想到一紅起來會變成這樣。",
         "en": "The owner promoted the flower season online simply to share the view, never expecting that once the farm became popular, it would be treated like this.",
         "covers": [
+         "promote",
+         "popular"
+        ],
+        "bold": [
          "promote",
          "popular"
         ]
@@ -391,6 +407,9 @@
         "hint": "「沒人會管」的「管」是「阻止」，用 no one will stop them，不是 no one cares。「不好好守規矩」用 behave oneself，反身代名詞不能省。",
         "covers": [
          "behave oneself"
+        ],
+        "bold": [
+         "behave themselves"
         ]
        },
        {
@@ -399,6 +418,9 @@
         "hint": "「…這種心態」後面接同位語 that 子句（the attitude that…），不要用 which。",
         "covers": [
          "attitude"
+        ],
+        "bold": [
+         "attitude"
         ]
        },
        {
@@ -406,6 +428,10 @@
         "en": "We obey the rules not mainly out of fear of being fined, but out of courtesy to those who come after us, so that they can still enjoy the flowers.",
         "hint": "「不是因為 A，而是因為 B」兩邊都用 out of + 名詞才對稱。「怕被罰」用 fear of being fined（介系詞 + 被動動名詞）。",
         "covers": [
+         "obey the rules",
+         "courtesy"
+        ],
+        "bold": [
          "obey the rules",
          "courtesy"
         ]
@@ -581,6 +607,9 @@
         "en": "On the first morning of the anniversary sale, the doors opened and the crowd rushed in all at once.",
         "covers": [
          "rush in"
+        ],
+        "bold": [
+         "rushed in"
         ]
        },
        {
@@ -588,6 +617,10 @@
         "en": "One woman grabbed three handbags at once, afraid that a moment's hesitation would cost her the last one.",
         "hint": "「慢一步」把動詞換成名詞：a moment's hesitation。「就被別人拿走」不必寫成被動，用 cost her the last one（cost 某人某物）更順。",
         "covers": [
+         "grab",
+         "a moment's hesitation"
+        ],
+        "bold": [
          "grab",
          "a moment's hesitation"
         ]
@@ -599,6 +632,11 @@
          "seize",
          "let go",
          "be willing to V"
+        ],
+        "bold": [
+         "seize",
+         "was willing to",
+         "let go"
         ]
        },
        {
@@ -607,6 +645,11 @@
         "hint": "「是…才…」的強調用分裂句 it was… that…，被強調的部分放在中間。",
         "covers": [
          "influence one's decision"
+        ],
+        "bold": [
+         "it was",
+         "that",
+         "influenced their decision"
         ]
        },
        {
@@ -614,6 +657,9 @@
         "en": "The checkout line stretched all the way to the escalator, and by then few could remember what they had come for.",
         "covers": [
          "stretch all the way to"
+        ],
+        "bold": [
+         "stretched all the way to"
         ]
        },
        {
@@ -623,6 +669,12 @@
         "covers": [
          "only after… + 倒裝",
          "ashamed"
+        ],
+        "bold": [
+         "Only after",
+         "do",
+         "begin",
+         "ashamed of"
         ]
        }
       ]
@@ -809,6 +861,10 @@
         "en": "Long before the shop opened its doors, a long line had already formed along the sidewalk outside.",
         "covers": [
          "form a long line"
+        ],
+        "bold": [
+         "a long line had",
+         "formed"
         ]
        },
        {
@@ -818,6 +874,10 @@
         "covers": [
          "pass by",
          "join the line"
+        ],
+        "bold": [
+         "passing by",
+         "joined it themselves"
         ]
        },
        {
@@ -827,6 +887,10 @@
         "covers": [
          "only to V",
          "be no different from"
+        ],
+        "bold": [
+         "only to find",
+         "was no different from"
         ]
        },
        {
@@ -834,6 +898,10 @@
         "en": "The line itself has become a form of advertising: the longer it grows, the more people believe that whatever is at the end must be worth the wait.",
         "covers": [
          "the 比較級, the 比較級",
+         "be worth the wait"
+        ],
+        "bold": [
+         "the longer it grows, the more people believe",
          "be worth the wait"
         ]
        },
@@ -843,6 +911,10 @@
         "covers": [
          "impatient",
          "miss out on"
+        ],
+        "bold": [
+         "impatient",
+         "missing out on"
         ]
        }
       ]
@@ -1000,6 +1072,11 @@
         "covers": [
          "take turns (V-ing)",
          "at first… later on…"
+        ],
+        "bold": [
+         "take turns doing the dishes",
+         "At first",
+         "later on"
         ]
        },
        {
@@ -1008,6 +1085,9 @@
         "hint": "「什麼都沒說」用 without + V-ing。",
         "covers": [
          "set a good example"
+        ],
+        "bold": [
+         "setting a good example"
         ]
        }
       ],
@@ -1232,11 +1312,6 @@
       "name": "現場動作",
       "entries": [
        {
-        "w": "get on",
-        "zh": "上車",
-        "own": true
-       },
-       {
         "w": "stare at",
         "zh": "盯著看",
         "own": true
@@ -1250,11 +1325,6 @@
         "w": "notice",
         "zh": "注意到",
         "src": "97年學測 Q1"
-       },
-       {
-        "w": "stand up",
-        "zh": "站起來",
-        "own": true
        },
        {
         "w": "offer sb one's seat",
@@ -1352,19 +1422,25 @@
         "zh": "捷運上一位老先生上了車，博愛座上的年輕人一直低頭滑手機，假裝沒看見。",
         "en": "When an elderly man got on the MRT, the young man in the priority seat kept staring at his phone and pretended not to notice him.",
         "covers": [
-         "get on",
          "priority seat",
          "stare at",
          "pretend not to V",
          "notice"
+        ],
+        "bold": [
+         "priority seat",
+         "staring at",
+         "pretended not to notice"
         ]
        },
        {
         "zh": "旁邊一個高中生什麼都沒說，就站起來把位子讓給他。",
         "en": "Without saying a word, a high school student stood up and offered his seat to the elderly man.",
         "covers": [
-         "stand up",
          "offer sb one's seat"
+        ],
+        "bold": [
+         "offered his seat"
         ]
        },
        {
@@ -1374,6 +1450,11 @@
         "covers": [
          "not until… + 倒裝",
          "look up from"
+        ],
+        "bold": [
+         "Not until",
+         "did",
+         "look up from"
         ]
        },
        {
@@ -1381,6 +1462,9 @@
         "en": "He was not really watching anything on the screen; the phone was simply an excuse to ignore what was happening right in front of him.",
         "hint": "「手機只是一個藉口」的後面直接接不定詞：an excuse to V。「眼前正在發生的事」用 what 名詞子句，不要寫成 the thing which。",
         "covers": [
+         "ignore"
+        ],
+        "bold": [
          "ignore"
         ]
        },
@@ -1390,6 +1474,9 @@
         "hint": "「等某人做某事」是 wait for sb to V，for 和 to 兩個都不能少。",
         "covers": [
          "priority seat"
+        ],
+        "bold": [
+         "Priority seats"
         ]
        },
        {
@@ -1400,6 +1487,11 @@
          "considerate",
          "aware",
          "stay aware of those around one",
+         "without being asked"
+        ],
+        "bold": [
+         "considerate",
+         "stays aware of those around him",
          "without being asked"
         ]
        },
@@ -1412,6 +1504,12 @@
          "do one's share",
          "show respect for",
          "be willing to V"
+        ],
+        "bold": [
+         "give up our seats",
+         "is willing to",
+         "do our share",
+         "show respect for"
         ]
        }
       ]
@@ -1630,6 +1728,9 @@
         "en": "After finishing his noodles, the student noticed that the customer next to him had left a bag on the bench.",
         "covers": [
          "notice"
+        ],
+        "bold": [
+         "notice"
         ]
        },
        {
@@ -1637,6 +1738,9 @@
         "en": "He picked it up, and when the zipper came open, he saw that it was stuffed with thousand-dollar bills.",
         "covers": [
          "pick sth up"
+        ],
+        "bold": [
+         "picked it up"
         ]
        },
        {
@@ -1644,6 +1748,10 @@
         "en": "He froze for a moment, but still handed the bag to the shop owner.",
         "covers": [
          "hand sth to sb"
+        ],
+        "bold": [
+         "handed",
+         "to"
         ]
        },
        {
@@ -1652,6 +1760,10 @@
         "hint": "「失主」英文沒有對應的單字，要用關係子句 the person who…。「大概正在到處找」用 must be V-ing 表示推測。",
         "covers": [
          "It is not that…; …simply…"
+        ],
+        "bold": [
+         "It was not that",
+         "simply"
         ]
        },
        {
@@ -1661,6 +1773,10 @@
         "covers": [
          "shake one's head",
          "turn sth down"
+        ],
+        "bold": [
+         "shook his head",
+         "turned it down"
         ]
        },
        {
@@ -1668,6 +1784,9 @@
         "en": "The real reward was not the red envelope, but discovering how simple it can be to help someone.",
         "hint": "「原來這麼簡單」用 how simple it can be to V。前面 not A but B 兩邊詞性要對稱，A 是名詞，B 就用動名詞 discovering。",
         "covers": [
+         "reward"
+        ],
+        "bold": [
          "reward"
         ]
        }
@@ -2399,6 +2518,11 @@
         "chore / chores",
         "household",
         "domestic"
+       ],
+       "bold": [
+        "Doing chores",
+        "household member",
+        "domestic work"
        ]
       },
       {
@@ -2409,6 +2533,11 @@
         "set / clear the table",
         "wash the dishes / do the dishes",
         "take out the trash"
+       ],
+       "bold": [
+        "sets the table",
+        "do the dishes",
+        "takes out the trash"
        ]
       },
       {
@@ -2418,6 +2547,11 @@
        "covers": [
         "do the laundry / fold the clothes",
         "sweep / mop the floor"
+       ],
+       "bold": [
+        "do the laundry",
+        "sweep and mop the floor",
+        "fold the clothes"
        ]
       },
       {
@@ -2428,6 +2562,11 @@
         "make the bed",
         "water the plants",
         "tidy up / clean up"
+       ],
+       "bold": [
+        "makes the bed",
+        "water the plants",
+        "tidy up"
        ]
       }
      ]
@@ -2483,6 +2622,10 @@
        "covers": [
         "division of labor",
         "be responsible for"
+       ],
+       "bold": [
+        "division of labor",
+        "is responsible for"
        ]
       },
       {
@@ -2492,6 +2635,11 @@
        "covers": [
         "divide A among B",
         "assign sb to sth"
+       ],
+       "bold": [
+        "divides the chores among",
+        "assigns",
+        "to"
        ]
       },
       {
@@ -2501,6 +2649,10 @@
        "covers": [
         "be in charge of",
         "take responsibility (for)"
+       ],
+       "bold": [
+        "is in charge of",
+        "taking responsibility for"
        ]
       }
      ]
@@ -2557,6 +2709,11 @@
         "a fair share",
         "equally",
         "share (n.)"
+       ],
+       "bold": [
+        "a fair share",
+        "equally",
+        "does his or her share"
        ]
       },
       {
@@ -2566,6 +2723,11 @@
        "covers": [
         "gender roles",
         "share sth with sb"
+       ],
+       "bold": [
+        "Gender roles",
+        "share",
+        "with"
        ]
       },
       {
@@ -2574,6 +2736,10 @@
        "hint": "「好像東西自己變乾淨」＝好像房子自己會打掃，再用 as if + 子句。",
        "covers": [
         "take sth for granted"
+       ],
+       "bold": [
+        "took",
+        "for granted"
        ]
       }
      ]
@@ -2637,6 +2803,10 @@
        "covers": [
         "cooperate (with)",
         "cooperation"
+       ],
+       "bold": [
+        "cooperate",
+        "cooperation"
        ]
       },
       {
@@ -2646,6 +2816,10 @@
        "covers": [
         "contribute to",
         "make a contribution to"
+       ],
+       "bold": [
+        "contribute to",
+        "make a real contribution to"
        ]
       },
       {
@@ -2656,6 +2830,11 @@
         "participate in",
         "interact with sb",
         "pitch in"
+       ],
+       "bold": [
+        "participate in",
+        "interact with",
+        "pitches in"
        ]
       }
      ]
