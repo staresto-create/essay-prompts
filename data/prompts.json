@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-08-11",
+ "updated": "2026-08-24",
  "count": 62,
  "items": [
   {
@@ -1942,6 +1942,601 @@
         "participate in",
         "interact with sb",
         "pitch in"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  "公共場合．行為與公德": {
+   "updated": "2026-08-24",
+   "theme": "公共場合",
+   "appliesTo": [
+    "E99_GSAT",
+    "E102_GSAT",
+    "E107_GSAT",
+    "E109_GSAT",
+    "E110_GSAT"
+   ],
+   "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本主題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+   "groups": [
+    {
+     "name": "現場動作",
+     "entries": [
+      {
+       "w": "notice",
+       "zh": "注意到",
+       "src": "97年學測 Q1"
+      },
+      {
+       "w": "ignore",
+       "zh": "忽視、不理會",
+       "src": "94年學測 Q2"
+      },
+      {
+       "w": "get on",
+       "zh": "上車",
+       "own": true
+      },
+      {
+       "w": "stare at",
+       "zh": "盯著看",
+       "own": true
+      },
+      {
+       "w": "pretend not to V",
+       "zh": "假裝不",
+       "own": true
+      },
+      {
+       "w": "stand up",
+       "zh": "站起來",
+       "own": true
+      },
+      {
+       "w": "offer sb one's seat",
+       "zh": "讓座給某人",
+       "own": true
+      },
+      {
+       "w": "give up one's seat",
+       "zh": "讓座",
+       "own": true
+      },
+      {
+       "w": "look up from",
+       "zh": "從⋯⋯抬起頭",
+       "own": true
+      },
+      {
+       "w": "pick sth up",
+       "zh": "撿起來",
+       "own": true
+      },
+      {
+       "w": "hand sth to sb",
+       "zh": "把⋯⋯交給某人",
+       "own": true
+      },
+      {
+       "w": "shake one's head",
+       "zh": "搖頭",
+       "own": true
+      },
+      {
+       "w": "turn sth down",
+       "zh": "婉拒",
+       "own": true
+      },
+      {
+       "w": "let go",
+       "zh": "放手",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "捷運上一位老先生上了車，博愛座上的年輕人一直低頭滑手機，假裝沒看見。",
+       "en": "When an elderly man got on the MRT, the young man in the priority seat kept staring at his phone and pretended not to notice him.",
+       "covers": [
+        "get on",
+        "priority seat",
+        "stare at",
+        "pretend not to V",
+        "notice"
+       ]
+      },
+      {
+       "zh": "旁邊一個高中生什麼都沒說，就站起來把位子讓給他。",
+       "en": "Without saying a word, a high school student stood up and offered his seat to the elderly man.",
+       "covers": [
+        "stand up",
+        "offer sb one's seat"
+       ]
+      },
+      {
+       "zh": "他其實沒在看什麼，手機只是一個藉口，讓他可以不去理會眼前正在發生的事。",
+       "en": "He was not really watching anything on the screen; the phone was simply an excuse to ignore what was happening right in front of him.",
+       "hint": "「手機只是一個藉口」的後面直接接不定詞：an excuse to V。「眼前正在發生的事」用 what 名詞子句，不要寫成 the thing which。",
+       "covers": [
+        "ignore"
+       ]
+      },
+      {
+       "zh": "一個學生在麵店吃完麵，發現隔壁客人走了以後，長凳上留著一個袋子。",
+       "en": "After finishing his noodles, the student noticed that the customer next to him had left a bag on the bench.",
+       "covers": [
+        "notice"
+       ]
+      },
+      {
+       "zh": "他撿起來，拉鍊一鬆開，看見裡面塞滿了千元大鈔。",
+       "en": "He picked it up, and when the zipper came open, he saw that it was stuffed with thousand-dollar bills.",
+       "covers": [
+        "pick sth up"
+       ]
+      },
+      {
+       "zh": "他愣了一下，還是把袋子拿給老闆娘。",
+       "en": "He froze for a moment, but still handed the bag to the shop owner.",
+       "covers": [
+        "hand sth to sb"
+       ]
+      },
+      {
+       "zh": "老闆娘要包個紅包謝他，他搖搖頭說不用。",
+       "en": "The shop owner offered him a red envelope as a thank-you, but he shook his head and turned it down.",
+       "hint": "「說不用」不是 say no need，婉拒用 turn sth down；受詞是代名詞時要夾在中間，寫 turn it down。",
+       "covers": [
+        "shake one's head",
+        "turn sth down"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "人潮與從眾",
+     "entries": [
+      {
+       "w": "impatient",
+       "zh": "不耐煩的",
+       "src": "86年聯考 Q3"
+      },
+      {
+       "w": "influence one's decision",
+       "zh": "影響（他人的選擇）",
+       "src": "96年指考 Q33",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vz96_33"
+       ]
+      },
+      {
+       "w": "popular",
+       "zh": "受歡迎的、熱門的",
+       "src": "100年學測 Q31",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vy100_31"
+       ]
+      },
+      {
+       "w": "form a long line",
+       "zh": "大排長龍",
+       "own": true
+      },
+      {
+       "w": "join the line",
+       "zh": "跟著排",
+       "own": true
+      },
+      {
+       "w": "pass by",
+       "zh": "路過",
+       "own": true
+      },
+      {
+       "w": "rush in",
+       "zh": "衝進去",
+       "own": true
+      },
+      {
+       "w": "grab",
+       "zh": "一把抓住",
+       "own": true
+      },
+      {
+       "w": "seize",
+       "zh": "搶下",
+       "own": true
+      },
+      {
+       "w": "stretch all the way to",
+       "zh": "一路排到",
+       "own": true
+      },
+      {
+       "w": "miss out on",
+       "zh": "錯過別人有的",
+       "own": true
+      },
+      {
+       "w": "walk right into",
+       "zh": "直接走進去",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "店都還沒開門，門口已經排了長長一條隊伍。",
+       "en": "Long before the shop opened its doors, a long line had already formed along the sidewalk outside.",
+       "covers": [
+        "form a long line"
+       ]
+      },
+      {
+       "zh": "路過的人看到有人排隊也跟著排，其實根本不知道在排什麼。",
+       "en": "People passing by saw the line and joined it themselves, though many had no idea what they were waiting for.",
+       "hint": "「不知道在排什麼」是間接問句，what 後面接直述語序（what they were waiting for），不能寫成 what were they waiting for。",
+       "covers": [
+        "pass by",
+        "join the line"
+       ]
+      },
+      {
+       "zh": "有人排了整整兩個鐘頭，拿到手才發現跟別家賣的沒什麼兩樣。",
+       "en": "Some waited for two full hours, only to find that what they got was no different from what other shops offered.",
+       "hint": "「排了兩小時，拿到手才發現…」這種出乎意料的結果用 only to V，不用 but finally。「跟…沒什麼兩樣」用 be no different from。",
+       "covers": []
+      },
+      {
+       "zh": "台灣人不是特別沒耐性，只是特別怕錯過。",
+       "en": "Taiwanese people are not especially impatient; we are simply afraid of missing out on what everyone else seems to have.",
+       "covers": [
+        "impatient",
+        "miss out on"
+       ]
+      },
+      {
+       "zh": "週年慶第一天，百貨公司大門一開，人群就往裡面衝。",
+       "en": "On the first morning of the anniversary sale, the doors opened and the crowd rushed in all at once.",
+       "covers": [
+        "rush in"
+       ]
+      },
+      {
+       "zh": "有位太太一次抓了三個包，深怕慢一步就被別人拿走。",
+       "en": "One woman grabbed three handbags at once, afraid that a moment's hesitation would cost her the last one.",
+       "hint": "「慢一步」把動詞換成名詞：a moment's hesitation。「就被別人拿走」不必寫成被動，用 cost her the last one（cost 某人某物）更順。",
+       "covers": [
+        "grab",
+        "a moment's hesitation"
+       ]
+      },
+      {
+       "zh": "兩個人同時抓住同一件外套，誰也不肯放手。",
+       "en": "Two shoppers seized the same coat at the same time, and neither of them was willing to let go.",
+       "covers": [
+        "seize",
+        "let go",
+        "be willing to V"
+       ]
+      },
+      {
+       "zh": "那件外套本來就只是一件外套，是別人也想要，才讓它突然變得非買不可。",
+       "en": "The coat was just a coat; it was the fact that someone else wanted it that influenced their decision, and all at once neither of them could give it up.",
+       "hint": "「是…才…」的強調用分裂句 it was… that…，被強調的部分放在中間。",
+       "covers": [
+        "influence one's decision"
+       ]
+      },
+      {
+       "zh": "結帳的隊伍排到手扶梯口，沒有人記得自己本來要買什麼。",
+       "en": "The checkout line stretched all the way to the escalator, and by then few could remember what they had come for.",
+       "covers": [
+        "stretch all the way to"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "評價與心態",
+     "entries": [
+      {
+       "w": "considerate",
+       "zh": "體貼的、替人著想的",
+       "src": "103年指考 Q1"
+      },
+      {
+       "w": "aware",
+       "zh": "注意到周遭的",
+       "src": "106年學測 Q14"
+      },
+      {
+       "w": "show respect for",
+       "zh": "尊重、對⋯⋯表示敬意",
+       "src": "103年學測 Q31",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vy103_31"
+       ]
+      },
+      {
+       "w": "ashamed",
+       "zh": "感到羞愧的",
+       "src": "98年指考 Q23",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vz98_23"
+       ]
+      },
+      {
+       "w": "reward",
+       "zh": "報酬、回報",
+       "src": "96年學測 Q38",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vy96_38"
+       ]
+      },
+      {
+       "w": "behave oneself",
+       "zh": "守規矩、舉止合宜",
+       "src": "99年學測 Q37",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vy99_37"
+       ]
+      },
+      {
+       "w": "courtesy",
+       "zh": "禮貌、為人著想",
+       "src": "96年指考 Q2"
+      },
+      {
+       "w": "do one's share",
+       "zh": "盡自己的本分",
+       "src": "99年學測 Q38",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vy99_38"
+       ]
+      },
+      {
+       "w": "stay aware of those around one",
+       "zh": "留意身邊的人",
+       "own": true
+      },
+      {
+       "w": "without being asked",
+       "zh": "不必別人開口",
+       "own": true
+      },
+      {
+       "w": "a moment's hesitation",
+       "zh": "一遲疑",
+       "own": true
+      },
+      {
+       "w": "be willing to V",
+       "zh": "願意",
+       "own": true
+      },
+      {
+       "w": "attitude",
+       "zh": "心態",
+       "own": true
+      },
+      {
+       "w": "be worth the wait",
+       "zh": "值得等",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "有些人是真的需要那個位子，但外表看不出來；真正體貼的人，不必等別人開口就會注意到身邊的人。",
+       "en": "Some passengers really need that seat, but you cannot tell by looking; a considerate person stays aware of those around him without being asked.",
+       "hint": "「不必等別人開口」＝不必被要求，用 without being asked（介系詞＋被動動名詞）。「外表看不出來」的主詞用泛稱的 you，動詞用 tell（分辨得出來），不是 see。",
+       "covers": [
+        "considerate",
+        "aware",
+        "stay aware of those around one",
+        "without being asked"
+       ]
+      },
+      {
+       "zh": "讓不讓座不是規定管得到的事，而是每個人願不願意盡自己的本分，把別人放在眼裡。",
+       "en": "Whether we give up our seats is not something the rules can decide; it depends on whether each of us is willing to do our share and show respect for others.",
+       "hint": "「讓不讓座」是一整件事當主詞，用 Whether… 名詞子句起頭，後面的動詞用單數。",
+       "covers": [
+        "give up one's seat",
+        "do one's share",
+        "show respect for",
+        "be willing to V"
+       ]
+      },
+      {
+       "zh": "真正的報酬不是那個紅包，而是發現幫助別人原來這麼簡單。",
+       "en": "The real reward was not the red envelope, but discovering how simple it can be to help someone.",
+       "hint": "「原來這麼簡單」用 how simple it can be to V。前面 not A but B 兩邊詞性要對稱，A 是名詞，B 就用動名詞 discovering。",
+       "covers": [
+        "reward"
+       ]
+      },
+      {
+       "zh": "拍照從來不是問題，問題是一旦覺得沒人會管，大家就不好好守規矩了。",
+       "en": "Taking pictures is never the problem; the problem is that visitors do not behave themselves once they believe no one will stop them.",
+       "hint": "「沒人會管」的「管」是「阻止」，用 no one will stop them，不是 no one cares。「不好好守規矩」用 behave oneself，反身代名詞不能省。",
+       "covers": [
+        "behave oneself"
+       ]
+      },
+      {
+       "zh": "真正毀掉花田的不是那幾個腳印，是「反正別人也進去了」這種心態。",
+       "en": "What really ruins a flower field is not a few footprints, but the attitude that it is fine as long as everyone else is doing it.",
+       "hint": "「…這種心態」後面接同位語 that 子句（the attitude that…），不要用 which。",
+       "covers": [
+        "attitude"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "規範與場地",
+     "entries": [
+      {
+       "w": "promote",
+       "zh": "推廣、宣傳",
+       "src": "95年學測 Q34、104年學測 Q11",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vy95_34",
+        null
+       ]
+      },
+      {
+       "w": "obey the rules",
+       "zh": "遵守規定",
+       "src": "97年指考 Q31",
+       "srcUrl": [
+        "https://staresto-create.github.io/passage-completion/#hard-Vz97_31"
+       ]
+      },
+      {
+       "w": "priority seat",
+       "zh": "博愛座",
+       "own": true
+      },
+      {
+       "w": "a sign",
+       "zh": "告示牌",
+       "own": true
+      },
+      {
+       "w": "step inside",
+       "zh": "踏進去",
+       "own": true
+      },
+      {
+       "w": "trample",
+       "zh": "踐踏",
+       "own": true
+      },
+      {
+       "w": "in full bloom",
+       "zh": "開得正盛",
+       "own": true
+      },
+      {
+       "w": "wear paths through",
+       "zh": "踩出小徑",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "博愛座又不是專屬於誰，只是大家都在等別人先站起來。",
+       "en": "Priority seats belong to no one in particular; most passengers are simply waiting for someone else to stand up first.",
+       "hint": "「等某人做某事」是 wait for sb to V，for 和 to 兩個都不能少。",
+       "covers": [
+        "priority seat"
+       ]
+      },
+      {
+       "zh": "新聞畫面裡一整片花田開得正盛，卻有十幾個遊客直接走進花叢中間。",
+       "en": "In the news photo, a field of flowers is in full bloom, yet more than a dozen visitors have walked right into the middle of it.",
+       "covers": [
+        "in full bloom",
+        "walk right into"
+       ]
+      },
+      {
+       "zh": "花田旁邊立著一塊牌子，寫著歡迎賞花拍照，但請不要進去踐踏。",
+       "en": "A sign beside the field welcomes people to enjoy the flowers and take pictures, but asks them not to step inside and trample them.",
+       "hint": "牌子上寫什麼，英文習慣直接讓牌子當主詞（A sign… welcomes／asks…），不必寫 It is written on the sign。「請不要進去」用 ask sb not to V。",
+       "covers": [
+        "a sign",
+        "step inside",
+        "trample"
+       ]
+      },
+      {
+       "zh": "有人已經在花叢裡踩出一條一條的路，後面的人就順著那些路繼續往裡面走。",
+       "en": "Some have already worn narrow paths through the flowers, and those behind them simply follow the same paths farther in.",
+       "hint": "「踩出一條路」的動詞是 wear（磨出、踩出），不是 step out，後面接 through。",
+       "covers": [
+        "wear paths through"
+       ]
+      },
+      {
+       "zh": "農場主人在網路上推廣花季，本來只是想跟大家分享，沒想到一紅起來會變成這樣。",
+       "en": "The owner promoted the flower season online simply to share the view, never expecting that once the farm became popular, it would be treated like this.",
+       "covers": [
+        "promote",
+        "popular"
+       ]
+      },
+      {
+       "zh": "遵守規定主要不是因為怕被罰，而是為後面來的人著想，讓他們也有花可賞。",
+       "en": "We obey the rules not mainly out of fear of being fined, but out of courtesy to those who come after us, so that they can still enjoy the flowers.",
+       "hint": "「不是因為 A，而是因為 B」兩邊都用 out of ＋名詞才對稱。「怕被罰」用 fear of being fined（介系詞＋被動動名詞）。",
+       "covers": [
+        "obey the rules",
+        "courtesy"
+       ]
+      }
+     ]
+    },
+    {
+     "name": "敘事與轉折骨架",
+     "entries": [
+      {
+       "w": "It is not that…; …simply…",
+       "zh": "不是⋯⋯，只是⋯⋯",
+       "own": true
+      },
+      {
+       "w": "not until…＋倒裝",
+       "zh": "一直到⋯⋯才⋯⋯",
+       "own": true
+      },
+      {
+       "w": "only after…＋倒裝",
+       "zh": "⋯⋯之後才⋯⋯",
+       "own": true
+      },
+      {
+       "w": "the 比較級, the 比較級",
+       "zh": "愈⋯⋯愈⋯⋯",
+       "own": true
+      }
+     ],
+     "sentences": [
+      {
+       "zh": "一直到老先生開口道謝，滑手機的那個人才抬起頭。",
+       "en": "Not until the elderly man thanked him did the young man finally look up from his phone.",
+       "hint": "否定副詞放句首，後面剩下的句子改成疑問句語序。倒裝發生在主要子句。",
+       "covers": [
+        "not until…＋倒裝",
+        "look up from"
+       ]
+      },
+      {
+       "zh": "他不是不心動，只是想到失主現在大概正在到處找。",
+       "en": "It was not that he felt no temptation at all; he simply thought of the person who must be searching everywhere for it right then.",
+       "hint": "「失主」英文沒有對應的單字，要用關係子句 the person who…。「大概正在到處找」用 must be V-ing 表示推測。",
+       "covers": [
+        "It is not that…; …simply…"
+       ]
+      },
+      {
+       "zh": "排隊本身就變成一種宣傳，隊伍愈長，愈讓人相信不管排的是什麼，都一定值得。",
+       "en": "The line itself has become a form of advertising: the longer it grows, the more people believe that whatever is at the end must be worth the wait.",
+       "covers": [
+        "the 比較級, the 比較級",
+        "be worth the wait"
+       ]
+      },
+      {
+       "zh": "袋子回家一打開，有些人才開始為一個鐘頭前的自己感到不好意思。",
+       "en": "Only after opening the bags at home do some shoppers begin to feel ashamed of the person they were an hour earlier.",
+       "hint": "Only after 起頭，倒裝發生在後面的主要子句，不是在 Only 帶的那個片語裡。「一個鐘頭前的自己」用關係子句 the person they were an hour earlier。",
+       "covers": [
+        "only after…＋倒裝",
+        "ashamed"
        ]
       }
      ]
