@@ -774,6 +774,11 @@
       "name": "評價與心態",
       "entries": [
        {
+        "w": "be no different from",
+        "zh": "跟⋯⋯沒什麼兩樣",
+        "own": true
+       },
+       {
         "w": "be worth the wait",
         "zh": "值得等",
         "own": true
@@ -783,6 +788,11 @@
      {
       "name": "敘事與轉折骨架",
       "entries": [
+       {
+        "w": "only to V",
+        "zh": "結果卻⋯⋯（出乎意料）",
+        "own": true
+       },
        {
         "w": "the 比較級, the 比較級",
         "zh": "愈⋯⋯愈⋯⋯",
@@ -814,7 +824,10 @@
         "zh": "有人排了整整兩個鐘頭，拿到手才發現跟別家賣的沒什麼兩樣。",
         "en": "Some waited for two full hours, only to find that what they got was no different from what other shops offered.",
         "hint": "「排了兩小時，拿到手才發現…」這種出乎意料的結果用 only to V，不用 but finally。「跟…沒什麼兩樣」用 be no different from。",
-        "covers": []
+        "covers": [
+         "only to V",
+         "be no different from"
+        ]
        },
        {
         "zh": "排隊本身就變成一種宣傳，隊伍愈長，愈讓人相信不管排的是什麼，都一定值得。",
