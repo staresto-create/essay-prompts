@@ -373,6 +373,8 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
   }
 
   /* ---------- 二、兩段大綱框 ---------- */
+  var REL = ["並列（兩件事並排）","對比（一好一壞、一前一後）","遞進（更進一步）"];
+
   function frameTable(id, para, label){
     var rows = [
       ["head", "第"+label+"段　主幹（主題句）", "trunk"],
@@ -386,7 +388,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
       h += '<tr><th class="'+r[0]+'">'+r[1]+'</th><td><input type="text" data-k="'+id+':'+para+':'+r[2]+'"></td></tr>';
     });
     h += '<tr><th>　兩根主枝的關係</th><td class="rel">' +
-         ["並列（兩件事並排）","對比（一好一壞、一前一後）","遞進（更進一步）"].map(function(t,i){
+         REL.map(function(t,i){
            return '<label><input type="radio" name="'+id+'-'+para+'-rel" data-k="'+id+':'+para+':rel" value="'+i+'"> '+t+'</label>';
          }).join("") + '</td></tr>';
     if(para === 2){
@@ -398,6 +400,22 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
     return h + '</table>';
   }
 
+  function modelPara(p, para){
+    var h = '<div style="font-size:13px;color:var(--ink-soft);margin:10px 0 4px">第'+(para === 1 ? "一" : "二")+'段</div>' +
+            '<table><tr><th>主幹</th><td class="en">'+esc(p.trunk)+'</td></tr>' +
+            '<tr><th>主枝一</th><td class="en">'+esc(p.b1)+'</td></tr>' +
+            '<tr><th>　小枝</th><td class="en">'+esc(p.d1)+'</td></tr>' +
+            '<tr><th>主枝二</th><td class="en">'+esc(p.b2)+'</td></tr>' +
+            '<tr><th>　小枝</th><td class="en">'+esc(p.d2)+'</td></tr>' +
+            '<tr><th>關係</th><td>'+esc(REL[p.rel])+'</td></tr>';
+    if(para === 2){
+      h += '<tr><th>收尾句</th><td class="en">'+esc(p.end)+'</td></tr>' +
+           '<tr><th>用的是</th><td>'+esc(D.endings[p.endk].k)+'</td></tr>';
+    }
+    return h + '<tr class="learn"><th>在做什麼</th><td>'+esc(p.why)+'</td></tr>' +
+           '<tr class="learn"><th>這裡的用字</th><td>'+esc(p.words)+'</td></tr></table>';
+  }
+
   function buildOutline(){
     var host = document.getElementById("ol");
     D.outline.forEach(function(o, i){
@@ -407,6 +425,21 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
         '<p class="anchor">〔'+esc(o.anchor)+'〕</p>' +
         '<div class="tasks"><b>題目要求（摘要）</b><div>第一段：'+esc(o.task1)+'</div><div>第二段：'+esc(o.task2)+'</div></div>' +
         frameTable(o.id, 1, "一") + frameTable(o.id, 2, "二");
+      if(o.model){
+        var box = el('<div></div>');
+        box.innerHTML =
+          '<div class="qbar" style="margin-top:12px"><button class="show small">看參考大綱</button></div>' +
+          '<div class="model"><div style="font-size:13px;color:var(--ink-soft);margin-bottom:5px">' +
+          '參考大綱（其中一種）。<b>擬大綱時重要的是文章架構，而不是內容</b>——主枝數對得上主題句嗎？每根主枝下面有小枝嗎？兩根的關係說得出來嗎？</div>' +
+          modelPara(o.model.p1, 1) + modelPara(o.model.p2, 2) + '</div>';
+        var sb = box.querySelector("button.show"), md = box.querySelector(".model");
+        sb.addEventListener("click", function(){
+          md.style.display = "block";
+          sb.disabled = true;
+          sb.textContent = "已顯示參考大綱";
+        });
+        sec.appendChild(box);
+      }
       host.appendChild(sec);
     });
     each(document.querySelectorAll('#ol input[data-k]'), function(inp){

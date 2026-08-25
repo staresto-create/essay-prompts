@@ -182,13 +182,61 @@ window.BOOSTERS = {
       id: "OL01",
       anchor: "115 學年度學測作文題：寵物在人們生活中的角色",
       task1: "描述圖片中呈現的現象。",
-      task2: "根據自身經驗或觀察，說明這個現象的原因以及可能的影響。"
+      task2: "根據自身經驗或觀察，說明這個現象的原因以及可能的影響。",
+      model: {
+        p1: {
+          trunk: "Pets today are treated as family members, not just animals.",
+          b1: "at home — same care as people",
+          d1: "own bowl and bed; a vet visit when sick",
+          b2: "outside — same places as people",
+          d2: "strollers on the street; \u201cpet-friendly\u201d signs at restaurants",
+          rel: 0,
+          why: "主題句說「被當成家人」，兩根主枝就從家人會有的待遇去分，在家、出門。",
+          words: "treat A as B 把 A 當成 B／vet 獸醫／stroller 推車／pet-friendly 歡迎寵物入內的"
+        },
+        p2: {
+          trunk: "This change comes from smaller families, and it brings new costs.",
+          b1: "cause — fewer children, more people living alone",
+          d1: "my aunt lives alone; her cat has a name and a birthday",
+          b2: "effect — care costs rise, and so does abandonment",
+          d2: "one vet bill can be thousands of NT dollars",
+          rel: 1,
+          end: "Treating a pet as family is good, but family is for life.",
+          endk: 2,
+          why: "題目要原因與影響，兩根主枝就是原因與影響，關係自然是對比。",
+          words: "come from 源自／live alone 獨居／abandonment 棄養／bill 帳單／for life 一輩子的"
+        }
+      }
     },
     {
       id: "OL02",
       anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
       task1: "描述兩個讓你引以為榮的面向或事物，並說明它們為何讓你引以為榮。",
-      task2: "說明可以用什麼方式介紹或行銷這些臺灣特色，讓世人更了解臺灣。"
+      task2: "說明可以用什麼方式介紹或行銷這些臺灣特色，讓世人更了解臺灣。",
+      model: {
+        p1: {
+          trunk: "Taiwan boasts two things I am proud of: affordable health care and convenience stores that never close.",
+          b1: "health care — universal, not a privilege",
+          d1: "a clinic visit for about 150 dollars; my grandmother never hesitates over the cost",
+          b2: "convenience stores — open 24/7, and far more than shops",
+          d2: "settle a bill, print an assignment, grab a hot meal at 2 a.m.",
+          rel: 0,
+          why: "主題句答應了兩件事，兩根主枝就是那兩件，連順序都照主題句。為什麼自豪不另外寫一句，寫進小枝的細節裡就看得出來。",
+          words: "boast 擁有值得誇耀的東西／affordable 負擔得起的／universal 全民都有的／privilege 特權／hesitate over 為⋯⋯猶豫／open 24/7 全年無休／settle a bill 繳清帳單／grab a meal 隨手買個飯"
+        },
+        p2: {
+          trunk: "The best way to promote these strengths is to let visitors experience them, not merely read about them.",
+          b1: "short English clips of everyday errands",
+          d1: "sixty seconds of paying a phone bill at the counter",
+          b2: "a one-day local-life route — clinic, store, night market",
+          d2: "an EasyCard and a checklist handed out on arrival",
+          rel: 2,
+          end: "What I am proudest of is not a landmark, but an ordinary day in Taiwan.",
+          endk: 0,
+          why: "第二段問的是怎麼介紹，兩根主枝就是兩種做法；先看影片、再親自走一趟，一步比一步深入，關係就是遞進。",
+          words: "clip 短片／errand 出門辦的雜事／promote 推廣／experience 親身體驗／merely 只不過／on arrival 一抵達／landmark 地標"
+        }
+      }
     }
   ],
   endings: [
