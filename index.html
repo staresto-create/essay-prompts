@@ -306,7 +306,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 
   <section class="togo" aria-labelledby="togoH">
     <h2 id="togoH">寫之前，先練三件事</h2>
-    <p>這一頁的題目，有六個題組附了字詞搭配與練習句，可以直接照著練習。另有一頁練習，不綁定特定題目，把動筆前的三件事拆開，各自單獨練習：寫出主題句、找出離題的句子、把兩段大綱搭起來，共八個題組。兩種都陸續增補中；情境取自七個歷屆學測作文題，頁面上的英文句子是本站自撰，不是歷屆試題，也不是考生佳作。</p>
+    <p>這一頁的六個題目附了字詞搭配與練習句，可以直接照著練習：110、109、107、105、102、99 學測，題號旁標著「附字詞搭配與練習句」，用下方的<b>只看附字詞搭配的題目</b>可以一次篩出來。另有一頁練習，不綁定特定題目，把動筆前的三件事拆開，各自單獨練習：寫出主題句、找出離題的句子、把兩段大綱搭起來，共八個題組。題組陸續增補中；情境取自七個歷屆學測作文題，頁面上的英文句子是本站自撰，不是歷屆試題，也不是考生佳作。</p>
     <p><a href="practice/">前往作文練習題型 →</a></p>
   </section>
 
@@ -332,6 +332,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
     <div class="toggles">
       <label><input type="checkbox" id="tPic">只看圖片題</label>
       <label><input type="checkbox" id="tOfficial">只看正式考題</label>
+      <label><input type="checkbox" id="tWb">只看附字詞搭配的題目</label>
     </div>
   </section>
 
@@ -367,7 +368,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 </footer>
 
 <script>
-const S={years:[],genres:[],themes:[],pic:false,official:false};
+const S={years:[],genres:[],themes:[],pic:false,official:false,wb:false};
 let DATA=[];
 let THEMEBANKS={};   // 主題級共用字詞搭配，掛在 prompts.json 頂層，非 items 之成員
 
@@ -380,6 +381,7 @@ function matches(it){
   if(S.themes.length && !S.themes.some(t=>it.theme.includes(t))) return false;
   if(S.pic && !it.hasImage) return false;
   if(S.official && !it.isOfficial) return false;
+  if(S.wb && !wordBanksFor(it).length) return false;
   return true;
 }
 
@@ -681,6 +683,7 @@ function writeHash(){
   if(S.themes.length)p.set('t',S.themes.join(','));
   if(S.pic)p.set('pic','1');
   if(S.official)p.set('off','1');
+  if(S.wb)p.set('wb','1');
   const s=p.toString();
   history.replaceState(null,'',s?'#'+s:location.pathname);
 }
@@ -693,6 +696,7 @@ function readHash(){
   S.themes=(p.get('t')||'').split(',').filter(Boolean);
   S.pic=p.get('pic')==='1';
   S.official=p.get('off')==='1';
+  S.wb=p.get('wb')==='1';
 }
 
 function render(){
@@ -702,7 +706,7 @@ function render(){
     b.setAttribute('aria-pressed',S.genres.includes(b.firstChild.textContent)));
   document.querySelectorAll('#fTheme .chip').forEach(b=>
     b.setAttribute('aria-pressed',S.themes.includes(b.firstChild.textContent)));
-  $('#tPic').checked=S.pic;$('#tOfficial').checked=S.official;
+  $('#tPic').checked=S.pic;$('#tOfficial').checked=S.official;$('#tWb').checked=S.wb;
 
   const hits=DATA.filter(matches);
   const yrsHit=new Set(hits.map(h=>h.year));
@@ -757,10 +761,11 @@ fetch('data/prompts.json')
   });
 
 $('#reset').addEventListener('click',()=>{
-  S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;render();
+  S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;S.wb=false;render();
 });
 $('#tPic').addEventListener('change',e=>{S.pic=e.target.checked;render()});
 $('#tOfficial').addEventListener('change',e=>{S.official=e.target.checked;render()});
+$('#tWb').addEventListener('change',e=>{S.wb=e.target.checked;render()});
 </script>
 </body>
 </html>
