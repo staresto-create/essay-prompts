@@ -8,7 +8,7 @@ window.BOOSTERS = {
     {
       id: "ST01",
       level: "易",
-      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
+      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向或事物",
       topicSentence: "Two things about Taiwan make me proud: our night markets and the way strangers help one another.",
       note: "",
       fields: [
@@ -210,14 +210,14 @@ window.BOOSTERS = {
     },
     {
       id: "OL02",
-      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
+      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向或事物",
       task1: "描述兩個讓你引以為榮的面向或事物，並說明它們為何讓你引以為榮。",
       task2: "說明可以用什麼方式介紹或行銷這些臺灣特色，讓世人更了解臺灣。",
       model: {
         p1: {
           trunk: "Taiwan boasts two things I am proud of: affordable health care and convenience stores that never close.",
           b1: "health care — universal, not a privilege",
-          d1: "a clinic visit for about 150 dollars; my grandmother never hesitates over the cost",
+          d1: "a clinic visit for about NT$150; my grandmother never hesitates over the cost",
           b2: "convenience stores — open 24/7, and far more than shops",
           d2: "settle a bill, print an assignment, grab a hot meal at 2 a.m.",
           rel: 0,
@@ -229,12 +229,12 @@ window.BOOSTERS = {
           b1: "short English clips of everyday errands",
           d1: "sixty seconds of paying a phone bill at the counter",
           b2: "a one-day local-life route — clinic, store, night market",
-          d2: "an EasyCard and a checklist handed out on arrival",
+          d2: "an EasyCard handed out on arrival, with value added at any convenience store, NT$100 at a time",
           rel: 2,
           end: "What I am proudest of is not a landmark, but an ordinary day in Taiwan.",
           endk: 0,
-          why: "第二段問的是怎麼介紹，兩根主枝就是兩種做法；先看影片、再親自走一趟，一步比一步深入，關係就是遞進。",
-          words: "clip 短片／errand 出門辦的雜事／promote 推廣／experience 親身體驗／merely 只不過／on arrival 一抵達／landmark 地標"
+          why: "第二段問的是怎麼介紹，兩根主枝就是兩種做法。這兩種做法本身沒有高低，是這份大綱刻意把它們排成先看影片、再親自走一趟，由淺入深，關係才是遞進。排法一改，關係也會跟著改。",
+          words: "clip 短片／errand 出門辦的雜事／promote 推廣／experience 親身體驗／merely 只不過／on arrival 一抵達／add value 加值（悠遊卡機台與超商櫃臺上的正式說法；英式說 top up）／landmark 地標"
         }
       }
     }
