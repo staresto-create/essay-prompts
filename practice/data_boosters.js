@@ -8,18 +8,18 @@ window.BOOSTERS = {
     {
       id: "ST01",
       level: "易",
-      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
+      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個支撐論點",
       topicSentence: "Two things about Taiwan make me proud: our night markets and the way strangers help one another.",
       note: "",
       fields: [
-        { k: "topic", label: "topic（你要談的主體）" },
+        { k: "topic", label: "topic（你要談的主題）" },
         { k: "i1", label: "supporting idea \u2460" },
         { k: "i2", label: "supporting idea \u2461" }
       ],
-      writeHint: "上方兩個面向各補一個具體細節，用英文各寫一句。細節裡要有人事時地物、數字或動作，至少一樣，不能只寫 it is good。",
+      writeHint: "上方兩個支撐論點各補一個具體細節，用英文各寫一句。細節裡要有人事時地物、數字或動作，至少一樣，不能只寫 it is good。",
       checks: [
         "每句都有人事時地物、數字或動作，至少一樣",
-        "兩句分別對準不同面向，沒有重複",
+        "兩句分別對準不同支撐論點，沒有重複",
         "寫的都在主題句答應的範圍內"
       ],
       models: [
@@ -45,23 +45,23 @@ window.BOOSTERS = {
       level: "中",
       anchor: "92 學年度學測作文題：Music Is An Important Part of Our Life",
       topicSentence: "Listening to music while I study makes me calmer and more focused.",
-      note: "這一句用形容詞交代面向。先把形容詞轉成可以下筆的面向，才知道自己答應了什麼。",
+      note: "這一句用形容詞交代支撐論點。先把形容詞轉成可以下筆的支撐論點，才知道自己答應了什麼。",
       fields: [
-        { k: "topic", label: "topic（你要談的主體）" },
+        { k: "topic", label: "topic（你要談的主題）" },
         { k: "i1", label: "supporting idea \u2460" },
         { k: "i2", label: "supporting idea \u2461" }
       ],
-      writeHint: "兩個面向各補一個具體細節，用英文各寫一句。就寫你自己邊聽音樂邊念書的一次經驗。",
+      writeHint: "兩個支撐論點各補一個具體細節，用英文各寫一句。就寫你自己邊聽音樂邊念書的一次經驗。",
       checks: [
         "每句都有人事時地物、數字或動作，至少一樣",
-        "兩句分別對準不同面向，沒有重複",
+        "兩句分別對準不同支撐論點，沒有重複",
         "寫的都在主題句答應的範圍內"
       ],
       models: [
         {
           zh: "我念書的時候聽音樂，它幫我做兩件事：讓我靜下來，還有讓我坐得住。",
           en: [["Music does two things for me", 1], [" when I sit down to study: ", 0], ["it slows me down, and it keeps me there", 1], [".", 0]],
-          hint: "這是主題句的另一種寫法。冒號後面用兩個對等的動詞子句列出面向，比用 calmer、more focused 兩個形容詞具體。「坐得住」是 keep sb there。"
+          hint: "這是主題句的另一種寫法。冒號後面用兩個對等的動詞子句列出支撐論點，比用 calmer、more focused 兩個形容詞具體。「坐得住」是 keep sb there。"
         },
         {
           zh: "考試前聽二十分鐘鋼琴，心跳會慢下來，手也不會抖。",
@@ -80,14 +80,14 @@ window.BOOSTERS = {
       level: "難",
       anchor: "91 學年度學測補考作文題：Growing up is a/an ___ experience",
       topicSentence: "Growing up has been a confusing experience for me.",
-      note: "這一句沒有把面向列出來，但它已經圈定了範圍。先讀出範圍，再自己決定要寫哪兩個面向——寫到範圍外，內容這一項就會因離題被扣分。",
+      note: "這一句沒有把支撐論點列出來，但它已經圈定了範圍。先讀出範圍，再自己決定要寫哪兩個支撐論點——寫到範圍外，內容這一項就會因離題被扣分。",
       fields: [
-        { k: "topic", label: "topic（你要談的主體）" },
+        { k: "topic", label: "topic（你要談的主題）" },
         { k: "scope", label: "這句話圈定的範圍是？（可用中文）" },
         { k: "i1", label: "你決定要寫的 supporting idea \u2460" },
         { k: "i2", label: "你決定要寫的 supporting idea \u2461" }
       ],
-      writeHint: "自訂的兩個面向各補一個具體細節，用英文各寫一句。每句都要對得上 confusing，不能寫成困難或快樂。",
+      writeHint: "自訂的兩個支撐論點各補一個具體細節，用英文各寫一句。每句都要對得上 confusing，不能寫成困難或快樂。",
       checks: [
         "每句都有人事時地物、數字或動作，至少一樣",
         "兩句都對得上 confusing，不是困難或快樂",
@@ -127,7 +127,7 @@ window.BOOSTERS = {
       ],
       offIndex: 2,
       maps: { 0: 1, 1: 0, 3: 0 },
-      why: "它換掉了主體。整句在談哥哥買手機，跟表情符號無關。",
+      why: "它換掉了主題。整句在談哥哥買手機，跟表情符號無關。",
       model: {
         zh: "我在問句後面加一個問號臉，我哥就知道我是不懂，不是在生氣，他就會解釋而不是跟我吵。",
         en: [["A puzzled face after my question tells my brother", 1], [" I am confused, not angry, so he explains ", 0], ["instead of arguing", 1], [".", 0]],
@@ -148,7 +148,7 @@ window.BOOSTERS = {
       ],
       offIndex: 0,
       maps: { 1: 0, 2: 1, 3: 0 },
-      why: "主體還在講颱風，但談的是颱風怎麼形成，不在 tiring／dangerous 這兩個面向裡。",
+      why: "主題還在講颱風，但談的是颱風怎麼形成，不在 tiring／dangerous 這兩個支撐論點裡。",
       model: {
         zh: "颱風假那一整天，我家都在貼窗戶、把植物搬進來，到晚上手都酸了。",
         en: [["My family ", 0], ["spent the whole typhoon day taping windows and carrying plants inside", 1], [", and ", 0], ["by evening", 1], [" my arms ached.", 0]],
@@ -169,7 +169,7 @@ window.BOOSTERS = {
       ],
       offIndex: 3,
       maps: { 0: 0, 1: 1, 2: 0 },
-      why: "主體還在講這本書，但談的是封面和價錢，不在 interests／future plans 這兩個面向裡。",
+      why: "主題還在講這本書，但談的是封面和價錢，不在 interests／future plans 這兩個支撐論點裡。",
       model: {
         zh: "這本書有一整章在講深海生物，那正好是我晚上熬夜在網路上看的東西。",
         en: [["The book has a whole chapter on deep-sea creatures, ", 0], ["which is exactly what", 1], [" I ", 0], ["stay up late reading about", 1], [" online.", 0]],
@@ -186,8 +186,8 @@ window.BOOSTERS = {
     },
     {
       id: "OL02",
-      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
-      task1: "描述兩個讓你引以為榮的面向或事物，並說明它們為何讓你引以為榮。",
+      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個支撐論點",
+      task1: "描述兩個讓你引以為榮的支撐論點或事物，並說明它們為何讓你引以為榮。",
       task2: "說明可以用什麼方式介紹或行銷這些臺灣特色，讓世人更了解臺灣。"
     }
   ],
