@@ -8,7 +8,7 @@ window.BOOSTERS = {
     {
       id: "ST01",
       level: "易",
-      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個支撐論點",
+      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
       topicSentence: "Two things about Taiwan make me proud: our night markets and the way strangers help one another.",
       note: "",
       fields: [
@@ -186,8 +186,8 @@ window.BOOSTERS = {
     },
     {
       id: "OL02",
-      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個支撐論點",
-      task1: "描述兩個讓你引以為榮的支撐論點或事物，並說明它們為何讓你引以為榮。",
+      anchor: "108 學年度學測作文題：臺灣最讓你引以為榮的兩個面向",
+      task1: "描述兩個讓你引以為榮的面向或事物，並說明它們為何讓你引以為榮。",
       task2: "說明可以用什麼方式介紹或行銷這些臺灣特色，讓世人更了解臺灣。"
     }
   ],
