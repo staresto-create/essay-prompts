@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>歷屆作文題目索引｜學測、指考英文作文 83–115 學年度</title>
-<meta name="description" content="大學入學考試中心學測與指定科目考試英文作文題目索引，收錄 83 至 115 學年度共 62 題，可依年度、文體、主題篩選。另有作文練習八題組（其他題組陸續建置中）。免費，免註冊。">
+<meta name="description" content="大學入學考試中心學測與指定科目考試英文作文題目索引，收錄 83 至 115 學年度共 62 題，可依年度、文體、主題篩選。另有作文練習十四個題組，六個附字詞搭配與練習句，八個把動筆前的三件事拆開來練習。免費，免註冊。">
 <link rel="canonical" href="https://staresto-create.github.io/essay-prompts/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="zh_TW">
 <meta property="og:site_name" content="歷屆作文題目索引">
 <meta property="og:title" content="歷屆作文題目索引｜學測、指考英文作文 83–115 學年度">
-<meta property="og:description" content="學測與指考英文作文題目 62 題全數收錄，可依年度、文體、主題篩選，圖片題附原卷圖片。另有作文練習八題組（其他題組陸續建置中）。免費，免註冊。">
+<meta property="og:description" content="學測與指考英文作文題目 62 題全數收錄，可依年度、文體、主題篩選，圖片題附原卷圖片。另有作文練習十四個題組，六個附字詞搭配與練習句，八個把動筆前的三件事拆開來練習。免費，免註冊。">
 <meta property="og:url" content="https://staresto-create.github.io/essay-prompts/">
 <meta property="og:image" content="https://staresto-create.github.io/essay-prompts/images/E115_GSAT.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -306,7 +306,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 
   <section class="togo" aria-labelledby="togoH">
     <h2 id="togoH">寫之前，先練三件事</h2>
-    <p>本頁只列題目，不批改作文。另有一頁練習，把動筆前的三件事分開來練：寫出主題句、找出離題的句子、把兩段大綱搭起來。共八題組（其他題組陸續建置中）；情境取自七個歷屆學測作文題，頁面上的英文句子是本站自撰，不是歷屆試題，也不是考生佳作。</p>
+    <p>這一頁的題目，有六個題組附了字詞搭配與練習句，可以直接照著練習。另有一頁練習，不綁定特定題目，把動筆前的三件事拆開，各自單獨練習：寫出主題句、找出離題的句子、把兩段大綱搭起來，共八個題組。兩種都陸續增補中；情境取自七個歷屆學測作文題，頁面上的英文句子是本站自撰，不是歷屆試題，也不是考生佳作。</p>
     <p><a href="practice/">前往作文練習題型 →</a></p>
   </section>
 
@@ -369,7 +369,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 <script>
 const S={years:[],genres:[],themes:[],pic:false,official:false};
 let DATA=[];
-let THEMEBANKS={};   // 主題級共用字庫，掛在 prompts.json 頂層，非 items 之成員
+let THEMEBANKS={};   // 主題級共用字詞搭配，掛在 prompts.json 頂層，非 items 之成員
 
 const $=s=>document.querySelector(s);
 const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
@@ -436,9 +436,9 @@ function buildChips(host,key,values){
   });
 }
 
-// 主題級字庫自己宣告適用題號；theme 欄只是題材大類，顆粒度太粗不能當授權。
-// appliesTo 缺漏或不含本題即不顯示——寧可不出現，也不要出現用不上的字庫。
-// 卡片標籤與字庫區共用這一支，兩處判斷不會分岔。
+// 主題級字詞搭配自己宣告適用題號；theme 欄只是題材大類，顆粒度太粗不能當授權。
+// appliesTo 缺漏或不含本題即不顯示——寧可不出現，也不要出現用不上的字詞搭配。
+// 卡片標籤與字詞搭配區共用這一支，兩處判斷不會分岔。
 // 主題級的挑選另立一支並由 wordBanksFor 呼叫，標題與內容因此走同一個判準：
 // 標題說有主題，卡片裡就一定有那個主題的 groups，不會各說各話。
 function themeBankKeysFor(it){
@@ -462,7 +462,7 @@ function card(it){
   h.appendChild(el('div','iexam',it.exam));
   if(!it.isOfficial)h.appendChild(el('span','badge warn','非正式考題'));
   h.appendChild(el('span','badge',it.promptFormat));
-  if(wordBanksFor(it).length)h.appendChild(el('span','badge wb','附字庫與練習句'));
+  if(wordBanksFor(it).length)h.appendChild(el('span','badge wb','附字詞搭配與練習句'));
   d.appendChild(h);
 
   const tags=el('div','itags');
@@ -480,7 +480,7 @@ function card(it){
 
   if(it.reuseNote)d.appendChild(el('p','reuse',it.reuseNote));
 
-  // 字庫：主題級與題目級用完全相同的 groups 結構，只是掛載點不同，
+  // 字詞搭配：主題級與題目級用完全相同的 groups 結構，只是掛載點不同，
   // 渲染前先合併成一個陣列再交給同一支渲染函式（資料形狀一種、渲染函式一支）。
   (function(){
     const banks=wordBanksFor(it);
@@ -490,10 +490,10 @@ function card(it){
 
     const b=el('div','wbBox');
     const hd=el('div','wbHd');
-    // 標題跟著實際掛載走：掛了主題級字庫就寫出是哪一個主題，只有題目級就說是這一題的。
+    // 標題跟著實際掛載走：掛了主題級字詞搭配就寫出是哪一個主題，只有題目級就說是這一題的。
     // 硬寫一個主題名會在沒有主題的卡片上騙人——六張卡裡只有一張真的有主題。
     const tks=themeBankKeysFor(it);
-    hd.appendChild(el('span','wbTitle',tks.length?'主題字庫 · '+tks.join('、'):'這一題的字庫'));
+    hd.appendChild(el('span','wbTitle',tks.length?'主題字詞搭配 · '+tks.join('、'):'這一題的字詞搭配'));
     const btn=document.createElement('button');
     btn.className='wbBtn';btn.type='button';btn.textContent='顯示出處';
     btn.addEventListener('click',()=>{
