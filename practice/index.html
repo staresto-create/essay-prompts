@@ -4,11 +4,11 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>作文練習題型｜學測英文作文</title>
-<meta name="description" content="學測英文作文的三個練習題型：拆主題句、挑離題句、兩段大綱框，共八題。情境取材自歷屆學測作文題目，句子為本站自撰，不是歷屆試題，也不是考生佳作。附參考寫法與可貼給 AI 的修改指示。免費，免註冊。">
+<meta name="description" content="學測英文作文的三個練習題型：拆解主題句、選出離題句、兩段大綱框，共八題組（其他題組陸續建置中）。情境取材自歷屆學測作文題目，句子為本站自撰，不是歷屆試題，也不是考生佳作。附參考寫法與可貼給 AI 的修改指示。免費，免註冊。">
 <link rel="canonical" href="https://staresto-create.github.io/essay-prompts/practice/">
 <meta property="og:type" content="article">
 <meta property="og:title" content="作文練習題型｜學測英文作文">
-<meta property="og:description" content="學測英文作文的三個練習題型：拆主題句、挑離題句、兩段大綱框，共八題。情境取材自歷屆學測作文題目，句子為本站自撰，不是歷屆試題，也不是考生佳作。">
+<meta property="og:description" content="學測英文作文的三個練習題型：拆解主題句、選出離題句、兩段大綱框，共八題組（其他題組陸續建置中）。情境取材自歷屆學測作文題目，句子為本站自撰，不是歷屆試題，也不是考生佳作。">
 <meta property="og:url" content="https://staresto-create.github.io/essay-prompts/practice/">
 <meta property="og:site_name" content="歷屆作文題目索引">
 <meta name="robots" content="index,follow">
@@ -115,12 +115,12 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
   <b>本頁的英文句子由本站自撰，不是歷屆試題，也不是考生佳作。</b>每題的情境取自一則學測作文題，年度標在題目下方。
 </div>
 
-<h2>一、拆主題句</h2>
+<h2>一、拆解主題句</h2>
 <p>一個好的主題句會先說出你要談的主體（topic），再說出你答應要談的面向（supporting ideas）。把這兩件事拆出來，然後替每個面向補上一個具體細節——那就是你的大綱。</p>
 <div id="st"></div>
 
-<h2>二、挑離題句</h2>
-<p>主題句下列四個句子，其中一句離題。先挑出來，再把它改寫成一句真正落在範圍內的支持句。</p>
+<h2>二、選出離題句</h2>
+<p>主題句下列四個句子，其中一句離題。先選出來，再把它改寫成一句真正落在範圍內的支持句。</p>
 <div id="ot"></div>
 
 <h2>三、兩段大綱框</h2>
@@ -198,12 +198,12 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
     return en.map(function(s){ return s[0]; }).join("");
   }
 
-  /* ---------- 拆主題句 ---------- */
+  /* ---------- 拆解主題句 ---------- */
   function buildSplit(){
     var host = document.getElementById("st");
     D.splitTS.forEach(function(q, qi){
       var sec = el('<section class="card"></section>');
-      var h = '<h3>第 '+(qi+1)+' 題<span style="font-size:13px;color:var(--seal);margin-left:8px">'+esc(q.level)+'</span></h3>' +
+      var h = '<h3>第 '+(qi+1)+' 組<span style="font-size:13px;color:var(--seal);margin-left:8px">'+esc(q.level)+'</span></h3>' +
               '<p class="anchor">〔情境取材自 '+esc(q.anchor)+'〕</p>' +
               '<p class="ts">'+esc(q.topicSentence)+'</p>';
       if(q.note) h += '<p style="font-size:14px;color:var(--ink-soft);margin:0 0 10px">'+esc(q.note)+'</p>';
@@ -253,13 +253,13 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
     });
   }
 
-  /* ---------- 一、挑離題句 ---------- */
+  /* ---------- 二、選出離題句 ---------- */
   function buildOffTopic(){
     var host = document.getElementById("ot");
     D.offTopic.forEach(function(q, qi){
       var sec = el('<section class="card"></section>');
       sec.innerHTML =
-        '<h3>第 '+(qi+1)+' 題</h3>' +
+        '<h3>第 '+(qi+1)+' 組</h3>' +
         '<p class="anchor">〔情境取材自 '+esc(q.anchor)+'〕</p>' +
         '<p class="ts">'+esc(q.topicSentence)+'</p>' +
         '<ol class="sents"></ol>' +
@@ -400,7 +400,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
     D.outline.forEach(function(o, i){
       var sec = el('<section class="card"></section>');
       sec.innerHTML =
-        '<h3>第 '+(i+1)+' 題</h3>' +
+        '<h3>第 '+(i+1)+' 組</h3>' +
         '<p class="anchor">〔'+esc(o.anchor)+'〕</p>' +
         '<div class="tasks"><b>題目要求（摘要）</b><div>第一段：'+esc(o.task1)+'</div><div>第二段：'+esc(o.task2)+'</div></div>' +
         frameTable(o.id, 1, "一") + frameTable(o.id, 2, "二");
@@ -453,7 +453,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
       if(!v && !parts.length) return;
       any = true;
       out.push("");
-      out.push("【拆主題句　第 "+(i+1)+" 題】情境："+q.anchor);
+      out.push("【拆解主題句　第 "+(i+1)+" 組】情境："+q.anchor);
       out.push("主題句："+q.topicSentence);
       out = out.concat(parts);
       if(v) out.push("我寫的細節句："+v);
@@ -463,7 +463,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
       if(!v) return;
       any = true;
       out.push("");
-      out.push("【挑離題句　第 "+(i+1)+" 題】情境："+q.anchor);
+      out.push("【選出離題句　第 "+(i+1)+" 組】情境："+q.anchor);
       out.push("主題句："+q.topicSentence);
       out.push("我改寫的句子："+v);
     });
@@ -478,7 +478,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
       if(!lines.length) return;
       any = true;
       out.push("");
-      out.push("【兩段大綱　第 "+(i+1)+" 題】"+o.anchor);
+      out.push("【兩段大綱　第 "+(i+1)+" 組】"+o.anchor);
       out.push("題目要求：第一段 "+o.task1+" 第二段 "+o.task2);
       out = out.concat(lines);
     });
