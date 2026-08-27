@@ -441,7 +441,7 @@ function buildChips(host,key,values){
 // 主題級字詞搭配自己宣告適用題號；theme 欄只是題材大類，顆粒度太粗不能當授權。
 // appliesTo 缺漏或不含本題即不顯示——寧可不出現，也不要出現用不上的字詞搭配。
 // 卡片標籤與字詞搭配區共用這一支，兩處判斷不會分岔。
-// 主題級的挑選另立一支並由 wordBanksFor 呼叫，標題與內容因此走同一個判準：
+// 主題級的挑選另立一支並由 wordBanksFor 呼叫，標題與內容因此走同一個判斷方式：
 // 標題說有主題，卡片裡就一定有那個主題的 groups，不會各說各話。
 function themeBankKeysFor(it){
   return Object.keys(THEMEBANKS).filter(k=>{
