@@ -1832,7 +1832,222 @@
    ],
    "prompt": "在你的記憶中，哪一種氣味（smell）最讓你難忘？請寫一篇英文作文，文長至少 120 字，文分兩段，第一段描述你在何種情境中聞到這種氣味，以及你初聞這種氣味時的感受，第二段描述這個氣味至今仍令你難忘的理由。",
    "images": [],
-   "source": "大學入學考試中心 99 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 99 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 281,
+     "p1": "The smell I remember best is the smell of a crowded changing room in Tokyo. My father has run every weekend for years, and on our family trip two summers ago he found out that runners go around the Imperial Palace in a five-kilometer loop, and that small places nearby rent them a locker and a shower. Every morning of that week we would run the loop together and then line up outside those showers. The room was warm and narrow, and a strong smell filled it from the door to the back wall: soap, wet shoes, and thirty strangers who had just finished running. On the first morning I stood outside and did not want to go in. I could not understand why anyone would pay to stand in a room that smelled like that.",
+     "p2": "Two years later the same smell means something I did not expect. At home my father works late, and we speak mostly about my grades. That week we ran side by side for six mornings, said almost nothing, and walked out each time smelling of soap instead of sweat. Last month I passed a gym near my school and caught the smell of wet shoes through the open door. It took me back to those mornings before I had time to think. A photograph would have shown me the palace and the two of us in running clothes. It could not have given me back one quiet morning of walking to the showers with my father. That is why, of all the things I brought home from that trip, it is the smell of a crowded changing room that has stayed with me the longest.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「至少 120 字」，那是下限不是目標；大考中心公布的十篇官方佳作篇幅都在這之上，寫法也不只一種，點進去自己看一遍最有用。"
+    },
+    "rubric": {
+     "source": "大考中心選才電子報第 192 期〈99 學年度指定科目考試英文考科非選擇題評分標準說明〉（第一處／游春琪，99/08/15）",
+     "intro": "99 指考作文滿分 20 分，採整體式評分——閱卷委員讀完先定一個分數，再以分項指標回頭檢查那個分數合不合理；分五等級：特優 19-20、優 15-18、可 10-14、差 5-9、劣 0-4。分項為內容 5、組織 5、文法句構 4、字彙拼字 4、體例 2。每份試卷兩位委員各自評分後取平均，差距達該大題配分 30% 時由第三位主閱評分。",
+     "keypoint": "99 那份說明沒有點名該年度最常見的失分，這裡改記官方明訂的三條體例規則：字數明顯不足扣 1 分、未分段扣 1 分、寫多段不扣分。學生常誤以為指定兩段就絕對不能多寫一段。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?sid=0J074595769646154635&xsmsid=0J071646661300229964",
+      "label": "大考中心 99 指考英文作文佳作十篇（原卷影像檔與簡要評分說明）",
+      "note": "十篇取材為榴槤、莫拉克災區、住校後回家、比賽汗味、妹妹尿布、寄宿家庭地毯、母親髮上玫瑰香、書店的書味、阿姨的櫻花香、祖父母家的老舊味，多數不是香味。想寫汗味的，第 4 篇把汗臭寫成友誼，官方評語說它「內容切題，且有適切的理由及細節支持文章重點」。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目給的是三個任務不是兩個：情境、初聞的感受、至今難忘的理由。學生最常漏掉中間那一個，直接跳到「這味道讓我想起我爸」。寫完把三件各佔幾句數一遍，缺的那一件補回去。官方指標寫的「具體、完整的相關細節」指的是五公里、六個早上、三十個剛跑完的人、只講成績這些東西，不是「那個味道很難忘」。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段用 would 寫那一週每天重複的事，第二段寫上個月經過健身房那一次，時態本身就在分工，不必再靠轉承語硬接。第二段的推進是：撞見味道、回到那幾個早上、說出理由。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇只有一個進階句型，收尾的分裂句 it is the smell … that has stayed with me the longest；其餘是 who 引導的關係子句、had just finished 的過去完成、instead of + N、would 寫習慣，都是課本教過的。官方寫「文句結構富變化」不等於句句求難——挑一個句型放在收尾，比整篇硬拗有效。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "這一項在 99 指考是 4 分，體例另計 2 分；110 指考與 108 學測起體例不再獨立，格式與標點併進文法句構、大小寫併進字彙拼字，現行學測這一項是 5 分。對寫作的意思有兩個。第一，選字要準：loop、lap、leg 中文都能說成「一圈、一段」，三個字都不難，選錯卻扣在「用字精確、得宜」那一格。這篇範文裡凡是歷屆考過的字，級數都落在 1 到 3 級，沒有 5 級以上——作文不是拿來秀難字的。第二，大小寫現在跟拼字同一項：句首、專有名詞、I 忘了大寫，扣的地方跟拼錯字一樣，Imperial Palace、Tokyo 寫完回頭掃一遍。"
+     },
+     {
+      "k": "體例",
+      "t": "題目說兩段就寫兩段；多寫一段不扣分，不分段扣 1 分。這一項不必想，檢查就有分。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-08-28",
+    "groups": [
+     {
+      "name": "基本字彙（Production）",
+      "entries": [
+       {
+        "w": "catch the smell of + N",
+        "zh": "（不經意地）聞到",
+        "own": true
+       },
+       {
+        "w": "a sharp / faint / strong smell",
+        "zh": "刺鼻的／淡淡的／濃烈的味道",
+        "own": true
+       },
+       {
+        "w": "the smell fills + 地方",
+        "zh": "味道充滿（某處）",
+        "own": true
+       },
+       {
+        "w": "smell of + N",
+        "zh": "身上帶著（某種）味道",
+        "own": true
+       },
+       {
+        "w": "take sb back to + 時間",
+        "zh": "把人帶回到（某個時候）",
+        "own": true
+       },
+       {
+        "w": "give sb back + N",
+        "zh": "把（某樣東西）還給某人、換回",
+        "own": true
+       },
+       {
+        "w": "stay with sb",
+        "zh": "留在某人心裡",
+        "own": true
+       },
+       {
+        "w": "run the loop / a lap / the last leg",
+        "zh": "繞一整圈／跑道上的一圈／全程的最後一段",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "上個月我經過學校附近的健身房，從門口聞到同樣的味道。",
+        "en": "Last month I passed a gym near my school and caught the smell of wet shoes through the open door.",
+        "hint": "「聞到」用 catch，後面接 the smell of + 名詞。",
+        "covers": [
+         "catch the smell of + N"
+        ],
+        "bold": [
+         "caught the smell of wet shoes"
+        ]
+       },
+       {
+        "zh": "一股刺鼻的味道從門口一直充滿到後牆。",
+        "en": "A strong smell filled the room from the door to the back wall.",
+        "hint": "smell 當主詞、後面接地方時用 fill，不加介系詞。",
+        "covers": [
+         "a sharp / faint / strong smell",
+         "the smell fills + 地方"
+        ],
+        "bold": [
+         "A strong smell",
+         "filled the room"
+        ]
+       },
+       {
+        "zh": "我們每次走出來，身上帶的是肥皂味，不是汗味。",
+        "en": "Each time we walked out smelling of soap instead of sweat.",
+        "hint": "身上帶著某樣東西本身的味道用 smell of；smell like 是拿別的東西來比喻。",
+        "covers": [
+         "smell of + N"
+        ],
+        "bold": [
+         "smelling of soap"
+        ]
+       },
+       {
+        "zh": "那個味道一下子把我帶回那幾個早上。",
+        "en": "That smell took me back to those mornings before I had time to think.",
+        "hint": "take sb back to 後面接時間或地點，不接 V-ing。",
+        "covers": [
+         "take sb back to + 時間"
+        ],
+        "bold": [
+         "took me back to"
+        ]
+       },
+       {
+        "zh": "照片能讓我看見那個地方，卻換不回一個安靜的早上。",
+        "en": "A photograph can show me the place, but it cannot give me back one quiet morning.",
+        "hint": "受詞是代名詞時放在 give 與 back 中間。",
+        "covers": [
+         "give sb back + N"
+        ],
+        "bold": [
+         "give me back one quiet morning"
+        ]
+       },
+       {
+        "zh": "那趟旅行帶回來的東西裡，留在我心裡最久的是那個味道。",
+        "en": "Of all the things I brought home from that trip, it is that smell that has stayed with me the longest.",
+        "hint": "用分裂句 it is … that … 把要強調的部分放到 it is 後面。",
+        "covers": [
+         "stay with sb"
+        ],
+        "bold": [
+         "stayed with me the longest"
+        ]
+       },
+       {
+        "zh": "那一週每天早上，我們一起繞皇居跑完整整一圈。",
+        "en": "Every morning that week we ran the whole loop around the Imperial Palace together.",
+        "hint": "繞回原點的整圈是 loop；跑道、泳道上的一圈才是 lap；leg 是長程裡的一段，後面還有下一段。三個中文都能說成「一圈、一段」，先問這個字在回答哪一件事。",
+        "covers": [
+         "run the loop / a lap / the last leg"
+        ],
+        "bold": [
+         "ran the whole loop"
+        ]
+       }
+      ],
+      "note": "這一組是這一題寫作文用得到的，要寫得出來，也要拼得對。最後一列不是字詞搭配，是辨義——中文分不開、英文分得很清楚的一組。"
+     },
+     {
+      "name": "參考字彙（Recognition）",
+      "entries": [
+       {
+        "w": "stink",
+        "zh": "很臭（講話會用；作文寫 smell bad 或 give off a strong smell）",
+        "own": true
+       },
+       {
+        "w": "deodorant",
+        "zh": "體香劑、體香膏",
+        "own": true
+       },
+       {
+        "w": "sweaty",
+        "zh": "流著汗的、汗涔涔的",
+        "own": true
+       },
+       {
+        "w": "odor",
+        "zh": "異味（比 smell 更偏不好聞）",
+        "own": true
+       }
+      ],
+      "note": "這一組讀文章時會遇到，認得就好，不必背拼法。作文考的是運用學過的詞彙，用字要準、要得宜；真要寫，用上面那一組比較保險。"
+     }
+    ]
+   },
+   "listening": {
+    "note": "這是口語討論，練聽力、蒐集想法很好，但口語的用字語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。",
+    "items": [
+     {
+      "title": "How do we describe smells?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-08-27",
+      "length": "6 分 38 秒",
+      "blurb": "Neil 與 Georgie 討論英文為什麼很少直接描述氣味，多半靠「像什麼東西的味道」來說。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260827",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://open.spotify.com/episode/4F4sHy6AGhG5aoUJsmp5Qj",
+      "altLabel": "Spotify",
+      "checked": "2026 年 8 月"
+     }
+    ]
+   }
   },
   {
    "id": "E98_GSAT",
