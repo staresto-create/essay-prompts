@@ -70,6 +70,8 @@
   .mdMap{list-style:none;padding:0;margin:0;}
   .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .mdK{font-weight:700;margin-right:6px;}
+  .mdSamples{font-size:12.5px;margin:0 0 9px;}
+  .mdSamplesNote{font-size:12px;color:#7A7263;line-height:1.75;margin-top:4px;}
   .mdSrc{font-size:11.5px;color:#8A8271;margin-top:9px;}
   .lsBox{margin-top:12px;border:1px solid #D9E2E6;border-radius:6px;background:#F5F9FA;padding:11px 13px;}
   .lsHd{font-weight:700;font-size:13.5px;margin-bottom:6px;}
@@ -644,6 +646,18 @@ function card(it){
       body.appendChild(el('div','mdH','官方怎麼給分'));
       if(m.rubric.intro)body.appendChild(el('p','mdIntro',m.rubric.intro));
       if(m.rubric.keypoint)body.appendChild(el('p','mdKey',m.rubric.keypoint));
+      // 佳作頁：caveat 叫讀者「點進去自己看一遍」，就得真的有一個點得下去的連結。
+      // 體例與上方延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
+      const sm=m.rubric.samples;
+      if(sm&&sm.url){
+        const sp=el('div','mdSamples');
+        const a=document.createElement('a');
+        a.href=sm.url;a.target='_blank';a.rel='noopener';
+        a.textContent=(sm.label||'官方佳作')+' ↗';
+        sp.appendChild(a);
+        if(sm.note)sp.appendChild(el('div','mdSamplesNote',sm.note));
+        body.appendChild(sp);
+      }
     }
     if(m.mapping && m.mapping.length){
       body.appendChild(el('div','mdH','這篇在五個項目上各做了什麼'));
