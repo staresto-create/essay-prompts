@@ -30,6 +30,8 @@
   .wbHd{display:flex;align-items:center;justify-content:space-between;gap:10px;flex-wrap:wrap;}
   .wbTitle{font-weight:700;font-size:14px;}
   .wbNote{font-size:12px;color:#7A7263;margin:6px 0 10px;}
+  .wbNoSrc{display:none;font-size:12px;color:#7A7263;margin:6px 0 10px;}
+  .wbTip{font-size:12px;color:#7A7263;margin:8px 0 4px;}
   .wbBtn{font:inherit;font-size:12px;padding:3px 10px;border:1px solid #C9BFA6;border-radius:999px;background:#fff;cursor:pointer;}
   .wbGrp{margin-top:10px;}
   .wbGrpName{font-size:12.5px;font-weight:700;color:#5C5342;margin-bottom:4px;}
@@ -500,11 +502,17 @@ function card(it){
     hd.appendChild(el('span','wbTitle',tks.length?'主題字詞搭配 · '+tks.join('、'):'這一題的字詞搭配'));
     const btn=document.createElement('button');
     btn.className='wbBtn';btn.type='button';btn.textContent='顯示出處';
+    // 全部條目都是本站補足時，這顆鈕按下去畫面上不會有任何變化，看起來像壞掉。
+    // 改為當場說明「這一題」的狀況，並告訴讀者別的題目按了是有東西的。
+    const nSrc=groups.reduce((n,g)=>n+(g.entries||[]).filter(e=>e.src).length,0);
+    const noSrc=el('p','wbNoSrc','這一題的條目全部由本站補足，未取自歷屆真題。其他題目多半有考過的出處，按這顆鈕就會顯示。');
     btn.addEventListener('click',()=>{
       const on=b.classList.toggle('showSrc');
       btn.textContent=on?'隱藏出處':'顯示出處';
+      if(!nSrc)noSrc.style.display=on?'block':'none';
     });
     hd.appendChild(btn);b.appendChild(hd);
+    if(!nSrc)b.appendChild(noSrc);
     notes.forEach(n=>b.appendChild(el('p','wbNote',n)));
 
     groups.forEach(g=>{
@@ -539,13 +547,17 @@ function card(it){
       });
       gd.appendChild(ul);
 
-      // 練習句：中文 →（想不出來）提示 →（寫完）範文。三層都預設收起，不逼人打字。
+      // 練習句：中文 →（想不出來）提示 →（寫完）參考答案。三層都預設收起，不逼人打字。
+      // 收起狀態看不出可以點，站主自己也找過一次，故在第一則之前補一行提示；
+      // 用字沿用主題級 note 既有那句，不另造說法。
+      if((g.sentences||[]).length)
+        gd.appendChild(el('p','wbTip','先自己寫寫看，想不出來再點提示，寫完再對照參考答案。'));
       (g.sentences||[]).forEach(s=>{
         const dt=document.createElement('details');dt.className='wbPr';
         const sm=document.createElement('summary');sm.textContent=s.zh;dt.appendChild(sm);
         const bd=el('div','wbBody');
         const ta=document.createElement('textarea');
-        ta.className='wbTa';ta.placeholder='請輸入你的英文寫法……（不想寫可以直接看範文）';
+        ta.className='wbTa';ta.placeholder='請輸入你的英文寫法……（不想寫可以直接看參考答案）';
         bd.appendChild(ta);
         const row=el('div','wbRow');
         const hintBox=el('div','wbHint',s.hint||'');
@@ -584,11 +596,11 @@ function card(it){
           row.appendChild(hb);
         }
         const rb=document.createElement('button');
-        rb.className='wbBtn';rb.type='button';rb.textContent='看範文';
+        rb.className='wbBtn';rb.type='button';rb.textContent='看參考答案';
         rb.addEventListener('click',()=>{
           const on=enBox.style.display!=='block';
           enBox.style.display=on?'block':'none';
-          rb.textContent=on?'收起範文':'看範文';
+          rb.textContent=on?'收起參考答案':'看參考答案';
         });
         row.appendChild(rb);
         bd.appendChild(row);bd.appendChild(hintBox);bd.appendChild(enBox);
