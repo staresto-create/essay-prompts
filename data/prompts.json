@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-08-24",
+ "updated": "2026-09-03",
  "count": 62,
  "items": [
   {
@@ -97,7 +97,304 @@
    ],
    "source": "大學入學考試中心 114 學年度學科能力測驗英文考科",
    "promptSummary": "圖片對比颱風假時，民眾在室內休閒娛樂與在室外風雨中奔波的情景。要求描述情景，再說明個人看法與\n經驗。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "listening": {
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。",
+    "items": [
+     {
+      "title": "Climate change and extreme weather",
+      "series": "BBC 6 Minute English",
+      "date": "2026-09-03",
+      "length": "6 分 36 秒",
+      "blurb": "Phil 與 BBC 氣象主播 Sarah Keith-Lucas 談颱風、颶風這類熱帶風暴，以及氣候變遷是否讓災損更嚴重。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260903",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://open.spotify.com/episode/4dcz9mBIO4e1HvKia4WltM",
+      "altLabel": "Spotify",
+      "checked": "2026 年 9 月"
+     }
+    ]
+   },
+   "model": {
+    "essay": {
+     "words": 234,
+     "p1": "A typhoon day off does not look the same for everyone. In the first picture, the storm has not really arrived. The rain is light, and the streets are full of people who suddenly have a free day: the movie theater is packed, and the line in front of the ticket window reaches the door. In the second picture, the same day off looks completely different. Heavy rain falls on a busy road, cars move slowly through the water, and riders on scooters are pushed sideways by the wind. Some of them still have to work, and every corner they turn is a risk.",
+     "p2": "I have lived through both kinds of days. Once our city called off classes and nothing happened at all; my classmates laughed about it online and said the mayor was too careful. Two years later, classes were not canceled, and I walked home through water up to my knees. Since then I have stopped judging the decision by the weather outside my own window. A typhoon does not hit every district equally, and a farmer, a delivery rider, and a student do not face the same danger. What worries me more is that these storms are getting harder to predict, because warmer oceans give them more energy and more rain. When a wrong guess can cost someone a life, I would rather the government be too careful than too brave.",
+     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。"
+    },
+    "rubric": {
+     "source": "大考中心 114 學年度學科能力測驗英文考科非選擇題評分原則",
+     "intro": "英文作文依內容、組織、文法句構、字彙拼字四項表現評分，各項得分加總後給一個整體分數（holistic score），再依總分 1 至 20 分分為特優（19-20）、優（15-18）、可（10-14）、差（5-9）、劣（0-4）五個等級。文長要求至少 120 個單詞，字數明顯不足扣總分 1 分，未分段亦扣總分 1 分。",
+     "keypoint": "題目明白交代兩件事：第一段依對比圖片描述颱風假可能出現的兩種情景，第二段說明自己的看法與經驗。只完成其中一項，內容與組織兩項都會受影響。這是結構問題，不是英文好不好的問題。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "兩段各自完成一項任務。官方要的「充分、具體之細節」指的是售票口排到門口、車子在積水裡慢行、騎士被側風吹歪這些看得見的畫面，以及第二段裡涉水回家的那一次，不是「颱風很危險」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段用兩張圖對照，最後收成一句；第二段照時間推進——當年停課卻沒事、兩年後沒停課卻淹水、現在的判斷。前後是一條線。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自 who 關係子句、被動語態（are pushed）、have stopped + V-ing 與 would rather … than。句子寫得清楚比寫得繁複重要。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "用字都在大考中心詞彙表四級以內。scooter、district、predict 這幾個字考前確認拼法。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-09-03",
+    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "基本字彙（Production）",
+      "entries": [
+       {
+        "w": "a typhoon day off",
+        "zh": "颱風假（不是 vacation，那是寒暑假或度假）",
+        "own": true
+       },
+       {
+        "w": "call off / cancel classes",
+        "zh": "停課",
+        "src": "92年學測 Q1、100年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0151"
+        ]
+       },
+       {
+        "w": "suspend work and classes",
+        "zh": "停止上班上課",
+        "own": true
+       },
+       {
+        "w": "the weather bureau",
+        "zh": "氣象局（現稱中央氣象署 Central Weather Administration）",
+        "src": "108年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0408"
+        ]
+       },
+       {
+        "w": "predict the weather / a typhoon",
+        "zh": "預測天氣、預測颱風動向",
+        "src": "108年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0408"
+        ]
+       },
+       {
+        "w": "issue an alert / be on alert",
+        "zh": "發布警報／進入戒備",
+        "src": "103年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
+        ]
+       },
+       {
+        "w": "a natural disaster",
+        "zh": "天災",
+        "src": "99年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0283"
+        ]
+       },
+       {
+        "w": "severe damage",
+        "zh": "嚴重災損",
+        "src": "99年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282"
+        ]
+       },
+       {
+        "w": "ruin one's farm / crops",
+        "zh": "毀掉農田、農作物",
+        "src": "105年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0373"
+        ]
+       },
+       {
+        "w": "a sharp decline in harvests",
+        "zh": "收成大幅減少",
+        "src": "99年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282"
+        ]
+       },
+       {
+        "w": "collapse",
+        "zh": "倒塌（路樹、招牌、房屋）",
+        "src": "102年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0328"
+        ]
+       },
+       {
+        "w": "for one's own safety",
+        "zh": "為了自身安全（不用 safe）",
+        "src": "86年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0042"
+        ]
+       },
+       {
+        "w": "reduce the risk of injury",
+        "zh": "降低受傷的風險",
+        "src": "105年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0365"
+        ]
+       },
+       {
+        "w": "shelter sb from / take shelter",
+        "zh": "讓某人免受…、找地方躲避",
+        "src": "102年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0111"
+        ]
+       },
+       {
+        "w": "be delayed",
+        "zh": "（班機、班次）延誤",
+        "src": "85年推薦甄選 Q18",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0038"
+        ]
+       },
+       {
+        "w": "wade through knee-deep water",
+        "zh": "涉水而過，水深及膝",
+        "own": true
+       },
+       {
+        "w": "a fallen tree / a fallen sign",
+        "zh": "倒下的路樹／掉落的招牌",
+        "own": true
+       },
+       {
+        "w": "a power outage",
+        "zh": "停電",
+        "own": true
+       },
+       {
+        "w": "commute in the wind and rain",
+        "zh": "在風雨中通勤",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "氣象局預測颱風會帶來強風豪雨，市府傍晚宣布隔天停止上班上課。",
+        "en": "The weather bureau predicted that the typhoon would bring strong winds and heavy rains, and the city government announced that evening that work and classes would be suspended the next day.",
+        "hint": "「預測…會…」用 predict that + 子句，主要子句是過去式，that 子句就用 would。「停止上班上課」的固定說法是 suspend work and classes。",
+        "covers": [
+         "the weather bureau",
+         "predict the weather / a typhoon",
+         "suspend work and classes"
+        ],
+        "bold": [
+         "The weather bureau",
+         "predicted",
+         "work and classes would be suspended"
+        ]
+       },
+       {
+        "zh": "結果整天無風無雨，電影院擠滿了人，售票口的隊伍一路排到門口。",
+        "en": "In the end there was neither wind nor rain all day; the movie theater was packed, and the line in front of the ticket window reached the door.",
+        "hint": "「無風無雨」用 neither A nor B 比寫兩個否定句乾淨。",
+        "covers": [
+         "a typhoon day off"
+        ],
+        "bold": [
+         "packed",
+         "the line in front of the ticket window"
+        ]
+       },
+       {
+        "zh": "兩年後那次沒放假，路樹倒了一地，我涉著及膝的積水走回家。",
+        "en": "Two years later, no day off was called; fallen trees lay across the road, and I waded home through knee-deep water.",
+        "hint": "「及膝的積水」有現成說法 knee-deep water，不必寫成 water as deep as my knees。",
+        "covers": [
+         "a fallen tree / a fallen sign",
+         "wade through knee-deep water"
+        ],
+        "bold": [
+         "fallen trees",
+         "waded home through knee-deep water"
+        ]
+       },
+       {
+        "zh": "那場水災毀了叔叔的果園，嚴重的災損讓那年冬天的收成大幅減少。",
+        "en": "The flood ruined my uncle's orchard, and the severe damage led to a sharp decline in harvests that winter.",
+        "hint": "「毀掉」用 ruin，主詞是災害本身；「造成」用 lead to 接名詞，比 make 精確。",
+        "covers": [
+         "ruin one's farm / crops",
+         "severe damage",
+         "a sharp decline in harvests"
+        ],
+        "bold": [
+         "ruined",
+         "severe damage",
+         "a sharp decline in harvests"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "參考字彙（Recognition）",
+      "entries": [
+       {
+        "w": "evacuate sb from + 地方",
+        "zh": "把某人自…撤離",
+        "src": "103年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0090"
+        ]
+       },
+       {
+        "w": "a water shortage",
+        "zh": "缺水",
+        "src": "101年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0113"
+        ]
+       },
+       {
+        "w": "be suspended from + N",
+        "zh": "被停職、被勒令停學（與「停班停課」不同義）",
+        "src": "89年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0095"
+        ]
+       },
+       {
+        "w": "extremes of weather / a climate of extremes",
+        "zh": "天氣的兩極、極端的氣候（恆用複數）",
+        "src": "105年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0068"
+        ]
+       },
+       {
+        "w": "a tropical storm",
+        "zh": "熱帶風暴（颱風、颶風、氣旋的統稱）",
+        "own": true
+       },
+       {
+        "w": "intensify",
+        "zh": "（風暴）增強",
+        "own": true
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "E113_GSAT",
