@@ -163,7 +163,8 @@
         "zh": "停課",
         "src": "92年學測 Q1、100年學測 Q5",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0151"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0151",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0290"
         ]
        },
        {
@@ -206,9 +207,10 @@
        {
         "w": "severe damage",
         "zh": "嚴重災損",
-        "src": "99年學測 Q12",
+        "src": "99年學測 Q12、107年學測中譯英第1題",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282",
+         "https://staresto-create.github.io/JCEE-vocab-questions/translate/#q-116"
         ]
        },
        {
@@ -257,6 +259,30 @@
         "src": "102年指考 Q9",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0111"
+        ]
+       },
+       {
+        "w": "when a typhoon strikes",
+        "zh": "颱風來襲時（時間副詞子句用現在式代替未來式）",
+        "src": "107年學測中譯英第2題",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/translate/#q-117"
+        ]
+       },
+       {
+        "w": "stay indoors",
+        "zh": "待在室內（indoors 本身是副詞，不寫 stay in indoors）",
+        "src": "107年學測中譯英第2題",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/translate/#q-117"
+        ]
+       },
+       {
+        "w": "move to a safe place",
+        "zh": "移往安全的地方",
+        "src": "107年學測中譯英第2題",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/translate/#q-117"
         ]
        },
        {
