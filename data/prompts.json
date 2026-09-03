@@ -619,7 +619,10 @@
        {
         "w": "courtesy",
         "zh": "禮貌、為人著想",
-        "src": "96年指考 Q2"
+        "src": "96年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164"
+        ]
        }
       ]
      },
@@ -657,7 +660,7 @@
         "src": "95年學測 Q34、104年學測 Q11",
         "srcUrl": [
          "https://staresto-create.github.io/passage-completion/#hard-Vy95_34",
-         null
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356"
         ]
        },
        {
@@ -1136,7 +1139,10 @@
        {
         "w": "impatient",
         "zh": "不耐煩的",
-        "src": "86年聯考 Q3"
+        "src": "86年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0276"
+        ]
        },
        {
         "w": "miss out on",
@@ -1647,7 +1653,10 @@
        {
         "w": "notice",
         "zh": "注意到",
-        "src": "97年學測 Q1"
+        "src": "97年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
+        ]
        },
        {
         "w": "offer sb one's seat",
@@ -1662,7 +1671,10 @@
        {
         "w": "ignore",
         "zh": "忽視、不理會",
-        "src": "94年學測 Q2"
+        "src": "94年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0197"
+        ]
        },
        {
         "w": "give up one's seat",
@@ -1677,12 +1689,18 @@
        {
         "w": "considerate",
         "zh": "體貼的、替人著想的",
-        "src": "103年指考 Q1"
+        "src": "103年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081"
+        ]
        },
        {
         "w": "aware",
         "zh": "注意到周遭的",
-        "src": "106年學測 Q14"
+        "src": "106年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0389"
+        ]
        },
        {
         "w": "stay aware of those around one",
@@ -1995,7 +2013,10 @@
        {
         "w": "notice",
         "zh": "注意到",
-        "src": "97年學測 Q1"
+        "src": "97年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
+        ]
        },
        {
         "w": "pick sth up",
@@ -2994,17 +3015,23 @@
       {
        "w": "chore / chores",
        "zh": "雜務、家事",
-       "src": "99年學測 Q10"
+       "src": "99年學測 Q10",
+       "srcUrl": [
+        "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0280"
+       ]
       },
       {
        "w": "household",
        "zh": "家庭的、一家人的",
-       "src": "99年學測 Q10"
+       "own": true
       },
       {
        "w": "domestic",
        "zh": "家庭的、家務的",
-       "src": "101年學測 Q9"
+       "src": "101年學測 Q9",
+       "srcUrl": [
+        "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0309"
+       ]
       },
       {
        "w": "do the laundry / fold the clothes",
@@ -3225,7 +3252,11 @@
       {
        "w": "equally",
        "zh": "平均地、平等地",
-       "src": "97年學測 Q13、98年指考參考試卷 Q1"
+       "src": "97年學測 Q13、98年指考參考試卷 Q1",
+       "srcUrl": [
+        "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0253",
+        "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0334"
+       ]
       },
       {
        "w": "gender roles",
@@ -3330,7 +3361,10 @@
       {
        "w": "interact with sb",
        "zh": "與某人互動",
-       "src": "104年學測 Q14"
+       "src": "104年學測 Q14",
+       "srcUrl": [
+        "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359"
+       ]
       }
      ],
      "sentences": [
