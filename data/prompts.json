@@ -151,7 +151,7 @@
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
-      "name": "基本字彙（Production）",
+      "name": "活用型單字（Words for Production）",
       "entries": [
        {
         "w": "a typhoon day off",
@@ -370,10 +370,11 @@
          "a sharp decline in harvests"
         ]
        }
-      ]
+      ],
+      "note": "這一題要自己寫得出來的"
      },
      {
-      "name": "參考字彙（Recognition）",
+      "name": "辨識型單字（Words for Recognition）",
       "entries": [
        {
         "w": "evacuate sb from + 地方",
@@ -417,7 +418,8 @@
         "zh": "（風暴）增強",
         "own": true
        }
-      ]
+      ],
+      "note": "看得懂就好，不必自己寫"
      }
     ]
    }
@@ -583,7 +585,8 @@
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
-      "name": "人潮與從眾",
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "walk right into",
@@ -597,12 +600,7 @@
         "srcUrl": [
          "https://staresto-create.github.io/passage-completion/#hard-Vy100_31"
         ]
-       }
-      ]
-     },
-     {
-      "name": "評價與心態",
-      "entries": [
+       },
        {
         "w": "behave oneself",
         "zh": "守規矩、舉止合宜",
@@ -623,12 +621,7 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164"
         ]
-       }
-      ]
-     },
-     {
-      "name": "規範與場地",
-      "entries": [
+       },
        {
         "w": "in full bloom",
         "zh": "開得正盛",
@@ -671,11 +664,7 @@
          "https://staresto-create.github.io/passage-completion/#hard-Vz97_31"
         ]
        }
-      ]
-     },
-     {
-      "name": "這一題的練習句",
-      "entries": [],
+      ],
       "sentences": [
        {
         "zh": "新聞畫面裡一整片花田開得正盛，卻有十幾個遊客直接走進花叢中間。",
@@ -849,18 +838,14 @@
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
-      "name": "現場動作",
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "let go",
         "zh": "放手",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "人潮與從眾",
-      "entries": [
+       },
        {
         "w": "rush in",
         "zh": "衝進去",
@@ -888,12 +873,7 @@
         "w": "stretch all the way to",
         "zh": "一路排到",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "評價與心態",
-      "entries": [
+       },
        {
         "w": "a moment's hesitation",
         "zh": "一遲疑",
@@ -911,22 +891,13 @@
         "srcUrl": [
          "https://staresto-create.github.io/passage-completion/#hard-Vz98_23"
         ]
-       }
-      ]
-     },
-     {
-      "name": "敘事與轉折骨架",
-      "entries": [
+       },
        {
         "w": "only after… + 倒裝",
         "zh": "⋯⋯之後才⋯⋯",
         "own": true
        }
-      ]
-     },
-     {
-      "name": "這一題的練習句",
-      "entries": [],
+      ],
       "sentences": [
        {
         "zh": "週年慶第一天，百貨公司大門一開，人群就往裡面衝。",
@@ -1119,7 +1090,8 @@
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
-      "name": "人潮與從眾",
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "form a long line",
@@ -1148,12 +1120,7 @@
         "w": "miss out on",
         "zh": "錯過別人有的",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "評價與心態",
-      "entries": [
+       },
        {
         "w": "be no different from",
         "zh": "跟⋯⋯沒什麼兩樣",
@@ -1163,12 +1130,7 @@
         "w": "be worth the wait",
         "zh": "值得等",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "敘事與轉折骨架",
-      "entries": [
+       },
        {
         "w": "only to V",
         "zh": "結果卻⋯⋯（出乎意料）",
@@ -1179,11 +1141,7 @@
         "zh": "愈⋯⋯愈⋯⋯",
         "own": true
        }
-      ]
-     },
-     {
-      "name": "這一題的練習句",
-      "entries": [],
+      ],
       "sentences": [
        {
         "zh": "店都還沒開門，門口已經排了長長一條隊伍。",
@@ -1375,7 +1333,8 @@
     "updated": "2026-08-24",
     "groups": [
      {
-      "name": "第二段敘事會用到",
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "take turns (V-ing)",
@@ -1419,8 +1378,7 @@
          "setting a good example"
         ]
        }
-      ],
-      "note": "這一組僅屬本題，是第二段敘事會用到的補充。"
+      ]
      }
     ]
    },
@@ -1638,7 +1596,8 @@
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
-      "name": "現場動作",
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "stare at",
@@ -1680,12 +1639,7 @@
         "w": "give up one's seat",
         "zh": "讓座",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "評價與心態",
-      "entries": [
+       },
        {
         "w": "considerate",
         "zh": "體貼的、替人著想的",
@@ -1732,32 +1686,18 @@
         "w": "be willing to V",
         "zh": "願意",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "規範與場地",
-      "entries": [
+       },
        {
         "w": "priority seat",
         "zh": "博愛座",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "敘事與轉折骨架",
-      "entries": [
+       },
        {
         "w": "not until… + 倒裝",
         "zh": "一直到⋯⋯才⋯⋯",
         "own": true
        }
-      ]
-     },
-     {
-      "name": "這一題的練習句",
-      "entries": [],
+      ],
       "sentences": [
        {
         "zh": "捷運上一位老先生上了車，博愛座上的年輕人一直低頭滑手機，假裝沒看見。",
@@ -2008,7 +1948,8 @@
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
-      "name": "現場動作",
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "notice",
@@ -2037,12 +1978,7 @@
         "w": "turn sth down",
         "zh": "婉拒",
         "own": true
-       }
-      ]
-     },
-     {
-      "name": "評價與心態",
-      "entries": [
+       },
        {
         "w": "reward",
         "zh": "報酬、回報",
@@ -2050,22 +1986,13 @@
         "srcUrl": [
          "https://staresto-create.github.io/passage-completion/#hard-Vy96_38"
         ]
-       }
-      ]
-     },
-     {
-      "name": "敘事與轉折骨架",
-      "entries": [
+       },
        {
         "w": "It is not that…; …simply…",
         "zh": "不是⋯⋯，只是⋯⋯",
         "own": true
        }
-      ]
-     },
-     {
-      "name": "這一題的練習句",
-      "entries": [],
+      ],
       "sentences": [
        {
         "zh": "一個學生在麵店吃完麵，發現隔壁客人走了以後，長凳上留著一個袋子。",
@@ -2221,7 +2148,7 @@
     "updated": "2026-08-28",
     "groups": [
      {
-      "name": "基本字彙（Production）",
+      "name": "活用型單字（Words for Production）",
       "entries": [
        {
         "w": "catch the smell of + N",
@@ -2345,10 +2272,10 @@
         ]
        }
       ],
-      "note": "這一組是這一題寫作文用得到的，要寫得出來，也要拼得對。最後一列不是字詞搭配，是辨義——中文分不開、英文分得很清楚的一組。"
+      "note": "這一題要自己寫得出來的"
      },
      {
-      "name": "參考字彙（Recognition）",
+      "name": "辨識型單字（Words for Recognition）",
       "entries": [
        {
         "w": "stink",
@@ -2371,7 +2298,7 @@
         "own": true
        }
       ],
-      "note": "這一組讀文章時會遇到，認得就好，不必背拼法。作文考的是運用學過的詞彙，用字要準、要得宜；真要寫，用上面那一組比較保險。"
+      "note": "看得懂就好，不必自己寫"
      }
     ]
    },
