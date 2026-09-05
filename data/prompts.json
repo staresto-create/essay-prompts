@@ -1204,7 +1204,7 @@
    "images": [],
    "source": "大學入學考試中心 107 學年度學科能力測驗英文考科",
    "wordBank": {
-    "updated": "2026-08-24",
+    "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
@@ -1323,6 +1323,60 @@
         ]
        }
       ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "publicity",
+        "zh": "曝光度、免費得來的知名度（gain publicity。花錢買的曝光是 advertising，兩個不一樣）",
+        "src": "94年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0209"
+        ]
+       },
+       {
+        "w": "be worthy of + N",
+        "zh": "值得（worth 後面接名詞或動名詞，worthy 後面一定要加 of）",
+        "src": "90年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0109"
+        ]
+       },
+       {
+        "w": "mislead sb into V-ing / misleading advertising",
+        "zh": "誤導某人去做…／誤導性廣告",
+        "src": "109年(補考) Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0014"
+        ]
+       },
+       {
+        "w": "supposedly",
+        "zh": "號稱、據說（配的是「宣稱有、實際上未必」那一類形容詞）",
+        "src": "112年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470"
+        ]
+       },
+       {
+        "w": "a legendary + N / become legendary",
+        "zh": "傳奇的、傳為佳話的",
+        "src": "105年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0069"
+        ]
+       },
+       {
+        "w": "steaming hot / a steaming bowl of + 食物",
+        "zh": "滾燙的／一碗熱騰騰的…",
+        "src": "109年(補考) Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0011"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
