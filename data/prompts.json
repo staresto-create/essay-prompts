@@ -1502,7 +1502,7 @@
    "prompt": "你認為家裡生活環境的維持應該是誰的責任?請寫一篇短文說明你的看法。文分兩段，第一段說明你對家事該如何分工的看法及理由，第二段舉例說明你家中家事分工的情形，並描述你自己做家事的經驗及感想。",
    "images": [],
    "wordBank": {
-    "updated": "2026-08-24",
+    "updated": "2026-09-05",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -1517,6 +1517,14 @@
         "w": "at first… later on…",
         "zh": "起初…後來…",
         "own": true
+       },
+       {
+        "w": "be reluctant to V",
+        "zh": "不情願做…（固定接不定詞。反義是 be willing to V）",
+        "src": "102年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0320"
+        ]
        },
        {
         "w": "set a good example",
@@ -1551,6 +1559,60 @@
         ]
        }
       ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "live / be in harmony with sb",
+        "zh": "和睦相處（介系詞固定用 with）",
+        "src": "98年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0262"
+        ]
+       },
+       {
+        "w": "express gratitude to sb for + N",
+        "zh": "向某人表達感激（to 配人、for 配事；a debt of gratitude 是一份還不了的人情）",
+        "src": "93年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0193"
+        ]
+       },
+       {
+        "w": "be considerate of / towards sb",
+        "zh": "體貼某人（也可寫 It is considerate of sb to V）",
+        "src": "103年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081"
+        ]
+       },
+       {
+        "w": "break / relieve the monotony of sth",
+        "zh": "打破、排解…的單調",
+        "src": "106年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0056"
+        ]
+       },
+       {
+        "w": "distribute sth to sb",
+        "zh": "把某物分發給某人（主題字庫用的是 divide A among B，這一個配的是 to）",
+        "src": "85年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0286"
+        ]
+       },
+       {
+        "w": "be accustomed to + N / V-ing",
+        "zh": "習慣於…（to 是介系詞，後面不接原形動詞）",
+        "src": "83年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0002"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    },
