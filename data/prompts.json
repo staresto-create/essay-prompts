@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-03",
+ "updated": "2026-09-05",
  "count": 62,
  "items": [
   {
@@ -581,7 +581,7 @@
    "promptSummary": "圖片為遊客進入花田踐踏，無視「請勿踐踏」告示牌。要求描述圖片內容，再以遊客或場所主人立場表達\n看法。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
-    "updated": "2026-08-24",
+    "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
@@ -752,6 +752,61 @@
         ]
        }
       ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "preserve",
+        "zh": "保存（維持原樣。花田要講的是防止傷害，那是 protect；preserve 用在文化、傳統、野生動物）",
+        "src": "98年學測 Q9、99年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275"
+        ]
+       },
+       {
+        "w": "violate",
+        "zh": "違反（用於正式規章與權利：violate a law／human rights／sb's privacy。現場告示上的規定，日常說 break the rules）",
+        "src": "100年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0292"
+        ]
+       },
+       {
+        "w": "conservation",
+        "zh": "保育（nature／wildlife conservation 自然保育、野生動物保育；energy conservation 節約能源是另一個意思）",
+        "src": "103年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0089"
+        ]
+       },
+       {
+        "w": "ecological damage / the ecological balance",
+        "zh": "生態破壞／生態平衡（講的是整個系統，規模比踩壞一片花田大）",
+        "src": "106年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0059"
+        ]
+       },
+       {
+        "w": "the fragrance of flowers",
+        "zh": "花香（a sweet fragrance 淡淡的香氣。芳香療法是 aromatherapy，不是 fragrance therapy）",
+        "src": "97年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0246"
+        ]
+       },
+       {
+        "w": "a flock of tourists",
+        "zh": "一群觀光客（flock 原指鳥群、羊群，用在人是另一個意思）",
+        "src": "84年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0295"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
