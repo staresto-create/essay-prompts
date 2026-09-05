@@ -1826,7 +1826,7 @@
    "promptSummary": "四格漫畫呈現不同人在「博愛座」前的行為與抉擇。要求想像第四格發展，寫出完整故事。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
-    "updated": "2026-08-24",
+    "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
@@ -1860,6 +1860,14 @@
         "w": "look up from",
         "zh": "從⋯⋯抬起頭",
         "own": true
+       },
+       {
+        "w": "feel awkward + V-ing",
+        "zh": "做某事時覺得尷尬、不自在（接動作用 V-ing，不接 to V）",
+        "src": "92年學測補考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166"
+        ]
        },
        {
         "w": "ignore",
@@ -2028,6 +2036,61 @@
         ]
        }
       ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "show indifference to / towards sb",
+        "zh": "對…漠不關心（介系詞用 to 或 towards；另有 with indifference 冷淡地）",
+        "src": "103年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0082"
+        ]
+       },
+       {
+        "w": "a common courtesy / out of courtesy",
+        "zh": "一種基本禮節／出於禮貌（out of 不用 from）",
+        "src": "85年推薦甄選 Q4、96年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164"
+        ]
+       },
+       {
+        "w": "commute to school / work",
+        "zh": "通勤上學、上班",
+        "src": "85年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0022"
+        ]
+       },
+       {
+        "w": "public transportation / means of transportation",
+        "zh": "大眾運輸、交通工具（車流量才是 traffic）",
+        "src": "95年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0221"
+        ]
+       },
+       {
+        "w": "be entitled to + V",
+        "zh": "有權做…",
+        "src": "104年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0080"
+        ]
+       },
+       {
+        "w": "decline an invitation / an offer",
+        "zh": "婉拒邀請、提議（refuse 是直接拒絕，而且 refuse to + V 不接 V-ing）",
+        "src": "95年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0217"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
