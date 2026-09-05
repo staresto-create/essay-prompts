@@ -889,7 +889,7 @@
    "promptSummary": "圖片為百貨公司週年慶，民眾瘋狂湧入搶購的新聞畫面。要求根據圖片想像一個事件或故事，並描述其後\n續發展與結果。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
-    "updated": "2026-08-24",
+    "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
@@ -905,6 +905,14 @@
         "w": "rush in",
         "zh": "衝進去",
         "own": true
+       },
+       {
+        "w": "elbow one's way through the crowd",
+        "zh": "用手肘推擠穿過人群（one's way 是固定受詞，不能只寫 elbow through）",
+        "src": "115年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0499"
+        ]
        },
        {
         "w": "grab",
@@ -1030,6 +1038,61 @@
         ]
        }
       ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "a sales promotion / promote a product",
+        "zh": "促銷活動／推廣產品（be promoted to + 職位 是升職，另一個意思）",
+        "src": "104年學測 Q11、89年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0097"
+        ]
+       },
+       {
+        "w": "urge sb to V",
+        "zh": "力勸、極力邀請某人做…",
+        "src": "106年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0383"
+        ]
+       },
+       {
+        "w": "resist the temptation",
+        "zh": "抵擋誘惑",
+        "src": "94年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+        ]
+       },
+       {
+        "w": "buy sth on impulse",
+        "zh": "一時衝動買東西（impulse 這個意思固定配 on）",
+        "src": "93年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0190"
+        ]
+       },
+       {
+        "w": "greed for + N",
+        "zh": "對…的貪婪（介系詞用 for，不用 of）",
+        "src": "85年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0285"
+        ]
+       },
+       {
+        "w": "take / ride the escalator",
+        "zh": "搭手扶梯（step onto／off the escalator 踏上、走下）",
+        "src": "110年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0437"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
