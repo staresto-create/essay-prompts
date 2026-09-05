@@ -2241,7 +2241,7 @@
    "promptSummary": "四格漫畫描述一個年輕人在麵店拾獲一個裝滿錢的錢包，面臨道德抉擇。要求想像第四格發展，寫出完整\n故事。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "wordBank": {
-    "updated": "2026-08-24",
+    "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
@@ -2265,6 +2265,14 @@
         "w": "hand sth to sb",
         "zh": "把⋯⋯交給某人",
         "own": true
+       },
+       {
+        "w": "resist the temptation of + N",
+        "zh": "抵擋…的誘惑",
+        "src": "94年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+        ]
        },
        {
         "w": "shake one's head",
@@ -2359,6 +2367,60 @@
         ]
        }
       ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "integrity / professional integrity",
+        "zh": "正直、操守／職業操守",
+        "src": "95年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0177"
+        ]
+       },
+       {
+        "w": "be tempted to V / be sorely tempted to V",
+        "zh": "很想做某事（加 sorely 語氣更強）",
+        "src": "82年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0317"
+        ]
+       },
+       {
+        "w": "morally wrong / right",
+        "zh": "道德上錯的／對的（另有 be morally responsible for 道德上該負責）",
+        "src": "103年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0333"
+        ]
+       },
+       {
+        "w": "lack sincerity / doubt sb's sincerity",
+        "zh": "缺乏誠意／懷疑某人的誠意",
+        "src": "112年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0465"
+        ]
+       },
+       {
+        "w": "show appreciation for + N / in appreciation of + N",
+        "zh": "對某事表示感謝（介系詞用 for）",
+        "src": "93年敏督利颱風受災地區考生補救考試 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0091"
+        ]
+       },
+       {
+        "w": "hesitate to + V",
+        "zh": "猶豫著要不要做…（不接 V-ing）",
+        "src": "87年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0062"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
