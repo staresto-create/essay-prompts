@@ -580,6 +580,42 @@
    "source": "大學入學考試中心 110 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為遊客進入花田踐踏，無視「請勿踐踏」告示牌。要求描述圖片內容，再以遊客或場所主人立場表達\n看法。",
    "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 298,
+     "p1": "The photograph on the news was taken at a flower farm on an ordinary spring weekend. Small white flowers cover the whole field, all in full bloom, and a dozen or so people are standing among them rather than on the path along the edge. Two young women lead the way, one with a bag over her shoulder and the other holding her phone above the blossoms. Further back, several people are crouching down or bending over for a better shot. In the center of the field stands a sign, put there to remind visitors not to trample the flowers, but nobody seems to have read it before stepping inside. A few thin paths, worn through the field by earlier visitors, already run toward the middle, and the two women at the front walk right into the widest of them.",
+     "p2": "I was there that morning, and I stepped in as well, so this is not written to blame anyone in the picture. The farm had become popular a few weeks before, after a travel page promoted it to thousands of followers. By the time I arrived, the paths were already there, and that was the trouble: once footprints lead the way in, a sign stops sounding like a rule and starts sounding like a suggestion. Most of us behave ourselves when we think somebody is watching, and that morning nobody was. What ruined those flowers was not my one pair of shoes, but the attitude I carried in with me, that one more visitor could hardly matter. Since that morning I have read that sign differently. Obeying the rules of a place costs a visitor nothing, and it is the least courtesy we owe the person who spent a whole year growing what we all came to photograph.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「至少 120 個單詞」，那是下限不是目標。大考中心當年公布了十一篇官方佳作，同一個題目十一種寫法，點進去自己看一遍最有用。"
+    },
+    "rubric": {
+     "source": "大考中心 110 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人：賴惠玲，國立政治大學英文系教授）；大考中心選才電子報〈110學年度學科能力測驗英文考科非選擇題評分標準說明〉（大考中心研究員／林秀慧撰）",
+     "intro": "110 的官方說明有兩份，內容互補。閱卷評分原則說明寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字四項給分，字數明顯不足扣總分 1 分；每份試卷由兩位委員各自評分取平均，差距超過差分標準時送第三位委員評閱，第三閱差距過大時再由三人組成第四閱定分。選才電子報那一份寫的是評閱依據、等級與體例規則：依內容是否完整、組織是否完備、句構語法及用字是否適切、拼字與標點符號是否正確之綜合表現評定分數，採整體式評分，分為特優（19-20）、優（15-18）、可（10-14）、差（5-9）、劣（0-4）五個等級。兩份的項目名稱這裡以閱卷評分原則說明的「詞彙拼字」為準——選才電子報的四項正式名稱列在該文的表 1，而表 1 是圖不是文字，內文只用「句構語法及用字是否適切」這樣的描述說法帶過。",
+     "keypoint": "兩份官方說明都沒有點名 110 這一題最常見的失分，這裡改記官方明訂的體例規則。選才電子報那一份寫得最完整，共四條：寫多段不扣分；未分段扣 1 分；字數明顯不足扣 1 分；字數明顯不足又未分段的，不再重複扣分。最後一條是其他年度的說明沒有的，意思是這兩項最多合計只扣 1 分，不是各扣 1 分扣成 2 分。題目指定兩段，學生常誤以為絕對不能多寫。至於任務，題目把兩段交代得很清楚：第一段描述圖片的內容，包括其中人、事、物以及發生的事情，第二段以遊客或場所主人的立場表達看法。只做其中一項，內容與組織兩項都會受影響。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0L089568109203251304",
+      "label": "110學年度學科能力測驗英文作文佳作",
+      "note": "大考中心 110 年 3 月 31 日公布英文作文佳作十一篇，附原卷影像檔與簡要評分說明。官方說明裡標明立場的十篇，六篇站場所主人、四篇站遊客。取材大多是花季的花海，想寫得不一樣的，第 4 篇最值得看：同樣站場所主人，卻把遊客寫成有利也有弊，一面帶來商機，一面帶來垃圾與環境傷害。第 9 篇把場景換成蘭花園，寫小孩踐踏草坪、父母攀折花朵；第 11 篇的主人最後決定不再開放遊客入園。官方前言另外寫明，這十一篇在詞彙、文法、句構與拼字上仍有些許缺失，但仍屬佳作。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "兩段各自完成一項任務：第一段描述圖中人、事、物與發生的事情，第二段以遊客的立場表達看法。第一段寫的是看得見的東西——整片白花開得正盛、十幾個人站在花叢裡而不是走道上、前面兩位年輕女性一位側背包一位舉手機、後面有人蹲有人彎腰、花田中央立著一塊告示牌、花叢裡已經踩出幾條細徑。這些具體細節就是評分指標講的「相關細節」，不是「大家很沒公德心」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段由遠而近：先寫整片花田，再寫人群，接著寫最前面那兩位，最後寫告示牌與踩出來的路，收在有人踩著別人踩出來的路繼續往裡走。第二段先承認自己也走了進去，再說明為什麼那麼容易走進去，然後把責任從腳印移到心態，最後收在遵守規定是對場所主人的一份體貼。前後是一條線，不是幾句各說各話。"
+     },
+     {
+      "k": "文法句構",
+      "t": "描述圖片用現在式與現在進行式，只有交代照片何時拍的那一句用過去式；第二段講自己那天的經歷，才整段換過去式。中文沒有時態，這條界線看不出來，學生寫這一題常常整篇都用過去式。這也是新聞的體例：美聯社的 AP Stylebook 規定，圖說第一句用現在式寫照片裡正在發生什麼，補背景時才換過去式。其餘的變化來自幾個地方：地方副詞放句首的倒裝（In the center of the field stands a sign）、分詞片語當後位修飾（paths worn through the field by earlier visitors）、once 引導的時間子句、what 引導的名詞子句（What ruined those flowers was …）、以及 not A but B 的對稱（What ruined those flowers was not …, but the attitude …）。整篇以單句與對等句為主，難的句型挑一兩個放在關鍵位置，比整篇硬拗有效。"
+     },
+     {
+      "k": "詞彙拼字",
+      "t": "這一項的名稱以閱卷評分原則說明的「詞彙拼字」為準，理由見上面的說明。作文沒有字級上限，重點不在難字而在選字要準：trample 是踩壞植物，wear a path through 是走的人多了把地面磨出一條路，兩個字都不能用 step 代替。blossom、courtesy、attitude 這幾個字考前確認拼法。"
+     }
+    ]
+   },
    "wordBank": {
     "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
