@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-05",
+ "updated": "2026-09-10",
  "count": 62,
  "items": [
   {
@@ -1203,6 +1203,42 @@
    "prompt": "排隊雖是生活中常有的經驗，但我們也常看到民眾因一時好奇或基於嘗鮮心理而出現大排長龍（form a long line）的現象，例如景點初次開放或媒體介紹某家美食餐廳後，人們便蜂擁而至。請以此種一窩蜂式的「排隊現象」為題，寫一篇英文作文。第一段，以個人、親友的經驗或報導所聞為例，試描述這種排隊情形；第二段，說明自己對此現象的心得或感想。",
    "images": [],
    "source": "大學入學考試中心 107 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 275,
+     "p1": "Last winter a dessert shop opened near my school, and a television program called its cheese tarts the best in the city. On the first Saturday my cousin and I passed by at nine in the morning and found a long line already forming outside. Neither of us had planned to buy anything, yet ten minutes later we were standing in that line too. The people around us were cheerful at the beginning. An hour later they had grown impatient, checking their phones every minute, and the man behind me kept asking how many boxes each customer was allowed to take. We waited for almost two hours, only to find that the tarts were no different from the ones sold at the bakery beside my house.",
+     "p2": "Looking back, I do not think we were standing there for the tarts at all. By then the line had become the reason for the line: the longer it grew, the more certain everyone seemed that whatever waited at the front must be worth the wait. What kept us on that sidewalk was not hunger but the fear of missing out on something that everyone else already had. I am not saying that every line is foolish. Some shops have earned theirs, and waiting beside a friend can be half the fun of it. Since that Saturday, though, I have learned to ask myself one question before I join a line: would I still want this if nobody else were here? If the answer is no, I keep walking. Nobody gives me those two hours back, and nobody gives back a Saturday morning spent staring at other people's backs.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「至少 120 個單詞」，那是下限不是目標。大考中心當年公布了十四篇官方佳作，同一個題目十四種寫法，點進去自己看一遍最有用。"
+    },
+    "rubric": {
+     "source": "大考中心 107 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人：賴惠玲，國立政治大學英文系教授）；大考中心選才電子報第 284 期〈107學年度學科能力測驗 英文考科評分標準說明〉（大考中心研究員／林秀慧撰，107-04-09）",
+     "intro": "107 的官方說明有兩份，內容互補。閱卷評分原則說明寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字四項給分，字數明顯不足扣總分 1 分；每份試卷由兩位委員各自評分取平均，差距超過差分標準時送第三位委員評閱，第三閱差距過大時再由三人組成第四閱定分。選才電子報那一份寫的是分數怎麼算與體例規則：四項得分加總後給一個整體分數（holistic score），再依總分 1 至 20 分分為特優（19-20）、優（15-18）、可（10-14）、差（5-9）、劣（0-4）五個等級；字數嚴重不足扣總分 1 分，未分段亦扣總分 1 分，寫多段不扣分。兩份對第四項的稱呼不同：閱卷評分原則說明寫「詞彙拼字」，選才電子報寫「字彙拼字」，指的是同一項。",
+     "keypoint": "兩份官方說明都沒有點名 107 這一題最常見的失分——選才電子報的〈考生作答情形淺析〉只記當年 17 位考生作文滿分、另公告 14 篇佳作。這裡改記官方明訂的三條體例規則：字數嚴重不足扣 1 分、未分段扣 1 分、寫多段不扣分。題目指定兩段，學生常誤以為絕對不能多寫；官方那 14 篇佳作裡，第 2 篇寫成四段、第 14 篇寫成三段，兩篇都在佳作之列。至於任務，題目把兩段交代得很清楚：第一段舉例描述排隊情形，第二段說明自己的心得或感想。只做其中一項，內容與組織兩項都會受影響。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J074533073108869775",
+      "label": "107學年度學科能力測驗英文作文佳作",
+      "note": "大考中心公布十四篇英文作文佳作，附原卷影像檔與簡要評分說明。十四篇多數走「排了很久、拿到手卻失望」這條線，取材有餐廳、宜蘭夜市、花卉展、奶茶、甜甜圈、日本鬆餅、冰淇淋、茶館、咖啡廳。想寫得不一樣的，第 4 篇最值得看：排隊的是作者的母親，為戴牙套的女兒買軟布丁，同一個題目寫成一件別的事。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "兩段各自完成一項任務：第一段舉例描述排隊情形，第二段說明自己的心得或感想。官方指標寫的「具體、完整的相關細節」指的是九點就排到人行道、一小時後開始看手機、等了將近兩個鐘頭、拿到手發現跟家旁邊那家沒兩樣這些看得見的事，不是「排隊很盲目」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段照時間推進——路過、跟著排、一小時後、將近兩小時；第二段先講為什麼會排，再退一步承認有些隊值得排，最後收在自己往後怎麼判斷。前後是一條線，不是幾句各說各話。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自 only to V 寫出乎意料的結果、the 比較級 the 比較級、過去完成式（had planned、had grown、had become）與 what 引導的名詞子句（What kept us on that sidewalk was …）。最難的一個放在收尾的問句 would I still want this if nobody else were here，挑一個句型放在收尾，比整篇硬拗有效。"
+     },
+     {
+      "k": "詞彙拼字",
+      "t": "這一項的名字兩份官方說明寫得不一樣——閱卷評分原則說明寫「詞彙拼字」，選才電子報寫「字彙拼字」，指的是同一項。作文沒有字級上限（官方那句「四級以內」講的是同一份試卷中譯英的標的詞彙，不是作文），所以重點不在難字而在選字要準。sidewalk、impatient、cheerful 這幾個字考前確認拼法。"
+     }
+    ]
+   },
    "wordBank": {
     "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
