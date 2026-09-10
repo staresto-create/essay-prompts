@@ -590,7 +590,7 @@
     "rubric": {
      "source": "大考中心 110 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人：賴惠玲，國立政治大學英文系教授）；大考中心選才電子報〈110學年度學科能力測驗英文考科非選擇題評分標準說明〉（大考中心研究員／林秀慧撰）",
      "intro": "110 的官方說明有兩份，內容互補。閱卷評分原則說明寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字四項給分，字數明顯不足扣總分 1 分；每份試卷由兩位委員各自評分取平均，差距超過差分標準時送第三位委員評閱，第三閱差距過大時再由三人組成第四閱定分。選才電子報那一份寫的是評閱依據、等級與體例規則：依內容是否完整、組織是否完備、句構語法及用字是否適切、拼字與標點符號是否正確之綜合表現評定分數，採整體式評分，分為特優（19-20）、優（15-18）、可（10-14）、差（5-9）、劣（0-4）五個等級。兩份的項目名稱這裡以閱卷評分原則說明的「詞彙拼字」為準——選才電子報的四項正式名稱列在該文的表 1，而表 1 是圖不是文字，內文只用「句構語法及用字是否適切」這樣的描述說法帶過。",
-     "keypoint": "兩份官方說明都沒有點名 110 這一題最常見的失分，這裡改記官方明訂的體例規則。選才電子報那一份寫得最完整，共四條：寫多段不扣分；未分段扣 1 分；字數明顯不足扣 1 分；字數明顯不足又未分段的，不再重複扣分。最後一條是其他年度的說明沒有的，意思是這兩項最多合計只扣 1 分，不是各扣 1 分扣成 2 分。題目指定兩段，學生常誤以為絕對不能多寫。至於任務，題目把兩段交代得很清楚：第一段描述圖片的內容，包括其中人、事、物以及發生的事情，第二段以遊客或場所主人的立場表達看法。只做其中一項，內容與組織兩項都會受影響。",
+     "keypoint": "兩份官方說明都沒有點名 110 這一題最常見的失分，這裡改記官方明訂的體例規則。選才電子報那一份寫得最完整，共四條：寫多段不扣分；未分段扣 1 分；字數明顯不足扣 1 分；字數明顯不足又未分段的，不再重複扣分。最後一條要特別留意：這兩項最多合計只扣 1 分，不是各扣 1 分扣成 2 分。題目指定兩段，學生常誤以為絕對不能多寫。至於任務，題目把兩段交代得很清楚：第一段描述圖片的內容，包括其中人、事、物以及發生的事情，第二段以遊客或場所主人的立場表達看法。只做其中一項，內容與組織兩項都會受影響。",
      "samples": {
       "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0L089568109203251304",
       "label": "110學年度學科能力測驗英文作文佳作",
@@ -924,6 +924,42 @@
    "source": "大學入學考試中心 109 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為百貨公司週年慶，民眾瘋狂湧入搶購的新聞畫面。要求根據圖片想像一個事件或故事，並描述其後\n續發展與結果。",
    "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 287,
+     "p1": "The two news photographs were taken on the opening day of a department store's anniversary sale. In the first one, the glass doors have just been pushed open, and the crowd is rushing in through the narrow gap; a caption across the bottom of the screen tells viewers the moment the doors gave way, and several shoppers are already running, coats flapping behind them. The second photograph shows the same floor twenty minutes later. Shoppers stand three deep around a counter, holding paper bags above their heads, while the staff in dark uniforms hand goods across as fast as they can. In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her a queue stretches all the way back to the entrance.",
+     "p2": "What happened next did not make the news. The woman in glasses and an older woman in a red scarf reached the table at the same moment and seized the same grey coat, the last one left in that size. Each held a sleeve, and for a long moment neither let go. The older woman said the coat was for her daughter, who was willing to work night shifts all winter but never willing to spend anything on herself. The younger woman grabbed the sleeve tighter and said she had seen it first. In the end what influenced her decision was not the price tag but the silence that had spread across the floor around them. After a moment's hesitation she opened her hand. Only after she sat down on the bus home did she feel ashamed, not of losing a coat, but of how loudly she had wanted it.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「至少 120 個單詞」，那是下限不是目標，官方自己也說得很清楚：得高分的不一定是長文，重點在有沒有完成寫作任務。而這一題的任務有一半在圖片外面——第二段要自己編發展與結果，同一組圖片編得出完全不同的故事，大考中心當年公布了十二篇佳作，點進去自己看一遍最有用。"
+    },
+    "rubric": {
+     "source": "大考中心 109 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人：曾麗玲，國立臺灣大學外文系教授）；大考中心選才電子報第 308 期〈109學年度學科能力測驗 英文考科評分標準說明〉（大考中心研究員／林秀慧撰，109 年 4 月 15 日出刊）",
+     "intro": "109 的官方說明有兩份，內容互補。閱卷評分原則說明寫的是評分項目與閱卷流程：英文作文總分 20 分，依內容、組織、文法句構、字彙拼字四個項目給分，字數明顯不足扣總分 1 分；正式閱卷時每份答案卷隨機配給兩位委員評閱，兩人分數差距超過重閱標準時由協同主持人第三閱，第三閱的分數若高於或低於前兩閱，再由召集人與副召集人或協同主持人一人以上共同決定第四閱的分數。選才電子報那一份寫的是評閱依據、等級與體例規則：依內容是否切題完整、組織是否明確完善、語法句構及用字是否適切、拼字與標點符號是否使用得當之綜合表現評定分數，採整體式評分，分為特優（19-20）、優（15-18）、可（10-14）、差（5-9）、劣（0-4）五個等級。兩份還有一處差別：四項的正式名稱只列在選才電子報的分項式評分指標表，那是圖不是文字，所以項目名稱以閱卷評分原則說明的「字彙拼字」為準。110 寫的是「詞彙拼字」，這裡逐年照抄，不統一。",
+     "keypoint": "109 的閱卷評分原則說明點出了這一題真正的評分重點，別的年度沒有這句話：除了內容是否達到題目要求，還看第二段能不能充分發揮想像力，敘述「外於圖片」的發展。換句話說，第二段照著圖片再描述一次，分數就上不去——圖片只給到事件的開頭，後面的發展與結果要自己編。體例規則四條：寫多段不扣分；未分段扣 1 分；字數明顯不足扣 1 分；字數明顯不足又未分段的，不再重複扣分，也就是這兩項最多合計只扣 1 分。另外選才電子報那一份特別提到，得高分的作文不一定是長文，文長不是評閱的主要依據，有沒有完成寫作任務才是重點。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0K084424073464370939",
+      "label": "109學年度學科能力測驗英文作文佳作",
+      "note": "大考中心 109 年 3 月 31 日公布英文作文佳作十二篇，附原卷影像檔與簡要評分說明。十二篇的故事幾乎沒有重複：有人寫兩位女士搶同一件外套、最後店員出面化解；有人寫買到花光錢，隔天才後悔並被母親責備；有人被人群絆倒扭傷，離場時遇到流浪動物送養活動，改為捐款；有人跟媽媽走散，找到之後兩人一起把一位昏倒的婦女送醫；還有人寫成探員制伏歹徒。敘寫角度也不只一種，第 5 篇整篇站賣場員工的立場寫。官方前言另外寫明，這十二篇在詞彙、文法、句構與拼字上仍有些許缺失，但仍屬佳作。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "109 的閱卷召集人在評分原則說明裡點名這一題的評分重點：除了內容是否達到題目要求，還看第二段能不能充分發揮想像力，敘述「外於圖片」的發展。這一段話決定了兩段各要做什麼。第一段兩張圖各給一組具體畫面：第一張是玻璃門剛推開、人群從門縫湧進去、有人已經跑起來；第二張是二十分鐘後的賣場，人圍著櫃檯站了三層、手裡的紙袋舉過頭頂、穿深色制服的店員忙著遞貨。第二段則整段都是圖片沒拍到的事：兩個人搶同一件外套，最後其中一位放手。第二段若把圖再描述一次，「外於圖片」這一項就等於沒做。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段依圖片順序走，先第一張再第二張，最後把鏡頭停在那位側身擠過人群的年輕女性身上，順勢把人物交給第二段。第二段用一句「這件事新聞沒拍到」接上去，接著照事情發生的先後寫：兩人同時抓住外套、僵持、老太太說出理由、年輕女性放手、最後收在她回程車上的心情。故事有頭有尾，結果落在人身上而不落在外套上。"
+     },
+     {
+      "k": "文法句構",
+      "t": "第一段描述照片用現在式與現在進行式，只有第一句交代照片何時拍的用過去式；第二段講的是照片之後發生的事，整段換成過去式，開頭那句「新聞沒拍到」就是換時態的接點。英文新聞的圖說也是這樣分的，美聯社的 AP Stylebook 規定圖說第一句用現在式寫照片裡正在發生什麼，補背景時才換過去式。句型方面：Only after 起頭的倒裝（Only after she sat down on the bus home did she feel…）要注意倒裝發生在後面的主要子句，不是在 Only after 帶的那個部分；另外用了 what 引導的名詞子句（what influenced her decision was…）與 not A but B 的對稱。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "這一年的項目名稱官方寫的是「字彙拼字」。這一題的字幾乎都是動作字，選字要準：seize 是兩個人同時搶下同一件東西，grab 是一把抓緊，let go 是鬆手，三個不能互換。elbow one's way through the crowd 值得單獨記：這個結構 115 學測第 9 題考過，正確率只有 29%，鑑別度 21，鑑別度這麼低表示程度好的學生也照樣錯，錯的不是單字而是結構。當年最主要的陷阱是 struggle，看起來很合理，可是 struggle 不接 one's way；「動詞＋one's way＋介系詞」這個結構專門用來講以什麼方式前進，所以空格要填的是前進的方式。hesitation、ashamed、entrance 這幾個字考前確認拼法。"
+     }
+    ]
+   },
    "wordBank": {
     "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
@@ -944,7 +980,7 @@
        },
        {
         "w": "elbow one's way through the crowd",
-        "zh": "用手肘推擠穿過人群（one's way 是固定受詞，不能只寫 elbow through）",
+        "zh": "用手肘推擠穿過人群（one's way 是固定受詞，不能只寫 elbow through；115 學測考過這個結構，正確率 29%、鑑別度 21，錯的多半不是單字而是結構）",
         "src": "115年學測 Q9",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0499"
