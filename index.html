@@ -672,7 +672,10 @@ function card(it){
       }
     }
     if(m.mapping && m.mapping.length){
-      body.appendChild(el('div','mdH','這篇在五個項目上各做了什麼'));
+      // 項數逐年不同（107、114 為四項，105、99 為五項），標題不得寫死。
+      const ZH=['','一','二','三','四','五','六','七','八'];
+      const nMap=m.mapping.length;
+      body.appendChild(el('div','mdH','這篇在'+(ZH[nMap]||nMap)+'個項目上各做了什麼'));
       const ul=document.createElement('ul');ul.className='mdMap';
       m.mapping.forEach(x=>{
         const li=document.createElement('li');
