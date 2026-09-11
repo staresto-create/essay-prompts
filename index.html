@@ -64,6 +64,8 @@
   .mdBody{display:none;margin-top:11px;}
   .mdBox.open .mdBody{display:block;}
   .mdEssay p{margin:0 0 9px;font-size:13.5px;line-height:1.85;}
+  .mdEssay p.mdZh{font-size:12.5px;line-height:1.9;color:#5F594C;
+                  border-left:2px solid #E3DCC9;padding-left:9px;margin:0 0 13px;}
   .mdWords{font-size:11.5px;color:#8A8271;}
   .mdCaveat{font-size:12px;color:#7A7263;border-left:3px solid #DED5BF;padding-left:8px;margin:10px 0;}
   .mdH{font-size:13px;font-weight:700;margin:13px 0 5px;}
@@ -649,8 +651,13 @@ function card(it){
     b.appendChild(btn);
     const body=el('div','mdBody');
     const es=el('div','mdEssay');
+    // 中英逐段交錯：英文在前、中文緊接在後，段段對應。
+    // zh 為選配欄，沒有這一欄的題目照舊只印英文。
+    const zh=m.essay.zh||{};
     es.appendChild(el('p',null,m.essay.p1));
+    if(zh.p1)es.appendChild(el('p','mdZh',zh.p1));
     es.appendChild(el('p',null,m.essay.p2));
+    if(zh.p2)es.appendChild(el('p','mdZh',zh.p2));
     if(m.essay.words)es.appendChild(el('div','mdWords','全文 '+m.essay.words+' 詞'));
     body.appendChild(es);
     if(m.essay.caveat)body.appendChild(el('p','mdCaveat',m.essay.caveat));
