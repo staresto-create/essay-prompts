@@ -1943,7 +1943,7 @@
     "rubric": {
      "source": "大考中心 102 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人：劉慶剛，國立台北大學應用外語學系教授）；大考中心選才電子報第 223 期〈102 年學科能力測驗英文考科非選擇題評分說明〉（大考中心第一處／林秀慧撰）",
      "intro": "102 的官方說明有兩份，內容互補。閱卷評分原則說明寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字、體例五個項目給分，字數明顯不足扣總分 1 分；每份試卷由兩位委員各自評分，最後以兩人的平均為準，第一閱與第二閱差距超過差分標準時，再由第三位委員（正、副召集人或協同主持人）評閱。選才電子報第 223 期那一份寫的是評分方式與分項配分：各項得分加總後給予一個整體分數（holistic score），再依總分 1 至 20 分分為特優（19-20 分）、優（15-18 分）、可（10-14 分）、差（5-9 分）、劣（0-4 分）五個等級；表 1 的分項配分為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分，合計 20 分。同一個項目在官方文件裡有三種寫法：表 1 寫「字彙、拼字」，同一份的內文寫「字彙拼字」，閱卷評分原則說明寫「詞彙拼字」。這裡的欄名用「字彙拼字」，三種寫法並記，逐年照官方原件抄、不跨年度統一。",
-     "keypoint": "102 的扣分規則跟其他年度不一樣，這一點要先講。選才電子報那一份寫得很清楚：字數嚴重不足，扣總分 1 分；多寫，不扣分；未分段，亦不扣分。110、109 與 115 都是未分段扣 1 分，只有 102 不扣，所以拿別年的規則套 102 會算錯。另外兩件：其一，內容那一項的最低一格寫明文不對題或沒寫者，其他各項均以零分計算，也就是說故事編不出來、只把三格圖翻成三句描述，其餘四項再好也救不回來。其二，體例這一項只有 2 分、1 分、0 分三檔，表 1 把「優」與「可」兩格併成一格、同給 2 分，中間沒有分隔線，不像其他四項四檔各自分開。至於任務，題目說得很直接：涵蓋三幅連環圖片的內容，想像第四幅可能的發展，寫出一個有完整結局的故事，文長至少 120 個單詞。官方十四篇佳作的前言也是照這三件事講的——內容符合圖意、發展符合邏輯、有適當的結局。",
+     "keypoint": "102 的扣分規則跟 110、109、115 不一樣，這一點要先講。選才電子報那一份寫得很清楚：字數嚴重不足，扣總分 1 分；多寫，不扣分；未分段，亦不扣分。110、109 與 115 都是未分段扣 1 分，102 不扣，所以拿這三年的規則套 102 會算錯。這個對照只能就這三年說：99 那一份根本沒有寫多寫與未分段扣不扣分，是那份文件沒有交代，不是 99 沒有那些規則。另外兩件：其一，內容那一項的最低一格寫明文不對題或沒寫者，其他各項均以零分計算，也就是說故事編不出來、只把三格圖翻成三句描述，其餘四項再好也救不回來。其二，體例這一項只有 2 分、1 分、0 分三檔，表 1 把「優」與「可」兩格併成一格、同給 2 分，中間沒有分隔線，不像其他四項四檔各自分開；不過併格這個做法不是 102 獨有，99 那一年的表 1 也是這樣。至於任務，題目說得很直接：涵蓋三幅連環圖片的內容，想像第四幅可能的發展，寫出一個有完整結局的故事，文長至少 120 個單詞。官方十四篇佳作的前言也是照這三件事講的——內容符合圖意、發展符合邏輯、有適當的結局。",
      "samples": {
       "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&qbranch=0J071649374729510051&sid=0J072645157497857819",
       "label": "102學年度學科能力測驗英文考科作文佳作",
@@ -2388,6 +2388,46 @@
    "source": "大學入學考試中心 99 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一個年輕人在麵店拾獲一個裝滿錢的錢包，面臨道德抉擇。要求想像第四格發展，寫出完整\n故事。",
    "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 329,
+     "p1": "On a Saturday afternoon the noodle shop across from the station was almost empty. Ms. Lin stood behind the counter in her apron, lifting noodles out of the pot, and the menu on the wall behind her still read dan dan noodles thirty-five, plain noodles thirty, dry noodles thirty-five. A boy named Ming sat at one end of the counter with his bowl; at the other end a broad-shouldered man in glasses finished quickly, paid, and hurried out to catch his train. Between them, on a low stool, sat a dark canvas bag. Ming noticed it only when he stood up to leave. He picked the bag up to run after its owner, and the loose flap fell open in his hands. Inside were bundles of banknotes, more cash than he had ever seen at once. Ms. Lin came out from behind the counter, looked in, and cried out. While they waited for the police, Ming had to resist the temptation of counting what was inside.",
+     "p2": "By then the man was at the ticket window in Hsinchu Station, sweat running down his forehead as he slapped one pocket of his suit after another. In the bag were the wages he had withdrawn from the bank that morning for his workers, and he ran the whole way back without waiting for his change. He found an officer at the counter, taking down Ms. Lin's statement. Ming handed the bag to him, and the man went through it note by note with shaking fingers. Then he pulled out a thick stack and pressed it on the boy as a reward. Ming shook his head and turned it down. It was not that the money meant nothing to him; he simply felt that the bag had never been his to keep. Ms. Lin said nothing. She went back behind the counter, cooked the boy a second bowl of dan dan noodles, and refused, in her turn, to let him pay for it.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。大考中心當年公布了十篇官方佳作，同一個題目十種寫法，而且那一批的評語逐篇點出瑕疵、指出錯在哪一個字，點進去自己看一遍最有用。"
+    },
+    "rubric": {
+     "source": "大考中心選才電子報第 187 期〈99學測英文考科非選擇題評分說明〉（大考中心第一處／林秀慧撰）",
+     "intro": "99 的官方說明目前只查到選才電子報第 187 期這一份，而它把評分方式與閱卷流程都寫進去了。英文作文採整體式評分（原文寫 holistic scoring），依總分 1 至 20 分分為特優（19-20 分）、優（15-18 分）、可（10-14 分）、差（5-9 分）、劣（0-4 分）五個等級；分項式評分指標五項，內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分，合計 20 分。閱卷流程寫得比其他年度細：150 位閱卷委員含正、副召集人，分為 12 組，1 月 31 日上午九時先開評分標準訂定會議，就 4,000 多份隨機抽取的答案卷討論、草擬標準並選出樣卷；2 月 1 日上午九時各組協同主持人向組內委員說明評分原則、隨即試閱，試閱結束再開評分標準再訂定會議修正，取得共識後才開始正式閱卷。一、二閱由分屬兩個不同組的委員擔任，翻譯題差距達 3 分、英文作文差距達 6 分才送第三閱。這一年官方把第一大題稱為「翻譯題」，102 起才寫「中譯英」，這裡照各年原件的說法抄。",
+     "keypoint": "這一年的作文扣分規則，官方只寫了一句：文長至少 120 個字詞，若字數不足，扣 1 分。多寫扣不扣分、未分段扣不扣分，這一份都沒有寫——102 那一份三件都寫（字數嚴重不足扣 1 分、多寫不扣分、未分段亦不扣分），110、109 與 115 則是未分段扣 1 分。這是 99 這份文件沒有交代，不是 99 沒有那些規則，寫作時不要拿別年的規則往這一年套。用字也留意：99 寫「字數不足」，102 寫「字數嚴重不足」。命題用意官方自己講了：這一年回復到多圖的看圖寫作，與前一年的單圖略有不同，而四格圖片只畫了三格、沒有提供結局，是為了給考生更多發揮空間。所以第四格不是附加題，它就是這一題要考的東西。表 1 那一項要看清楚兩格。內容的最低一格寫明文不對題或沒寫者，其他各項均以零分計算——只把三格圖翻成三句描述、沒有編出故事，其餘四項再好也救不回來。體例只有 2 分、1 分、0 分三檔，「優」與「可」併成一格同給 2 分，這個併格 99 與 102 都一樣。翻譯題那邊有一條 102 沒有的：99 寫「各部份獨立且各為 1 分；每個錯誤扣 0.5 分，各部份扣完為止」，102 只寫「各部分獨立」。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072554730774151742",
+      "label": "99學年度學科能力測驗英文考科引導寫作題佳作",
+      "note": "大考中心公布的 99 學測英文引導寫作佳作共十篇，公布日期為 99 年 3 月 18 日。這一批的敘事觀點分四種：小孩一篇、旁觀者六篇、失主兩篇，還有一篇從提袋的角度寫，官方評語稱它頗具創意。評語的寫法也與其他年度不同，逐篇點出瑕疵、指出錯在哪一個字，不是只寫優點。另外，官方頁面上的篇數前後不一致：前言寫十篇、小標寫「一、佳作十三篇」、內文寫「以下十三篇」，而表格實際十列、文末又寫「以上十篇」；實際為十篇。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "這一項不在文字多漂亮，而在四格都有交代、而且第四格是自己想出來的結局。這一題最先要決定的是用誰的眼睛看，因為第三格發生在新竹火車站，麵店裡的人看不到；範文因此用第三人稱，四格才串得起來。官方那十篇佳作也是這樣分的，小孩一篇、旁觀者六篇、失主兩篇，還有一篇從提袋的角度寫。範文第一段寫前兩格：牆上的菜單（擔擔麵 35、陽春麵 30、乾拌麵 35）、繫著圍裙在櫃檯後端麵的老闆娘、坐在一頭吃麵的少年、另一頭戴眼鏡的壯碩男客、兩人中間凳子上那個深色提袋，接著是提袋翻開、裡面全是鈔票、老闆娘叫出聲。第二段寫第三格與第四格：火車站售票處滿頭大汗、一個口袋一個口袋拍過去、跑回麵店、把提袋交還、對方要給謝禮而少年婉拒。這些看得見的東西就是表 1 說的「具體、完整的相關細節」，不是「拾金不昧是美德」這種空話。表 1 內容那一欄的最低一格要看清楚：文不對題或沒寫者，其他各項均以零分計算——把三格翻成三句描述、沒有編出結局，其餘四項再好也救不回來。"
+     },
+     {
+      "k": "組織",
+      "t": "整篇照時間走，兩段的切點放在場景轉換：第一段留在麵店，第二段跳到火車站再回到麵店。分段跟著圖走，讀者不必猜現在在哪裡。前後呼應靠兩件事，一是同一個提袋，第一段在凳子上沒人理，第二段回到失主手上；二是兩次「不收」，少年婉拒謝禮，老闆娘接著不收麵錢，結局收在同一個動作上。轉承語不必多，時間與地點的標記（On a Saturday afternoon、By then、Then）本身就是骨架。"
+     },
+     {
+      "k": "文法句構",
+      "t": "敘事整段用過去式，時間更早的事往前推一格用過去完成式：the wages he had withdrawn from the bank that morning、more cash than he had ever seen、the bag had never been his to keep。中文沒有時態，這條界線學生看不出來，寫這一題常常一路過去式寫到底。範文刻意放進去的句型有幾個：地方副詞放句首的倒裝兩處（Between them, on a low stool, sat a dark canvas bag；Inside were bundles of banknotes），這在看圖寫作很好用，可以把鏡頭帶到東西上；分詞表附帶狀況（sweat running down his forehead）；名詞子句當受詞（counting what was inside）；以及分號接對比，也就是字庫點名的 It was not that…; …simply…。難句挑兩三個放在關鍵位置就夠，整篇硬拗反而容易出錯。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "作文沒有字級上限，選字準不準比難不難重要。先看一組容易混的：從銀行領錢是 withdraw，不是 draw。draw 用在錢上面要說 draw on an account，寫 draw money from the bank 母語人士很少這樣講，語感偏老式；學生要記的是 withdraw money from the bank。範文用的是 the wages he had withdrawn from the bank that morning。其他容易寫偏的是幾個具體的東西：圖上那個是提袋，寫 bag 或 canvas bag，不是 wallet（皮夾）也不是 purse；裡面是千元大鈔，寫 banknotes 或 bills，不要用 money 一個字帶過；男客在售票處是一個口袋一個口袋拍過去，slap at one pocket after another 比 touch his clothes 具體得多；紙鈔一張一張看過去是 note by note。拼字上要留意的是 withdrawn、noticed、counter、temptation、reward 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "99 這一年的體例配分 2 分，管的是格式、標點與大小寫；表 1 在這一項只給三檔，「優」與「可」併成同一格、中間沒有分隔線，裡面只有一句：格式、標點、大小寫幾無錯誤。看圖寫作沒有信件格式要顧，實際上會扣分的多半是這幾件：段落沒有縮排也沒有空行，閱卷委員看不出分段；句首沒有大寫；專有名詞沒有大寫，這一題最常見的是 Hsinchu Station；分號、冒號亂用。要分開看的是，99 的評分說明沒有寫未分段扣不扣分，但體例這一項照樣看得到分段做得好不好。"
+     }
+    ]
+   },
    "wordBank": {
     "updated": "2026-09-05",
     "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
