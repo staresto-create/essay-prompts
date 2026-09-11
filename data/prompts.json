@@ -40,7 +40,7 @@
      "p2": "I see the same change on my own street. The shop that used to sell children's clothes closed two years ago, and a pet store took over the space. My cousin married at thirty-four and told me plainly why she keeps two dogs instead: a dog costs far less than a child, never needs a cram school, and never asks her to explain a bad grade. Behind that answer are long working hours, high rents, and the feeling that raising a child well has become a luxury. I understand the choice, and I still worry about where it leads. If fewer children are born every year, my generation will be holding up a society with many old people and few young ones, and the warmth we find in our pets will not fill those empty classrooms. What I hope is not that people love their pets less, but that a child stops being the harder choice.",
      "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。大考中心當年公布了十篇官方佳作，值得留意的是這十篇的第二段講的原因與影響相當接近，所以真正拉開差距的不是想法有多特別，而是細節寫不寫得出來，點進去自己看一遍最有用。",
      "zh": {
-      "p1": "三張圖片說的是同一件事：寵物坐上了以前屬於小孩的位置。第一張拍的是公園。一位女士推著推車走過來，裡面坐的不是嬰兒，是兩隻小狗，一路探頭往外看。另外兩位飼主把狗扛在肩上，那個姿勢就跟爸媽扛起走累的孩子一樣；整個畫面裡真正載著小孩的，只有最右邊那位爸爸拉的手拉車。第二張和第三張幾乎是同一個畫面拍了兩次。前一張裡，媽媽拿奶瓶餵寶寶，爸爸陪兒子看圖畫書；後一張裡，一對年輕夫妻坐在同樣的桌子旁邊，只是奶瓶換成了一匙狗食，身上穿著外套的那個小小身影是一隻狗。少的只有那個小孩。",
+      "p1": "三張圖片說的是同一件事：寵物坐上了以前屬於小孩的位置。第一張拍的是公園。一位女士推著推車走過來，裡面坐的不是嬰兒，是兩隻小狗，一路探頭往外看。另外兩位飼主把狗扛在肩上，那個姿勢就跟爸媽扛起走累的孩子一樣；整個畫面裡真正載著小孩的，只有最右邊那位爸爸拉的手拉車。第二張和第三張幾乎是同一個畫面拍了兩次。前一張裡，媽媽拿奶瓶餵寶寶，爸爸陪兒子看圖畫書；後一張裡，一對年輕夫妻坐在同樣的桌子旁邊，只是奶瓶換成了一匙狗飼料，身上穿著外套的那個小小身影是一隻狗。少的只有那個小孩。",
       "p2": "同樣的改變，我在自己家那條街上就看得到。原本賣童裝的那家店兩年前關了，換成一家寵物店。我表姊三十四歲結婚，她很直接地告訴我，為什麼她養的是兩隻狗，不生小孩：養一隻狗花的錢比養一個小孩少太多，不必送補習班，也不會帶一張難看的成績單回來要她解釋。這個答案的背後，是加不完的班、付不完的房租，還有一種感覺——想把一個孩子好好養大，現在已經是奢侈。我理解這個選擇，可是還是會擔心這樣下去會走到哪裡。如果每一年出生的孩子愈來愈少，那麼老人多、年輕人少的那個社會，將來就要靠我們這一代撐起來；而我們在寵物身上找到的那份溫暖，填不滿那些空掉的教室。我希望的不是大家少疼寵物一點，而是生一個孩子不要再是比較難的那個選擇。"
      }
     },
@@ -57,7 +57,7 @@
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要的「充分、具體之細節」是看得見的東西：嬰兒車裡坐的是兩隻狗、大人把狗扛在肩上、奶瓶換成一匙狗食、狗身上穿著外套。第二段也一樣——關掉的童裝店、表姊三十四歲結婚、補習費，都是自己真的看過的事，不是「養寵物愈來愈普遍」這種空話。"
+      "t": "題目要的「充分、具體之細節」是看得見的東西：嬰兒車裡坐的是兩隻狗、大人把狗扛在肩上、奶瓶換成一匙狗飼料、狗身上穿著外套。第二段也一樣——關掉的童裝店、表姊三十四歲結婚、補習費，都是自己真的看過的事，不是「養寵物愈來愈普遍」這種空話。"
      },
      {
       "k": "組織",
@@ -497,7 +497,47 @@
    ],
    "source": "大學入學考試中心 113 學年度學科能力測驗英文考科",
    "promptSummary": "圖片呈現青少年三種困擾。要求選擇一項，說明原因，並闡述希望機器人小幫手具備的特質與合作方式。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 319,
+     "p1": "If a robot helper could solve only one of these three problems for me, I would choose the third picture, the mood swings. My feelings change faster than the weather in April. Last Tuesday I walked into the classroom happy, and by the second period one comment from a classmate about my haircut had spoiled the whole day. At dinner I snapped at my little brother because he asked me to pass the soy sauce. At eleven that night I was still awake, sorry and embarrassed, and nothing bad had really happened. The other two problems hurt, but they come and go. This one comes back every week, and it is the one that makes me hurt the people who live with me. It is also the one I cannot explain to anyone, because I cannot explain it to myself.",
+     "p2": "The robot I want is not one that cheers me up. Cheering up is easy, and it wears off before the next class. I want a helper that notices and remembers. It could keep a quiet record of my week: how long I sleep, which mornings I skip breakfast, which days I come home angry. Then it could show me the pattern that I am too close to see, and remind me, before I open my mouth at dinner, that I have slept five hours for three nights in a row. That is the robot's half of the work. The other half is mine, and it is the harder one. A robot can give me the warning, but it cannot hold my tongue for me. So we would agree on a rule in advance: when the warning comes, I leave the table, wash my face, and come back in five minutes. I would also want it to be honest rather than gentle. If I am the one in the wrong, I need to hear it, not to be comforted.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。這一題的三張圖是一張選單，選哪一個都可以，沒有哪一個比較好得分；真正拉開差距的是第二段——十篇官方佳作裡，六篇選在意別人的看法、三篇選失戀，只有一篇選情緒起伏，可是十篇的第二段都把「機器人做什麼」和「自己做什麼」兩邊都寫出來了。選另外兩個問題一樣拿得到高分，差別在第二段交出什麼。選失戀的，機器人那一半很容易只寫成陪伴與安慰，那自己那一半就要寫出具體去做的事，否則整段只剩機器人在動；選在意別人的看法的，官方十篇裡有六篇都寫傾聽、回饋與建立信心，要寫得跟別人不一樣，就得換一個角度進去。點進去把十篇看一遍最有用。",
+     "zh": {
+      "p1": "如果機器人小幫手只能替我解決這三個問題裡的一個，我選第三張圖，情緒起伏。我的心情變化得比四月的天氣還快。上個星期二我走進教室的時候心情很好，第二節課同學隨口講了一句我的頭髮，一整天就毀了。晚餐時弟弟只是叫我把醬油遞過去，我就對他發脾氣。那天晚上十一點我還醒著，又愧疚又難為情，可是其實什麼壞事都沒有發生。另外兩個問題也一樣讓人難受，可是那種難受會過去；情緒起伏這一個每個禮拜都回來，而且只有這一個會讓我去傷害跟我住在一起的人。這也是我沒有辦法跟任何人解釋的一個問題，因為我連對自己都解釋不清楚。",
+      "p2": "我想要的機器人，不是那種哄我開心的。哄人開心很容易，而且那種開心撐不到下一節課。我要的是一個看得見、也記得住的小幫手。它可以安安靜靜地幫我記下一整個禮拜的狀況：我睡多久、哪幾天早上沒吃早餐、哪幾天回到家是帶著火氣的。然後它就能從這些紀錄裡看出一個規律，指給我看；當局者迷，我自己反而看不出來。它也可以趕在我晚餐時開口之前提醒我：我已經連續三個晚上只睡五個小時。這件事機器人只能做一半，另一半得我自己來，而且是比較困難的那一半。機器人可以提醒我，可是它沒有辦法替我把嘴巴閉上。所以我們要先講好一條規則：提醒一來，我就離開飯桌，去洗把臉，五分鐘之後再回來。我還希望它誠實，而不是一味地溫柔。如果錯的是我，我需要聽到的是實話，不是安慰。"
+     }
+    },
+    "rubric": {
+     "source": "大考中心 113 學年度學科能力測驗英文考科非選擇題評分原則；大考中心選才電子報第 342 期〈113學年度學科能力測驗非選擇題評分原則說明－【英文】〉（大考中心研究員／林秀慧撰，113 年 4 月 15 日出刊）",
+     "intro": "113 的官方說明有兩份，內容互補。隨試題公布的那一份寫的是評分項目與等級：英文作文依考生在內容、組織、文法句構、字彙拼字四項的表現評分，各項得分加總後給予一個整體分數（holistic score），再依總分 1 至 20 分分成五個等級——特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分；字數明顯不足者扣總分 1 分，未分段者也扣總分 1 分。選才電子報第 342 期那一份寫的是閱卷怎麼進行：本大題採整體式評分，閱卷委員仔細評閱考生的作答內容之後，先決定一個整數分數，再以分項式評分指標回頭檢驗這個分數合不合宜。兩份都附了表一〈英文作文評分指標〉，四個項目各分優、可、差、劣四個等級，每一格都帶配分（5-4 分／3 分／2-1 分／0 分），沒有另立 0 分那一列。",
+     "keypoint": "體例規則四條，電子報那一份寫得最清楚：寫多段不扣分；未分段扣 1 分；字數明顯不足扣 1 分；字數明顯不足又未分段的，不再重複扣分——也就是說，這兩項最多合計只扣 1 分，不是各扣 1 分扣成 2 分。至於寫作任務，題目分得很清楚：第一段說明你最想解決哪一個問題，並解釋原因；第二段說明你希望這個機器人小幫手具備什麼特質或能力、可以如何和你分工合作來解決此問題。這一題跟描述圖片型不同，三張圖是一張選單，選一個就好，不必逐張交代。第二段最容易漏掉的是「分工合作」那半句：只寫機器人會做什麼、沒寫自己要做什麼，寫作任務就沒有完成。選才電子報的作答淺析也寫明，得高分的考生都充分符合作答提示中寫作任務的要求，內容完整、豐富，組織良好；而部分考生未能針對兩段的寫作任務著筆，或有遺漏、內容不足之處，導致得分偏低。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0O089336014967309929",
+      "label": "113學年度學科能力測驗英文作文佳作",
+      "note": "大考中心 113 年 3 月 29 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇選的問題很不平均：在意別人的看法六篇（第 1、4、5、6、7、10 篇）、失戀三篇（第 2、8、9 篇）、情緒起伏只有一篇（第 3 篇）。第二段的機器人特質則相當集中，多半寫傾聽、同理、給正面回饋與建立信心；想看不一樣的寫法可以挑幾篇：第 1 篇寫機器人協助書寫感恩日記，第 7 篇寫機器人模擬不同情境讓自己練習，第 9 篇寫機器人協助安排時間、還提供佳餚，第 10 篇寫社群媒體上的自我檢視。官方前言另外寫明，這十篇在詞彙、文法、句構與拼字的掌握上仍有些許缺失，但仍屬佳作。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的「充分、具體之細節」是寫得出人事時地物、數字或動作：上個星期二、第二節課、同學說了一句頭髮、弟弟叫我遞醬油、晚上十一點還醒著。第二段也一樣——連續三個晚上只睡五個小時、離開飯桌去洗把臉、五分鐘之後回來，都是動作，不是「我希望它能安撫我的情緒」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先講選哪一個，再用一個完整的事件說明原因，最後收在「連自己都解釋不了」；第二段先否定一種做法（哄我開心），再寫機器人那一半、自己那一半，最後回到要它誠實。題目指定文分兩段，這篇就寫兩段，兩段各自完成一件寫作任務。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自條件句（If a robot helper could…, I would choose…）、比較（faster than、rather than）、關係子句（a helper that notices and remembers）、過去完成式（had spoiled）、not … but 的對比與 That is …／The other half … 的分工切分。句子寫得清楚比寫得繁複重要。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》，結果見下一節。真正會扣分的地方通常在拼法，embarrassed、haircut、sauce、pattern 這幾個考前確認一下。"
+     }
+    ]
+   }
   },
   {
    "id": "E112_GSAT",
