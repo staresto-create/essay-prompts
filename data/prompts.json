@@ -32,7 +32,47 @@
    ],
    "source": "大學入學考試中心 115 學年度學科能力測驗英文考科",
    "promptSummary": "圖片呈現現代人把寵物當家人的各種現象：用嬰兒車推寵物出門、全家與寵物一起用餐，以及把寵物當成陪伴孩子的玩伴。要求描述圖中現象，再說明原因與可能影響。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 305,
+     "p1": "In all three pictures, pets are given the place that children used to have. The first one is taken in a park. A woman pushes a stroller, but there is no baby inside; two small dogs sit in it and look out at the path. Two other owners carry their dogs on their shoulders, the way parents carry a tired child, and the only cart with real children in it is the wagon a father pulls at the far right. The second and third pictures almost repeat each other. In one, a mother feeds a baby with a bottle while a father helps his son with a picture book. In the other, a young couple sits at the same kind of table, but the bottle has become a spoon of dog food, and the small body in a warm jacket belongs to a dog. Only the child is missing.",
+     "p2": "I see the same change on my own street. The shop that used to sell children's clothes closed two years ago, and a pet store took over the space. My cousin married at thirty-four and told me plainly why she keeps two dogs instead: a dog costs far less than a child, never needs a cram school, and never asks her to explain a bad grade. Behind that answer are long working hours, high rents, and the feeling that raising a child well has become a luxury. I understand the choice, and I still worry about where it leads. If fewer children are born every year, my generation will be holding up a society with many old people and few young ones, and the warmth we find in our pets will not fill those empty classrooms. What I hope is not that people love their pets less, but that a child stops being the harder choice.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。大考中心當年公布了十篇官方佳作，值得留意的是這十篇的第二段講的原因與影響相當接近，所以真正拉開差距的不是想法有多特別，而是細節寫不寫得出來，點進去自己看一遍最有用。",
+     "zh": {
+      "p1": "三張圖片說的是同一件事：寵物坐上了以前屬於小孩的位置。第一張拍的是公園。一位女士推著推車走過來，裡面坐的不是嬰兒，是兩隻小狗，一路探頭往外看。另外兩位飼主把狗扛在肩上，那個姿勢就跟爸媽扛起走累的孩子一樣；整個畫面裡真正載著小孩的，只有最右邊那位爸爸拉的手拉車。第二張和第三張幾乎是同一個畫面拍了兩次。前一張裡，媽媽拿奶瓶餵寶寶，爸爸陪兒子看圖畫書；後一張裡，一對年輕夫妻坐在同樣的桌子旁邊，只是奶瓶換成了一匙狗食，身上穿著外套的那個小小身影是一隻狗。少的只有那個小孩。",
+      "p2": "同樣的改變，我在自己家那條街上就看得到。原本賣童裝的那家店兩年前關了，換成一家寵物店。我表姊三十四歲結婚，她很直接地告訴我，為什麼她養的是兩隻狗，不生小孩：養一隻狗花的錢比養一個小孩少太多，不必送補習班，也不會帶一張難看的成績單回來要她解釋。這個答案的背後，是加不完的班、付不完的房租，還有一種感覺——想把一個孩子好好養大，現在已經是奢侈。我理解這個選擇，可是還是會擔心這樣下去會走到哪裡。如果每一年出生的孩子愈來愈少，那麼老人多、年輕人少的那個社會，將來就要靠我們這一代撐起來；而我們在寵物身上找到的那份溫暖，填不滿那些空掉的教室。我希望的不是大家少疼寵物一點，而是生一個孩子不要再是比較難的那個選擇。"
+     }
+    },
+    "rubric": {
+     "source": "大考中心 115 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則；大考中心選才電子報第 351 期〈115學年度學科能力測驗非選擇題評分原則說明－【英文】〉（大考中心研究員／林秀慧撰，115 年 4 月 15 日出刊）",
+     "intro": "115 的官方說明有兩份，內容互補。隨試題公布的那一份寫的是評分項目與扣分規則：英文作文依考生在內容、組織、文法句構、字彙拼字四項的表現評分，各項得分加總後給予一個整體分數（holistic score）；字數明顯不足者扣總分 1 分，未分段者也扣總分 1 分。選才電子報第 351 期那一份寫的是閱卷怎麼進行：本大題採整體式評分，閱卷委員仔細評閱考生的作答內容之後，先決定一個整數分數，再以分項式評分指標回頭檢驗這個分數合不合宜。兩份都附了表一〈英文作文評分指標〉，四個項目各分優、可、差、劣四個等級，另立一列 0 分——空白、完全文不對題或離題、完全抄襲選文、文句完全錯誤或文字不足成句。",
+     "keypoint": "體例規則四條，兩份官方說明都寫得很清楚：寫多段不扣分；未分段扣 1 分；字數明顯不足扣 1 分；字數明顯不足又未分段的，不再重複扣分——也就是說，這兩項最多合計只扣 1 分，不是各扣 1 分扣成 2 分。題目指定兩段，學生常誤以為絕對不能多寫。至於寫作任務，題目分得很清楚：第一段描述這些圖片中所呈現的現象，第二段根據自身的經驗或觀察，說明此現象的原因以及可能的影響。另外有一句話值得留意：題目要的是「這些圖片中所呈現的現象」，三張圖是材料，要寫的是它們合起來呈現的那一件事；十篇佳作的第一段全部是這樣寫的，沒有一篇逐張交代圖片。選才電子報的作答淺析也寫明，得高分的考生都充分符合作答提示中寫作任務的要求，內容完整、豐富，組織良好；而部分考生未能針對兩段的寫作任務著筆，或有遺漏、內容不足之處，導致得分偏低。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&qbranch=0J071649374729510051&sid=0Q077622448864496628",
+      "label": "115學年度學科能力測驗英文作文佳作",
+      "note": "大考中心 115 年 3 月 31 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇的第一段幾乎都寫同一件事：養寵物取代養小孩，人們把寵物當子女一樣照顧。第二段的原因也很集中——晚婚、經濟壓力大、養寵物花費比較低、寵物不哭不鬧又能提供情緒支持；影響則多半寫生育率降低、人口老化、勞動人口不足。想寫得不一樣的，可以看另外四篇：第 3 篇與第 6 篇寫到寵物相關產業跟著改變，第 9 篇寫這個現象也可能減少流浪動物，第 4 篇寫它同時提升了動物保護意識，第 1 篇則把結論收在建議政府採取措施鼓勵生育。官方前言另外寫明，這十篇在詞彙、文法、句構與拼字的掌握上仍有些許缺失，但仍屬佳作。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的「充分、具體之細節」是看得見的東西：嬰兒車裡坐的是兩隻狗、大人把狗扛在肩上、奶瓶換成一匙狗食、狗身上穿著外套。第二段也一樣——關掉的童裝店、表姊三十四歲結婚、補習費，都是自己真的看過的事，不是「養寵物愈來愈普遍」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先用一句話定調，中間分成公園與家裡兩個場景，最後收在「少的只有那個小孩」；第二段照原因走到影響，再回到自己的看法。題目指定文分兩段，這篇就寫兩段，兩段各自完成一件事，前後是一條線。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自 the way 引導的子句、while 的對比、關係子句（The shop that used to sell …）、現在完成式（has become）與 not … but 的並列。句子寫得清楚比寫得繁複重要。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：最高的是 generation 與 luxury 兩個四級字，三級只有 cart、wagon、warmth、missing 四個，其餘一律落在一、二級。另外刻意留了兩個詞彙表沒有收的字：stroller 就是圖片裡的那樣東西，換成別的說法反而不準；cram school 是複合詞，詞彙表按體例不收複合詞，而這正是學生天天在講、英文卻常常寫不出來的東西。真正會扣分的地方通常在拼法，stroller、wagon、luxury、generation 這幾個考前確認一下。"
+     }
+    ]
+   }
   },
   {
    "id": "E115_GSAT_REF",
