@@ -569,7 +569,47 @@
    ],
    "source": "大學入學考試中心 112 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為各種表情符號。要求說明人們為何喜歡用，並舉例其功能；再以經驗為例，討論可能的誤會與解決\n方法。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 298,
+     "p1": "Emojis have become part of the way people talk online, and the reason is easy to see. A written message carries the words but not the voice behind them, so the reader cannot tell whether a sentence is warm, impatient, or simply a joke. A single emoji fills that gap. Take the broad smile in the first picture. Attached to a short reply such as \"Sure, no problem,\" it tells the reader that the writer is glad to help rather than answering out of duty. The angry face in the second picture does the opposite job just as well: it states that the writer is upset, and it saves both sides a long, awkward explanation. That is what these small faces are for. They convey the tone that plain text leaves out, and they do it faster than any sentence could.",
+     "p2": "That same speed, however, can work against the writer. Last spring our class group chat was arguing about where to go for our class trip, and when someone finally suggested the beach, I replied \"Anywhere works\" with the broad smile from the first picture. I meant it. Two classmates read the cheerful face on top of a flat two-word answer as mocking them, and the argument started again, this time about me. The trouble with a group chat is that one message reaches thirty readers at once, and thirty people do not interpret a face the same way. A smiling face cannot prove sincerity; a full sentence can. What I do now is to reserve emojis for messages that are already clear without them. When I disagreed with the next suggestion, I wrote out my reason in full and sent it to the classmate who was organizing the trip, and nobody had to guess what I meant.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。這一題的四張圖不是選單，是舉例的材料，舉一至二例就夠，四張全部寫進去反而沒有一張寫得深。九篇官方佳作四張都有人用，分布相當平均，所以挑哪一張都不影響得分。真正拉開差距的是第二段——題目要的是一段親身或親友的經驗，而且要一路寫到化解的方法，三個環節缺一不可：誤會怎麼發生、當下的結果是什麼、後來怎麼處理。九篇佳作的第二段幾乎都是完整的一件事，不是「表情符號有時候會造成誤會」這種泛論。還有一件值得知道：那九篇的誤會幾乎全發生在一對一的訊息裡，化解的方法也多半是補一句文字說明。本篇刻意換成群組，不是因為那樣比較好，而是因為同一個題目還有別的寫法——把那九篇看過一遍，再想想自己真正遇過的是哪一種。",
+     "zh": {
+      "p1": "表情符號已經成為大家在網路上說話的一部分，理由不難懂。文字訊息傳得出字句，卻傳不出說話的聲音，所以讀的人分不出一句話是親切、是不耐煩，還是只是在開玩笑。一個表情符號就補得起這個缺口。以第一張那個大大的笑臉為例，寫的人把它接在「好啊，沒問題」這種簡短的回覆後面，讀的人就知道他是樂意幫忙，而不是把事情當成義務在應付。第二張那個生氣的臉做的是相反的事，效果一樣好——它直接說明寫的人不高興了，也替雙方省下一段又長又尷尬的解釋。這些小小的臉就是這樣用的：文字沒說出來的語氣，它們傳得出來，而且比任何一句話都快。",
+      "p2": "不過，同樣是這份快，有時候反而會害了寫的人。去年春天，我們班的群組正在吵班遊要去哪裡，有人提議去海邊，我回了一句「隨便」，後面接第一張那個笑臉。我是真心的。可是有兩個同學看到那張開心的臉配上一句只有兩個字的回覆，覺得我是在嘲笑他們，於是又吵了起來，這次吵的是我。群組的麻煩就在這裡：同一則訊息一次送到三十個人眼前，而這三十個人解讀一張臉的方式不會一樣。一張笑臉證明不了誠意，一個完整的句子才可以。我現在的做法是，表情符號留給本來就講得清楚的訊息。下一個提議我不同意的時候，我把理由整段寫出來，而且單獨傳給負責籌辦的那位同學，誰都不必猜我是什麼意思。"
+     }
+    },
+    "rubric": {
+     "source": "大考中心 112 學年度學科能力測驗英文考科非選擇題滿分參考答案與評分原則；大考中心選才電子報第 336 期〈112 年學科能力測驗非選擇題評分原則說明－【英文】〉（大考中心研究員／林秀慧撰，112 年 4 月 17 日出刊）",
+     "intro": "112 的官方說明有兩份，內容互補。隨試題公布的那一份寫的是評分項目與等級：英文作文依考生在內容、組織、文法句構、字彙拼字四項的表現評分，各項得分加總後給予一個整體分數（holistic score），再依總分 1 至 20 分分成五個等級——特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分。選才電子報第 336 期那一份寫的是閱卷怎麼進行：閱卷委員仔細評閱考生的作答內容之後，先決定一個整體分數，再以分項式評分指標回頭檢驗這個分數合不合宜，以確保閱卷標準一致。兩份都附了表一〈英文作文評分指標〉，四個項目各分優、可、差、劣四個等級，每一格都帶配分（5-4 分／3 分／2-1 分／0 分），沒有另立 0 分那一列。",
+     "keypoint": "體例規則四條，電子報那一份寫得最清楚：寫多段不扣分；未分段扣總分 1 分；字數明顯不足扣總分 1 分；字數明顯不足又未分段的，不再重複扣分——也就是說，這兩項最多合計只扣 1 分，不是各扣 1 分扣成 2 分。至於寫作任務，題目分得很清楚：第一段說明人們何以喜歡使用表情符號，並從四張裡舉一至二例，說明表情符號在溝通上有何功能；第二段以個人或親友的經驗為例，討論表情符號在訊息表達或解讀上可能造成的誤會或困擾，並提出可以化解的方法。第二段最容易漏掉的是最後那半句：只寫誤會、沒寫怎麼化解，寫作任務就沒有完成。選才電子報的作答淺析也寫明，得高分的考生都充分涵蓋兩段的作答提示，內容完整豐富、組織良好；而部分考生未能針對提示書寫，有遺漏或內容不足之處，沒有完成寫作任務要求，得分因此偏低。",
+     "samples": {
+      "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0N089635234967309929",
+      "label": "112學年度學科能力測驗英文作文佳作",
+      "note": "大考中心 112 年 3 月 31 日公布英文作文佳作九篇，附原卷影像檔與簡要評分說明。四張圖都有人用，分布相當平均，例 2 那張生氣的臉最多、例 3 那張笑翻了的臉次之。九篇的第二段誤會來源很集中——傳笑臉給正在難過或做錯事的人，對方讀成不當一回事；而且九篇全都發生在一對一的訊息裡。想看不一樣的寫法可以挑幾篇：第 3 篇寫家人為了一個表情符號跟陌生人起爭執，第 7 篇寫祖母傳來一則感人的訊息卻加了笑翻了的符號，第 8 篇寫爺爺回了一個表情符號而引起誤會，最後收在鼓勵長輩多用社群媒體、減少代溝。化解的方法九篇也不一樣，有人主張補一句文字、有人主張嚴肅話題少用表情符號、有人主張改用打電話或當面講。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的「充分、具體之細節」是寫得出人事時地物、數字或動作：去年春天、群組在吵班遊要去哪裡、有人提議去海邊、我回的那兩個字、兩個同學的反應、三十個人。第一段也一樣——「好啊，沒問題」是一句真的會傳出去的話，不是「表情符號可以表達情感」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先講人們為什麼愛用，再舉兩個相反的例子（笑臉與生氣的臉），最後收回到它們共同的功能；第二段先接上第一段的「快」，用一件完整的事說明快帶來的代價，最後給出自己現在的做法。題目指定文分兩段，這篇就寫兩段，兩段各自完成題目指派的那一半。第二段開頭的 That same speed 回頭接第一段最後一句，兩段因此不是各講各的。"
+     },
+     {
+      "k": "文法句構",
+      "t": "句型刻意不只一種：Attached to…（分詞片語當開頭）、does the opposite job just as well（比較的說法）、read A as B（把 A 讀成 B 的句型）、What I do now is to…（名詞子句當主語）、以及用分號把正反兩句接在一起的 A smiling face cannot prove sincerity; a full sentence can.。表一「優」那一格要的是「文句結構富變化」，變化指的就是這些，不是把句子拉長。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "這一年的項目名稱官方寫的是「字彙、拼字」，正文則寫「字彙拼字」，兩種寫法指的是同一件事。本篇有幾個字值得單獨看：convey（傳達語氣）、interpret（解讀，正是題目用的那個詞）、mock（嘲笑，一個字取代一整句解釋）、reserve（保留給某種場合用）、sincerity（誠意）。這五個都落在四、五級，難的不是背下來，是想得到在這個位置該用它們——表一「優」那一格寫的是「用字精確、得宜」，精確指的是挑對字，不是挑難字。"
+     }
+    ]
+   }
   },
   {
    "id": "E111_GSAT",
