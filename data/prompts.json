@@ -82,6 +82,221 @@
       "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：最高的是 generation 與 luxury 兩個四級字，三級只有 cart、wagon、warmth、missing 四個，其餘一律落在一、二級。另外刻意留了兩個詞彙表沒有收的字：stroller 就是圖片裡的那樣東西，換成別的說法反而不準；cram school 是複合詞，詞彙表按體例不收複合詞，而這正是學生天天在講、英文卻常常寫不出來的東西。真正會扣分的地方通常在拼法，stroller、wagon、luxury、generation 這幾個考前確認一下。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "push a stroller",
+        "zh": "推著嬰兒推車",
+        "own": true
+       },
+       {
+        "w": "carry sb on one's shoulders",
+        "zh": "把（人）扛在肩上",
+        "own": true
+       },
+       {
+        "w": "an increasing tendency for sb to V",
+        "zh": "越來越多人傾向……",
+        "src": "98年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0260"
+        ]
+       },
+       {
+        "w": "replace",
+        "zh": "取代",
+        "src": "94年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206"
+        ]
+       },
+       {
+        "w": "substitute A for B",
+        "zh": "以 A 代替 B",
+        "src": "98年指考 Q28",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz98_28"
+        ]
+       },
+       {
+        "w": "affection",
+        "zh": "關愛",
+        "src": "98年指考 Q28",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz98_28"
+        ]
+       },
+       {
+        "w": "afford",
+        "zh": "負擔得起",
+        "src": "95年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0211"
+        ]
+       },
+       {
+        "w": "affordable",
+        "zh": "負擔得起的、平價的",
+        "src": "104年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348"
+        ]
+       },
+       {
+        "w": "a luxury",
+        "zh": "一件奢侈的事",
+        "src": "95年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0223"
+        ]
+       },
+       {
+        "w": "at the expense of",
+        "zh": "以……為代價",
+        "src": "100年指考 Q25",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz100_25"
+        ]
+       },
+       {
+        "w": "responsibility",
+        "zh": "責任",
+        "src": "95年學測 Q32",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy95_32"
+        ]
+       },
+       {
+        "w": "a long-term commitment",
+        "zh": "長期的付出（96 年那一題考的是「承諾」那一個意思）",
+        "src": "96年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0171"
+        ]
+       },
+       {
+        "w": "the birth rate keeps falling",
+        "zh": "出生率一年比一年低",
+        "own": true
+       },
+       {
+        "w": "an aging society",
+        "zh": "高齡化社會",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "公園裡那位女士推著嬰兒推車走過來，裡面坐的不是嬰兒，是兩隻小狗。",
+        "en": "A woman came down the path pushing a stroller, but there was no baby inside — two small dogs sat in it and looked out.",
+        "hint": "「裡面坐的不是嬰兒，是……」不必寫成 not…but…，用破折號接一句說明反而更像英文的寫法。",
+        "covers": [
+         "push a stroller"
+        ],
+        "bold": [
+         "pushing a stroller"
+        ]
+       },
+       {
+        "zh": "這幾年越來越多年輕人養寵物，而不是生小孩。",
+        "en": "In recent years there has been an increasing tendency for young couples to keep pets rather than have children.",
+        "hint": "直接套 98 年學測那個句型：there is an increasing tendency for sb to V。",
+        "covers": [
+         "an increasing tendency for sb to V"
+        ],
+        "bold": [
+         "an increasing tendency for",
+         "to keep"
+        ]
+       },
+       {
+        "zh": "在那張照片裡，奶瓶換成了一匙狗飼料。",
+        "en": "In that picture, the bottle has been replaced with a spoonful of dog food.",
+        "hint": "replace A with B 的被動寫法；主動要寫成 a spoonful of dog food has replaced the bottle。",
+        "covers": [
+         "replace"
+        ],
+        "bold": [
+         "replaced with"
+        ]
+       },
+       {
+        "zh": "對很多人來說，養一隻狗花的錢比養一個小孩少太多。",
+        "en": "For many people, a dog costs far less than a child does.",
+        "hint": "「少太多」用 far less 就夠了，不必疊用比較級。",
+        "covers": [
+         "afford",
+         "affordable"
+        ],
+        "bold": [
+         "costs far less"
+        ]
+       },
+       {
+        "zh": "想把一個孩子好好養大，現在已經是一件奢侈的事。",
+        "en": "Raising a child well has become a luxury that many young couples can no longer afford.",
+        "hint": "luxury 與 afford 接在同一句裡最自然，兩條一起練。",
+        "covers": [
+         "a luxury",
+         "afford"
+        ],
+        "bold": [
+         "a luxury",
+         "afford"
+        ]
+       },
+       {
+        "zh": "寵物給的陪伴是真的，可是這份溫暖換不回那些空掉的教室。",
+        "en": "The warmth people find in their pets is real, but it will not fill the classrooms that keep emptying.",
+        "hint": "第二段收尾不要喊口號；把抽象的擔心落在一個看得見的東西上（空教室），力道比形容詞強。",
+        "covers": [
+         "the birth rate keeps falling",
+         "an aging society"
+        ],
+        "bold": [
+         "keep emptying"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "decline",
+        "zh": "站上考的是「婉拒」（decline an invitation），不是「下降」。寫出生率下降要用 fall／drop",
+        "src": "95年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0217"
+        ]
+       },
+       {
+        "w": "isolated",
+        "zh": "remain isolated from the society，講與社會脫節",
+        "src": "99年學測 Q36",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy99_36"
+        ]
+       },
+       {
+        "w": "population",
+        "zh": "a population of a few thousand，講人口規模",
+        "src": "93年指考 Q39",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz93_39"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
    }
   },
   {
@@ -572,6 +787,234 @@
       "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》，結果見下一節。真正會扣分的地方通常在拼法，embarrassed、haircut、sauce、pattern 這幾個考前確認一下。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "be under pressure to V",
+        "zh": "有……的壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "in order of priority",
+        "zh": "按輕重緩急",
+        "src": "94年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0210"
+        ]
+       },
+       {
+        "w": "reliable",
+        "zh": "可靠的",
+        "src": "98年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261"
+        ]
+       },
+       {
+        "w": "make efficient use of",
+        "zh": "有效率地運用",
+        "src": "88年推薦甄選 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0084"
+        ]
+       },
+       {
+        "w": "an assistant",
+        "zh": "助手",
+        "src": "111年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0452"
+        ]
+       },
+       {
+        "w": "automatically",
+        "zh": "自動地",
+        "src": "98年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0258"
+        ]
+       },
+       {
+        "w": "capacity",
+        "zh": "容量、能力",
+        "src": "101年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0315"
+        ]
+       },
+       {
+        "w": "get over",
+        "zh": "克服、走出來",
+        "src": "89年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0102"
+        ]
+       },
+       {
+        "w": "worn out",
+        "zh": "疲憊不堪的",
+        "src": "95年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0224"
+        ]
+       },
+       {
+        "w": "manageable",
+        "zh": "應付得來的",
+        "src": "91年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0122"
+        ]
+       },
+       {
+        "w": "combat the problem",
+        "zh": "對付這個問題",
+        "src": "112年學測 Q30",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy112_30"
+        ]
+       },
+       {
+        "w": "split the work with sb",
+        "zh": "跟某人分工",
+        "own": true
+       },
+       {
+        "w": "take over the boring part",
+        "zh": "把無聊的那部分接手過去",
+        "own": true
+       },
+       {
+        "w": "stay focused on",
+        "zh": "專心在……",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "每天晚上我都有寫不完的功課，還有一堆訊息等著回。",
+        "en": "Every night I am under pressure to finish a pile of homework, with dozens of messages still waiting for a reply.",
+        "hint": "「有……的壓力」直接套 86 年聯考那個句型：be under pressure to V。",
+        "covers": [
+         "be under pressure to V"
+        ],
+        "bold": [
+         "under pressure to"
+        ]
+       },
+       {
+        "zh": "我最想解決的是時間不夠用這件事。",
+        "en": "The problem I would most like to solve is that there is never enough time.",
+        "hint": "第一段開頭先把選的那一個講清楚，不要先鋪陳三個問題再選。",
+        "covers": [
+         "stay focused on"
+        ],
+        "bold": [
+         "The problem I would most like to solve"
+        ]
+       },
+       {
+        "zh": "我希望這個小幫手可以幫我把該做的事按輕重緩急排好。",
+        "en": "I hope my robot helper can arrange the things I have to do in order of priority.",
+        "hint": "整句幾乎就是 94 年學測那一題的句子，換個主詞就成立。",
+        "covers": [
+         "in order of priority"
+        ],
+        "bold": [
+         "in order of priority"
+        ]
+       },
+       {
+        "zh": "它記得住每一個截止日，而我記不住。",
+        "en": "It has the capacity to remember every deadline, which is exactly what I cannot do.",
+        "hint": "用 which 回指整個前一句，比再寫一個 but I can't 乾淨。",
+        "covers": [
+         "capacity",
+         "reliable"
+        ],
+        "bold": [
+         "the capacity to",
+         "which"
+        ]
+       },
+       {
+        "zh": "它負責提醒跟整理，我負責真正動腦的那一部分。",
+        "en": "It would take over the reminding and the sorting, while I keep the part that actually needs thinking.",
+        "hint": "分工用 while 對照兩邊，兩個子句的結構要對稱。",
+        "covers": [
+         "take over the boring part",
+         "split the work with sb"
+        ],
+        "bold": [
+         "take over",
+         "while"
+        ]
+       },
+       {
+        "zh": "有了它，我不會每天到了半夜還累得什麼都做不了。",
+        "en": "With its help, I would not end up completely worn out at midnight with nothing done.",
+        "hint": "end up + 形容詞「最後落得……」；worn out 後面用 with nothing done 補一個結果。",
+        "covers": [
+         "worn out",
+         "manageable"
+        ],
+        "bold": [
+         "end up",
+         "worn out",
+         "with nothing done"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "artificial",
+        "zh": "站上考的是「人造的」（artificial flavors 人工香料）。artificial intelligence 是同一個意思的另一個搭配",
+        "src": "93年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0188"
+        ]
+       },
+       {
+        "w": "conquer",
+        "zh": "站上考的是 conquer one's heart「攻下芳心」，不是克服困難。寫克服要用 get over 或 overcome",
+        "src": "105年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0372"
+        ]
+       },
+       {
+        "w": "alert",
+        "zh": "站上考的是名詞 a travel alert「旅遊警示」，不是動詞的提醒",
+        "src": "103年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
+        ]
+       },
+       {
+        "w": "give way to",
+        "zh": "站上考的是製造業被資訊業取代。這一題談的是分工不是取代，方向不同",
+        "src": "91年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0134"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
    }
   },
   {
@@ -654,6 +1097,226 @@
       "t": "這一年的項目名稱官方寫的是「字彙、拼字」，正文則寫「字彙拼字」，兩種寫法指的是同一件事。本篇有幾個字值得單獨看：convey（傳達語氣）、interpret（解讀，正是題目用的那個詞）、mock（嘲笑，一個字取代一整句解釋）、reserve（保留給某種場合用）、sincerity（誠意）。這五個都落在四、五級，難的不是背下來，是想得到在這個位置該用它們——表一「優」那一格寫的是「用字精確、得宜」，精確指的是挑對字，不是挑難字。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "ambiguous",
+        "zh": "模稜兩可的",
+        "src": "88年推薦甄選 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0076"
+        ]
+       },
+       {
+        "w": "be interpreted in several ways",
+        "zh": "可以有好幾種解讀",
+        "src": "90年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0114"
+        ]
+       },
+       {
+        "w": "clarify",
+        "zh": "說清楚、澄清",
+        "src": "91年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0129"
+        ]
+       },
+       {
+        "w": "expressive",
+        "zh": "有表達力的",
+        "src": "108年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0412"
+        ]
+       },
+       {
+        "w": "offensive",
+        "zh": "冒犯的",
+        "src": "114年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0484"
+        ]
+       },
+       {
+        "w": "emotionally",
+        "zh": "在情緒上",
+        "src": "88年推薦甄選 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0085"
+        ]
+       },
+       {
+        "w": "a symbol of",
+        "zh": "……的象徵",
+        "src": "104年學測 Q38",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy104_38"
+        ]
+       },
+       {
+        "w": "out of courtesy",
+        "zh": "出於禮貌",
+        "src": "85年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024"
+        ]
+       },
+       {
+        "w": "mistakenly",
+        "zh": "誤以為地（插在句中：believe, quite mistakenly, that…）",
+        "src": "92年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0212"
+        ]
+       },
+       {
+        "w": "a thumbs-up",
+        "zh": "一個讚",
+        "own": true
+       },
+       {
+        "w": "soften the tone",
+        "zh": "讓語氣軟一點",
+        "own": true
+       },
+       {
+        "w": "read too much into sth",
+        "zh": "對某件事想太多",
+        "own": true
+       },
+       {
+        "w": "sort it out face to face",
+        "zh": "當面講清楚",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "同樣一句話，加上一個笑臉跟不加，讀起來完全不一樣。",
+        "en": "The same sentence reads very differently with a smiley face and without one.",
+        "hint": "「讀起來」用 read 當不及物動詞，後面接副詞，不要寫成 is read。",
+        "covers": [
+         "soften the tone"
+        ],
+        "bold": [
+         "reads very differently"
+        ]
+       },
+       {
+        "zh": "一個符號常常可以有好幾種解讀，而傳的人只想到其中一種。",
+        "en": "One symbol can be interpreted in several different ways, while the sender usually has only one of them in mind.",
+        "hint": "直接套 90 年學測那一題：be interpreted in several different ways。",
+        "covers": [
+         "a symbol of",
+         "be interpreted in several ways",
+         "ambiguous"
+        ],
+        "bold": [
+         "symbol",
+         "be interpreted in several different ways"
+        ]
+       },
+       {
+        "zh": "不說話有時候跟說話一樣有表達力。",
+        "en": "Saying nothing is sometimes as expressive as saying something.",
+        "hint": "108 年學測那一句的改寫。as…as 中間放形容詞原級，兩邊的詞性要對齊。",
+        "covers": [
+         "expressive"
+        ],
+        "bold": [
+         "as expressive as"
+        ]
+       },
+       {
+        "zh": "我傳了一個讚，本來只是想快點回覆，媽媽卻覺得我在敷衍。",
+        "en": "I sent a thumbs-up just to reply quickly, but my mother took it as a sign that I could not be bothered.",
+        "hint": "「覺得我在敷衍」不必直譯，take sth as a sign that… 把解讀這件事寫出來。",
+        "covers": [
+         "a thumbs-up",
+         "read too much into sth"
+        ],
+        "bold": [
+         "a thumbs-up",
+         "took it as a sign that"
+        ]
+       },
+       {
+        "zh": "那句話本身沒有惡意，是那個符號讓它聽起來很冒犯。",
+        "en": "The words themselves were not unkind; it was the emoji that made them sound offensive.",
+        "hint": "用分裂句 it was… that… 把責任指到符號身上，正好是這一段要講的。",
+        "covers": [
+         "offensive",
+         "emotionally"
+        ],
+        "bold": [
+         "it was",
+         "that",
+         "offensive"
+        ]
+       },
+       {
+        "zh": "與其在訊息裡猜來猜去，不如當面把話講清楚。",
+        "en": "Rather than guessing at each other's messages, it is better to sort things out face to face.",
+        "hint": "Rather than + V-ing 放句首，後面用 it is better to V 接，句子才不會頭重腳輕。",
+        "covers": [
+         "sort it out face to face",
+         "clarify"
+        ],
+        "bold": [
+         "Rather than guessing",
+         "sort things out face to face"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "as the name implies",
+        "zh": "顧名思義。站上考的是這個固定搭配，不是單獨的「暗示」",
+        "src": "106年指考 Q25",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz106_25"
+        ]
+       },
+       {
+        "w": "point to",
+        "zh": "站上考的是「（證據）指向、主張」，不是手指著誰",
+        "src": "115年學測 Q26",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy115_26"
+        ]
+       },
+       {
+        "w": "mumble",
+        "zh": "含糊地說，講的是聲音。這一題談的是文字訊息，用不到",
+        "src": "104年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0072"
+        ]
+       },
+       {
+        "w": "regularly",
+        "zh": "有規律地。同一個主題常見的副詞，本題用不到",
+        "src": "101年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0302"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
    }
   },
   {
@@ -731,6 +1394,207 @@
      {
       "k": "字彙拼字",
       "t": "這一年官方的項目名稱寫的是「字彙、拼字」。本篇有幾個字值得單獨看：dome（圓頂，照著圖上那個形狀挑的字）、equipment（一個字收掉整批設施）、stripe（一條一條的形狀）、curve（步道彎過去）、concrete（水泥地）、wheelchair（輪椅）、disturb（打擾）。另外 shade 與 shadow 這一組要分清楚：shade 是曬不到太陽的那片涼處，shadow 是東西擋住光在地面投出的形狀，草地上一條一條的是後者。表一「優」那一格寫的是「用字精確、得宜」，精確指的是挑對字，不是挑難字。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "routine maintenance",
+        "zh": "定期維護",
+        "src": "94年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0186"
+        ]
+       },
+       {
+        "w": "shelter sb from the sun",
+        "zh": "替人遮陽",
+        "src": "102年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0111"
+        ]
+       },
+       {
+        "w": "preserve",
+        "zh": "保留、保存",
+        "src": "98年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
+        ]
+       },
+       {
+        "w": "conservation",
+        "zh": "保育",
+        "src": "103年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0089"
+        ]
+       },
+       {
+        "w": "ecological",
+        "zh": "生態的",
+        "src": "106年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0059"
+        ]
+       },
+       {
+        "w": "loosen one's muscles",
+        "zh": "鬆開筋骨",
+        "src": "103年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0334"
+        ]
+       },
+       {
+        "w": "with the vision of",
+        "zh": "懷著……的構想",
+        "src": "105年學測 Q32",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vy105_32"
+        ]
+       },
+       {
+        "w": "careful planning",
+        "zh": "周密的規劃",
+        "src": "105年指考 Q24",
+        "srcUrl": [
+         "https://staresto-create.github.io/passage-completion/#hard-Vz105_24"
+        ]
+       },
+       {
+        "w": "an open lawn",
+        "zh": "一片開闊的草地",
+        "own": true
+       },
+       {
+        "w": "a shaded bench",
+        "zh": "樹蔭下的長椅",
+        "own": true
+       },
+       {
+        "w": "a walking trail",
+        "zh": "步道",
+        "own": true
+       },
+       {
+        "w": "be open to everyone",
+        "zh": "開放給每個人使用",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "圖 A 那座公園的地很平，一片草地一路延伸到樹下。",
+        "en": "The park in Picture A is flat and open, with a lawn stretching all the way to the trees.",
+        "hint": "描述圖片用 with + 名詞 + 分詞，一句就交代得完，不必分成兩句。",
+        "covers": [
+         "an open lawn"
+        ],
+        "bold": [
+         "a lawn stretching all the way to"
+        ]
+       },
+       {
+        "zh": "圖 B 那座剛好相反，遊樂設施擠在一起，幾乎沒有樹蔭。",
+        "en": "The one in Picture B is just the opposite: the playground equipment is packed together, and there is almost no shade.",
+        "hint": "兩張圖對照，第二句用 the one 回指 park，不要整個名詞再寫一次。",
+        "covers": [
+         "a shaded bench"
+        ],
+        "bold": [
+         "The one",
+         "just the opposite"
+        ]
+       },
+       {
+        "zh": "夏天的下午，那幾棵老樹替坐在長椅上的人遮陽。",
+        "en": "On a summer afternoon, those old trees shelter the people on the benches from the sun.",
+        "hint": "整句照 102 年指考那一題的句型：shelter sb from sth。",
+        "covers": [
+         "shelter sb from the sun",
+         "a shaded bench"
+        ],
+        "bold": [
+         "shelter",
+         "from the sun"
+        ]
+       },
+       {
+        "zh": "有人在步道上快走，有人只是坐著鬆鬆筋骨。",
+        "en": "Some people walk briskly along the trail; others simply sit and loosen their muscles.",
+        "hint": "Some…others… 兩邊結構要對稱，分號比 and 乾淨。",
+        "covers": [
+         "a walking trail",
+         "loosen one's muscles"
+        ],
+        "bold": [
+         "the trail",
+         "loosen their muscles"
+        ]
+       },
+       {
+        "zh": "我心目中的公園不必大，但每天都要有人在維護。",
+        "en": "The park I have in mind does not have to be large, but it does need routine maintenance.",
+        "hint": "does need 的 does 是強調用法，接在 but 後面剛好把重點壓在維護上。",
+        "covers": [
+         "routine maintenance"
+        ],
+        "bold": [
+         "does need",
+         "routine maintenance"
+        ]
+       },
+       {
+        "zh": "最要緊的是它開放給每個人使用——推嬰兒車的、坐輪椅的、遛狗的，都進得來。",
+        "en": "What matters most is that it stays open to everyone — people with strollers, people in wheelchairs, people walking their dogs.",
+        "hint": "What matters most is that… 開頭把重點先講；後面用破折號列三種人，比寫 including 自然。",
+        "covers": [
+         "be open to everyone"
+        ],
+        "bold": [
+         "What matters most is that",
+         "open to everyone"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "protective",
+        "zh": "站上考的是 be protective of sb「保護欲強的」，講的是人對人，不是保護環境",
+        "src": "92年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0205"
+        ]
+       },
+       {
+        "w": "browse",
+        "zh": "站上考的是「瀏覽」與「（動物）吃草」兩義，與公園主題相鄰而用不到",
+        "src": "107年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0045"
+        ]
+       },
+       {
+        "w": "herbal",
+        "zh": "草藥的。同一份考卷的植物類字，本題用不到",
+        "src": "106年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0060"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
