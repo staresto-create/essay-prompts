@@ -684,12 +684,35 @@ function card(it){
       });
       body.appendChild(ul);
     }
-    if(m.rubric && m.rubric.source){
-      const sd=el('div','mdSrc','評分說明出處：'+m.rubric.source);
-      // sourceLinks：出處那一句講的是哪幾份文件，這裡就讓讀者點得到那幾份。
-      // label 已砍掉年度、考試名稱與科目標記（規範第三十八節第九條），因為讀者已經站在那一年那一題的卡片上。
-      // 體例與卡片上的佳作、延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
-      const sl=m.rubric.sourceLinks;
+    b.appendChild(body);d.appendChild(b);
+  }
+
+  // 大考中心公布的資料一律畫在卡片這一層，不畫在範文摺疊區裡面。
+  // 事由其一：`samples` 自第二百五十五場起搬到題目層，三十一題都掛得上，而其中十九題沒有範文、摺疊區根本不存在。
+  // 事由其二：`sourceLinks` 原本埋在摺疊區最下面，讀者要按開範文才找得到，
+  //           而佳作與出處是同一件事的兩半——大考中心那一年就公布這幾樣東西，不該一個在外面一個在裡面。
+  // 體例與延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
+  // label 已砍掉年度、考試名稱與科目標記（第三十八節第九條），因為讀者已經站在那一年那一題的卡片上。
+  (function(){
+    const sm=it.samples, rb=(it.model&&it.model.rubric)||null;
+    const hasSm=sm&&sm.url, hasSrc=rb&&rb.source;
+    if(!hasSm&&!hasSrc)return;
+    const sb=el('div','smBox');
+    sb.appendChild(el('div','smHd','大考中心公布的資料'));
+    // 佳作先畫：三十一題都有，出處只有帶範文的十二題有，永遠有的那一樣擺前面。
+    if(hasSm){
+      const sp=el('div','smLink');
+      const a=document.createElement('a');
+      a.href=sm.url;a.target='_blank';a.rel='noopener';
+      a.textContent=(sm.label||'官方佳作')+' ↗';
+      sp.appendChild(a);
+      sb.appendChild(sp);
+      // note 為選配欄：十二題原有導讀照舊印出，十九題新掛的目前只有連結。
+      if(sm.note)sb.appendChild(el('div','smNote',sm.note));
+    }
+    if(hasSrc){
+      const sd=el('div','mdSrc','評分說明出處：'+rb.source);
+      const sl=rb.sourceLinks;
       if(sl&&sl.length){
         const ln=el('div','mdSrcLinks');
         sl.forEach(x=>{
@@ -701,28 +724,10 @@ function card(it){
         });
         if(ln.childNodes.length)sd.appendChild(ln);
       }
-      body.appendChild(sd);
+      sb.appendChild(sd);
     }
-    b.appendChild(body);d.appendChild(b);
-  }
-
-  // 佳作區畫在卡片這一層，不畫在範文摺疊區裡面。
-  // 事由：`samples` 自本場起搬到題目層，三十一題都掛得上，而其中十九題沒有範文，
-  // 摺疊區根本不存在；同一樣東西在兩種卡片上長在兩個地方，讀者找不到。
-  // 體例與延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
-  if(it.samples && it.samples.url){
-    const sb=el('div','smBox');
-    sb.appendChild(el('div','smHd','官方佳作'));
-    const sp=el('div','smLink');
-    const a=document.createElement('a');
-    a.href=it.samples.url;a.target='_blank';a.rel='noopener';
-    a.textContent=(it.samples.label||'官方佳作')+' ↗';
-    sp.appendChild(a);
-    sb.appendChild(sp);
-    // note 為選配欄：十二題原有導讀照舊印出，十九題新掛的目前只有連結。
-    if(it.samples.note)sb.appendChild(el('div','smNote',it.samples.note));
     d.appendChild(sb);
-  }
+  })();
 
   it.images.forEach(img=>{
     const f=document.createElement('figure');
