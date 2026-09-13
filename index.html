@@ -694,8 +694,11 @@ function card(it){
   // 體例與延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
   // label 已砍掉年度、考試名稱與科目標記（第三十八節第九條），因為讀者已經站在那一年那一題的卡片上。
   (function(){
-    const sm=it.samples, rb=(it.model&&it.model.rubric)||null;
-    const hasSm=sm&&sm.url, hasSrc=rb&&rb.source;
+    // `rubricSource` 與 `sourceLinks` 自本場起掛在題目層，不掛在 `model.rubric` 底下——
+    // `model` 只有十二題有，而沒有範文的題目一樣有官方的評分原則可給讀者。
+    // 欄名不寫成 `source`：題目層本來就有一個 `source`，那是題目圖片的出處，兩者不是同一件事。
+    const sm=it.samples;
+    const hasSm=sm&&sm.url, hasSrc=!!it.rubricSource;
     if(!hasSm&&!hasSrc)return;
     const sb=el('div','smBox');
     sb.appendChild(el('div','smHd','大考中心公布的資料'));
@@ -711,8 +714,8 @@ function card(it){
       if(sm.note)sb.appendChild(el('div','smNote',sm.note));
     }
     if(hasSrc){
-      const sd=el('div','mdSrc','評分說明出處：'+rb.source);
-      const sl=rb.sourceLinks;
+      const sd=el('div','mdSrc','評分說明出處：'+it.rubricSource);
+      const sl=it.sourceLinks;
       if(sl&&sl.length){
         const ln=el('div','mdSrcLinks');
         sl.forEach(x=>{
