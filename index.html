@@ -266,6 +266,38 @@ figcaption{font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(-
 .notes h3{font-family:var(--serif);font-size:17px;margin:26px 0 8px}
 .notes p{max-width:46em;font-size:15px;margin:0 0 12px}
 .notes strong{background:linear-gradient(transparent 62%,rgba(158,43,37,.16) 62%)}
+/* ─── 逐年對照表 ─── */
+.yrbox{margin:30px 0 0;border:1px solid var(--rule-soft);border-left:3px solid var(--wash);
+  background:var(--card);border-radius:2px;padding:0}
+.yrbox>summary{cursor:pointer;list-style:none;padding:14px 18px;
+  font-family:var(--serif);font-size:17px;letter-spacing:.03em}
+.yrbox>summary::-webkit-details-marker{display:none}
+.yrbox>summary::before{content:"\25B8 ";color:var(--wash)}
+.yrbox[open]>summary::before{content:"\25BE "}
+.yrbody{padding:0 18px 20px}
+.yrbody p{max-width:46em;font-size:14.5px;margin:0 0 12px}
+.yrtab{width:100%;border-collapse:collapse;font-size:14px;margin:14px 0 0}
+.yrtab caption{text-align:left;font-size:13px;color:var(--ink-soft);padding:0 0 8px}
+.yrtab th,.yrtab td{border-top:1px solid var(--rule-soft);padding:8px 10px;
+  text-align:left;vertical-align:top;line-height:1.6}
+.yrtab thead th{border-top:none;border-bottom:2px solid var(--rule);
+  font-family:var(--serif);font-size:14px;white-space:nowrap}
+.yrtab tbody tr:hover{background:var(--paper)}
+.yrtab .yrc{white-space:nowrap;font-weight:700}
+.yrtab a{color:var(--seal);text-decoration:underline;text-underline-offset:2px}
+.yrtab .none{color:var(--ink-soft)}
+.yrfoot{margin:16px 0 0;padding-top:12px;border-top:1px dotted var(--rule)}
+.yrfoot p{font-size:13.5px;color:var(--ink-soft);margin:0 0 8px}
+@media(max-width:720px){
+  .yrtab,.yrtab tbody,.yrtab tr,.yrtab td{display:block;width:100%}
+  .yrtab thead{position:absolute;left:-9999px}
+  .yrtab tr{border-top:1px solid var(--rule);padding:10px 0}
+  .yrtab td{border:none;padding:2px 0 2px 6.5em;position:relative}
+  .yrtab td::before{content:attr(data-h);position:absolute;left:0;width:6em;
+    color:var(--ink-soft);font-size:12.5px}
+  .yrtab td.yrc{padding-left:0;font-size:15px}
+  .yrtab td.yrc::before{content:""}
+}
 footer{border-top:1px solid var(--rule);padding:20px 0 40px;font-size:13px;color:var(--ink-soft)}
 footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underline-offset:2px;white-space:nowrap}
 .fnav{margin:0 0 10px}
@@ -323,7 +355,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
   <section class="strip" aria-labelledby="stripH">
     <div class="strip-head">
       <h2 id="stripH">年度一覽</h2>
-      <span>點選年度即可篩選；再點一次取消。斜線代表被目前條件排除。此帶只列正式考題，補考與參考試卷不在其中，仍會出現在下方題目列表。</span>
+      <span>點選年度即可篩選；再點一次取消。斜線代表被目前條件排除。此帶只列正式考題，補考與參考試卷不在其中，仍會出現在下方題目列表。哪一年公布了哪幾樣官方資料，見下方<a href="#official-table">逐年對照表</a>。</span>
     </div>
     <div class="strip-row"><div class="strip-label">學測</div><div class="years" id="rowGsat"></div></div>
     <div class="strip-row"><div class="strip-label">指考</div><div class="years" id="rowJcee"></div></div>
@@ -368,6 +400,15 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 
     <h3>關於非正式考題</h3>
     <p>本站收錄的 62 題中，有 9 題不是正式考試題目，包括補考、參考試卷、試辦考試與課綱參考試卷，卡片上均以虛線邊框與標籤標明。參考試卷是大考中心為預告命題方向而公布的示例，其中部分題目直接採用歷年考題——例如 115 學年度起適用參考試卷的作文題，與 111 學測完全相同。遇到這種情形，本站在該題下方註明來源，不合併也不隱藏。</p>
+
+    <details class="yrbox" id="official-table">
+      <summary>逐年對照：哪一年公布了哪幾樣</summary>
+      <div class="yrbody">
+        <p>大考中心公布的資料分成三樣，逐年並不齊全。<b>隨試題公布的評分原則</b>與試題同時上網，是最直接的一份；<b>選才電子報</b>另有一篇由大考中心研究員撰寫的說明，講得比前者細，早年刊名為「選才通訊」，且與國文考科合刊；<b>作文佳作</b>是官方選出的考生原卷影像，附簡要評分說明。</p>
+        <p>同一樣東西各年度自報的名稱並不相同，本表照各該份文件原本的名字寫，不代為統一。</p>
+        <div id="yrTab"></div>
+      </div>
+    </details>
   </section>
 </main>
 
@@ -811,6 +852,66 @@ function render(){
   hits.forEach(it=>list.appendChild(card(it)));
 }
 
+const EXAM_ORDER={'學測':0,'學測補考':1,'學測參考試卷':2,'學測試辦考試':3,'課綱參考試卷':4,'指考':5,'指考補考':6};
+
+function yrCell(links,head){
+  const td=el('td');td.setAttribute('data-h',head);
+  if(!links.length){const s=el('span','none','—');td.appendChild(s);return td}
+  links.forEach((l,i)=>{
+    if(i)td.appendChild(el('br'));
+    const a=el('a',null,l.label);
+    a.href=l.url;a.target='_blank';a.rel='noopener';
+    td.appendChild(a);
+  });
+  return td;
+}
+
+function buildYearTable(){
+  const box=$('#yrTab');
+  if(!box)return;
+  const rows=DATA.filter(it=>(it.sourceLinks&&it.sourceLinks.length)||it.samples)
+    .slice()
+    .sort((a,b)=>(b.year-a.year)||
+      ((EXAM_ORDER[a.exam]==null?9:EXAM_ORDER[a.exam])-(EXAM_ORDER[b.exam]==null?9:EXAM_ORDER[b.exam])));
+  const tb=el('table','yrtab');
+  const cap=el('caption',null,'共 '+rows.length+' 卷。點連結即前往大考中心該份文件。');
+  tb.appendChild(cap);
+  const thead=el('thead'),htr=el('tr');
+  ['年度／試別','隨試題公布的評分原則','選才電子報','作文佳作'].forEach(h=>{
+    const th=el('th',null,h);th.scope='col';htr.appendChild(th)});
+  thead.appendChild(htr);tb.appendChild(thead);
+  const tbody=el('tbody');
+  rows.forEach(it=>{
+    const sl=it.sourceLinks||[];
+    const ts=sl.filter(l=>l.label.indexOf('選才')!==0);
+    const xc=sl.filter(l=>l.label.indexOf('選才')===0);
+    const sp=it.samples?[it.samples]:[];
+    const tr=el('tr');
+    const c0=el('td','yrc',it.year+' '+it.exam);c0.setAttribute('data-h','');
+    tr.appendChild(c0);
+    tr.appendChild(yrCell(ts,'隨試題'));
+    tr.appendChild(yrCell(xc,'選才'));
+    tr.appendChild(yrCell(sp,'佳作'));
+    tbody.appendChild(tr);
+  });
+  tb.appendChild(tbody);
+  box.innerHTML='';
+  box.appendChild(tb);
+  if(location.hash==='#official-table')$('#official-table').open=true;
+  const ft=el('div','yrfoot');
+  const n1=el('p',null,'109 指考補考沒有佳作——大考中心未曾為補考公布佳作，不是本站漏收。');
+  const n2=el('p',null,'97 到 94 那幾卷沒有佳作——官方佳作最早只到 98 學年度。');
+  const n3=el('p');
+  n3.appendChild(document.createTextNode('大考中心公布的佳作是原卷手寫影像。同樣這些年度的佳作，'));
+  const a3=el('a',null,'三民書局東大圖書學習平台');
+  a3.href='https://elearning.sanmin.com.tw/Learn/PreviousTest/English';
+  a3.target='_blank';a3.rel='noopener';
+  n3.appendChild(a3);
+  n3.appendChild(document.createTextNode('另有打字的文字檔，不必登入就能下載（進去之後點「大考作文佳作」）——學測 106 到 115 一年一包、98 到 105 八年一包，指考 106 到 110 一年一包、98 到 105 八年一包。供下載的是壓縮檔，需解壓縮才能閱讀。'));
+  ft.appendChild(n1);ft.appendChild(n2);ft.appendChild(n3);
+  box.appendChild(ft);
+}
+
 fetch('data/prompts.json')
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
   .then(j=>{
@@ -825,12 +926,17 @@ fetch('data/prompts.json')
     buildChips('#fTheme','themes',tally('theme'));
     readHash();
     buildStrip();
+    buildYearTable();
     render();
   })
   .catch(()=>{
     $('#tally').textContent='題目資料載入失敗。';
     $('#list').innerHTML='<div class="empty"><b>讀不到題目資料</b><p>請確認 data/prompts.json 與 index.html 放在同一個 repo，且檔名大小寫相符。</p></div>';
   });
+
+window.addEventListener('hashchange',()=>{
+  if(location.hash==='#official-table'){const d=$('#official-table');if(d)d.open=true}
+});
 
 $('#reset').addEventListener('click',()=>{
   S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;S.wb=false;render();
