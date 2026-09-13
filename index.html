@@ -74,8 +74,10 @@
   .mdMap{list-style:none;padding:0;margin:0;}
   .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .mdK{font-weight:700;margin-right:6px;}
-  .mdSamples{font-size:12.5px;margin:0 0 9px;}
-  .mdSamplesNote{font-size:12px;color:#7A7263;line-height:1.75;margin-top:4px;}
+  .smBox{margin-top:12px;border:1px solid #E3DCC9;border-radius:6px;background:#FDFBF5;padding:11px 13px;}
+  .smHd{font-weight:700;font-size:13.5px;margin-bottom:6px;}
+  .smLink a{font-size:12.5px;}
+  .smNote{font-size:12px;color:#7A7263;line-height:1.75;margin-top:6px;}
   .mdSrc{font-size:11.5px;color:#8A8271;margin-top:9px;}
   .mdSrcLinks{font-size:12.5px;margin-top:6px;}
   .mdSrcLinks a{display:block;margin-top:4px;}
@@ -667,18 +669,6 @@ function card(it){
       body.appendChild(el('div','mdH','官方怎麼給分'));
       if(m.rubric.intro)body.appendChild(el('p','mdIntro',m.rubric.intro));
       if(m.rubric.keypoint)body.appendChild(el('p','mdKey',m.rubric.keypoint));
-      // 佳作頁：caveat 叫讀者「點進去自己看一遍」，就得真的有一個點得下去的連結。
-      // 體例與上方延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
-      const sm=m.rubric.samples;
-      if(sm&&sm.url){
-        const sp=el('div','mdSamples');
-        const a=document.createElement('a');
-        a.href=sm.url;a.target='_blank';a.rel='noopener';
-        a.textContent=(sm.label||'官方佳作')+' ↗';
-        sp.appendChild(a);
-        if(sm.note)sp.appendChild(el('div','mdSamplesNote',sm.note));
-        body.appendChild(sp);
-      }
     }
     if(m.mapping && m.mapping.length){
       // 項數逐年不同（107、114 為四項，105、99 為五項），標題不得寫死。
@@ -698,7 +688,7 @@ function card(it){
       const sd=el('div','mdSrc','評分說明出處：'+m.rubric.source);
       // sourceLinks：出處那一句講的是哪幾份文件，這裡就讓讀者點得到那幾份。
       // label 已砍掉年度、考試名稱與科目標記（規範第三十八節第九條），因為讀者已經站在那一年那一題的卡片上。
-      // 體例與上方佳作、延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
+      // 體例與卡片上的佳作、延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
       const sl=m.rubric.sourceLinks;
       if(sl&&sl.length){
         const ln=el('div','mdSrcLinks');
@@ -714,6 +704,24 @@ function card(it){
       body.appendChild(sd);
     }
     b.appendChild(body);d.appendChild(b);
+  }
+
+  // 佳作區畫在卡片這一層，不畫在範文摺疊區裡面。
+  // 事由：`samples` 自本場起搬到題目層，三十一題都掛得上，而其中十九題沒有範文，
+  // 摺疊區根本不存在；同一樣東西在兩種卡片上長在兩個地方，讀者找不到。
+  // 體例與延伸聽力的外連相同（target=_blank、rel=noopener、標籤後接 ↗）。
+  if(it.samples && it.samples.url){
+    const sb=el('div','smBox');
+    sb.appendChild(el('div','smHd','官方佳作'));
+    const sp=el('div','smLink');
+    const a=document.createElement('a');
+    a.href=it.samples.url;a.target='_blank';a.rel='noopener';
+    a.textContent=(it.samples.label||'官方佳作')+' ↗';
+    sp.appendChild(a);
+    sb.appendChild(sp);
+    // note 為選配欄：十二題原有導讀照舊印出，十九題新掛的目前只有連結。
+    if(it.samples.note)sb.appendChild(el('div','smNote',it.samples.note));
+    d.appendChild(sb);
   }
 
   it.images.forEach(img=>{
