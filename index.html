@@ -70,7 +70,9 @@
   .mdCaveat{font-size:12px;color:#7A7263;border-left:3px solid #DED5BF;padding-left:8px;margin:10px 0;}
   .mdH{font-size:13px;font-weight:700;margin:13px 0 5px;}
   .mdIntro{font-size:12.5px;line-height:1.8;color:#4A443A;margin:0 0 7px;}
-  .mdKey{font-size:12.5px;line-height:1.8;background:#F4EEDF;border-radius:4px;padding:8px 10px;margin:0 0 9px;white-space:pre-line;}
+  .mdKey{font-size:12.5px;line-height:1.8;background:#F4EEDF;border-radius:4px;padding:8px 10px;margin:0 0 9px;}
+  .mdKey p{margin:0 0 .7em;}
+  .mdKey p:last-child{margin-bottom:0;}
   .mdMap{list-style:none;padding:0;margin:0;}
   .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .mdK{font-weight:700;margin-right:6px;}
@@ -710,7 +712,12 @@ function card(it){
     if(m.rubric){
       body.appendChild(el('div','mdH','官方怎麼給分'));
       if(m.rubric.intro)body.appendChild(el('p','mdIntro',m.rubric.intro));
-      if(m.rubric.keypoint)body.appendChild(el('p','mdKey',m.rubric.keypoint));
+      if(m.rubric.keypoint){
+        // keypoint 以換行符分段；未分段者照舊只產生一個段落。
+        const kb=el('div','mdKey');
+        m.rubric.keypoint.split('\n').forEach(t=>{if(t.trim())kb.appendChild(el('p',null,t))});
+        body.appendChild(kb);
+      }
     }
     if(m.mapping && m.mapping.length){
       // 項數逐年不同（107、114 為四項，105、99 為五項），標題不得寫死。
