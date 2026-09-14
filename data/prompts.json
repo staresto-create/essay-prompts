@@ -3182,7 +3182,41 @@
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J078584184402770688",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 107 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 107 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 342,
+     "p1": "Of the three plans, I would choose to hold an arts festival in our community. My neighborhood is not short of food or of willing volunteers; what it is short of is an occasion that brings different generations into the same place. Two winters ago our school choir sang for twenty minutes outside the morning market at the end of our street. From where I stood I could see a woman stop counting her change and a boy of five climb onto his father's shoulders. For those twenty minutes nobody was a vendor and nobody was a customer. Providing services for the elderly is worth doing, but it sends students in one direction only; a market opens and closes, and by eight in the evening the street is swept and empty again. An arts festival is the one plan of the three that asks the whole community to make something together, and what we make does not disappear when the lights go out.",
+     "p2": "I would build the festival out of three parts, all of them on the same afternoon and on the same street. The first is an exhibit of old photographs borrowed from residents, hung along the wall of the community center with the year and the place written below; older people come because they recognize the buildings, and younger ones come because they do not. The second is a stage that school clubs and local folk musicians share, taking turns in one program, so that the same audience hears a guitar band and a group of traditional musicians within the same hour. The third is a corner where grandparents teach children to fold paper lanterns, because a craft travels faster from hand to hand than from a book. I would keep all three in one afternoon rather than spread them over a weekend. Spread out, an event like this turns into three small gatherings that each draw the same few people; kept together, it becomes the one afternoon in the year when the whole neighborhood has a reason to stay.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。這一題的三個方案是一張選單，選哪一個都可以，沒有哪一個比較好得分，也不必說明為什麼不選另外兩個。不過官方那七篇佳作全部集中在前兩案——提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。站上這一篇寫的就是官方那邊沒有人示範的第三案。要是你選的是老人服務或特色市集，點進佳作頁看真實考生怎麼寫最有用；要是你跟這一篇一樣選藝文活動，第二段就得自己把活動內容與設計理由兩邊都交出來，只列幾個節目名稱，寫作任務等於只做了一半。",
+     "zh": {
+      "p1": "三個方案裡，我會選擇在社區辦一場藝文活動。我住的地方不缺吃的，也不缺願意幫忙的志工，缺的是一個能把不同世代拉到同一個場合的機會。兩年前的冬天，我們學校合唱團在街尾的早市外面唱了二十分鐘。從我站的位置看過去，一位太太停下手邊正在數的零錢，一個五歲的小男孩爬上他爸爸的肩膀。那二十分鐘裡，沒有人是攤販，也沒有人是顧客。提供社區老人服務當然值得做，可是那件事只把學生往一個方向送；市集則是開了又收，到了晚上八點，街道掃乾淨，又空了下來。三個方案裡，只有藝文活動是請整個社區一起做出一樣東西，而那樣東西不會在燈熄掉的時候跟著消失。",
+      "p2": "這場活動我會做成三個部分，三個部分都放在同一個下午、同一條街上。第一個部分是老照片展，照片跟居民借，掛在社區活動中心的牆上，底下寫上年份跟地點；上了年紀的人會來，因為他們認得出那些建築，年輕人也會來，因為他們認不出來。第二個部分是一個共用的舞台，學校社團跟在地的傳統樂團輪流上場，排在同一份節目表裡，讓同一批觀眾在同一個小時之內，既聽到吉他樂團，也聽到傳統樂器。第三個部分是一個角落，讓阿公阿嬤教小孩摺紙燈籠，因為一項手藝用手教，傳得比用書寫得快。這三個部分我會全部壓在同一個下午，不分散在整個週末。要是分散開來，這種活動就變成三場各自只吸引到同一小群人的小聚會；擺在一起，它才會成為一年當中，整個社區都有理由留下來的那一個下午。"
+     }
+    },
+    "rubric": {
+     "intro": "107 指考隨試題公布的就是這一份。英文作文滿分 20 分，題目要求至少 120 個單詞、文分兩段。評分標準依內容、組織、文法句構、字彙拼字四個項目給分，字數明顯不足則扣總分 1 分。這一份的正文沒有寫五個等級，也沒有未分段扣分那一條，別的年度有的規定不能往這一年套。文件另外把閱卷怎麼進行寫得很細：7 月 5 日先開評分標準訂定會議，由正、副召集人及協同主持人共 12 位參閱約 3000 份試卷，討論一天訂出評分標準，並選出評分參考樣卷與試閱卷編成《閱卷參考手冊》；本年度聘請約 85 位大學教授擔任閱卷委員，7 月 8 日召開試閱會議，閱卷第一天上午 11 點再確定一次評分原則才正式開始閱卷。正式閱卷時每一份答案卷隨機配給兩位委員評閱，兩人分數差距超過重閱標準就由協同主持人進行第三閱；第三閱分數若高於或低於前兩閱，再由召集人與副召集人或協同主持人一人以上共同決定第四閱分數。",
+     "keypoint": "作文的評分重點，這一份寫的是：內容是否切題、是否就自己提出之觀點提供充分具體之說明、兩段文字之間是否連貫合理、句構語法及用字是否適切，以及拼字與標點符號是否使用得當。文件接著說，考生對這個題目大致都能有所發揮，語言能力表現佳與充分具體事例之支持應是得分的重要元素。\n寫作任務題目切得很清楚：第一段說明你選哪一個方案、為什麼選；第二段敘述你認為活動應該要有哪些內容，並說明這樣設計的理由。三個方案是一張選單，選一個就好，不必三個都交代，也不必說明為什麼不選另外兩個——那是 102 指考那一題的要求，不是這一年的。第二段最容易漏掉的是後半句：只列出活動內容、沒說明設計理由，寫作任務就沒有完成。\n這一份還記下一件作答情形：很多考生選了提供社區老人服務，大考中心認為這跟人口老化現象與長照政策的推動有關。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的「充分、具體之說明」，寫得出來的是人事時地物、數字或動作：兩年前的冬天、合唱團唱了二十分鐘、街尾的早市、太太停下手裡的零錢、五歲的孩子爬上爸爸的肩膀、晚上八點街道掃乾淨。第二段同樣如此——照片跟居民借、底下寫年份跟地點、社團與樂團排進同一份節目表、阿公阿嬤教摺紙燈籠，都是具體的做法，不是「希望大家更有向心力」這種空話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先講選哪一個方案，再用一件親身看過的事說明原因，接著回頭跟另外兩案比一次，收在「那樣東西不會消失」；第二段先講三個部分各是什麼、各為什麼這樣設計，再用最後三句說明為什麼要全部壓在同一個下午。題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件寫作任務。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自否定與對比（not short of…／what it is short of is…）、地方副詞子句（From where I stood）、關係子句（an occasion that brings…／a stage that school clubs and local folk musicians share）、分詞當形容詞（borrowed from residents、hung along the wall）、比較（faster from hand to hand than from a book），以及句首分詞的兩相對照（Spread out…／kept together…）。句子寫得清楚比寫得繁複重要。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》，零超綱，四級以上詞形九個。真正會扣分的地方通常在拼法，neighborhood、volunteers、exhibit、photographs、audience、lanterns 這幾個考前確認一下。"
+     }
+    ]
+   }
   },
   {
    "id": "E106_GSAT",
