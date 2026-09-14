@@ -2498,7 +2498,143 @@
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0K238387152838202727",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 109 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 109 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 290,
+     "p1": "A school is the one place where students spend most of their waking hours, and that is exactly why safety there is easy to take for granted. Nothing looks dangerous: the hallways are familiar, the faces are familiar, and the gate opens at the same time every morning. Yet a campus is also crowded, and crowded places fail in small ways. A wet staircase after morning rain, a chemistry lab where someone has left a burner on, a loose basketball hoop, a bag left in an unlocked classroom, none of these looks like an accident until it becomes one. There are also dangers that are not physical. A student who is followed home, or one who is bullied in a group chat and says nothing, is not safe either, even though nothing on campus appears to be broken.",
+     "p2": "Keeping a campus safe cannot be left to the guard at the front gate, because one person can watch only one entrance. Teachers can check the equipment in their own rooms before class and make it normal for students to report a fault instead of walking around it. Students can do the smaller things that add up: closing the classroom door at lunchtime, saying something when a light in the stairwell has been out for a week, refusing to treat a fire drill as ten free minutes. The school can hold that drill at an hour nobody expects, since a drill everyone has prepared for proves very little. Most of all, the school needs a way to report a problem that does not require courage, such as an online form or a box outside the office. People stay quiet not because they do not care but because speaking up costs them something.",
+     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "zh": {
+      "p1": "學校是學生一天當中待得最久的地方，也正因為如此，校園安全最容易讓人視而不見。眼前沒有一樣東西看起來危險：走廊是熟的，人臉是熟的，校門每天同一個時間打開。可是校園同時也是個擁擠的地方，而擁擠的地方出問題都是從小地方開始。早上下過雨的濕樓梯、化學實驗室裡有人忘了關的本生燈、一個鬆掉的籃框、放在沒鎖門的教室裡的一個書包，這些在出事之前，沒有一樣看起來像意外。還有一些危險不是身體上的。有人跟蹤回家的學生，或是在群組裡遭人霸凌卻不出聲的學生，同樣不安全，即使校園裡看起來沒有一樣東西壞掉。",
+      "p2": "校園安全不能只交給校門口的警衛，因為一個人只顧得了一個出入口。老師可以在上課之前檢查自己教室裡的設備，也可以讓「發現壞掉就回報」變成理所當然的事，而不是繞過去就算了。學生做得到的是那些累積起來才看得出效果的小事：午休時把教室門關上、樓梯間的燈壞了一個星期就說一聲、不要把消防演練當成白賺的十分鐘。學校那一邊，可以把演練挑在沒有人預期的時間舉行，因為一場大家都準備好的演練，證明不了什麼。最重要的是，學校要有一個不需要勇氣就能通報的管道，例如線上表單，或是辦公室外面的一個意見箱。人之所以不說，多半不是不在乎，而是說出來要付代價。"
+     }
+    },
+    "rubric": {
+     "intro": "109 指考英文非選擇題共 28 分，中譯英兩小題合計 8 分，英文作文 20 分，文長至少 120 個單詞。大考中心公布的評分原則：英文作文依內容、組織、文法句構、字彙拼字四個項目給分，字數明顯不足則扣總分 1 分。選才電子報第 312 期另說明閱卷怎麼進行：本大題採整體式評分，分為特優 19–20 分、優 15–18 分、可 10–14 分、差 5–9 分、劣 0–4 分五個等級；閱卷委員仔細評估作答內容後決定一個分數，再檢驗這個分數是否符合分項式評分指標。寫多段不扣分，未分段扣 1 分；字數明顯不足又未分段的，不重複扣。評分重點在於內容是否達到題目的要求、是否提供充分具體的說明、句構語法與用字是否適切，以及拼字與標點符號是否使用得當；說明充分與語言能力表現佳是得分的重要元素。當年作文滿分的有 7 人。",
+     "keypoint": "這一題大考中心特別點出一件事：第一段必須明確包含兩個重點——校園安全的重要性，以及校園內可能發生的安全問題。只寫其中一個，內容那一項就拿不到該有的分數。第二段則要寫校內成員應該採取哪些作為。先數清楚題目要幾件事，再動筆。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段把官方點名的兩個重點分開處理：先講天天待著的地方最容易讓人視而不見，那是重要性；再列出看得見的問題——濕樓梯、沒關的本生燈、鬆掉的籃框、沒鎖門的教室；最後補上不是身體上的那一類，跟蹤與群組霸凌。第二段照身分分工，老師、學生、學校各做什麼，都是做得到的動作。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段由「看不出危險」推到「其實有危險」，再由看得見的危險推到看不見的；第二段由一個人顧不完出發，一層一層把責任攤開，最後收在一句「人不說是因為說了要付代價」。兩段各有一條線。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自關係子句（a chemistry lab where…、A student who is followed home…）、三個動名詞並列成一串（closing…、saying…、refusing…），以及句尾的 not because… but because… 對比。那三個動名詞刻意寫成同一個形式，讀的人才看得出這是三件同性質的事。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "用字多在大考中心詞彙表四級以內。staircase 與 stairwell 形近而義不同，前者是樓梯本身，後者是樓梯間；chemistry、unlocked 考前確認拼法。另外校門是 gate、教室門是 door，兩個字不可互換。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該用法考過的年度與題號。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "entries": [
+       {
+        "w": "campus safety",
+        "zh": "校園安全",
+        "own": true
+       },
+       {
+        "w": "safety",
+        "zh": "安全",
+        "src": "86年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0042"
+        ]
+       },
+       {
+        "w": "take precautions",
+        "zh": "採取預防措施",
+        "src": "109年指考補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0017"
+        ]
+       },
+       {
+        "w": "be aware of + N",
+        "zh": "意識到、注意到",
+        "src": "106年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0389"
+        ]
+       },
+       {
+        "w": "issue an alert",
+        "zh": "發布警報",
+        "src": "103年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
+        ]
+       },
+       {
+        "w": "an injury",
+        "zh": "傷害、受傷",
+        "src": "105年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0365"
+        ]
+       },
+       {
+        "w": "report a fault",
+        "zh": "通報故障（發現壞掉就回報）",
+        "own": true
+       },
+       {
+        "w": "a fire drill",
+        "zh": "消防演練",
+        "own": true
+       },
+       {
+        "w": "take sth for granted",
+        "zh": "把某件事視為理所當然",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "secure",
+        "zh": "安全可靠的、無虞的",
+        "src": "104年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0071"
+        ]
+       },
+       {
+        "w": "awareness",
+        "zh": "意識、認知",
+        "src": "84年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0301"
+        ]
+       },
+       {
+        "w": "a stairwell",
+        "zh": "樓梯間（staircase 指樓梯本身）",
+        "own": true
+       },
+       {
+        "w": "a guard",
+        "zh": "警衛",
+        "own": true
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "E109_JCEE_MAKEUP",
@@ -2554,7 +2690,143 @@
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J109557470003759624",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 108 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 108 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 320,
+     "p1": "If someone asked me what I am proudest of about Taiwan, I would not start with a mountain or a night market. I would start with the health insurance card in my wallet. Everyone here carries one, and it means a grandmother in a small town and a manager in Taipei pay something close to the same price to see a doctor. My grandmother had an operation two years ago, and what my family talked about afterwards was her recovery, not the bill. The second thing is less famous and easier to laugh at: the garbage truck. Most evenings a truck comes down our lane playing a piece of classical piano music, and my neighbors come out holding sorted bags, kitchen waste in one, plastic in another, paper flattened. Nobody is watching them. Sorting garbage has simply become something people do, and a habit that survives without supervision says more about a society than any monument does.",
+     "p2": "Neither of these belongs on a poster, because neither is a view. The truck is not even a tidy story: the tune is Beethoven's Fur Elise in some cities and A Maiden's Prayer in others, more than one account of how they were chosen is still in circulation, and no official record settles it. If I had to introduce these two things, I would not make an advertisement; I would let visitors run into them, and I would use the people who are already here. Exchange students and migrant workers explain this country to their own families every week, in their own languages and without sounding like a government, and a school or a city could give them a camera and stay out of the way. What I would avoid is the word amazing. The moment a country tells the world how warm and friendly it is, the world stops believing it. Show the truck, and let people work out what it means.",
+     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "zh": {
+      "p1": "如果有人問我台灣最讓我驕傲的是什麼，我不會從一座山或一個夜市講起。我會從皮夾裡那張健保卡講起。這裡每一個人都有一張，這代表一個獨居在小鎮的阿嬤，和一個在台北上班的主管，看同一種病所付的錢相去不遠。我阿嬤兩年前開刀，手術結束以後我們家討論的是她的復原，不是帳單。第二件事沒那麼有名，而且很容易讓人笑出來：垃圾車。大部分的晚上，都會有一輛垃圾車放著一首古典鋼琴曲開進我們那條巷子，鄰居提著分好的袋子走出來，廚餘一袋、塑膠一袋、紙類壓平。沒有人在旁邊盯著。分類垃圾就這樣變成大家自然而然會做的事，而一個沒有人盯著也還留得住的習慣，比任何一座紀念碑都更能說明一個社會是什麼樣子。",
+      "p2": "這兩件事都做不成海報，因為它們都不是拍得出來的風景。垃圾車這件事，連它自己的來歷都說不清楚：有些城市放的是貝多芬的《給愛麗絲》，有些放的是《少女的祈禱》，這兩首曲子怎麼選上的，流傳的說法不只一種，也沒有正式紀錄足以定案。如果要我來介紹這兩件事，我不會拍廣告，我會讓來的人自己遇上，也會用已經在這裡的人。交換學生和移工每個星期都在用自己的語言跟家人講這個國家，講起來也不像政府在講話；一所學校或一個城市只要給他們一台相機，然後不要插手就好。我會避開的是 amazing 這個字。一個國家只要開口告訴全世界自己有多溫暖友善，全世界就不會再相信了。把垃圾車拍出來，意思讓別人自己想。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要兩個面向並說明為何引以為榮。本篇挑的一個是制度（健保），一個是日常習慣（垃圾車與垃圾分類），刻意不挑風景。為何引以為榮各用一個具體場景撐住：阿嬤開刀後家人談的是復原不是帳單；鄰居提著分好的袋子出來，而沒有人在旁邊盯著。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先破題說不從山或夜市講起，再一件一件講；第二段先說這兩件事做不成海報，再給做法，最後收在一個要避開的字。兩段都以一句反面的話起頭，形狀一致。"
+     },
+     {
+      "k": "文法句構",
+      "t": "開頭用與現在事實相反的假設：If someone asked me…, I would not start with…。第二段的 Neither of these belongs on a poster 以 neither 當主詞、動詞用單數。另有關係子句 a habit that survives without supervision，以及 The moment + 子句當連接詞用（一…就…）。"
+     },
+     {
+      "k": "詞彙拼字",
+      "t": "monument、insurance 兩個字考前確認拼法。neighbors 是美式拼法，英式寫 neighbours，本站一律用美式；garbage 也是美式，英式的 rubbish 不用。另記一件用語差異：這一年官方寫的是「詞彙拼字」，109 指考與 110 指考兩年官方寫的都是「字彙拼字」，本站各依該年度的原文，不自行統一。"
+     }
+    ],
+    "rubric": {
+     "intro": "108 學測英文非選擇題共 28 分，中譯英 8 分，英文作文 20 分，文長至少 120 個單詞。依大考中心公布的閱卷評分原則說明（閱卷召集人賴惠玲，國立政治大學英文系教授）：英文作文依內容、組織、文法句構、詞彙拼字四個項目給分，字數明顯不足的作文扣總分 1 分。這一年的說明特別交代了閱卷怎麼跑：每一份試卷都由兩位委員分別評分，最後成績取兩人給分的平均；第一閱與第二閱差距超過重閱標準的，送第三位委員評閱；第三閱與前兩閱的差距又超出設定標準的，再由正副召集人與一位資深協同主持人共三人組成第四閱，定出最後分數。正式閱卷之前先開評分標準訂定會議，正副召集人與協同主持人共 14 人參閱約 3,000 份來自北、中、南、東各區的試卷，據以訂定標準、選出標準卷，編成閱卷參考手冊；該年聘請 160 位大學教授擔任閱卷委員。",
+     "keypoint": "寫作任務是敘述最讓自己感到驕傲的臺灣之人、事、物、文化、制度等：第一段要提出二個面向或事物並說明引以為榮的理由，第二段要說明如何介紹或行銷這些臺灣特色。官方寫的是「二個」，只寫一個或寫了三個而每個都沒說清楚，內容與組織兩項都會受影響。大考中心也說，只要依作答提示運用所學詞彙與句構，內容清楚切題、組織發展完整、文字使用沒有太多錯誤，就能拿到不錯的分數。"
+    }
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該用法考過的年度與題號。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "entries": [
+       {
+        "w": "be proud of + N",
+        "zh": "以…為榮",
+        "own": true
+       },
+       {
+        "w": "national health insurance",
+        "zh": "全民健保",
+        "own": true
+       },
+       {
+        "w": "sort the garbage",
+        "zh": "做垃圾分類（garbage 為美式，英式用 rubbish）",
+        "own": true
+       },
+       {
+        "w": "recycle",
+        "zh": "回收再利用",
+        "src": "94年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0198"
+        ]
+       },
+       {
+        "w": "affordable",
+        "zh": "負擔得起的",
+        "src": "104年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348"
+        ]
+       },
+       {
+        "w": "promote",
+        "zh": "推廣、行銷",
+        "src": "104年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356"
+        ]
+       },
+       {
+        "w": "a monument",
+        "zh": "紀念碑",
+        "src": "109年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426"
+        ]
+       },
+       {
+        "w": "equally",
+        "zh": "同樣地、平等地",
+        "src": "97年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0253"
+        ]
+       },
+       {
+        "w": "The moment + 子句",
+        "zh": "一…就…",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "afford",
+        "zh": "負擔得起",
+        "src": "95年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0211"
+        ]
+       },
+       {
+        "w": "promotion",
+        "zh": "推廣、宣傳",
+        "src": "89年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0097"
+        ]
+       },
+       {
+        "w": "a night market",
+        "zh": "夜市",
+        "own": true
+       },
+       {
+        "w": "a migrant worker",
+        "zh": "移工",
+        "own": true
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "E108_JCEE",
