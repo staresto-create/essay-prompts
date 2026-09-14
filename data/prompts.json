@@ -85,7 +85,7 @@
    },
    "wordBank": {
     "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -432,7 +432,7 @@
    },
    "wordBank": {
     "updated": "2026-09-03",
-    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -790,7 +790,7 @@
    },
    "wordBank": {
     "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -1100,7 +1100,7 @@
    },
    "wordBank": {
     "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -1399,7 +1399,7 @@
    },
    "wordBank": {
     "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -1715,7 +1715,7 @@
    },
    "wordBank": {
     "updated": "2026-09-05",
-    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -1727,12 +1727,9 @@
         "own": true
        },
        {
-        "w": "popular",
-        "zh": "受歡迎的、熱門的",
-        "src": "100年學測 Q31",
-        "srcUrl": [
-         "https://staresto-create.github.io/passage-completion/#hard-Vy100_31"
-        ]
+        "w": "be popular with sb",
+        "zh": "受某人歡迎（歡迎它的那群人用 with 帶出來，也可以說 among）",
+        "own": true
        },
        {
         "w": "behave oneself",
@@ -1838,15 +1835,15 @@
         ]
        },
        {
-        "zh": "農場主人在網路上推廣花季，本來只是想跟大家分享，沒想到一紅起來會變成這樣。",
-        "en": "The owner promoted the flower season online simply to share the view, never expecting that once the farm became popular, it would be treated like this.",
+        "zh": "農場主人在網路上推廣花季，本來只是想跟大家分享，沒想到花田受遊客歡迎之後會變成這樣。",
+        "en": "The owner promoted the flower season online simply to share the view, never expecting that once the farm became popular with visitors, it would be treated like this.",
         "covers": [
          "promote",
-         "popular"
+         "be popular with sb"
         ],
         "bold": [
          "promote",
-         "popular"
+         "popular with visitors"
         ]
        },
        {
@@ -2084,7 +2081,7 @@
    },
    "wordBank": {
     "updated": "2026-09-05",
-    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -2489,7 +2486,7 @@
    },
    "wordBank": {
     "updated": "2026-09-05",
-    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -3272,7 +3269,7 @@
    },
    "wordBank": {
     "updated": "2026-09-05",
-    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -3289,11 +3286,11 @@
         "own": true
        },
        {
-        "w": "notice",
-        "zh": "注意到",
-        "src": "97年學測 Q1",
+        "w": "notice + O + V / V-ing / p.p.",
+        "zh": "注意到某人（某物）做了某事／正在做某事／怎麼樣了",
+        "src": "108年學測 Q22",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
+         "https://staresto-create.github.io/grammar-cloze-test/q/g108-22-2/"
         ]
        },
        {
@@ -3387,18 +3384,18 @@
       ],
       "sentences": [
        {
-        "zh": "捷運上一位老先生上了車，博愛座上的年輕人一直低頭滑手機，假裝沒看見。",
-        "en": "When an elderly man got on the MRT, the young man in the priority seat kept staring at his phone and pretended not to notice him.",
+        "zh": "捷運上一位老先生上了車，博愛座上的年輕人一直低頭滑手機，假裝沒看見他站在旁邊。",
+        "en": "When an elderly man got on the MRT, the young man in the priority seat kept staring at his phone and pretended not to notice him standing there.",
         "covers": [
          "priority seat",
          "stare at",
          "pretend not to V",
-         "notice"
+         "notice + O + V / V-ing / p.p."
         ],
         "bold": [
          "priority seat",
          "staring at",
-         "pretended not to notice"
+         "pretended not to notice him standing there"
         ]
        },
        {
@@ -3800,18 +3797,18 @@
    },
    "wordBank": {
     "updated": "2026-09-05",
-    "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
       "note": "這一題要自己寫得出來的",
       "entries": [
        {
-        "w": "notice",
-        "zh": "注意到",
-        "src": "97年學測 Q1",
+        "w": "notice + O + V / V-ing / p.p.",
+        "zh": "注意到某人（某物）做了某事／正在做某事／怎麼樣了",
+        "src": "108年學測 Q22",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
+         "https://staresto-create.github.io/grammar-cloze-test/q/g108-22-2/"
         ]
        },
        {
@@ -3859,12 +3856,12 @@
       "sentences": [
        {
         "zh": "一個學生在麵店吃完麵，發現隔壁客人走了以後，長凳上留著一個袋子。",
-        "en": "After finishing his noodles, the student noticed that the customer next to him had left a bag on the bench.",
+        "en": "After finishing his noodles, the student noticed a bag left on the bench by the customer who had just gone.",
         "covers": [
-         "notice"
+         "notice + O + V / V-ing / p.p."
         ],
         "bold": [
-         "notice"
+         "noticed a bag left"
         ]
        },
        {
@@ -4932,7 +4929,7 @@
    "appliesTo": [
     "E105_GSAT"
    ],
-   "note": "條目取自本站題庫歷屆真題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依真題文體、針對本主題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+   "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本主題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
    "groups": [
     {
      "name": "家事怎麼說",
