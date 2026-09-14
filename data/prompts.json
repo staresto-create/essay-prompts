@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-13",
+ "updated": "2026-09-14",
  "count": 62,
  "items": [
   {
@@ -1992,13 +1992,195 @@
     {
      "url": "https://www.ceec.edu.tw/files/file_pool/1/0l266472648655955440/01-110指考英文考科非選擇題閱卷評分原則說明.pdf",
      "label": "非選擇題閱卷評分原則說明"
+    },
+    {
+     "url": "https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&qperoid=0L256421369075629029&sid=0L259344184977666723",
+     "label": "選才電子報第 325 期：非選擇題評分標準說明"
     }
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0L273543232281594239",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 110 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 110 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 300,
+     "p1": "I understand why so many universities now ask their professors to teach in English, and on the whole I agree with the trend. Most of the research a student reads in a science or business course is published in English and never translated, so a student who reads only Chinese is limited to whatever someone else has chosen to pass on. Teaching in English also allows a department to take in students from other countries, which changes what a class discussion sounds like. Even so, the policy is not good in itself. If English were only the language of the slides, and not the language of the questions, it would be a label on the syllabus rather than a change in the classroom. A course where nobody dares to ask anything loses more in understanding than it gains in language. What makes the policy work is not the language of the lecture but whether students can still argue and be corrected in it.",
+     "p2": "If the department I enter teaches its required courses in English, I will stop treating English as a subject I study on Sunday night and start treating it as the tool I work with every day. Before the semester begins, I will look up the syllabus and read the first two chapters in English, so that the vocabulary of the field is familiar to me before the first class. During the semester I will ask for permission to record the lectures and listen to them again on the way home, writing down the phrases the professor keeps using. I will also find two classmates and agree to spend twenty minutes a week discussing that week's topic in English, badly at first. My guess is that the first month will be uncomfortable and the third one will not.",
+     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "zh": {
+      "p1": "這麼多大學現在要求教授用英語授課，我理解原因，整體來說我也認同這個趨勢。一個學生在理工或商管課程裡讀到的研究，多半只以英文發表，也一直沒有中譯本，所以一個只讀中文的學生，看得到的就只有別人挑出來轉述的那一部分。用英語上課也讓一個系收得到外國學生，課堂討論的樣子會跟著不一樣。話雖如此，這個政策本身並不等於好事。如果英文只是投影片上的語言，而不是提問時用的語言，那英文就只是掛在課程大綱上的一個名目，課堂裡並沒有真的改變。一門沒有人敢發問的課，在理解上的損失會大於它在語言上的收穫。真正決定成敗的不是講課用什麼語言，而是學生能不能繼續用那個語言提出異議、也接受別人糾正。",
+      "p2": "如果我進的那個系必修課真的用英語上，我就不會再把英文當成星期天晚上才唸的一個科目，而是把它當成每天要用的工具。開學之前，我會先查課程大綱，把前兩章的英文讀過，讓這個領域的專有詞彙在第一堂課之前就已經熟悉。學期中我會徵得同意之後錄下課堂，回家路上再聽一次，把教授反覆用到的句子抄下來。我還會找兩個同學約好，每個星期用英文討論那一週的主題二十分鐘，一開始講得不好也沒關係。我猜第一個月會很不自在，到第三個月就不會了。"
+     }
+    },
+    "rubric": {
+     "intro": "110 指考英文非選擇題共 28 分，中譯英兩小題各 4 分，英文作文 20 分，文長至少 120 個單詞。大考中心在選才電子報第 325 期說明：作文採整體式評分，分為特優 19–20 分、優 15–18 分、可 10–14 分、差 5–9 分、劣 0–4 分五個等級；閱卷委員讀完考生作文後先決定一個分數，再檢測這個分數是否符合各分項的評分標準。寫多段不扣分，未分段扣 1 分，字數明顯不足扣 1 分；字數不足又未分段的，不重複扣。評分重點在於內容是否達到題目的要求、是否提供充分具體的闡述、句構語法與用字是否適切，以及拼字與標點符號是否使用得當，其中「說明充分」與「語言能力」表現佳是得分的重要元素。",
+     "keypoint": "大考中心把這一題的兩項任務寫得很明白：第一段是否敘明採取立場之理由，第二段是否陳述因應或規劃之道。只表態而不給理由，或只講感想而不講做法，內容與組織兩項都會受影響。這是結構問題，不是英文好不好的問題。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "兩段各自完成一項任務。第一段先給三個支持的理由再轉出保留，立場是清楚的；第二段全部寫成做得到的動作——開學前讀前兩章、徵得同意後錄音重聽、每星期和兩個同學用英文講二十分鐘。官方要的「充分、具體之闡述」指的就是這些，不是「我會更努力學英文」這種話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段順著趨勢講完再用 Even so 轉折，收在一句判準上；第二段照時間推進——開學之前、學期當中、預估的結果。兩段各有一條線，不是理由的堆疊。"
+     },
+     {
+      "k": "文法句構",
+      "t": "本篇用了兩種假設。與現在事實相反的，動詞倒推一個時態、用過去式：If English were only the language of the slides, it would be a label…（作者不認為真的只有投影片是英文）。正式書面的 be 動詞用 were，was 在現代英文也通行，兩式都成立。真的可能發生的事就不倒推：If the department I enter teaches its required courses in English, I will…。倒不倒推，傳遞的是作者認為這件事會不會發生；同一篇兩段混用，讀的人會不確定作者的立場。再往前一步是混合型：110 學測克漏字第 25 題，Roy Sullivan 那一篇最後一句是 If he was, the first bolt would have been enough——if 子句講的是現在，主要子句講的是當年那第一道雷，條件在現在、結果在過去。那一題答對率 30%，字表裡有連結可以直接過去看。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "用字大多在大考中心詞彙表四級以內。syllabus、semester、lecture 三個字考前確認拼法；professor 只有一個 f。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-09-14",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該用法考過的年度與題號。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "entries": [
+       {
+        "w": "teach a course in English",
+        "zh": "以英語講授一門課",
+        "own": true
+       },
+       {
+        "w": "a required course",
+        "zh": "必修課（選修課是 an elective）",
+        "own": true
+       },
+       {
+        "w": "adapt to + N",
+        "zh": "適應（環境、做法）",
+        "src": "88年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079"
+        ]
+       },
+       {
+        "w": "adjust to + N",
+        "zh": "調整自己去配合（強調調整的過程）",
+        "src": "96年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0229"
+        ]
+       },
+       {
+        "w": "be fluent in + 語言",
+        "zh": "說某種語言很流利",
+        "src": "98年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0144"
+        ]
+       },
+       {
+        "w": "be familiar with + N",
+        "zh": "熟悉某件事物",
+        "src": "89年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0242"
+        ]
+       },
+       {
+        "w": "cope with + N",
+        "zh": "因應、應付（題目的「因應」用這個字）",
+        "own": true
+       },
+       {
+        "w": "keep up with + N",
+        "zh": "跟得上（進度、同學）",
+        "own": true
+       },
+       {
+        "w": "ask for permission to V",
+        "zh": "徵得同意去做某事",
+        "own": true
+       },
+       {
+        "w": "look up the syllabus",
+        "zh": "查課程大綱",
+        "own": true
+       },
+       {
+        "w": "If + S + were …, S + would + 原形動詞",
+        "zh": "與現在事實相反的假設；be 動詞正式寫 were，現代英文也用 was",
+        "own": true
+       },
+       {
+        "w": "If + S + were/was …, S + would have + p.p.",
+        "zh": "條件在現在、結果在過去的混合假設",
+        "src": "110年學測 Q25",
+        "srcUrl": [
+         "https://staresto-create.github.io/grammar-cloze-test/q/g110-25-2/"
+        ]
+       },
+       {
+        "w": "People will tell you that …, but …",
+        "zh": "大家都這麼說，但未必如此（寫別人的說法而不當成事實）",
+        "own": true
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "efficient",
+        "zh": "有效率的",
+        "src": "88年推薦甄選 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0084"
+        ]
+       },
+       {
+        "w": "instructions",
+        "zh": "說明、指示（複數）",
+        "src": "87年推薦甄選 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0061"
+        ]
+       },
+       {
+        "w": "a lecture",
+        "zh": "課堂講授、演講",
+        "own": true
+       },
+       {
+        "w": "a syllabus",
+        "zh": "課程大綱",
+        "own": true
+       },
+       {
+        "w": "an exchange student",
+        "zh": "交換學生",
+        "own": true
+       }
+      ]
+     }
+    ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Can apps teach you a language?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-09-10",
+      "length": "6 分 37 秒",
+      "blurb": "Neil 與 Pippa 討論 Duolingo、Babbel 這類語言學習 app，談通勤時就能學的方便，以及它們到底教不教得會。第二段要寫「你會如何因應或規劃」，這一集整集都在吵這件事。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260910",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://open.spotify.com/episode/0a418m2O2BTGm4lUqCeL9c",
+      "altLabel": "Spotify",
+      "checked": "2026 年 9 月"
+     }
+    ]
+   }
   },
   {
    "id": "E109_GSAT",
