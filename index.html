@@ -553,7 +553,7 @@ function card(it){
     // 全部條目都是本站補足時，這顆鈕按下去畫面上不會有任何變化，看起來像壞掉。
     // 改為當場說明「這一題」的狀況，並告訴讀者別的題目按了是有東西的。
     const nSrc=groups.reduce((n,g)=>n+(g.entries||[]).filter(e=>e.src).length,0);
-    const noSrc=el('p','wbNoSrc','這一題的條目全部由本站補足，未取自歷屆真題。其他題目多半有考過的出處，按這顆鈕就會顯示。');
+    const noSrc=el('p','wbNoSrc','這一題的條目全部由本站補足，未取自歷屆試題。其他題目多半有考過的出處，按這顆鈕就會顯示。');
     btn.addEventListener('click',()=>{
       const on=b.classList.toggle('showSrc');
       btn.textContent=on?'隱藏出處':'顯示出處';
