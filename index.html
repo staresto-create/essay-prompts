@@ -268,6 +268,18 @@ figcaption{font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(-
 .notes h3{font-family:var(--serif);font-size:17px;margin:26px 0 8px}
 .notes p{max-width:46em;font-size:15px;margin:0 0 12px}
 .notes strong{background:linear-gradient(transparent 62%,rgba(158,43,37,.16) 62%)}
+/* ─── 自我檢查問句 ─── */
+.scGroup{margin:0 0 20px}
+.scGroup:last-child{margin-bottom:0}
+.scName{font-family:var(--serif);font-size:16px;margin:0 0 2px;letter-spacing:.03em}
+.scSrc{font-size:12.5px;color:var(--ink-soft);margin:0 0 10px}
+.scQ{max-width:46em;font-size:15px;margin:10px 0 4px;padding-left:1.9em;text-indent:-1.9em}
+.scGroup .scQ:first-of-type{margin-top:0}
+.scNote{max-width:46em;font-size:13px;line-height:1.85;color:var(--ink-soft);margin:0 0 4px;padding-left:1.9em}
+.scRef{font-size:12px;color:var(--ink-soft);margin:0 0 4px;padding-left:1.9em}
+.scLink{margin:12px 0 0}
+.scLink a{font-size:13px;color:var(--seal);text-decoration:underline;text-underline-offset:2px}
+
 /* ─── 逐年對照表 ─── */
 .yrbox{margin:30px 0 0;border:1px solid var(--rule-soft);border-left:3px solid var(--wash);
   background:var(--card);border-radius:2px;padding:0}
@@ -404,6 +416,8 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
     <h3>關於非正式考題</h3>
     <p>本站收錄的 62 題中，有 9 題不是正式考試題目，包括補考、參考試卷、試辦考試與課綱參考試卷，卡片上均以虛線邊框與標籤標明。參考試卷是大考中心為預告命題方向而公布的示例，其中部分題目直接採用歷年考題——例如 115 學年度起適用參考試卷的作文題，與 111 學測完全相同。遇到這種情形，本站在該題下方註明來源，不合併也不隱藏。</p>
 
+    <div id="scBox"></div>
+
     <details class="yrbox" id="official-table">
       <summary>逐年對照：哪一年公布了哪幾樣</summary>
       <div class="yrbody">
@@ -424,6 +438,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 <script>
 const S={years:[],genres:[],themes:[],pic:false,official:false,wb:false};
 let DATA=[];
+let SELFCHECK=null;
 let THEMEBANKS={};   // 主題級共用字詞搭配，掛在 prompts.json 頂層，非 items 之成員
 
 const $=s=>document.querySelector(s);
@@ -794,6 +809,16 @@ function card(it){
     f.appendChild(el('figcaption',null,'圖片出處：'+it.source));
     d.appendChild(f);
   });
+  // 寫完之後的入口。問句本身不印在卡片上，這裡只放一條指過去的連結。
+  (function(){
+    const p=el('div','scLink');
+    const a=document.createElement('a');
+    a.href='#selfcheck';
+    a.textContent='寫完了？逐項檢查一遍 ↓';
+    p.appendChild(a);
+    d.appendChild(p);
+  })();
+
   return d;
 }
 
@@ -874,6 +899,40 @@ function yrCell(links,head){
   return td;
 }
 
+// 自我檢查問句：內容只存一份，放在 prompts.json 的 selfCheck 鍵裡，整區由本函式產出。
+// 刻意不把問句複製進六十二題——同一句話只留一個落點，日後改一次只改一處；
+// 讀者那一頭改由各題卡片底部一條連結指到這一區的錨點，入口六十二個、內容一份。
+// 摺疊與錨點的體例照 #official-table 那一區，不另立第二種。
+function buildSelfCheck(){
+  const box=$('#scBox');
+  if(!box||!SELFCHECK||!SELFCHECK.groups)return;
+  const dt=document.createElement('details');
+  dt.className='yrbox';dt.id='selfcheck';
+  const sm=document.createElement('summary');
+  sm.textContent=SELFCHECK.title||'';
+  dt.appendChild(sm);
+  const body=el('div','yrbody');
+  if(SELFCHECK.intro)body.appendChild(el('p',null,SELFCHECK.intro));
+  // 編號跨組連號，與審閱稿一致；組內重新起算會讓讀者對不上那一份。
+  let n=0;
+  SELFCHECK.groups.forEach(g=>{
+    const gb=el('div','scGroup');
+    gb.appendChild(el('div','scName',g.name));
+    if(g.source)gb.appendChild(el('div','scSrc',g.source));
+    (g.items||[]).forEach(x=>{
+      n+=1;
+      gb.appendChild(el('p','scQ','('+n+')　'+x.q));
+      if(x.note)gb.appendChild(el('p','scNote',x.note));
+      if(x.ref)gb.appendChild(el('p','scRef','依據：'+x.ref));
+    });
+    body.appendChild(gb);
+  });
+  dt.appendChild(body);
+  box.innerHTML='';
+  box.appendChild(dt);
+  if(location.hash==='#selfcheck')dt.open=true;
+}
+
 function buildYearTable(){
   const box=$('#yrTab');
   if(!box)return;
@@ -925,6 +984,7 @@ fetch('data/prompts.json')
   .then(j=>{
     DATA=j.items;
     THEMEBANKS=j.themeWordBanks||{};
+    SELFCHECK=j.selfCheck||null;
     $('#cTotal').textContent=DATA.length;
     $('#cPic').textContent=DATA.filter(d=>d.hasImage).length;
     $('#cUnof').textContent=DATA.filter(d=>!d.isOfficial).length;
@@ -934,6 +994,7 @@ fetch('data/prompts.json')
     buildChips('#fTheme','themes',tally('theme'));
     readHash();
     buildStrip();
+    buildSelfCheck();
     buildYearTable();
     render();
   })
@@ -944,6 +1005,7 @@ fetch('data/prompts.json')
 
 window.addEventListener('hashchange',()=>{
   if(location.hash==='#official-table'){const d=$('#official-table');if(d)d.open=true}
+  if(location.hash==='#selfcheck'){const d=$('#selfcheck');if(d)d.open=true}
 });
 
 $('#reset').addEventListener('click',()=>{
