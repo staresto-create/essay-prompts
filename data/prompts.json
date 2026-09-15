@@ -784,7 +784,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》，結果見下一節。真正會扣分的地方通常在拼法，embarrassed、haircut、sauce、pattern 這幾個考前確認一下。"
+      "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形兩個（comment、embarrassed），占 169 個詞形的 1.2%；另有 soy 一個字對不回詞彙表——詞彙表收的是 soybean，沒有單收 soy，而 soy sauce 本身是日常用語，不是難字。真正會扣分的地方通常在拼法，embarrassed、haircut、sauce、pattern 這幾個考前確認一下。"
      }
     ]
    },
@@ -3257,7 +3257,41 @@
    },
    "source": "大學入學考試中心 106 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一家人出遊，從開心出發、塞車、到目的地人山人海，最後結果未知。要求想像第四格發展，寫出完整故事。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 287,
+     "p1": "On the first morning of our summer holiday, my father was in such a good mood that he whistled while he lifted our suitcase into the trunk. We were going to the science museum in the city, and my sister had been counting the days all week. We left at seven, and for the first half hour the road was ours alone. Then the line of cars ahead of us slowed down, and a moment later it stopped altogether. It did not move again for two hours. We sat between a delivery truck and a van, creeping forward one car length at a time. The sun climbed higher, the air in the car grew warm, and the mood turned gloomy. My father stopped whistling. My sister asked how much farther it was, and nobody answered her, because nobody knew.",
+     "p2": "We reached the museum a little after eleven, and we saw the problem before we found a parking space. The crowd in front of the entrance ran the whole length of the building and turned the corner. A guard at the gate told us that the wait was three hours. The disappointment on my sister's face was hard to look at, and for a moment none of us said a word. Then my mother pointed at the river two streets away. She reminded us that we had come out to spend a day together, not to stand in a line, and nobody argued with her. We bought noodles from a vendor, ate them in the shade by the water, and strolled along the bank until dusk. We never got inside the museum. Whenever my sister talks about that day now, the museum is not the part she remembers.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。這一題是看圖寫作，前三格已經把情境定好，第四格是一個問號，要自己想像後續並收出一個完整的結局。閱卷評分原則記下的考生作答情形是：大部分人都以全家出遊塞車來寫前兩格，第三格的場景比較多元，有遊樂園、博物館、動物園、演唱會，也有人寫遊行人潮或出國過海關，最後一格多半寫因應之道，像是改變目的地或轉換心情。站上這一篇把後兩者接成同一個動作——當場改主意，心情也跟著改。你寫別的場景、別的結局都可以，只要每一格都交代到，而且結局收得完整。",
+     "zh": {
+      "p1": "暑假第一天早上，爸爸心情好得一邊把行李箱搬上後車廂，一邊吹著口哨。我們要去市區的科學博物館，妹妹整個星期都在數還剩幾天。七點出發，前半個小時路上只有我們一台車。接著前面那排車慢了下來，過一會兒就完全不動了，而且一停就是兩個鐘頭。我們卡在一台貨車跟一台廂型車中間，一次往前挪一個車身。太陽越爬越高，車裡的空氣悶了起來，心情也跟著沉下去。爸爸不吹口哨了。妹妹問還要多久，沒有人回答她，因為沒有人知道。",
+      "p2": "我們十一點多到博物館，還沒找到停車位就先看到問題了。門口的人潮沿著整棟建築排過去，再轉過街角。警衛跟我們說，要排三個小時。妹妹臉上那副失望的樣子讓人於心不忍，有那麼一下子，我們誰都沒說話。然後媽媽指了指兩條街外的那條河。她提醒我們，今天出門是為了一家人一起過一天，不是為了排隊，沒有人有意見。我們跟攤販買了麵，在水邊的樹蔭下吃完，沿著河岸散步到天黑。博物館我們始終沒進去。現在每當妹妹講起那一天，她記得的並不是博物館。"
+     }
+    },
+    "rubric": {
+     "intro": "106 學測隨試題公布的就是這一份，閱卷召集人是陳秋蘭（國立臺灣師範大學英語系教授）。英文作文滿分 20 分，題目要求至少 120 個單詞。評分標準依內容、組織、文法句構、詞彙拼字四個項目給分，字數明顯不足的作文扣總分 1 分。這一份的正文沒有寫五個等級，沒有分項評分指標那張表，也沒有未分段扣分那一條，別的年度有的規定不能往這一年套。文件另外把閱卷怎麼進行寫得很細：1 月 23 日先開評分標準訂定會議，由正、副召集人及協同主持人共 14 人參閱約 3,000 份來自北、中、南、東各區的試卷，討論一整天訂出評分標準，並選出標準卷與試閱卷編成閱卷參考手冊；本年度聘請 159 位大學教授擔任閱卷委員，2 月 3 日上午召開試閱會議，會後正、副召集人及協同主持人再開一次評分標準再確定會議，確認評分原則才開始正式閱卷。正式閱卷時每一份試卷都由兩位委員分別評分，成績取兩人平均；兩人差距超過差分標準就送第三位委員評閱，第三閱與前兩閱的差距又大於該大題重閱標準時，再由正、副召集人加一位資深協同主持人三人組成第四閱，定出最後分數。",
+     "keypoint": "這一份對中譯英那一大題講得很細，作文這一部分則把重點放在考生實際寫出來的東西。它說今年作文回到學生熟悉的看圖寫作，以四格漫畫引導學生寫出全家出遊遇到塞車、到了目的地也是人山人海的情形，第四格是一個問號，讓學生自己想像圖中人物最後會做什麼決定或有什麼感想。\n考生作答情形這一份也記了：大部分考生以全家出遊塞車來描述前兩格，第三格的場景比較多元，有遊樂園、博物館、動物園、演唱會這些休閒場所，也有人融入時事，寫遊行示威人潮或出國過海關，最後一格多半能寫出因應之道，像是改變目的地或轉換心情。這一份給的結論是：只要能依題意合理說明每一格的情境及後續發展，內容組織與文字使用沒有太多錯誤，應該就能拿到不錯的分數。\n還有一件要注意：這一年的題目只說要寫出一篇涵蓋每張圖片內容且結局完整的故事，沒有規定分幾段，這一份也沒有未分段扣分那一條。站上這一篇分成兩段，是為了讓四格圖的前後兩半各自交代清楚，不是題目的要求。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "四格圖每一格都要交代到，這是這一題最容易漏的地方。這一篇的對應是——第一格吹口哨、搬行李箱、妹妹數日子；第二格卡在貨車與廂型車中間、一次挪一個車身、太陽越爬越高、爸爸不吹口哨了；第三格人潮沿著整棟建築排過去再轉過街角、警衛說要排三個小時；第四格改去河邊、買麵、散步到天黑。第四格是自己想像的，更要寫成一個看得到的動作，不能只寫「我們決定不要難過」這種沒有畫面的句子。"
+     },
+     {
+      "k": "組織",
+      "t": "故事體的組織靠時間順序與轉折。這一篇的時間線是七點出發、半小時順暢、兩小時動彈不得、十一點多抵達、待到天黑，一路往前不回頭；轉折有兩個，一個是 Then the line of cars ahead of us slowed down，一個是 Then my mother pointed at the river，兩個都用 Then 起頭，讓讀者知道故事在這裡換方向。結局收在最後一句，回頭看整件事，而不是停在事情發生完。"
+     },
+     {
+      "k": "文法句構",
+      "t": "主幹用過去式，先發生的事用過去完成式拉開層次（had been counting、had come out）。變化來自 such…that 的結果句（in such a good mood that he whistled）、分詞構句（creeping forward one car length at a time）、三個對等子句一路推進（The sun climbed higher, the air in the car grew warm, and the mood turned gloomy）、as though 引導的副詞子句（looked as though she was about to cry）、not…but 的對比（to spend a day together, not to stand in a line），以及最後一句的 whenever 時間子句配否定主句。其中 as though 那一句要注意時態：這裡用 was 不用 were，因為妹妹是真的快哭了；寫 were 就成了與事實相反的假設語氣，意思會反過來。句子寫得清楚比寫得繁複重要。"
+     },
+     {
+      "k": "詞彙拼字",
+      "t": "全篇對過大考中心《高中英文參考詞彙表》，零超綱，四級以上詞形八個（suitcase、strolled、dusk、gloomy、vendor、creeping、disappointment、shade），占 164 個詞形的 4.9%。真正會扣分的地方通常在拼法，whistled、suitcase、delivery、museum、entrance、disappointment 這幾個考前確認一下。"
+     }
+    ]
+   }
   },
   {
    "id": "E106_JCEE",
