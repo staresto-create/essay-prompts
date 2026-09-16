@@ -3595,18 +3595,56 @@
    ],
    "prompt": "最近有一則新聞報導，標題為「碩士清潔隊員滿街跑」，提及某縣市招考清潔隊員，出現50位碩士畢業生報考，引起各界關注。請就這個主題，寫一篇英文作文。文分兩段，第一段依據你的觀察說明這個現象的成因，第二段則就你如何因應上述現象，具體（舉例）說明你對大學生涯的學習規劃。",
    "images": [],
-   "rubricSource": "105 學年度指定科目考試英文考科非選擇題閱卷評分原則說明（閱卷召集人劉慶剛，國立臺北大學人文學院院長）",
+   "rubricSource": "105 學年度指定科目考試英文考科非選擇題閱卷評分原則說明（閱卷召集人劉慶剛，國立臺北大學人文學院院長）；大考中心選才電子報第 264 期〈105年指考英文考科非選擇題評分標準說明〉（研究發展處／游春琪撰，105-08-11）",
    "sourceLinks": [
     {
      "url": "https://www.ceec.edu.tw/files/file_pool/1/0j075815402976213284/02-105指考英文非選擇題評分原則.pdf",
      "label": "非選擇題閱卷評分原則說明"
+    },
+    {
+     "url": "https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&sid=0J179411244870257539",
+     "label": "選才電子報第 264 期：非選擇題評分標準說明"
     }
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J078499112500703930",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 105 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 105 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 322,
+     "p1": "My cousin finished a master's degree in chemistry two years ago. He spent that winter sending out applications, and in the end he took a job at a cram school, teaching junior high students the names of the elements. Nobody in my family said anything about it, which told me more than a long talk would have. So when fifty people with master's degrees sign up to become waste collectors, this is what I see: the degree has stopped doing the one thing it was supposed to do. Taiwan opened so many graduate programs that finishing one now separates a person from almost nobody. A city job, on the other hand, comes with a fixed salary, a pension, and hours that do not disappear when a company has a bad year. Those fifty people are not confused. They are being reasonable.",
+     "p2": "Because of this, I have stopped thinking of my four years at university as something that will speak for me afterward. I want to study environmental engineering, and my plan is to leave with things I can show rather than a line on a form. In my first year I will ask to join the water lab as an assistant, even if the work is washing bottles at first, because the professor there tests river samples for the city every month and I want to watch how those numbers are actually collected. In my second summer I will work at a recycling plant instead of at a language school, so that I finally learn what happens to the bottles and paper I have been sorting since elementary school. Before I graduate I will also sit the national exam for wastewater treatment, which anyone may take and almost nobody in my department bothers with. None of this guarantees me a job. But if the degree itself no longer tells people apart, then what I did inside those four years will have to.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「文長至少 120 個單詞」，那是下限不是目標。這一題的難處全在第二段。官方兩份文件把第一段的實況講得很清楚：多數考生都答得出成因——大學、研究所數量過多，使得大學或碩士文憑的價值不能與過去相提並論，也有考生提到高等教育的學用落差；選才第 264 期則把考生的切入點歸成社會、教育、經濟三個方向。第一段其實不難寫。難的是第二段的「具體（舉例）」四個字。第 264 期列了考生實際寫過的規劃：培養多元領域的能力、強化語言能力、取得國際證照、參加國內外志工活動、藉打工獲取實務經驗。這五樣寫成清單只要兩行，可是清單不叫舉例——讀的人看不到你會在哪裡、做什麼、為什麼是那一件。這一篇第二段只寫三件事，每一件都落到一個看得見的動作：去哪個實驗室、做什麼工作、為什麼要看那些數字；暑假去回收廠而不是語言學校，理由是什麼；考哪一張證照，以及為什麼系上沒有人去考。這一年的作答統計看得出這一題的難度：全體考生平均 7.36 分、得分率 36.80%，滿分只有 2 人。同樣是指考英文作文，106 年的滿分有 8 人。另記兩個字：cram school 在《高中英文參考詞彙表》裡是六級，wastewater 未收，這一篇兩個都照用。理由是它們就是英文裡講這兩件事的說法——英語報導寫台灣、韓國、日本的補習班用的正是 cram school，wastewater treatment 則是廢水處理的正式名稱。考場上照寫即可，不必為了壓低層次換成沒有人那樣講的替代品。",
+     "zh": {
+      "p1": "我表哥兩年前拿到化學碩士。那個冬天他一直在投履歷，最後進了一間補習班，教國中生元素的名字。家裡沒有人講什麼，而那比吵一架還讓我明白。所以當五十個碩士報考清潔隊員，我看到的是：文憑本來能帶來的效益已完全消失。台灣開了太多研究所，唸完一個，現在幾乎跟誰都分不出來。相對的，公家的職缺有固定的薪水、有退休金，工時也不會因為公司哪一年不好就沒了。那五十個人不是搞不清楚狀況，他們是在做合理的選擇。",
+      "p2": "因為這樣，我不再把大學四年當成可以定義我的東西。我想唸環境工程，我的打算是畢業時手上有拿得出來的東西，而不是表格上的一行字。大一我會去問水質實驗室收不收助理，一開始只是洗瓶子也沒關係，因為那裡的教授每個月幫市政府測河水樣本，我想親眼看那些數字到底是怎麼來的。大二的暑假我會去回收廠打工，而不是去語言學校，這樣我才會真的知道，我從小學就在分類的那些瓶子跟紙後來到哪裡去了。畢業之前我還要去考廢水處理的國家考試，那個考試誰都可以報名，可是我們系上幾乎沒有人去考。這些都不保證我找得到工作。可是如果文憑本身已經分不出人了，那分得出人的，就只剩我在那四年裡做過什麼。"
+     }
+    },
+    "rubric": {
+     "intro": "這一年的評分原則說明有兩份，內容互補。隨試題公布的那一份（閱卷召集人劉慶剛，國立臺北大學人文學院院長）寫的是：英文作文滿分 20 分，題目要求至少 120 個單詞、文分兩段；評分標準依據內容、組織、文法句構、字彙拼字四個項目給分，字數明顯不足則扣總分 1 分。這一份把閱卷怎麼進行寫得很詳細——7 月 6 日先開評分標準訂定會議，由正、副召集人及協同主持人共 12 位參閱 3,000 份試卷，討論一天訂定評分標準，並選出評分參考樣卷與試閱樣卷編成《閱卷參考手冊》；本年度聘請 84 位大學教授擔任閱卷委員，7 月 9 日上午 9 時至 11 時召開試閱會議。每份試卷由兩位委員分別評分、以兩人平均成績為準；第一閱與第二閱差距超過差分標準時由第三位委員評閱，而第三閱與第一、第二閱差距大於該大題重閱標準時，另由正、副召集人及一位資深協同主持人共三人組成第四閱，定其最後分數。這一份的正文沒有寫五個等級，沒有未分段扣分那一條，也沒有附分項式評分指標表。選才電子報第 264 期那一份（研究發展處／游春琪撰）補的正是上面沒有的幾樣：作文採整體式評分，分五等級——特優（19-20 分）、優（15-18 分）、可（10-14 分）、差（5-9 分）、劣（0-4 分）；閱卷委員讀完考生試卷後先初步決定一個分數，再以各分項評分標準檢視是否符合。扣分規則在這一份寫成三條：字數明顯不足，扣 1 分；未分段，扣 1 分；寫多段，不扣分。這一份另附表一「英文作文分項式評分指標」，四個項目各四個等級（優、可、差、劣），沒有特優那一欄。兩份的項目名稱寫法不一樣：隨試題那一份寫「文法句構」「字彙拼字」，第 264 期的表一寫「文法、句構」「字彙、拼字」，底下四項對照用的是表一那一種，因為對照的基準就是表一。",
+     "keypoint": "這一題評的是能不能運用詞彙、語法與修辭，寫出切合主題、具統一性與聯貫性的短文。隨試題那一份把評分重點寫成六件：內容是否切題、是否就自己提出的觀點提供充分而具體的事例支持、兩段文字之間是否有關聯性、全文組織是否連貫合理、句構語法及用字是否適切、拼字與標點符號是否使用得當。第 264 期的講法相同，另外點明兩段各自的寫作任務——第一段依考生的觀察說明成因，第二段就考生如何因應，具體舉例說明對大學生涯的學習規劃。兩段不是兩件各自獨立的事：第一段看到的那個成因，第二段的規劃就要針對它而來。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "表一「優」這一格要的是主題清楚切題，並有具體、完整的相關細節支持。第一段不從「台灣研究所太多」這種現成說法起手，而是從表哥那一件親眼看到的事進去——化學碩士、投了一整個冬天的履歷、最後在補習班教國中生元素的名字——再回到那五十個人身上，收在「他們是在做合理的選擇」，把成因講成一個判斷，不是一句抱怨。第二段的三件事各自帶著地點、動作與理由，正面回應題目「具體（舉例）」四個字。"
+     },
+     {
+      "k": "組織",
+      "t": "表一「優」這一格要的是重點分明，有開頭、發展、結尾，前後連貫，轉承語使用得當。第一段由個案起、推到通則、收在判斷；第二段開頭一句 Because of this 把兩段接起來，接著三件規劃依時間排序（大一、大二暑假、畢業前），最後兩句回頭呼應第一段的「文憑分不出人」。題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件寫作任務。"
+     },
+     {
+      "k": "文法、句構",
+      "t": "表一「優」這一格要的是全文幾無文法、格式、標點錯誤，文句結構富變化。第一段以過去式敘述表哥的事，轉到現在式講現況，第二段再以 will 寫規劃，三個時態各有各的工作。冒號用來把觀察與判斷接在一起（this is what I see:），結尾兩個短句（Those fifty people are not confused. They are being reasonable.）與前面的長句形成落差。"
+     },
+     {
+      "k": "字彙、拼字",
+      "t": "表一「優」這一格要的是用字精確、得宜，且幾無拼字、大小寫錯誤。187 個不同詞形之中，四級以上 10 個，占 5.3%：application、chemistry、collector、cram、elementary、engineering、guarantee、lab、pension、recycle。其中 cram 是六級、wastewater 詞彙表未收，兩處照用而不換掉，事由見上面「給讀者的話」。collector 出自官方自己給的英譯 waste collectors with a master's degree，不是另造的說法。"
+     }
+    ]
+   }
   },
   {
    "id": "E104_GSAT",
