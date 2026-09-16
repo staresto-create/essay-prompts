@@ -279,6 +279,7 @@ figcaption{font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(-
 .scRef{font-size:12px;color:var(--ink-soft);margin:0 0 4px;padding-left:1.9em}
 .scLink{margin:12px 0 0}
 .scLink a{font-size:13px;color:var(--seal);text-decoration:underline;text-underline-offset:2px}
+.scLink a.scLink2{display:block;margin-top:4px}
 .scSee{margin:24px 0 0;padding:14px 16px;background:var(--paper);
   border:1px solid var(--rule-soft);border-left:3px solid var(--wash);border-radius:2px}
 .scSee .scName{margin:0 0 8px}
@@ -817,13 +818,18 @@ function card(it){
     f.appendChild(el('figcaption',null,'圖片出處：'+it.source));
     d.appendChild(f);
   });
-  // 寫完之後的入口。問句本身不印在卡片上，這裡只放一條指過去的連結。
+  // 寫完之後的兩條入口。內容本身不印在卡片上，這裡只放指過去的連結。
+  // 兩條都不帶年度與題號——問句與樣例都是跨年度的一份內容，六十二張卡片共用，
+  // 寫上年度會讓讀者以為那是這一題專屬的東西。
   (function(){
     const p=el('div','scLink');
-    const a=document.createElement('a');
-    a.href='#selfcheck';
-    a.textContent='寫完了？逐項檢查一遍 ↓';
-    p.appendChild(a);
+    [['#selfcheck','寫完了？逐項檢查一遍 ↓'],
+     ['#graded-samples','不確定自己寫得如何？看四個等級的實例 ↓']].forEach(([href,text],i)=>{
+      const a=document.createElement('a');
+      a.href=href;a.textContent=text;
+      if(i)a.className='scLink2';
+      p.appendChild(a);
+    });
     d.appendChild(p);
   })();
 
