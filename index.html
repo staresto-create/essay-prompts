@@ -941,6 +941,7 @@ function buildSelfCheck(){
   const sa=SELFCHECK.seeAlso;
   if(sa){
     const sb=el('div','scSee');
+    sb.id='graded-samples';
     if(sa.name)sb.appendChild(el('div','scName',sa.name));
     (sa.paras||[]).forEach(t=>sb.appendChild(el('p','scSeeP',t)));
     if(sa.url&&sa.label){
@@ -955,7 +956,14 @@ function buildSelfCheck(){
   dt.appendChild(body);
   box.innerHTML='';
   box.appendChild(dt);
-  if(location.hash==='#selfcheck')dt.open=true;
+  // 新區塊住在這個 details 裡面，摺疊起來的東西瀏覽器不會自己捲出來，
+  // 所以帶 #graded-samples 進來時，這裡要把外層展開並自行捲過去。
+  // 第一次載入不會觸發 hashchange，那一路只有本函式管得到。
+  if(location.hash==='#selfcheck'||location.hash==='#graded-samples')dt.open=true;
+  if(location.hash==='#graded-samples'){
+    const t=dt.querySelector('#graded-samples');
+    if(t)requestAnimationFrame(()=>t.scrollIntoView({block:'start'}));
+  }
 }
 
 function buildYearTable(){
@@ -1031,6 +1039,10 @@ fetch('data/prompts.json')
 window.addEventListener('hashchange',()=>{
   if(location.hash==='#official-table'){const d=$('#official-table');if(d)d.open=true}
   if(location.hash==='#selfcheck'){const d=$('#selfcheck');if(d)d.open=true}
+  if(location.hash==='#graded-samples'){
+    const d=$('#selfcheck');if(d)d.open=true;
+    const t=$('#graded-samples');if(t)t.scrollIntoView({block:'start'});
+  }
 });
 
 $('#reset').addEventListener('click',()=>{
