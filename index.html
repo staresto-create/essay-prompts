@@ -279,6 +279,14 @@ figcaption{font-size:12px;color:var(--ink-soft);margin-top:7px;font-family:var(-
 .scRef{font-size:12px;color:var(--ink-soft);margin:0 0 4px;padding-left:1.9em}
 .scLink{margin:12px 0 0}
 .scLink a{font-size:13px;color:var(--seal);text-decoration:underline;text-underline-offset:2px}
+.scSee{margin:24px 0 0;padding:14px 16px;background:var(--paper);
+  border:1px solid var(--rule-soft);border-left:3px solid var(--wash);border-radius:2px}
+.scSee .scName{margin:0 0 8px}
+.scSee .scLink{margin:0 0 10px}
+.scSeeP{max-width:46em;font-size:14px;line-height:1.9;margin:0 0 10px}
+.scCav{max-width:46em;font-size:12.5px;line-height:1.85;color:var(--ink-soft);
+  margin:0 0 6px;padding-left:1.9em;text-indent:-1.9em}
+.scCav:last-child{margin-bottom:0}
 
 /* ─── 逐年對照表 ─── */
 .yrbox{margin:30px 0 0;border:1px solid var(--rule-soft);border-left:3px solid var(--wash);
@@ -927,6 +935,23 @@ function buildSelfCheck(){
     });
     body.appendChild(gb);
   });
+  // 選才電子報第 278 期那一份掛在這一層，不掛進任何單一題目——它跨年度，
+  // 而 sourceLinks 是題目層欄位，掛進去只到得了一題。體例同本區其餘部分：
+  // 站上文字一句都不寫在這裡，整塊讀 SELFCHECK.seeAlso，沒有那個鍵就整塊不畫。
+  const sa=SELFCHECK.seeAlso;
+  if(sa){
+    const sb=el('div','scSee');
+    if(sa.name)sb.appendChild(el('div','scName',sa.name));
+    (sa.paras||[]).forEach(t=>sb.appendChild(el('p','scSeeP',t)));
+    if(sa.url&&sa.label){
+      const lp=el('div','scLink');
+      const la=document.createElement('a');
+      la.href=sa.url;la.target='_blank';la.rel='noopener';la.textContent=sa.label+' \u2197';
+      lp.appendChild(la);sb.appendChild(lp);
+    }
+    (sa.caveat||[]).forEach((t,i)=>sb.appendChild(el('p','scCav','('+(i+1)+')\u3000'+t)));
+    body.appendChild(sb);
+  }
   dt.appendChild(body);
   box.innerHTML='';
   box.appendChild(dt);
