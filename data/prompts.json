@@ -3671,18 +3671,56 @@
      ]
     }
    ],
-   "rubricSource": "104 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人賴惠玲，國立政治大學英國語文學系教授）",
+   "rubricSource": "104 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人賴惠玲，國立政治大學英國語文學系教授）；大考中心選才電子報第 247 期〈104學年度學科能力測驗國、英非選擇題評分說明〉（第一處／林秀慧撰）",
    "sourceLinks": [
     {
      "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572827992454237/104學年度學科能力測驗英文考科非選擇題閱卷評分.pdf",
      "label": "非選擇題閱卷評分原則說明"
+    },
+    {
+     "url": "https://www.ceec.edu.tw/files/file_pool/1/0j088564992153483763/247期.pdf",
+     "label": "選才電子報第 247 期：非選擇題評分說明"
     }
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J073552678885145053",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 104 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 104 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 252,
+     "p1": "I would choose EVERYBODY IS BEAUTIFUL: Respect Others & Be Yourself. From the title, I do not think the book teaches you how to look better. It is probably about why we judge people by their faces so quickly, and how much that habit hurts. The author may open with ordinary scenes: a girl deleting a photo because her arms look too big in it, a boy who never takes off his jacket in summer, a class laughing at someone's new haircut. Then the book probably turns to the other side, showing the same people learning to say something kind, or simply learning to say nothing at all. I expect the last chapter to be about accepting the face you see in the mirror, because that is always the hardest part.",
+     "p2": "I chose this book because the problem in its title is sitting in my classroom every day. Some of my friends spend twenty minutes editing one photo before they post it, and the photo still has to get enough likes to feel worth keeping. I have done the same thing myself. What I want to learn is not how to look confident, but how to stop measuring myself against a screen. A book about leadership would give me a skill I might need someday; this one would help me with something I face this afternoon. If it works, I will not become more beautiful, but I will probably be kinder, both to my classmates and to the person in my own photos.",
+     "caveat": "這是一種寫法，不是標準答案。題目寫「至少 120 個單詞」，那是下限不是目標。這一題兩本書擇一，站上這一篇選的是 EVERYBODY IS BEAUTIFUL 那一本；要是你選的是 LEADERSHIP IS A CHOICE，第一段推想的內容要自己換成克服恐懼與培養領導能力那一面，第二段的理由也要扣回那個書名。不過兩段各要交出什麼、細節要寫到多具體、理由怎麼跟書名接上，這一篇都示範過一次，你選另一本也需比照辦理，底下五個項目的說明也一樣。站上之後會補上另一本的範文。大考中心當年公布了官方佳作，同一個題目多種寫法，點進去自己看一遍最有用。"
+    },
+    "rubric": {
+     "intro": "104 的官方說明有兩份，內容互補。隨試題公布的那一份（閱卷召集人賴惠玲，國立政治大學英國語文學系教授）寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字、體例五個項目給分，字數明顯不足的作文扣總分 1 分；2 月 4 日先開評分標準訂定會議，由正、副召集人及協同主持人共 14 人參閱約 3,000 份來自不同地區的答案卷，討論一天訂出評分標準，編成《閱卷參考手冊》；本年度聘請 171 位大學教授擔任閱卷委員，2 月 6 日召開試閱會議，會後再確定一次評分標準才正式閱卷。每份試卷由兩位委員各自評分，最後以兩人的平均為準，第一閱與第二閱差距超過差分標準時，再由第三位委員（正、副召集人或協同主持人）評閱。這一份另外寫明了兩本書的完整書名，以及評分的考量重點：作文內容與所選書籍之間的關聯性是否緊密，並有足夠的細節支持。選才電子報第 247 期那一份（第一處／林秀慧）寫的是評分方式與分項配分：各項得分加總後給予一個整體分數（holistic score），再依總分 1 至 20 分分為特優（19-20 分）、優（15-18 分）、可（10-14 分）、差（5-9 分）、劣（0-4 分）五個等級；表 2 的分項配分為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分，合計 20 分。扣分規則也只有這一份寫齊：字數嚴重不足扣總分 1 分，未分段也扣總分 1 分。同一個項目兩份的寫法不一樣：選才那一份的表 2 寫「字彙、拼字」，閱卷評分原則說明寫「詞彙拼字」。這裡的欄名取表 2 那一邊作「字彙拼字」，兩種寫法並記，逐年照原件呈現、不拉齊。",
+     "keypoint": "寫作任務題目分得很清楚：第一段說明你會選哪一本書，以及你認為該書的內容大概會是什麼；第二段提出你選擇該書的理由。兩本書是 EVERYBODY IS BEAUTIFUL: Respect Others & Be Yourself 與 LEADERSHIP IS A CHOICE: Conquer Your Fears & You Can Be a Leader Too，選哪一本都可以，沒有哪一本比較好得分，也不必交代為什麼不選另一本。這一題最容易失分的地方在第一段：題目要的是「依書名想想看該書的內容」，也就是要你根據書名與副標推想這本書會寫些什麼，而不是評論這本書好不好、值不值得讀。賴惠玲那一份把評分的考量重點寫得很直接——內容與所選書籍之間的關聯性是否緊密，並有足夠的細節支持。所以第二段的理由要扣回書名。大考中心看的是理由與這一本書之間接得緊不緊，接得上的理由通常帶著自己的事；泛泛的好處放在哪一本書上都成立，關聯性那一格就量不出東西。這一年跳脫了學測常見的看圖寫作，改以書名與副標當提示，而本質仍然是引導式寫作，提示給到哪裡就寫到哪裡。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的是依書名推想內容，加上選它的理由，兩件都要有具體的東西撐著。這一篇第一段沒有停在「這本書談尊重」，而是給了三個看得見的場景：女生把手臂看起來太粗的照片刪掉、男生整個夏天不脫外套、全班笑一個人的新髮型。第二段的理由也一樣落在自己身上——修一張照片花二十分鐘、按讚數決定要不要留。賴惠玲那一份講的「足夠的細節支持」就是指這些，不是形容詞。"
+     },
+     {
+      "k": "組織",
+      "t": "題目指定文分兩段，這篇就寫兩段，兩段各自完成題目交代的一件事。第一段先用一句話定調（這不是一本教你變好看的書），中間排三個場景，再翻到另一面，最後收在鏡子；第二段從班上的實況走到自己的需求，中間拿另一本書做一次對照，最後回到「會變得比較善良」。前後是一條線，轉承靠 From the title、Then、because、but 這些常見的詞，不堆砌轉承語。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以單句與對等句為主，變化來自幾個地方：關係子句（a boy who never takes off his jacket）、分詞構句（showing the same people learning to say something kind）、not … but 的並列（not how to look confident, but how to stop measuring myself）、以及分號接的對照句（A book about leadership would … ; this one would …）。情態動詞用得比較密（would、may、probably、might），那是因為題目要你推想一本沒讀過的書，語氣本來就該留餘地——這一點寫成肯定句反而不合題意。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已查得的詞形裡，一級 103 個、二級 20 個、三級 4 個，四級只有 measure 一個，四級以上占 0.8%。詞彙表未收的留了兩個字。classroom 是複合詞，詞彙表按體例不收（收的是 class 一級、classmate 二級），而這是教室最自然的說法。delete 也未收，詞彙表收的是 erase 三級與 remove 二級，然而照片要說的就是 delete，erase a photo 不是英文在講這件事的說法。真正會扣分的地方通常在拼法：beautiful、probably、jacket、confident 這幾個考前確認一下。"
+     },
+     {
+      "k": "體例",
+      "t": "104 有這一項，配分 2 分，管的是格式、標點與大小寫；表 2 在這一項只給三檔，「優」與「可」併成同一格，裡面只有一句：格式、標點、大小寫幾無錯誤。這一題會扣分的多半是這幾件：段落沒有縮排也沒有空行，閱卷委員看不出分段；句首沒有大寫；書名整串大寫照抄題目是對的，而書名裡的冒號與 & 要跟著抄對；分號用在對照句時前後都要是完整句子。另外 104 未分段要扣總分 1 分（這一條寫在選才第 247 期那一份），與體例這一項分開算，兩邊都看得到分段做得好不好。"
+     }
+    ]
+   }
   },
   {
    "id": "E104_JCEE",
