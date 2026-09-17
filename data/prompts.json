@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-14",
+ "updated": "2026-09-18",
  "count": 62,
  "items": [
   {
@@ -380,7 +380,7 @@
    "promptSummary": "圖片對比颱風假時，民眾在室內休閒娛樂與在室外風雨中奔波的情景。要求描述情景，再說明個人看法與\n經驗。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Climate change and extreme weather",
@@ -754,6 +754,23 @@
    "source": "大學入學考試中心 113 學年度學科能力測驗英文考科",
    "promptSummary": "圖片呈現青少年三種困擾。要求選擇一項，說明原因，並闡述希望機器人小幫手具備的特質與合作方式。",
    "summarySource": "外部模型產出，未經查證，不上站",
+   "listening": {
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Is rejection good for us?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-09-17",
+      "length": "6 分 22 秒",
+      "blurb": "Georgie 與 Neil 談 rejection therapy：有人上街向陌生人提出唐突的請求，把遭拒的過程拍成影片放上社群，形成一股風潮；這不是正式的心理治療，但有人做過之後覺得自己變得比較有自信。這一題第二段要寫機器人做什麼、自己做什麼，而這一集講的正是自己那一半——主動去踩怕被拒絕的那個點。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260917",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://open.spotify.com/episode/2vpbtGPCtUkVm3ahQ60t8D",
+      "altLabel": "Spotify",
+      "checked": "2026 年 9 月"
+     }
+    ]
+   },
    "model": {
     "essay": {
      "words": 319,
@@ -2165,7 +2182,7 @@
     ]
    },
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Can apps teach you a language?",
@@ -3505,7 +3522,7 @@
     ]
    },
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Who does the housework?",
@@ -4957,7 +4974,7 @@
     ]
    },
    "listening": {
-    "note": "這是口語討論，練聽力、蒐集想法很好，但口語的用字語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "How do we describe smells?",
