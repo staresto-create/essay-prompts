@@ -3817,11 +3817,15 @@
      ]
     }
    ],
-   "rubricSource": "103 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人張武昌，銘傳大學應用英語學系教授）",
+   "rubricSource": "103 學年度學科能力測驗英文考科非選擇題閱卷評分原則說明（閱卷召集人張武昌，銘傳大學應用英語學系教授）；大考中心選才電子報第 235 期〈103學年度學科能力測驗英文非選擇題評分標準說明〉（第一處／林秀慧撰）",
    "sourceLinks": [
     {
      "url": "https://www.ceec.edu.tw/files/file_pool/1/0j076572149906768624/103學測記者會說明資料定稿140121.pdf",
      "label": "非選擇題閱卷評分原則說明"
+    },
+    {
+     "url": "https://www.ceec.edu.tw/files/file_pool/1/0j088550753266318078/235期.pdf",
+     "label": "選才電子報第 235 期：非選擇題評分標準說明"
     }
    ],
    "samples": {
@@ -3830,7 +3834,45 @@
    },
    "source": "大學入學考試中心 103 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一位聽音樂的男孩過馬路時沒注意來車，險象環生。要求想像第四格發展，寫出完整故事。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 335,
+     "p1": "On the way home from school last Friday, Amy and her classmate Ben cut through the park as usual. Amy walked with her head bent over her phone, both thumbs moving, laughing at something in a group chat. Ben had a big pair of headphones on, his eyes shut and a wide smile on his face, holding his phone up as if he were singing on a stage. Neither of them was looking ahead. A mother and her little daughter came along the same path behind them. Amy walked straight into a tree. She stood there holding her forehead while the mother and the child stopped to stare, and Ben, who had heard nothing, kept going. A few steps later he stepped off the sidewalk into the road, and a car stopped right in front of him, its horn sounding again and again. Ben heard only his music.",
+     "p2": "What happened next was not the crash everyone was expecting. Amy looked up from her sore forehead just in time to see him step out, and for once she was the one who moved fast. She shouted his name, and when he did not turn, she ran three steps and pulled him back by the arm. The car went past close enough to move his hair. It was a narrow escape, and it was over in two seconds. They stood there on the sidewalk, and Ben finally pushed his headphones down around his neck. Only then could he hear what he had been missing: the driver still shouting, the little girl asking her mother what had happened, and his own heart beating far too fast. He looked at the red mark on Amy's forehead and started to laugh, and she laughed too, though neither of them thought it was funny. They walked the rest of the way home with her phone in her bag and his music off. A tree only leaves a mark for a day or two; a car would not have been so kind.",
+     "caveat": "這是一種寫法，不是標準答案。第四格本來就是空的，同一組圖片編得出完全不同的故事，大考中心當年公布的作文佳作就掛在卡片上。題目要的是「寫一篇故事」，不是「描述這三張圖片」，所以這一篇從人物走起，沒有用「第一張圖片顯示……」那種開頭，敘事整段走過去式；一改成描述，時態就會卡在現在式，文章跟著變成說明。另記兩個字：headphones 在《高中英文參考詞彙表》裡是六級，forehead 未收，這一篇兩個都照用。圖片畫的就是罩住整個耳朵的耳機，四級的 earphone 指的是塞在耳朵裡的那種；撞到的也就是額頭，寫成 head 看不出撞到哪裡。考場上照寫即可，不必為了壓低層次，換掉一個本來就對的字。",
+     "zh": {
+      "p1": "上星期五放學回家，Amy 跟同班的 Ben 照慣例抄公園那條小路。Amy 低著頭滑手機，兩隻拇指沒停過，看群組裡的東西看到笑出來。Ben 戴著一副大耳機，眼睛閉著、笑得很開心，手機舉在半空中，好像自己正站在台上唱歌。兩個人都沒在看前面。後面有一對母女走在同一條路上。然後 Amy 就直直撞上一棵樹。她站在原地摀著額頭，那對母女停下來看她，Ben 什麼都沒聽到，繼續往前走。再幾步，他走下人行道踏進馬路，一輛車就停在他正前方，喇叭按了一次又一次。Ben 耳朵裡還是只有音樂。",
+      "p2": "所有人都以為要撞上了，結果並沒有。Amy 摀著還在痛的額頭抬起頭，剛好看到他走出去，這一次換她反應快。她喊他的名字，他沒回頭，她就往前衝三步，一把抓住他的手臂拉回來。車子擦過去，近到他的頭髮都飄了起來。真的是好險，前後不到兩秒。兩個人站在人行道上，Ben 這才把耳機推下來掛在脖子上。這時候他才聽見剛剛漏掉的那些聲音：駕駛還在罵，小女孩問媽媽剛剛是怎麼一回事，還有自己那顆跳得太快的心。他看著 Amy 額頭上那塊紅印，笑了出來，Amy 也跟著笑，可是兩個人心裡都清楚，這一點都不好笑。回家剩下那段路，Amy 的手機收進了包包，Ben 的音樂也關掉了。撞到樹，痛個一兩天也就過去了；要是撞上車，可就沒這麼客氣了。"
+     }
+    },
+    "rubric": {
+     "intro": "103 的官方說明有兩份，內容互補。隨試題公布的〈非選擇題閱卷評分原則說明〉（閱卷召集人張武昌，銘傳大學應用英語學系教授）寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字、體例五個項目給分，字數明顯不足的作文扣總分 1 分；每份試卷經兩位委員分別評分，成績取兩人平均，差距超過差分標準時由第三位委員評閱。選才電子報第 235 期〈103學年度學科能力測驗英文非選擇題評分標準說明〉（大考中心第一處／林秀慧）寫的是等級與配分：各項得分加總後給一個整體分數，依總分分為特優（19-20 分）、優（15-18 分）、可（10-14 分）、差（5-9 分）、劣（0-4 分）五個等級，分項式評分指標見該份的表 1，配分為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分（表 1 的列名寫作「文法、句構」與「字彙、拼字」）。兩份還有一處差別：第四項的名稱，張武昌那一份寫「詞彙拼字」，選才那一份寫「字彙、拼字」，這裡的 mapping 標籤取表 1 那一邊，兩種寫法逐年照抄，不統一。",
+     "keypoint": "這一年的體例規則要特別記，選才那一份寫得最清楚：字數嚴重不足，扣總分 1 分；多寫，不扣分；未分段，亦不扣分。隔一年就改了——104 學測那一份寫的是未分段者亦扣總分 1 分，所以不能拿鄰年的規則套過來。張武昌那一份的用字也不同，寫的是「字數明顯不足」。至於寫作任務，張武昌那一份把圖片講得比題目還清楚：第二格是女生忙著滑手機，第三格是男生沉迷於耳機裡的音樂——是兩個人各自出狀況，不是同一個人從頭到尾。要涵蓋所有圖片，就得讓兩個人都出場，而第四格是空的，結局要自己編。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "這一題的內容分兩半，前三格是圖片給的，第四格與結局是自己編的。第一段照圖片順序走完三格：第一格兩個人並肩走，Amy 低頭滑手機、兩隻拇指沒停過，Ben 戴著大耳機閉著眼睛笑、把手機舉在半空中；第二格 Amy 直直撞上樹，站著摀額頭，那對母女停下來看，而 Ben 什麼都沒聽到、繼續往前走；第三格他走下人行道踏進馬路，車停在他正前方、喇叭按了一次又一次，他耳朵裡還是只有音樂。第二段整段是圖片外面的事：Amy 抬起頭、喊他、往前衝三步把他的手臂拉回來，車子擦身而過。三格都到齊、結局也收乾淨，這兩件就是這一題的內容分數所在。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段依圖片順序推進，三格各給一組具體畫面，最後把鏡頭停在馬路上那一刻，危險懸在那裡，順勢交給第二段。第二段用「所有人都以為要撞上了，結果並沒有」接上去，先解除危險，再讓 Ben 把耳機推下來、聽見原本漏掉的那些聲音，最後收在兩個人笑得出來卻都知道不好笑的那個笑，以及回家路上手機收進包包、音樂關掉。故事有頭有尾，結局落在兩個人身上，不落在那輛車上。"
+     },
+     {
+      "k": "文法句構",
+      "t": "敘事整段用過去式，這正是故事題與描述圖片題最大的差別——一寫「這三張圖片顯示……」，時態就卡在現在式，文章也跟著變成說明而不是故事。全篇只有最後一句的前半 A tree only leaves a mark for a day or two 用現在式，那是一句通則，不是敘事。文中有兩個句型可以單獨記。一個是 as if he were singing on a stage：as if 後面接與事實相反的假設，正式書面用 were，站上 G110_25_2 已經寫過，was 在現代英文同樣通行，兩式都成立。另一個是 Only then could he hear...：Only 這類限制性副詞放句首會觸發倒裝，助動詞要提到主詞前面，英國文化協會的文法說明講得很清楚，把副詞擺到句首，主詞與助動詞的正常順序就要對調，效果是強調，多見於正式英文。另外 who had heard nothing 與 what he had been missing 兩處用過去完成式，標示那件事發生在故事這條過去式時間線之前。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "這一年的項目名稱，選才那一份的表 1 列的是「字彙、拼字」。這一題最值得帶走的是 narrow escape。劍橋 escape 條目的例句是 have a narrow escape，語意註解寫「只差一點就受傷或喪命」；朗文的定義是「只差一點才避開危險、困難或麻煩的情況」。常用的是敘述句形式——have a narrow escape、it was a narrow escape，課本上那句 What a narrow escape! 是驚嘆句，要有對話或有人在講話時才放得進去。narrow 與 escape 詞彙表都收在第二級，所以這個說法寫得出來、也不超綱。全篇四級以上只有 headphones 一個（第六級），占 0.6%，比歷來範文的 1.2% 到 5.5% 低，這裡照實記，沒有為了拉高而塞四級字；forehead 詞彙表未收，留用的理由見 caveat。"
+     },
+     {
+      "k": "體例",
+      "t": "這一年的體例占 2 分，看的是格式、標點、大小寫。這一篇分兩段，第一段 148 詞、第二段 187 詞，全篇 335 詞，題目的下限是 120 詞。標點上有兩處可以看：Only then could he hear what he had been missing 後面用冒號帶出三樣聽見的聲音，是列舉；最後一句用分號接兩個對照的分句——撞到樹跟撞到車，分號讓兩邊維持對稱，換成句號那個對比就散了。"
+     }
+    ]
+   }
   },
   {
    "id": "E103_JCEE",
