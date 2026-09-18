@@ -3799,7 +3799,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已查得的詞形裡，一級 133 個、二級 11 個、三級 3 個，四級只有 code 一個，四級以上占 0.6%，沒有任何一個字是詞彙表未收的。另有四個字收在附錄的基數詞與季節表裡，那兩張表不標級數：one、two、three、winter。這一篇字長而容易拼錯的是 restaurant、apartment、disappeared、patience、knowledge 這幾個。"
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已查得的詞形裡，一級 133 個、二級 11 個、三級 3 個，四級只有 code 一個，四級以上占 0.6%，沒有任何一個字是詞彙表未收的。這一篇字長而容易拼錯的是 restaurant、apartment、disappeared、patience、knowledge 這幾個。"
      },
      {
       "k": "體例",
@@ -3929,7 +3929,45 @@
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J077629423604637236",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 103 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 103 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 328,
+     "p1": "The chart shows how students at one American high school spend an average day. The two tallest bars belong to sleep and schoolwork, and it is the order of the two that catches the eye: sleep takes 8.7 hours, more than a third of the whole day, while schoolwork takes 6.4. What surprises me more, though, is that part-time work has a bar of its own at all. An hour and a half a day goes into a job, which is more than sports and religious or volunteer activities get between them. Those two come to forty-eight minutes and twelve minutes, exactly one hour together, or four percent of the day. A day here is built around three things — sleeping, studying, and earning money — and the rest has to fit into what is left over.",
+     "p2": "If my day were drawn as the same chart, the top two bars would swap places, and the reason is the entrance exam. Classes run from ten past eight to five, and on three evenings a week a cram school keeps me out until eleven, so schoolwork would stand at ten and a half hours, four hours more than the 6.4 in the chart. Those four hours have to come from somewhere, and in my case they come out of sleep: six hours on a good night, close to three hours short of what these students get. Almost no high school student here has time for a part-time job, and time is not the only reason. Parents here expect after-school hours to go into studying, so a job is something you take up once the exam is behind you, not while you are preparing for it. The one bar we would share is sports, and mine would be the shorter of the two: basketball twice a week works out at twenty-five minutes a day, roughly half of their forty-eight. It seems that whatever fills a school day, the sports bar is the first one it shortens.",
+     "caveat": "這一篇是其中一種寫法，不是標準答案。題目寫「至少 120 個單詞」，那是下限不是目標，這一篇 328 個單詞。圖上有七個項目，第一段不必七個逐一念過去。大考中心那一年的評分原則說明裡寫著，英文寫作能力中等以上的考生是在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與臺灣當前現象的不同處。也就是說，第一段要挑的是圖上哪裡特別，不是把數字抄一遍。這一篇挑兩件：睡覺 8.7 小時比學習相關活動的 6.4 小時還多，時間最長的兩項順序跟我們想的相反；還有打工竟然自成一項。第二段題目要的是「異同」，而且明寫「並說明其理由」，兩樣都要。這一篇的作法是把自己的一天也當成同一張圖來畫，三個比較點各自帶一個理由：睡得少，因為多出來的四小時得從別的地方挪；沒有打工這一項，因為放學後的時間在這裡要拿來讀書；運動少，這一點兩邊一樣，而且自己這邊更短。數字的講法可以換著用。同樣是圖上的數字，這一篇用過小時（8.7 hours）、分數（more than a third of the whole day）、分鐘（forty-eight minutes）、百分比（four percent of the day）、差額（four hours more than the 6.4 in the chart）和比較（roughly half of their forty-eight）。圖表題整篇都在講數字，全寫成 X hours 會讀起來像報表。最後說一下用字。這一篇有四個字在《高中英文參考詞彙表》裡是四級以上：percent 四級、volunteer 四級、swap 五級、cram 六級，四個都照用沒有換掉。percent 是圖表題本來就會用到的字；volunteer 是圖上那一項自己的名字；swap places 講最高的兩項對調，換別的說法反而繞；cram school 則是英文裡講補習班的說法，英語報導寫台灣、日本、韓國的補習班用的就是這個字。考場上照寫即可，不必為了壓低層次換成沒有人那樣講的替代品。",
+     "zh": {
+      "p1": "這張圖呈現的是美國某一所高中的學生平均一天的時間分配。時間最長的兩項是睡覺和學習相關活動，而真正顯眼的是這兩項的先後：睡覺 8.7 小時，超過一天的三分之一，學習相關活動反而只有 6.4 小時。不過更讓我意外的，是打工竟然自成一項。每天有一個半小時花在工作上，比運動加上宗教、義工還多。那兩項分別是四十八分鐘和十二分鐘，合起來剛好整整一小時，占一天的百分之四。美國高中生的一天主要就是睡覺、讀書、賺錢這三件事，其餘的事只能塞進剩下的空檔。",
+      "p2": "要是把我的一天也畫成同一張圖，時間最長的那兩項會對調，原因就是升學考試。我從早上八點十分開始上課到五點，一星期有三個晚上補習到十一點才回得了家，學習相關活動因此高達十個半小時，比圖上的 6.4 多了四小時。這四小時總得從別的地方挪出來，而我挪的是睡眠：睡得飽也才六小時，比這些學生少了將近三小時。台灣的高中生根本不會有時間打工。不只是因為沒有時間，而是因為這裡的家長認為放學後的時間應該要拿來讀書。所以打工是考完以後的事，不是準備考試的時候做的事。我們唯一相近的一項是運動，而我所占的時間還更短：籃球一星期打兩次，分攤到每天大約二十五分鐘，差不多是他們四十八分鐘的一半。看來不管把一天填滿的是什麼，最先縮短的都是運動這一項。"
+     }
+    },
+    "rubric": {
+     "intro": "這一題站上掛得到的評分原則說明只有一份，即隨試題公布的那一份，閱卷召集人劉慶剛〈國立臺北大學人文學院院長〉。這一份寫的是：非選擇題共有兩大題，第一大題「中譯英」，題型與過去幾年相同，考生須將兩個中文句子譯成正確、通順而達意的兩個英文句子，兩題共計 8 分；第二大題「引導式作文」，考生須從試卷提供的一個統計圖中找出相關資訊，以至少 120 個單詞、依題目的提示寫出一篇兩段的作文，作文部分滿分 20 分。中譯英每小題總分 4 分，原則上每個錯誤扣 0.5 分。英文作文依內容、組織、文法句構、字彙拼字、體例五個項目給分，字數明顯不足者扣總分 1 分。閱卷的進行方式也寫了：7 月 7 日先召開評分標準訂定會議，由正、副召集人及協同主持人共 14 位，參閱 3,000 份試卷，經過一天的討論訂定評分標準，並選出合適的樣卷編製成《閱卷參考手冊》供閱卷委員參閱；7 月 9 日上午 9 時至 11 時，120 位大學教授分組進行試閱會議，依手冊裡的樣卷分別評分並討論評分準則。試閱會議之後，正、副召集人及協同主持人另開第一次評分標準再確定會議，確認評分原則之後才開始正式閱卷。每份試卷皆經兩位委員分別評分，最後以二人平均分數計算；第一閱與第二閱分數差距超過標準時，再請第三位委員（正、副召集人或協同主持人）評分。這一份另記了中譯英的命題範圍：測驗之詞彙皆控制在大考中心詞彙表四級內之詞彙。這一份的正文沒有給各項配分，沒有寫五個等級，也沒有附分項式評分指標表。",
+     "keypoint": "這一題要考生從一張統計圖裡找出資訊，寫成兩段：第一段描述該圖所呈現之特別現象，第二段說明整體而言，考生本人的時間分配與圖中該高中全體學生的異同，並說明其理由。這一份把評分的考量重點寫成四件：書寫的內容是否符合試題之圖、文引導與說明，組織是否完整，用字、拼字及句子結構是否正確，以及是否已把全文清楚地敘述出來。\n這一份另記了樣卷裡看到的寫法：英文寫作能力中等以上的考生能在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與臺灣當前現象之不同處，以凸顯統計圖表資料特別之處；第二段則比較說明自己的時間安排與圖表所示之異同。也就是說，第一段不是把七個項目的數字抄一遍，而是要挑出圖上哪裡特別；第二段的比較也要扣著第一段挑出來的那幾件事，不是另起爐灶講自己的作息。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目的引導是一張統計圖加兩句文字，評分的考量重點第一條問的就是內容是否符合試題之圖、文引導與說明。這一篇第一段沒有把七個項目逐一報過，而是挑出兩件可以稱為「特別現象」的事：睡覺 8.7 小時比學習相關活動的 6.4 小時多，時間最長的兩項順序跟一般想像相反；打工 1.5 小時自成一項，比運動與宗教、義工兩項加起來還多。運動 0.8 小時與宗教、義工 0.2 小時換算成分鐘是四十八分鐘與十二分鐘，兩者相加剛好整整一小時，第一段用這個巧合收尾。第二段照題目的第二句做異同與理由，三個比較點各自落到一個說得出來的原因。"
+     },
+     {
+      "k": "組織",
+      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事。第一段由時間最長的兩項入手，推到打工那一項，收在睡覺、讀書、賺錢三件事把一天填滿。第二段開頭那一句 If my day were drawn as the same chart 把兩段接起來，之後整段都還在同一張圖上講話——the top two bars would swap places、the one bar we would share、the sports bar is the first one it shortens。評分重點裡的「組織是否完整」與「是否已把全文清楚地敘述出來」，靠的就是第二段沒有離開第一段那張圖。"
+     },
+     {
+      "k": "文法句構",
+      "t": "描述圖表的部分整段走現在式（The chart shows、sleep takes、goes into），第二段凡是講「如果我這一天也畫成同一張圖」的部分改用假設語氣（If my day were drawn…, the top two bars would swap places），而講自己作息的事實仍然是現在式（Classes run from ten past eight to five、a cram school keeps me out until eleven），兩種時態各有各的工作。句型的變化來自幾處：分裂句強調主語（it is the order of the two that catches the eye）、名詞子句當主詞（What surprises me more, though, is that…）、關係子句補充比較（which is more than sports and religious or volunteer activities get between them）、破折號夾住的同位語（three things — sleeping, studying, and earning money —），以及三處冒號，都是前面提出一個說法、冒號後面把數字補上。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 91、二級 8、三級 2、四級 2、五級 1、六級 1，四級以上 4 個、占 3.8%，分別是 percent、volunteer、swap、cram。這一篇字長而容易拼錯的是 religious、volunteer、schoolwork、entrance、percent 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "103 指考這一份評分原則說明沒有給分項配分，也沒有附分項式評分指標表，正文寫到體例的地方只有一條：字數明顯不足者扣總分 1 分。這一年沒有寫未分段扣分那一句，跟 104 指考不一樣——104 那一份寫的是「字數明顯不足或未依提示分二段者扣總分 1 分」。這一篇 328 個單詞、文分兩段，兩項都在規定之內。"
+     }
+    ]
+   }
   },
   {
    "id": "E102_GSAT",
