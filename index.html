@@ -73,6 +73,8 @@
   .mdKey{font-size:12.5px;line-height:1.8;background:#F4EEDF;border-radius:4px;padding:8px 10px;margin:0 0 9px;}
   .mdKey p{margin:0 0 .7em;}
   .mdKey p:last-child{margin-bottom:0;}
+  .mdCaveat p,.mdIntro p{margin:0 0 .6em;}
+  .mdCaveat p:last-child,.mdIntro p:last-child{margin-bottom:0;}
   .mdMap{list-style:none;padding:0;margin:0;}
   .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .mdK{font-weight:700;margin-right:6px;}
@@ -732,10 +734,12 @@ function card(it){
     if(zh.p2)es.appendChild(el('p','mdZh',zh.p2));
     if(m.essay.words)es.appendChild(el('div','mdWords','全文 '+m.essay.words+' 詞'));
     body.appendChild(es);
-    if(m.essay.caveat)body.appendChild(el('p','mdCaveat',m.essay.caveat));
+    // caveat 與 intro 同 keypoint，以換行符分段；未分段者只產生一個段落，畫面與先前相同。
+    const paras=(c,t)=>{const b=el('div',c);t.split('\n').forEach(x=>{if(x.trim())b.appendChild(el('p',null,x))});return b};
+    if(m.essay.caveat)body.appendChild(paras('mdCaveat',m.essay.caveat));
     if(m.rubric){
       body.appendChild(el('div','mdH','官方怎麼給分'));
-      if(m.rubric.intro)body.appendChild(el('p','mdIntro',m.rubric.intro));
+      if(m.rubric.intro)body.appendChild(paras('mdIntro',m.rubric.intro));
       if(m.rubric.keypoint){
         // keypoint 以換行符分段；未分段者照舊只產生一個段落。
         const kb=el('div','mdKey');
