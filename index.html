@@ -67,6 +67,8 @@
   .mdEssay p.mdZh{font-size:12.5px;line-height:1.9;color:#5F594C;
                   border-left:2px solid #E3DCC9;padding-left:9px;margin:0 0 13px;}
   .mdWords{font-size:11.5px;color:#8A8271;}
+  .mdEssay p.mdSal{margin:0 0 6px;}
+  .mdEssay p.mdClose{margin:2px 0 11px;}
   .mdCaveat{font-size:12px;color:#7A7263;border-left:3px solid #DED5BF;padding-left:8px;margin:10px 0;}
   .mdH{font-size:13px;font-weight:700;margin:13px 0 5px;}
   .mdIntro{font-size:12.5px;line-height:1.8;color:#4A443A;margin:0 0 7px;}
@@ -728,11 +730,20 @@ function card(it){
     // 中英逐段交錯：英文在前、中文緊接在後，段段對應。
     // zh 為選配欄，沒有這一欄的題目照舊只印英文。
     const zh=m.essay.zh||{};
+    // 書信題另有 opening（稱呼語）與 closing（結尾敬語加署名，以換行符分行），皆為選配欄；
+    // 沒有這兩欄的題目畫面與先前相同。字數只算正文，故書信題標「正文」。
+    const letter=!!(m.essay.opening||m.essay.closing);
+    if(m.essay.opening)es.appendChild(el('p','mdSal',m.essay.opening));
     es.appendChild(el('p',null,m.essay.p1));
     if(zh.p1)es.appendChild(el('p','mdZh',zh.p1));
     es.appendChild(el('p',null,m.essay.p2));
     if(zh.p2)es.appendChild(el('p','mdZh',zh.p2));
-    if(m.essay.words)es.appendChild(el('div','mdWords','全文 '+m.essay.words+' 詞'));
+    if(m.essay.closing){
+      const c=el('p','mdClose');
+      m.essay.closing.split('\n').forEach((x,i)=>{if(i)c.appendChild(document.createElement('br'));c.appendChild(document.createTextNode(x))});
+      es.appendChild(c);
+    }
+    if(m.essay.words)es.appendChild(el('div','mdWords',(letter?'正文 ':'全文 ')+m.essay.words+' 詞'));
     body.appendChild(es);
     // caveat 與 intro 同 keypoint，以換行符分段；未分段者只產生一個段落，畫面與先前相同。
     const paras=(c,t)=>{const b=el('div',c);t.split('\n').forEach(x=>{if(x.trim())b.appendChild(el('p',null,x))});return b};
