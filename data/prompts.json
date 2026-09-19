@@ -4432,7 +4432,47 @@
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072612250064246536",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 101 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 101 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 268,
+     "opening": "Dear Ken,",
+     "p1": "I have been worried about you lately. Since you got hooked on that online game last month, you have not seemed like yourself. You fall asleep in first period, you have handed in only half of our math homework, and yesterday you told me your parents yelled at you again because your light was still on at three in the morning. I am not writing to lecture you. I know how good it feels to win a hard match after a long day of tests, and I know the game is where you laugh with your teammates. But a game is supposed to help you relax. When it starts deciding when you go to bed, it is no longer something you control; it is something that controls you.",
+     "p2": "So I want to suggest a few changes. First, finish your homework before you log in, and stop at eleven, however close you are to winning. Second, leave your phone to charge in the living room at night. If it is not beside your pillow, \"just one more match\" cannot turn into four. Third, talk to your parents instead of avoiding them. They are angry because they are worried, and if they see you keep your own rules for two weeks, they may start to trust you again. If you have fallen behind in math, come to the library with me after school, and I will go over the lessons you slept through. I miss the Ken who beat me at basketball every Friday and still got the highest score on our physics tests. I believe he is still there.",
+     "closing": "Your friend,\nJack",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標。這一篇的正文寫了 268 個單詞，開頭的稱呼語與信末的署名不算在內。\n這一題是一封信，除了正文，開頭的稱呼語與信末的署名也在評分範圍內，而且只能用題目指定的英文名字，詳見底下體例那一項。大考中心佳作頁的說明也特別提到，十五篇佳作的稱呼與署名都正確無誤。\n大考中心當年公布了十五篇官方佳作，同一題目有十五種寫法，直接點進去看一遍最有效。\n這一篇有三個字在《高中英文參考詞彙表》裡是四級：hook、lecture、physics，都照用。be hooked on 表「迷上」，lecture 在這裡當動詞，表「說教」，physics 即物理。",
+     "zh": {
+      "p1": "最近我一直很擔心你。自從上個月你迷上那款線上遊戲，整個人就好像變了一個樣。第一節課你會睡著，我們的數學作業你只交了一半，昨天你還跟我說，你爸媽又罵你了，因為凌晨三點你房間的燈還亮著。我寫這封信不是要對你說教。我知道考了一整天的試之後，贏下一場難打的對戰有多痛快，也知道那款遊戲是你和隊友一起說說笑笑的地方。可是遊戲本來是讓人放鬆用的；等到它開始決定你幾點上床，就不再是你在控制它，而是它在控制你。",
+      "p2": "所以我想建議你改幾件事。第一，先把作業寫完再上線，而且十一點一到就停，就算眼看就要贏了也一樣。第二，晚上把手機留在客廳充電。手機不在枕頭旁邊，「再打最後一場就好」就不會變成四場。第三，跟你爸媽好好談，不要一直躲著他們。他們會生氣，是因為擔心你；要是看到你兩個星期都守住自己定的規矩，他們也許就會再度信任你。如果你數學跟不上了，放學後跟我一起去圖書館，我把你上課睡著的那幾課從頭講一遍。我很想念那個每個星期五打籃球都贏我、物理考試還能拿全班最高分的 Ken。我相信他還在。"
+     }
+    },
+    "rubric": {
+     "intro": "101 學測的官方說明只有一份，是選才電子報第 211 期〈101年學科能力測驗英文考科非選擇題評分說明〉，大考中心第一處林秀慧撰，依據為「101學年度學科能力測驗英文考科閱卷參考手冊」。這一份寫的是：英文作文採用簡函寫作的題型，考生必須寫一封至少 120 個字詞的信，對沉迷電玩、常熬夜、疏忽課業、又受到父母責罵的朋友提出適當的勸告，滿分 20 分。\n評分採分項式，分項得分加總之後給予一個整體分數，再依總分分為五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分。分項為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分。表 1〈英文作文分項式評分指標〉各項分優、可、差、劣四個等級：內容與組織各為 5-4 分／3 分／2-1 分／0 分，文法句構與字彙拼字各為 4 分／3 分／2-1 分／0 分，體例只分三格：2 分／1 分／0 分。表 1 的列名寫作「文法、句構」「字彙、拼字」，中間多一個頓號。\n扣分規則有三條：字數嚴重不足，扣總分 1 分；未按規定使用英文名字，扣總分 1 分；書信格式使用不當（如未書寫稱呼語及信末署名），扣總分 1 分，但日期非必要。另寫明多寫不扣分。這一年的題目沒有規定文分幾段，這一份也沒有分段的扣分規定。",
+     "keypoint": "這一題的寫作任務是一封勸告信，對象是迷上電玩、常常熬夜、疏忽課業，又挨了父母罵的好朋友，要做的是「適當地給予勸告」。題目給的四件事是寫這封信的起因，信裡要讓朋友知道你看到了這些事；勸告則要具體到他真的做得到。\n大考中心佳作頁的說明寫到，十五篇佳作都具體表達了書信的勸告目的，也符合英文書信格式。十五篇的切入點各有不同：有人用自己也曾沉迷電玩的經驗現身說法，有人先表示理解電玩可以紓壓、再勸朋友適可而止，也有人從兩人的共同回憶寫起，或是建議用閱讀取代電玩。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目給的四件事，這一篇第一段都寫到了：迷上一款線上遊戲（got hooked on that online game）、凌晨三點房間的燈還亮著、第一節課睡著與數學作業只交一半、爸媽又罵了他一次。勸告寫在第二段，共三項，每一項都是朋友明天就做得到的事：作業寫完才上線、十一點一到就停；晚上把手機留在客廳充電；跟爸媽好好談，不要躲著他們。接著再加上一項自己能給的幫忙：放學後一起去圖書館，把他上課睡著的那幾課講一遍。第一段在勸告之前先寫出理解——贏下一場難打的對戰有多痛快、遊戲是他和隊友說笑的地方——再點出問題所在。"
+     },
+     {
+      "k": "組織",
+      "t": "書信的格式是開頭稱呼語、正文、結尾敬語加署名。正文兩段各做一件事：第一段寫看到了什麼、為什麼擔心，第二段寫該怎麼做。第一段第一句就交代寫信的原因（I have been worried about you lately），段末以 it is no longer something you control; it is something that controls you 把問題講清楚；第二段第一句 So I want to suggest a few changes 承接上一段，接著以 First、Second、Third 把三項建議排開，再用 If you have fallen behind in math 帶出自己能給的幫忙，最後兩句回到兩人的交情作結。轉承靠 But、So、First、Second、Third 這些常見的詞，不堆砌轉承語。"
+     },
+     {
+      "k": "文法句構",
+      "t": "這一篇的時態跟著事情走：從上個月持續到現在的擔心與改變用現在完成式（I have been worried、you have not seemed like yourself、you have handed in only half），平常的狀況用現在式（You fall asleep in first period），昨天那一次用過去式（yesterday you told me），建議則用祈使句（finish your homework、leave your phone to charge、talk to your parents）。句型的變化來自幾處：since 引導的時間子句配現在完成式（Since you got hooked on…, you have not seemed like yourself）、how 引導的名詞子句（I know how good it feels to win a hard match）、however 引導的讓步（however close you are to winning）、分號接兩個完整的句子一處，以及 who 引導的形容詞子句（the Ken who beat me at basketball every Friday）。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 126、二級 15、三級 4、四級 3，四級以上 3 個、占 2.0%，分別是 hook、lecture、physics。這一篇容易拼錯的是 physics、library、believe 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "這一份把體例列為一項、配分 2 分，看的是格式、標點、大小寫；這一題是書信，扣分規則裡另有兩條管格式：未按規定使用英文名字扣總分 1 分，書信格式使用不當（如未書寫稱呼語及信末署名）扣總分 1 分，日期非必要。這一篇開頭寫 Dear Ken，稱呼語後面接逗號；信末 Your friend 後面同樣接逗號，下一行署名 Jack，兩個名字都是題目指定的。寫給朋友的信，結尾常見 Your friend、Take care、See you soon、Regards、Love 等，後面一樣接逗號，下一行署名。大小寫上，Ken、Jack、Friday 照專有名詞寫；標點上，分號一處，前後各自都是完整的句子，引號一處（\"just one more match\"）。"
+     }
+    ]
+   }
   },
   {
    "id": "E101_JCEE",
