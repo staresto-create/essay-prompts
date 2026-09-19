@@ -4506,7 +4506,45 @@
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J077567180685644373",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 101 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 101 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 328,
+     "p1": "The sport I play most often is badminton. Three or four afternoons a week, as soon as the last bell rings, my friends and I rush to the school gym to grab a court before the older students take them all. We usually play doubles, two against two, and the idea is simple: hit the shuttlecock over the net and make it land inside the lines on the other side before your opponents can return it. A game goes to 21 points, and we keep playing until the gym closes at six. The equipment does not cost much. Each of us has a racket, and we share a tube of shuttlecocks that we pay for together. Good shoes matter more than most people think, because badminton is full of quick stops and sudden jumps, and ordinary running shoes are not made for the fast side-to-side steps the game demands.",
+     "p2": "I first picked up a racket because of Lee Yang and Wang Chi-lin. When they won the Olympic gold medal in men's doubles in Tokyo, my whole family was shouting in front of the TV. When they did it again in Paris three years later, I was already playing at school, and I understood for the first time how fast a smash at that level really is. What keeps me on the court, though, has less to do with them. After sitting through eight classes a day, I need to move, and badminton does not require a full team; all I need is one friend and an empty court. It has also changed my life in small but real ways. I sleep better, and my mind is clearer when I sit down to study at night. More importantly, two of my closest friends now are classmates I barely spoke to in my first year. We started out as doubles partners, and somewhere between the lost points and the long walks to the bus stop after practice, we became friends.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標；這一篇寫了 328 個單詞。\n題目只問你最常從事的是哪一項運動，沒有限定種類。這一篇寫羽毛球；如果你寫的是別的運動，第一段一樣要寫出在哪裡進行、怎麼進行、需要哪些用品，第二段一樣要寫原因與影響，兩件都不能少。\n第二段提到的李洋與王齊麟，在東京奧運拿下羽球男子雙打金牌，三年後又在巴黎衛冕。Lee Yang、Wang Chi-lin 是兩人在國際賽事上使用的英文名字，寫英文作文提到台灣的選手時，照這種寫法即可。\n大考中心當年公布了十三篇官方佳作，同一題目有十三種寫法，直接點進去看一遍最有效。\n這一篇有四個字在《高中英文參考詞彙表》裡是四級以上：equipment 四級、demand 四級、opponent 五級、smash 五級，都照用。equipment 即用品、裝備，demand 在這裡當動詞，表「需要」，opponent 即對手，smash 即殺球。詞彙表未收的有 racket、shuttlecock，以及當「雙打」講的 doubles，三個都是講羽毛球非用不可的字。",
+     "zh": {
+      "p1": "我最常打的運動是羽毛球。一個星期有三、四天，放學鐘一響，我就和朋友衝去學校體育館搶場地，免得場地全讓學長姊占走。我們通常打雙打，兩個人對兩個人，玩法很簡單：把球打過網，趕在對手把球打回來之前，讓它落在對面場地的界線內。一局打到 21 分，我們一直打到體育館六點關門為止。打羽球花不了多少錢，每個人一支球拍，一筒球則是大家一起出錢買、一起用。鞋子比很多人以為的還重要，因為羽球場上全是急停和突然起跳；至於一般的慢跑鞋，本來就不是為這種左右快速移動設計的。",
+      "p2": "我會拿起球拍，是因為李洋和王齊麟。他們在東京奧運拿下男子雙打金牌時，我們全家在電視機前大叫。三年後他們在巴黎又拿了一次金牌，那時我已經在學校打球了，這才第一次明白，那種等級的殺球到底有多快。不過，讓我一直打下去的原因，就不全是他們了。一天坐完八堂課，我需要動一動，而打羽球不必找齊一整隊人，只要一個朋友、一塊空場地就夠了。羽球也讓我的生活有了一些小小但實實在在的改變。我睡得比較好，晚上坐下來念書時，頭腦也比較清楚。更重要的是，我現在最要好的朋友裡有兩個，是高一時幾乎沒說過話的同班同學。我們一開始只是雙打搭檔，打著打著，在一起輸掉的那些球之間，在練完球走去公車站的那段路上，我們成了朋友。"
+     }
+    },
+    "rubric": {
+     "intro": "101 的官方說明有兩份，內容互補。隨試題公布的那一份是閱卷評分原則說明，閱卷召集人劉慶剛〈國立臺北大學應用外語系教授〉。這一份寫的是：非選擇題共有兩大題，第一大題是中譯英，考生需將兩個中文句子譯成正確而通順達意的英文，題型與過去幾年相同，兩題合計 8 分；第二大題是引導式的作文，考生需以運動為主題，寫一篇至少 120 個單詞的作文，說明最常從事的運動是什麼，第一段描述該項運動的進行方式，第二段說明從事該項運動的原因及對作者的生活產生的影響，滿分 20 分。中譯英每小題 4 分，原則上每個錯誤扣 0.5 分。英文作文依內容、組織、文法句構、字彙拼字、體例五個項目給分，字數明顯不足則扣總分 1 分。閱卷的進行方式也寫了：7 月 7 日先召開評分標準訂定會議，由正、副召集人及協同主持人共 12 位參閱來自全國各考區 3,000 份答案卷，經過一天的討論訂定評分標準，並選出合適的樣卷編製成《閱卷參考手冊》；7 月 9 日上午 9 時至 11 時，121 位大學教授分組進行試閱會議。試閱會議之後，正、副召集人及協同主持人另開第一次評分標準再確定會議，確認評分原則之後才開始正式閱卷。每份試卷皆經兩位委員分別評分，最後以二人平均分數計算；第一閱與第二閱分數差距超過標準時，再請第三位委員（正、副召集人或協同主持人）評閱。這一份沒有給各項配分，沒有寫五個等級，也沒有未分段扣分那一句；另寫了一件另一份沒有的事：考卷上已明白說明文分兩段、兩段各寫什麼，未按照規定書寫作文，會酌予扣分。\n另一份是〈101 學年度指定科目考試英文考科非選擇題評分標準說明〉，大考中心第一處游春琪撰，寫的是評分方式與分項配分，依據為「101 學年度指定科目考試人工閱卷英文考科評分標準訂定會議」。英文作文採整體式評分，分五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分。閱卷委員讀完一份試卷先初步決定一個分數，再以表一〈英文作文分項式評分指標〉檢閱是否符合這個分數。表一各項分優、可、差、劣四個等級：內容與組織各為 5-4 分／3 分／2-1 分／0 分，文法句構與字彙拼字各為 4 分／3 分／2-1 分／0 分，體例只分三格：2 分／1 分／0 分。扣分規則這一份寫了三句：字數明顯不足，扣 1 分；未分段，扣 1 分；寫多段，不扣分。未分段與寫多段那兩句只在這一份。項目名稱兩份一致，只是表一寫作「文法、句構」「字彙、拼字」，中間多一個頓號。",
+     "keypoint": "這一題要考生以運動為主題，說明自己最常從事的運動是什麼，寫成兩段：第一段描述這項運動如何進行（如地點、活動方式、及可能需要的相關用品等），第二段說明你從事這項運動的原因及這項運動對你生活的影響。第二段其實要寫兩件事：原因是一件，對生活的影響是另一件，兩件都要寫到。游春琪那一份寫明，英文作文主要測驗考生是否能運用詞彙、語法、修辭知識，寫出切合主題、具統一性、聯貫性之短文。\n兩份都寫到，考生多提及球類運動，至於慢跑、騎單車、做瑜珈等各式運動均可接受。劉慶剛那一份另寫了評分的考量：主要依據考生是否按照考題的說明寫作，內容是否充分完整，組織連貫性、句子結構及用字是否適切，以及拼字與標點符號的使用是否正確。大考中心佳作頁的說明寫到，十三篇佳作都明確描述最常從事的運動，並說明從事該運動的原因及其對生活的影響；十三篇寫的運動有單車、游泳、棒球、美式足球、跆拳道、籃球、網球、排球、瑜珈、衝浪、街舞與健行，其中游泳有兩篇。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要第一段寫的三樣，這一篇都寫到了：地點是學校體育館，放學後去搶場地；活動方式是雙打，把球打過網、落在對面的界線內，一局打到 21 分；用品是每人一支球拍、一筒大家合買的球，再加一雙合適的鞋——這一樣多給了一個理由：羽球全是急停與起跳，一般的慢跑鞋不是為左右快速移動設計的。第二段先寫原因，共兩個：開始打，是因為李洋與王齊麟在東京與巴黎兩屆奧運拿下男子雙打金牌；一直打下去，則是因為坐了一天需要動一動，而且只要一個朋友就能打。接著寫影響，也是兩個：睡得比較好、晚上念書頭腦比較清楚；還有和高一時幾乎沒說過話的同學成了朋友。題目要第二段寫的兩件事，原因與影響，這一篇都寫到了。"
+     },
+     {
+      "k": "組織",
+      "t": "題目指定文分兩段，這一篇就寫兩段：第一段講怎麼打，第二段講為什麼打、打了之後有什麼不同。第一段第一句就交代是哪一項運動，接著依序寫時間與地點、打法、用品，The equipment does not cost much 一句把話題轉到用品。第二段第一句交代開始打的原因，用 though 帶出真正讓自己打下去的理由（What keeps me on the court, though, has less to do with them），再以 It has also changed my life 轉到影響，More importantly 帶出最重要的一項，最後一句收在交到朋友。轉承靠 though、also、More importantly 這些常見的詞，不堆砌轉承語。"
+     },
+     {
+      "k": "文法句構",
+      "t": "這一篇的時態跟著事情走：平常的習慣用現在式（my friends and I rush to the school gym、We usually play doubles），兩屆奧運與開始打球那一段用過去式（When they won…、I first picked up a racket），當時正在進行的事用過去進行式（my whole family was shouting、I was already playing at school），從過去延續到現在的改變用現在完成式（It has also changed my life）。how fast a smash at that level really is 用現在式，因為殺球有多快這件事到現在仍然成立。句型的變化來自幾處：as soon as 引導的時間子句（as soon as the last bell rings）、what 引導的名詞子句當主詞（What keeps me on the court）、how 引導的名詞子句當受詞（how fast a smash at that level really is）、形容詞子句三處（a tube of shuttlecocks that we pay for together 用 that 引導；the fast side-to-side steps the game demands 與 classmates I barely spoke to 省略了當受詞的關係代名詞，後者的介系詞 to 留在句尾）、分號接兩個完整的句子一處，以及 all I need is… 的句型。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 129、二級 18、三級 4、四級 2、五級 2，四級以上 4 個、占 2.6%，分別是 equipment、demand、opponent、smash。詞彙表未收而照用的有 racket、shuttlecock，以及當「雙打」講的 doubles。這一篇容易拼錯的是 shuttlecock、opponent、equipment、Olympic 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "101 指考兩份原件寫到體例的地方不一樣。劉慶剛那一份把體例列為五個項目之一，扣分只寫一條：字數明顯不足則扣總分 1 分；另寫明未按照規定書寫作文，會酌予扣分。游春琪那一份的表一把體例列為一項、配分 2 分，看的是格式、標點、大小寫，扣分規則另寫三句：字數明顯不足扣 1 分，未分段扣 1 分，寫多段不扣分。大考中心佳作頁收的十三篇裡，跆拳道那一篇分成三段，評分說明寫「雖分成三段，但仍具連貫性」，與「寫多段，不扣分」那一句對得上；不過兩段各寫什麼題目有規定，段數可以多，題目要的內容一樣不能少。這一篇 328 個單詞、文分兩段，都在規定之內。大小寫上，Lee Yang、Wang Chi-lin、Tokyo、Paris、Olympic 照專有名詞寫；標點上，冒號一處（the idea is simple: …）、分號一處，前後各自都是完整的句子，所有格的撇號一處（men's doubles）。"
+     }
+    ]
+   }
   },
   {
    "id": "E100_GSAT",
