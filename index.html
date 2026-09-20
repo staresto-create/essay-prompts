@@ -1022,6 +1022,7 @@ function buildYearTable(){
   const ft=el('div','yrfoot');
   const n1=el('p',null,'109 指考補考沒有佳作——大考中心未曾為補考公布佳作，不是本站漏收。');
   const n2=el('p',null,'97 到 93 那幾卷沒有佳作——官方佳作最早只到 98 學年度。');
+  const n4=el('p',null,'103 指考的選才電子報一欄是空的：第 240 期的目錄列有〈103指考各考科非選擇題評分標準說明〉，其中英文考科一篇由游春琪撰寫，但大考中心網站上的連結已經失效，網路存檔也沒有留下原文，本站無從掛上。');
   const n3=el('p');
   n3.appendChild(document.createTextNode('大考中心公布的佳作是原卷手寫影像。同樣這些年度的佳作，'));
   const a3=el('a',null,'三民書局東大圖書學習平台');
@@ -1029,7 +1030,7 @@ function buildYearTable(){
   a3.target='_blank';a3.rel='noopener';
   n3.appendChild(a3);
   n3.appendChild(document.createTextNode('另有打字的文字檔，不必登入就能下載（進去之後點「大考作文佳作」）——學測 106 到 115 一年一包、98 到 105 八年一包，指考 106 到 110 一年一包、98 到 105 八年一包。供下載的是壓縮檔，需解壓縮才能閱讀。'));
-  ft.appendChild(n1);ft.appendChild(n2);ft.appendChild(n3);
+  ft.appendChild(n1);ft.appendChild(n2);ft.appendChild(n4);ft.appendChild(n3);
   box.appendChild(ft);
 }
 
