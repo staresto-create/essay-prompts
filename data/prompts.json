@@ -2538,7 +2538,7 @@
      },
      {
       "k": "組織",
-      "t": "第一段由「看不出危險」推到「其實有危險」，再由看得見的危險推到看不見的；第二段由一個人顧不完出發，一層一層把責任攤開，最後收在一句「人不說是因為說了要付代價」。兩段各有一條線。"
+      "t": "第一段由「看不出危險」寫到「其實有危險」，再由看得見的危險寫到看不見的危險；第二段由一個人顧不完出發，一層一層把責任攤開，最後收在一句「人不說是因為說了要付代價」。兩段各有一條線。"
      },
      {
       "k": "文法句構",
@@ -2876,18 +2876,56 @@
      ]
     }
    ],
-   "rubricSource": "108 學年度指定科目考試英文考科非選擇題閱卷評分原則說明",
+   "rubricSource": "108 學年度指定科目考試英文考科非選擇題閱卷評分原則說明；大考中心選才電子報第 300 期〈108學年度指考非選擇題評分標準說明－英文〉（大考中心英文科研究員／游春琪撰，108 年 8 月 15 日出刊）",
    "sourceLinks": [
     {
      "url": "https://www.ceec.edu.tw/files/file_pool/1/0j197365982206281209/附件一01-108指考英文考科非選擇題閱卷評分原則說明.pdf",
      "label": "非選擇題閱卷評分原則說明"
+    },
+    {
+     "url": "https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&qperoid=0J228405391267791561&sid=0J228409588870728116",
+     "label": "選才電子報第 300 期：非選擇題評分標準說明"
     }
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J242385882171227536",
     "label": "作文佳作"
    },
-   "source": "大學入學考試中心 108 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 108 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 343,
+     "p1": "The chart shows how much attention young Americans aged 18 to 29 pay to six kinds of news. News about the environment and natural disasters comes first, at 69 percent, with social issues close behind at 64. International affairs, at 59 percent, and entertainment and celebrity news, at 58, are almost level in the middle. After that, the numbers fall more sharply. School and education draws 49 percent, and arts and culture sits at the bottom with only 30 percent, less than half the figure at the top. On the whole, these young people seem to follow the news that may affect their safety or the society they live in, while arts and culture is left far behind.",
+     "p2": "What surprises me is that the two categories sitting almost side by side in the middle of the chart are the ones at the two ends of my own list. The news I follow most closely is entertainment and celebrity news, and for me that includes the influencers I see online every day. Part of the reason is simple: it is what my classmates talk about. At lunch we chat about a singer's new song or a drama that everyone is watching, and anyone who has missed the latest story is left out of the conversation. Another reason is that the influencers I follow share more than jokes. One of them posts her study plan before every exam, and another talks openly about stress, which makes me feel I am not the only one struggling. The news I care least about, on the other hand, is international affairs. Stories about trade talks or elections in faraway countries are full of names and places I do not know; they also go on for months. By the time I figure out who is who, the story has already moved on. I know this is not a habit to be proud of, so when something big happens, I at least read the headlines. Most days, though, the world outside Taiwan feels too far away to hold my attention.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標；這一篇寫了 343 個單詞。\n第一段要做的是指出關注度較高及偏低的類別。大考中心那一年隨試題公布的評分原則說明點名了三類：最為關注的是「環境與天然災害」，較不關注的有「學校與教育」，最不關注的是「藝術與文化」。這一篇第一段把六個類別依高低分成三組，每一組都帶到數字，最後一句說明高的那一端是可能影響自身安全或所處社會的新聞，低的那一端是藝術與文化。\n第二段寫的是自己，不必和圖上的排名一樣。這一篇最關注的是娛樂與名人，大考中心公布的十篇佳作裡，只有一篇把這一類當成最關注的；最不關注的是國際事務，十篇佳作沒有一篇這樣選。第二段第一句先點出這兩類在圖上正好並排落在中間，再各自說明理由。你選哪兩類都可以，重要的是理由要具體。\n大考中心當年公布了十篇官方佳作，同一題目有十種寫法，直接點進去看一遍最有效。\n這一篇有六個字在《高中英文參考詞彙表》裡是四級以上：percent（百分比）四級、issue（議題）四級、disaster（災害）四級、category（類別）四級、entertainment（娛樂）四級、celebrity（名人）五級，都照樣使用。詞彙表沒有收錄的是 influencer（網紅）。",
+     "zh": {
+      "p1": "這張圖呈現的是美國 18 至 29 歲的青年對六類新聞的關注度。環境與天然災害的新聞排第一，占 69%，社會議題緊跟在後，為 64%。國際事務的 59% 和娛樂與名人的 58% 幾乎一樣高，落在中間。從這裡往下，數字就掉得比較快了：學校與教育為 49%，藝術與文化則排在最後，只有 30%，還不到第一名的一半。整體來說，這些年輕人關注的似乎是可能影響自身安全或所處社會的新聞，藝術與文化則遠遠落在後面。",
+      "p2": "讓我意外的是，圖上並排落在中間、幾乎一樣高的那兩類，正好是我自己這張清單的頭尾。我最關注的是娛樂與名人新聞，對我來說，這一類也包括我每天在網路上看到的網紅。原因之一很簡單：這是同學之間的話題。午餐時我們會聊某個歌手的新歌，或是大家都在追的一部劇，要是有人錯過了最新的消息，就插不上話。另一個原因是，我追蹤的網紅分享的不只是笑話。其中一位每次考試前都會貼出她的讀書計畫，另一位則坦白談自己的壓力，讓我覺得不是只有我一個人在苦撐。至於我最不關心的，則是國際事務。遙遠國家的貿易談判或選舉，滿是我不認識的人名和地名，而且一拖就是好幾個月。等我終於搞清楚誰是誰，事情早就有了新的發展。我知道這不是值得驕傲的習慣，所以每當有大事發生，我至少會看一下標題。不過大多數時候，台灣以外的世界對我來說還是太遙遠，很難讓我一直關注。"
+     }
+    },
+    "rubric": {
+     "intro": "108 指考這一題站上掛兩份評分文件。第一份是隨試題公布的〈108 學年度指定科目考試英文考科非選擇題閱卷評分原則說明〉，正文沒有署閱卷召集人。這一份寫的是：7 月 5 日先召開評分標準訂定會議，由正、副召集人及協同主持人共 12 位，參閱約 3000 份試卷，經過一天的討論訂定評分標準，並選出評分參考樣卷及試閱卷，編製成《閱卷參考手冊》；這一年聘請約 96 位大學教授擔任閱卷委員，7 月 8 日上午召開試閱會議。中譯英每小題總分 4 分，原則上每個錯誤扣 0.5 分，相同的錯誤只扣一次。英文作文依內容、組織、文法句構、字彙拼字四個項目給分，字數明顯不足則扣總分 1 分。每份答案卷以隨機方式配給兩位委員評閱，兩人分數差距超過重閱標準時，由協同主持人進行第三閱。\n第二份是選才電子報第 300 期〈108學年度指考非選擇題評分標準說明－英文〉（大考中心英文科研究員／游春琪撰），依據為「108學年度指定科目考試螢幕閱卷英文考科評分標準訂定會議」紀錄。這一份寫的是：英文作文採整體式評分，分五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分；閱卷委員讀完考生作文後決定一個分數，再檢測這個分數是否符合〈英文作文分項式評分指標〉。指標表分內容、組織、文法句構、字彙拼字四項，每一項都分優、可、差、劣四個等級，依序為 5-4 分、3 分、2-1 分、0 分。扣分規則寫了四句：寫多段，不扣分；未分段，扣 1 分；字數明顯不足，扣 1 分；字數明顯不足而文章也未分段時，不重複扣分。\n兩份文件都是四個項目，這一年沒有把體例列成一項：指標表把格式、標點放在「文法、句構」那一列，大小寫放在「字彙、拼字」那一列。",
+     "keypoint": "這一題要考生根據一張統計圖寫兩段：第一段描述圖表內容，並指出關注度較高及偏低的類別；第二段描述在這六個新聞類別中，自己較為關注及較不關注的新聞主題分別為何，並說明理由。隨試題公布的那一份寫明，第一段要先正確描述這張圖表調查的是什麼，接著指出最為關注的新聞類別是「環境與天然災害」，較不關注的有「學校與教育」，最不關注的是「藝術與文化」；這一段也看得出考生能不能用英文正確表達圖表上大部分的類別。\n那一份也寫到，第二段考生發揮的空間比較大，要先指出自己最為關注的新聞類型並充分說明理由，再指出不關心的主題並說明理由。大考中心佳作頁的十篇佳作，最關注的類別是社會議題四篇（其中一篇同時寫國際事務）、環境與天然災害三篇、國際事務兩篇、娛樂與名人一篇；最不關注的以娛樂與名人最多，共七篇，其餘三篇是藝術與文化。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "這一年指標表內容一項「優」那一格寫的是「能根據圖表內容完整描述高低類別之分布；描述個人觀點與理由時，也能說理分明」。這一篇第一段依高低把六類分成三組：環境與天然災害 69% 與社會議題 64% 在前，國際事務 59% 與娛樂與名人 58% 在中間，學校與教育 49% 與藝術與文化 30% 在後，並點出最後一名不到第一名的一半。第二段最關注的是娛樂與名人，連同自己每天在網路上看到的網紅，理由有兩個：這是同學午餐時聊的話題，錯過最新消息就插不上話；網紅分享的不只是笑話，有人在考前貼出讀書計畫，有人坦白談壓力。最不關注的是國際事務，理由是遙遠國家的貿易談判或選舉滿是不認識的人名和地名，又一拖就是好幾個月；段末再補一句，有大事發生時至少會看一下標題。"
+     },
+     {
+      "k": "組織",
+      "t": "這一年指標表組織一項「優」那一格寫的是「重點分明，有開頭、發展、結尾，前後連貫，轉承語使用得當」。這一篇第一段第一句先交代圖表調查的是什麼：美國 18 至 29 歲的青年對六類新聞的關注度，接著由高往低寫，After that 一句把中間與後段隔開，On the whole 一句收尾。第二段第一句 What surprises me is that… 回引第一段寫過的 almost level in the middle，點出這兩類正好是自己清單的頭尾；接著用 Part of the reason 與 Another reason 帶出最關注的兩個理由，再用 on the other hand 轉到最不關注的一類，最後以 Most days, though 收尾。這一篇 343 個單詞、文分兩段，字數與分段都在規定之內。"
+     },
+     {
+      "k": "文法句構",
+      "t": "第一段描述圖表，整段用現在式（The chart shows、comes first、draws 49 percent）；第二段講自己的習慣也是現在式（we chat about、One of them posts her study plan），講已經發生、影響到現在的事情才用現在完成式（anyone who has missed the latest story、the story has already moved on）。句型的變化來自幾處：with 帶出的附帶說明（with social issues close behind at 64）、兩個類別之後各插一個數字（International affairs, at 59 percent, and entertainment and celebrity news, at 58, are almost level）、what 引導的名詞子句當主詞（What surprises me is that…）、which 帶出的補述（which makes me feel I am not the only one struggling）、By the time 引導的副詞子句，以及 too far away to hold my attention 的 too…to 句型。這一年的指標表把格式與標點也放在這一項：冒號一處（Part of the reason is simple: it is what my classmates talk about），分號一處（full of names and places I do not know; they also go on for months），分號前後各自都是完整的句子。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 121、二級 25、三級 3、四級 5、五級 1，四級以上 6 個、占 3.9%，分別是 percent、issue、disaster、category、entertainment、celebrity。詞彙表沒有收錄的是 influencer。這一年的指標表把大小寫也放在這一項，範文裡的 Americans、Taiwan 都是專有名詞，字首大寫。這一篇容易拼錯的是 entertainment、celebrity、conversation 這幾個。"
+     }
+    ]
+   }
   },
   {
    "id": "E107_GSAT",
@@ -3650,7 +3688,7 @@
      },
      {
       "k": "組織",
-      "t": "表一「優」這一格要的是重點分明，有開頭、發展、結尾，前後連貫，轉承語使用得當。第一段由個案起、推到通則、收在判斷；第二段開頭一句 Because of this 把兩段接起來，接著三件規劃依時間排序（大一、大二暑假、畢業前），最後兩句回頭呼應第一段的「文憑分不出人」。題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件寫作任務。"
+      "t": "表一「優」這一格要的是重點分明，有開頭、發展、結尾，前後連貫，轉承語使用得當。第一段由個案寫起，延伸到通則，最後收在判斷；第二段開頭一句 Because of this 把兩段接起來，接著三件規劃依時間排序（大一、大二暑假、畢業前），最後兩句回頭呼應第一段的「文憑分不出人」。題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件寫作任務。"
      },
      {
       "k": "文法、句構",
@@ -3774,7 +3812,7 @@
      "words": 306,
      "p1": "Last winter my grandmother stopped going out to eat. The restaurant near her apartment had taken away its paper menus, and every table now had only a small square code on it. She could not order without asking a stranger for help, so she simply stayed home. I decided to teach her how to order with her phone. We started at her kitchen table with a code I had printed myself, and I wrote down each step in large letters. The first few times she pressed the wrong place and the page disappeared, and she put the phone down and said she was too old for this. I learned to slow down, to point at one thing at a time, and to leave the phone in her hands. After two weeks she ordered a bowl of beef noodles by herself, and she made me wait at another table so that nobody would think she had help.",
      "p2": "Teaching my grandmother changed the way I think about learning. I had always assumed that being good at something was enough to explain it, but patience turned out to matter more than knowledge. The hardest part was not the explaining; it was keeping my own hands off her phone. Twice I almost took it from her and did it myself, which would have been faster and would have taught her nothing. I also saw how quickly the world leaves people behind when it changes. A code on a table takes me three seconds; it took my grandmother two weeks, and she is not a slow learner. Nobody asked her whether she was ready for the change, and nobody offered to show her. Now, when a classmate asks me a question I think is easy, I remember my grandmother putting the phone down at her kitchen table, and I answer slowly.",
-     "caveat": "這一篇是其中一種寫法，不是標準答案。大考中心那一年的評分原則說明裡寫著，多數考生寫的是學游泳、騎單車、學樂器，或是教別人數學、英文、中文。題目沒有限定要寫哪一種。這一篇全篇 306 個單詞、167 個不同的詞形，其中四級以上的字只有一個：code，其餘幾乎都落在一級和二級，沒有任何一個字超出大考中心的參考詞彙表。站上指考的另外六篇範文，四級以上的比例在 2% 到 5.3% 之間。",
+     "caveat": "這是一種寫法，不是標準答案。大考中心那一年的評分原則說明裡寫著，多數考生寫的是學游泳、騎單車、學樂器，或是教別人數學、英文、中文。題目沒有限定要寫哪一種。這一篇寫了 306 個單詞，四級以上的字只有 code 一個，其餘幾乎都落在一級和二級。",
      "zh": {
       "p1": "去年冬天，祖母不再出門吃飯。她家附近那間餐廳把紙本菜單收掉了，每張桌上只剩一個方塊。不向陌生人開口，她就點不成餐，於是乾脆待在家裡。我決定教她用手機點餐。我們從她的廚房餐桌開始，我自己印了一張 QR code，把每個步驟寫成大字。前幾次她按錯地方，畫面就消失，她把手機放下，說自己太老了。我學會放慢速度，一次只指一個地方，也把手機留在她自己手上。兩個星期後，祖母自己點了一碗牛肉麵，還要我坐到別桌去，免得有人以為她是靠人幫忙的。",
       "p2": "教祖母這件事，改變了我對「學會」的想法。我本來以為，一件事只要自己做得好就講得清楚，後來才發現耐心比懂得多更重要；最難的不是講解，而是忍住不去碰她的手機。有兩次我差點就把手機接過來自己按，那樣快得多，祖母卻什麼也學不到。我也看見世界變得多快，又把多少人留在後面。桌上一個 QR code，我三秒就解決，祖母花了兩個星期，而她並不是學得慢的人。沒有人問過她準備好了沒有，也沒有人主動示範給她看。現在同學問我一個我覺得很簡單的問題，我會想起祖母在廚房餐桌上把手機放下的樣子，然後慢慢回答。"
@@ -3791,7 +3829,7 @@
      },
      {
       "k": "組織",
-      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事：第一段是緣由、內容和過程，第二段是感想。第一段照時間排——去年冬天、決定開始教、前幾次、兩週後——不跳來跳去。第二段從自己學到的事往外推到「世界變得太快」，最後一句回到第一段寫過的動作。評分重點另有「二段文句之間是否有關聯性」一條，這一篇的關聯靠三樣東西接起來：兩週這個數字、差點把手機拿過來自己按這件事、以及祖母把手機放下那個畫面，三樣第一段都寫過。"
+      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事：第一段是緣由、內容和過程，第二段是感想。第一段照時間排——去年冬天、決定開始教、前幾次、兩週後——不跳來跳去。第二段從自己學到的事情往外延伸到「世界變得太快」，最後一句回到第一段寫過的動作。評分重點另有「二段文句之間是否有關聯性」一條，這一篇的關聯靠三樣東西接起來：兩週這個數字、差點把手機拿過來自己按這件事、以及祖母把手機放下那個畫面，三樣第一段都寫過。"
      },
      {
       "k": "文法句構",
@@ -3935,7 +3973,7 @@
      "words": 328,
      "p1": "The chart shows how students at one American high school spend an average day. The two tallest bars belong to sleep and schoolwork, and it is the order of the two that catches the eye: sleep takes 8.7 hours, more than a third of the whole day, while schoolwork takes 6.4. What surprises me more, though, is that part-time work has a bar of its own at all. An hour and a half a day goes into a job, which is more than sports and religious or volunteer activities get between them. Those two come to forty-eight minutes and twelve minutes, exactly one hour together, or four percent of the day. A day here is built around three things — sleeping, studying, and earning money — and the rest has to fit into what is left over.",
      "p2": "If my day were drawn as the same chart, the top two bars would swap places, and the reason is the entrance exam. Classes run from ten past eight to five, and on three evenings a week a cram school keeps me out until eleven, so schoolwork would stand at ten and a half hours, four hours more than the 6.4 in the chart. Those four hours have to come from somewhere, and in my case they come out of sleep: six hours on a good night, close to three hours short of what these students get. Almost no high school student here has time for a part-time job, and time is not the only reason. Parents here expect after-school hours to go into studying, so a job is something you take up once the exam is behind you, not while you are preparing for it. The one bar we would share is sports, and mine would be the shorter of the two: basketball twice a week works out at twenty-five minutes a day, roughly half of their forty-eight. It seems that whatever fills a school day, the sports bar is the first one it shortens.",
-     "caveat": "這一篇是其中一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標；這一篇寫了 328 個單詞。圖上有七個項目，第一段不必七個逐一念過去。大考中心那一年的評分原則說明裡寫著，英文寫作能力中等以上的考生是在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與臺灣當前現象的不同處。也就是說，第一段要挑的是圖上哪裡特別，不是把數字抄一遍。這一篇挑兩件：睡覺 8.7 小時比學習相關活動的 6.4 小時還多，時間最長的兩項順序跟我們想的相反；還有打工竟然自成一項。第二段題目要的是「異同」，而且明寫「並說明其理由」，兩樣都要。這一篇的作法是把自己的一天也當成同一張圖來畫，三個比較點各自帶一個理由：睡得少，因為多出來的四小時得從別的地方挪；沒有打工這一項，因為放學後的時間在這裡要拿來讀書；運動少，這一點兩邊一樣，而且自己這邊更短。數字的講法可以換著用。同樣是圖上的數字，這一篇用過小時（8.7 hours）、分數（more than a third of the whole day）、分鐘（forty-eight minutes）、百分比（four percent of the day）、差額（four hours more than the 6.4 in the chart）和比較（roughly half of their forty-eight）。圖表題整篇都在講數字，全寫成 X hours 會讀起來像報表。最後說一下用字。這一篇有四個字在《高中英文參考詞彙表》裡是四級以上：percent 四級、volunteer 四級、swap 五級、cram 六級，四個都照樣使用。percent 是圖表題本來就會用到的字；volunteer 是圖上那一項自己的名字；swap places 講最高的兩項對調，換別的說法反而繞；cram school 則是英文裡講補習班的說法，英語報導寫台灣、日本、韓國的補習班用的就是這個字。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標；這一篇寫了 328 個單詞。圖上有七個項目，第一段不必七個逐一念過去。大考中心那一年的評分原則說明裡寫著，英文寫作能力中等以上的考生是在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與臺灣當前現象的不同處。也就是說，第一段要挑的是圖上哪裡特別，不是把數字抄一遍。這一篇挑兩件：睡覺 8.7 小時比學習相關活動的 6.4 小時還多，時間最長的兩項順序跟我們想的相反；還有打工竟然自成一項。第二段題目要的是「異同」，而且明寫「並說明其理由」，兩樣都要。這一篇的作法是把自己的一天也當成同一張圖來畫，三個比較點各自帶一個理由：睡得少，因為多出來的四小時得從別的地方挪；沒有打工這一項，因為放學後的時間在這裡要拿來讀書；運動少，這一點兩邊一樣，而且自己這邊更短。數字的講法可以換著用。同樣是圖上的數字，這一篇用過小時（8.7 hours）、分數（more than a third of the whole day）、分鐘（forty-eight minutes）、百分比（four percent of the day）、差額（four hours more than the 6.4 in the chart）和比較（roughly half of their forty-eight）。圖表題整篇都在講數字，全寫成 X hours 會讀起來像報表。最後說一下用字。這一篇有四個字在《高中英文參考詞彙表》裡是四級以上：percent 四級、volunteer 四級、swap 五級、cram 六級，四個都照樣使用。percent 是圖表題本來就會用到的字；volunteer 是圖上那一項自己的名字；swap places 講最高的兩項對調，換別的說法反而繞；cram school 則是英文裡講補習班的說法，英語報導寫台灣、日本、韓國的補習班用的就是這個字。",
      "zh": {
       "p1": "這張圖呈現的是美國某一所高中的學生平均一天的時間分配。時間最長的兩項是睡覺和學習相關活動，而真正顯眼的是這兩項的先後：睡覺 8.7 小時，超過一天的三分之一，學習相關活動反而只有 6.4 小時。不過更讓我意外的，是打工竟然自成一項。每天有一個半小時花在工作上，比運動加上宗教、義工還多。那兩項分別是四十八分鐘和十二分鐘，合起來剛好整整一小時，占一天的百分之四。美國高中生的一天主要就是睡覺、讀書、賺錢這三件事，其餘的事只能塞進剩下的空檔。",
       "p2": "要是把我的一天也畫成同一張圖，時間最長的那兩項會對調，原因就是升學考試。我從早上八點十分開始上課到五點，一星期有三個晚上補習到十一點才回得了家，學習相關活動因此高達十個半小時，比圖上的 6.4 多了四小時。這四小時總得從別的地方挪出來，而我挪的是睡眠：睡得飽也才六小時，比這些學生少了將近三小時。台灣的高中生根本不會有時間打工。不只是因為沒有時間，而是因為這裡的家長認為放學後的時間應該要拿來讀書。所以打工是考完以後的事，不是準備考試的時候做的事。我們唯一相近的一項是運動，而我所占的時間還更短：籃球一星期打兩次，分攤到每天大約二十五分鐘，差不多是他們四十八分鐘的一半。看來不管把一天填滿的是什麼，最先縮短的都是運動這一項。"
@@ -3952,7 +3990,7 @@
      },
      {
       "k": "組織",
-      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事。第一段由時間最長的兩項入手，推到打工那一項，收在睡覺、讀書、賺錢三件事把一天填滿。第二段開頭那一句 If my day were drawn as the same chart 把兩段接起來，之後整段都還在同一張圖上講話——the top two bars would swap places、the one bar we would share、the sports bar is the first one it shortens。評分重點裡的「組織是否完整」與「是否已把全文清楚地敘述出來」，靠的就是第二段沒有離開第一段那張圖。"
+      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事。第一段由時間最長的兩項入手，接著寫到打工那一項，收在睡覺、讀書、賺錢三件事把一天填滿。第二段開頭那一句 If my day were drawn as the same chart 把兩段接起來，之後整段都還在同一張圖上講話——the top two bars would swap places、the one bar we would share、the sports bar is the first one it shortens。評分重點裡的「組織是否完整」與「是否已把全文清楚地敘述出來」，靠的就是第二段沒有離開第一段那張圖。"
      },
      {
       "k": "文法句構",
@@ -4387,7 +4425,7 @@
      },
      {
       "k": "組織",
-      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事。第一段第一句就交代選擇，第二句拿披風做一次對照，再以 The first、The second 把兩個用法排開，每一個都是先講場景、再講眼鏡能做什麼。第二段第一句給出全段的主軸——披風最厲害的地方也正是它危險的地方，接著由自己推到小偷、再推到任何一個穿上它的人，用 Worse 把水火不侵那一層疊上去，最後一句收在人和人之間的信任。轉承靠 but、The first、The second、Worse、so 這些常見的詞，不堆砌轉承語。"
+      "t": "題目指定文分兩段，這一篇就寫兩段，兩段各自完成題目交代的一件事。第一段第一句就交代選擇，第二句拿披風做一次對照，再以 The first、The second 把兩個用法排開，每一個都是先講場景、再講眼鏡能做什麼。第二段第一句給出全段的主軸——披風最厲害的地方也正是它危險的地方，接著由自己寫到小偷，再寫到任何一個穿上它的人，用 Worse 把水火不侵那一層疊上去，最後一句收在人和人之間的信任。轉承靠 but、The first、The second、Worse、so 這些常見的詞，不堆砌轉承語。"
      },
      {
       "k": "文法句構",
