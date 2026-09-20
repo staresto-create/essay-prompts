@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "count": 62,
  "items": [
   {
@@ -75,7 +75,7 @@
      },
      {
       "k": "文法句構",
-      "t": "全篇以單句與對等句為主，變化來自 the way 引導的子句、while 的對比、關係子句（The shop that used to sell …）、現在完成式（has become）與 not … but 的並列。句子寫得清楚比寫得繁複重要。"
+      "t": "全篇以單句與對等句為主，變化來自 the way 引導的子句、while 的對比、關係子句（The shop that used to sell …）、現在完成式（has become）與 not … but 的並列。句子寫得清楚比寫得複雜重要。"
      },
      {
       "k": "字彙拼字",
@@ -422,7 +422,7 @@
      },
      {
       "k": "文法句構",
-      "t": "全篇以單句與對等句為主，變化來自 who 關係子句、被動語態（are pushed）、have stopped + V-ing 與 would rather … than。句子寫得清楚比寫得繁複重要。"
+      "t": "全篇以單句與對等句為主，變化來自 who 關係子句、被動語態（are pushed）、have stopped + V-ing 與 would rather … than。句子寫得清楚比寫得複雜重要。"
      },
      {
       "k": "字彙拼字",
@@ -797,11 +797,45 @@
      },
      {
       "k": "文法句構",
-      "t": "全篇以單句與對等句為主，變化來自條件句（If a robot helper could…, I would choose…）、比較（faster than、rather than）、關係子句（a helper that notices and remembers）、過去完成式（had spoiled）、not … but 的對比與 That is …／The other half … 的分工切分。句子寫得清楚比寫得繁複重要。"
+      "t": "全篇以單句與對等句為主，變化來自條件句（If a robot helper could…, I would choose…）、比較（faster than、rather than）、關係子句（a helper that notices and remembers）、過去完成式（had spoiled）、not … but 的對比與 That is …／The other half … 的分工切分。句子寫得清楚比寫得複雜重要。"
      },
      {
       "k": "字彙拼字",
       "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形兩個（comment、embarrassed），占 169 個詞形的 1.2%；另有 soy 一個字對不回詞彙表——詞彙表收錄的是 soybean，沒有單獨收錄 soy，而 soy sauce 本身是日常用語，不是難字。這一篇容易拼錯的是 embarrassed、sauce 這兩個。"
+     }
+    ],
+    "option": "情緒起伏（第三張圖）",
+    "more": [
+     {
+      "option": "失戀（第一張圖）",
+      "essay": {
+       "words": 324,
+       "p1": "If a robot helper could take one of these three problems off my hands, I would choose the first picture, the first heartbreak. We broke up in May, four days after the school concert where I had saved her a seat. The crying part was over in a week; the rest was not. Her name still sat near the top of my chat list. Our classmates kept posting photos that I had taken myself. At one in the morning I would read a year of old messages from the beginning, promise myself that this was the last time, and do exactly the same thing the next night. The other two problems come from other people, so at least I can walk away from them and go home. This one lives in my pocket, and the person who keeps opening it is me.",
+       "p2": "So the helper I want is not the kind that offers sympathy. My friends already tried that for two weeks, and their kindness only made me want to defend her. What I need are patience and a good memory. For one month, the robot could handle the small temptations: filter her posts out of my feed, move our photos into a folder that stays locked until the summer, and keep my phone from eleven at night until seven in the morning. Nothing gets thrown away; it is only kept for me until I can look at it without falling apart. The other half of the work is mine, because a robot cannot live my day for me. I would go to badminton practice on Wednesday even when I do not feel like it, eat lunch with my classmates instead of eating alone at my desk, and at the end of the month tell the robot honestly whether I am ready for that folder. If the answer is no, we agree on one more month, and neither of us calls that a failure.",
+       "zh": {
+        "p1": "如果機器人小幫手只能替我解決這三個問題裡的一個，我選第一張圖，第一次失戀。我們五月分手，是學校音樂會結束後的第四天；那天我還替她留了一個位子。哭的那一段，一個禮拜就過去了，剩下的沒有跟著結束。她的名字還停在我聊天列表最上面那幾個。同學一直在貼照片，而那些照片是我自己拍的。凌晨一點，我會把一整年的舊訊息從頭讀過一遍，跟自己保證這是最後一次，隔天晚上又做一模一樣的事。另外兩個問題來自別人，我至少走得開、回得了家；這一個就在我口袋裡，而一再把它打開的人是我自己。",
+        "p2": "所以我要的小幫手，不是一直同情我的那一種。朋友已經同情了我兩個禮拜，他們愈是體貼，我愈想替她講話。我需要的是耐心，還有好記性。這一個月，機器人可以替我擋掉那些我忍不住的小誘惑：把她的貼文從我的動態裡濾掉，把我們的合照收進一個資料夾鎖起來，暑假以前都打不開；晚上十一點到早上七點，手機也交給它保管。什麼都不刪，只是先替我收著；等我有辦法平靜地看那些照片，再還給我。另外一半得我自己來，因為機器人沒有辦法替我過日子。星期三就算不想去，我還是會去打羽球；中午跟同學一起吃飯，不要一個人在座位上吃。月底我會老實告訴機器人，我準備好打開那個資料夾了沒有。如果還沒有，就再講好一個月，我們誰也不把這件事當成失敗。"
+       },
+       "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；這一篇寫了 324 個單詞。\n三張圖是一張選單，選哪一張都可以，沒有哪一張比較好得分。官方十篇佳作裡，寫第一張圖（失戀）的有三篇，第 2、8、9 篇；那三篇的機器人做的都是陪伴、安慰與療癒。這一篇換一個角度：安慰留給人，機器人負責處理手機上那些讓人放不下的東西。你如果想寫陪伴那一種，點進佳作頁看真實考生怎麼寫最有效。\n第二段最容易漏掉的是「分工合作」那半句。這一篇兩邊都寫了：機器人那一邊是濾掉貼文、把照片鎖起來、代為保管手機；自己這一邊是照常去練球、跟同學一起吃飯、月底誠實回報。只寫機器人會做什麼、沒寫自己要做什麼，寫作任務就只完成了一半。"
+      },
+      "mapping": [
+       {
+        "k": "內容",
+        "t": "題目要的「充分、具體之細節」在這一篇是人事時地物：五月分手、音樂會結束後的第四天、替她留的位子、凌晨一點從頭讀一整年的舊訊息、同學貼的是自己拍的照片。第二段一樣具體——濾掉貼文、照片鎖到暑假、十一點到七點保管手機、星期三的羽球練習、月底回報，寫的都是實際的做法，不是「希望它能陪我走過來」這種空話。"
+       },
+       {
+        "k": "組織",
+        "t": "第一段先講選哪一張圖，再用一件事說明原因，最後收在「一再把它打開的人是我自己」；第二段先否定一種做法（同情），再分成機器人那一邊與自己這一邊，最後留下一個月底的約定。題目指定文分兩段，這一篇就寫兩段，兩段各自完成一件寫作任務。"
+       },
+       {
+        "k": "文法句構",
+        "t": "主幹是單句與對等句，變化來自條件句（If a robot helper could…, I would choose…）、過去完成式（I had saved her a seat、photos that I had taken myself）、關係子句（a folder that stays locked until the summer）、not the kind that… 的否定對比，以及 instead of 與 without 帶出的兩組對照（instead of eating alone、without falling apart）。句子寫得清楚比寫得複雜重要。"
+       },
+       {
+        "k": "字彙拼字",
+        "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形四個：defend（替……辯護）四級、filter（過濾）五級、sympathy（同情）五級、temptation（誘惑）五級，占 181 個詞形的 2.2%。詞彙表沒有收錄的是 heartbreak 與 folder：heartbreak 是題目圖說自己給的字（First Heartbreak），folder 就是電腦上的資料夾，兩個都照樣使用。這一篇容易拼錯的是 sympathy、temptation、badminton 這幾個。"
+       }
+      ]
      }
     ]
    },
@@ -3269,7 +3303,7 @@
      },
      {
       "k": "文法句構",
-      "t": "全篇以單句與對等句為主，變化來自否定與對比（not short of…／what it is short of is…）、地方副詞子句（From where I stood）、關係子句（an occasion that brings…／a stage that school clubs and local folk musicians share）、分詞當形容詞（borrowed from residents、hung along the wall）、比較（faster from hand to hand than from a book），以及句首分詞的兩相對照（Spread out…／kept together…）。句子寫得清楚比寫得繁複重要。"
+      "t": "全篇以單句與對等句為主，變化來自否定與對比（not short of…／what it is short of is…）、地方副詞子句（From where I stood）、關係子句（an occasion that brings…／a stage that school clubs and local folk musicians share）、分詞當形容詞（borrowed from residents、hung along the wall）、比較（faster from hand to hand than from a book），以及句首分詞的兩相對照（Spread out…／kept together…）。句子寫得清楚比寫得複雜重要。"
      },
      {
       "k": "字彙拼字",
@@ -3349,7 +3383,7 @@
      },
      {
       "k": "文法句構",
-      "t": "主幹用過去式，先發生的事用過去完成式拉開層次（had been counting、had come out）。變化來自 such…that 的結果句（in such a good mood that he whistled）、分詞構句（creeping forward one car length at a time）、三個對等子句一路推進（The sun climbed higher, the air in the car grew warm, and the mood turned gloomy）、as though 引導的副詞子句（looked as though she was about to cry）、not…but 的對比（to spend a day together, not to stand in a line），以及最後一句的 whenever 時間子句配否定主句。其中 as though 那一句要注意時態：這裡用 was 不用 were，因為妹妹是真的快哭了；寫 were 就成了與事實相反的假設語氣，意思會反過來。句子寫得清楚比寫得繁複重要。"
+      "t": "主幹用過去式，先發生的事用過去完成式拉開層次（had been counting、had come out）。變化來自 such…that 的結果句（in such a good mood that he whistled）、分詞構句（creeping forward one car length at a time）、三個對等子句一路推進（The sun climbed higher, the air in the car grew warm, and the mood turned gloomy）、as though 引導的副詞子句（looked as though she was about to cry）、not…but 的對比（to spend a day together, not to stand in a line），以及最後一句的 whenever 時間子句配否定主句。其中 as though 那一句要注意時態：這裡用 was 不用 were，因為妹妹是真的快哭了；寫 were 就成了與事實相反的假設語氣，意思會反過來。句子寫得清楚比寫得複雜重要。"
      },
      {
       "k": "詞彙拼字",
