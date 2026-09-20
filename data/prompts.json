@@ -4451,7 +4451,8 @@
    "promptFormat": "文字",
    "hasImage": false,
    "genre": [
-    "論說文"
+    "論說文",
+    "書信"
    ],
    "theme": [
     "人際關係與友誼",
@@ -5418,7 +5419,8 @@
    "promptFormat": "文字",
    "hasImage": false,
    "genre": [
-    "記敘文"
+    "記敘文",
+    "書信"
    ],
    "theme": [
     "人際關係與友誼",
@@ -5640,7 +5642,7 @@
    "sourceLinks": [
     {
      "url": "https://www.ceec.edu.tw/files/file_pool/1/0j198542498340692232/94國文及英文非選擇題評分標準說明.pdf",
-     "label": "94年度指定科目考試非選擇題評分標準說明"
+     "label": "非選擇題評分標準說明"
     }
    ],
    "source": "大學入學考試中心 94 學年度指定科目考試英文考科"
@@ -5992,7 +5994,8 @@
    "promptFormat": "文字",
    "hasImage": true,
    "genre": [
-    "記敘文"
+    "記敘文",
+    "書信"
    ],
    "theme": [
     "個人成長與自我探索"
