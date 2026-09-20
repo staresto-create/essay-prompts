@@ -77,6 +77,11 @@
   .mdKey p:last-child{margin-bottom:0;}
   .mdCaveat p,.mdIntro p{margin:0 0 .6em;}
   .mdCaveat p:last-child,.mdIntro p:last-child{margin-bottom:0;}
+  .mdTabHd{font-size:12px;color:#7A7263;margin:0 0 6px;}
+  .mdTabs{display:flex;gap:6px;flex-wrap:wrap;margin:0 0 11px;}
+  .mdTab{font:inherit;font-size:12.5px;padding:3px 11px;border:1px solid #C9BFA6;border-radius:999px;
+         background:#fff;color:#4A443A;cursor:pointer;}
+  .mdTab.on{background:#F2E9D2;font-weight:700;}
   .mdMap{list-style:none;padding:0;margin:0;}
   .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .mdK{font-weight:700;margin-right:6px;}
@@ -718,36 +723,36 @@ function card(it){
 
   if(it.model && it.model.essay){
     const m=it.model, b=el('div','mdBox');
+    // 選項型的題目（三張圖擇一、三個方案擇一之類）一題有兩三篇範文，各寫一個選項。
+    // 第一篇仍寫在 `essay` 與 `mapping`，其餘各篇寫在選配欄 `more`；`option` 是該篇寫的是哪一個選項，供標籤用。
+    // 沒有 `more` 的題目走的路徑與先前完全相同，畫面一個像素未動。
+    const alts=[{option:m.option,essay:m.essay,mapping:m.mapping}].concat(m.more||[]);
+    const nAlt=alts.length, ZHN=['','一','兩','三','四','五','六'];
+    const shut=()=>'看'+(ZHN[nAlt]||nAlt)+'篇示範與評分對照 →';
     const btn=document.createElement('button');
-    btn.className='mdBtn';btn.type='button';btn.textContent='看一篇示範與評分對照 →';
+    btn.className='mdBtn';btn.type='button';btn.textContent=shut();
     btn.addEventListener('click',()=>{
       const on=b.classList.toggle('open');
-      btn.textContent=on?'收起示範':'看一篇示範與評分對照 →';
+      btn.textContent=on?'收起示範':shut();
     });
     b.appendChild(btn);
     const body=el('div','mdBody');
-    const es=el('div','mdEssay');
-    // 中英逐段交錯：英文在前、中文緊接在後，段段對應。
-    // zh 為選配欄，沒有這一欄的題目照舊只印英文。
-    const zh=m.essay.zh||{};
-    // 書信題另有 opening（稱呼語）與 closing（結尾敬語加署名，以換行符分行），皆為選配欄；
-    // 沒有這兩欄的題目畫面與先前相同。字數只算正文，故書信題標「正文」。
-    const letter=!!(m.essay.opening||m.essay.closing);
-    if(m.essay.opening)es.appendChild(el('p','mdSal',m.essay.opening));
-    es.appendChild(el('p',null,m.essay.p1));
-    if(zh.p1)es.appendChild(el('p','mdZh',zh.p1));
-    es.appendChild(el('p',null,m.essay.p2));
-    if(zh.p2)es.appendChild(el('p','mdZh',zh.p2));
-    if(m.essay.closing){
-      const c=el('p','mdClose');
-      m.essay.closing.split('\n').forEach((x,i)=>{if(i)c.appendChild(document.createElement('br'));c.appendChild(document.createTextNode(x))});
-      es.appendChild(c);
-    }
-    if(m.essay.words)es.appendChild(el('div','mdWords',(letter?'正文 ':'全文 ')+m.essay.words+' 詞'));
-    body.appendChild(es);
     // caveat 與 intro 同 keypoint，以換行符分段；未分段者只產生一個段落，畫面與先前相同。
-    const paras=(c,t)=>{const b=el('div',c);t.split('\n').forEach(x=>{if(x.trim())b.appendChild(el('p',null,x))});return b};
-    if(m.essay.caveat)body.appendChild(paras('mdCaveat',m.essay.caveat));
+    const paras=(c,t)=>{const w=el('div',c);t.split('\n').forEach(x=>{if(x.trim())w.appendChild(el('p',null,x))});return w};
+    // 各篇之間換的是範文、caveat 與 mapping 三樣；中間的「官方怎麼給分」是那一年的評分原則，各篇共用、只印一次。
+    // 兩個換得動的區塊分別擺在共用那一段的上下，各篇讀到的順序因此與其他卡片相同。
+    // 只有一篇的題目不包那兩層 div，改用 DocumentFragment 直接接進 body，畫出來的 DOM 與先前逐字相同。
+    const multi=nAlt>1;
+    const esWrap=multi?el('div'):document.createDocumentFragment();
+    const mapWrap=multi?el('div'):document.createDocumentFragment();
+    let tabs=null;
+    if(multi){
+      body.appendChild(el('div','mdTabHd','這一題讓你自己選一個，每一個選項各有一篇範文：'));
+      tabs=el('div','mdTabs');
+      body.appendChild(tabs);
+      body.appendChild(esWrap);
+    }
+    if(!multi)draw0();
     if(m.rubric){
       body.appendChild(el('div','mdH','官方怎麼給分'));
       if(m.rubric.intro)body.appendChild(paras('mdIntro',m.rubric.intro));
@@ -758,20 +763,56 @@ function card(it){
         body.appendChild(kb);
       }
     }
-    if(m.mapping && m.mapping.length){
-      // 項數逐年不同（107、114 為四項，105、99 為五項），標題不得寫死。
-      const ZH=['','一','二','三','四','五','六','七','八'];
-      const nMap=m.mapping.length;
-      body.appendChild(el('div','mdH','這篇在'+(ZH[nMap]||nMap)+'個項目上各做了什麼'));
-      const ul=document.createElement('ul');ul.className='mdMap';
-      m.mapping.forEach(x=>{
-        const li=document.createElement('li');
-        li.appendChild(el('span','mdK',x.k));
-        li.appendChild(document.createTextNode(x.t));
-        ul.appendChild(li);
-      });
-      body.appendChild(ul);
+    body.appendChild(mapWrap);
+    function draw(i){
+      const a=alts[i];
+      esWrap.textContent='';mapWrap.textContent='';
+      const es=el('div','mdEssay');
+      // 中英逐段交錯：英文在前、中文緊接在後，段段對應。
+      // zh 為選配欄，沒有這一欄的題目照舊只印英文。
+      const zh=a.essay.zh||{};
+      // 書信題另有 opening（稱呼語）與 closing（結尾敬語加署名，以換行符分行），皆為選配欄；
+      // 沒有這兩欄的題目畫面與先前相同。字數只算正文，故書信題標「正文」。
+      const letter=!!(a.essay.opening||a.essay.closing);
+      if(a.essay.opening)es.appendChild(el('p','mdSal',a.essay.opening));
+      es.appendChild(el('p',null,a.essay.p1));
+      if(zh.p1)es.appendChild(el('p','mdZh',zh.p1));
+      es.appendChild(el('p',null,a.essay.p2));
+      if(zh.p2)es.appendChild(el('p','mdZh',zh.p2));
+      if(a.essay.closing){
+        const c=el('p','mdClose');
+        a.essay.closing.split('\n').forEach((x,j)=>{if(j)c.appendChild(document.createElement('br'));c.appendChild(document.createTextNode(x))});
+        es.appendChild(c);
+      }
+      if(a.essay.words)es.appendChild(el('div','mdWords',(letter?'正文 ':'全文 ')+a.essay.words+' 詞'));
+      esWrap.appendChild(es);
+      if(a.essay.caveat)esWrap.appendChild(paras('mdCaveat',a.essay.caveat));
+      if(a.mapping && a.mapping.length){
+        // 項數逐年不同（107、114 為四項，105、99 為五項），標題不得寫死。
+        const ZH=['','一','二','三','四','五','六','七','八'];
+        const nMap=a.mapping.length;
+        mapWrap.appendChild(el('div','mdH','這篇在'+(ZH[nMap]||nMap)+'個項目上各做了什麼'));
+        const ul=document.createElement('ul');ul.className='mdMap';
+        a.mapping.forEach(x=>{
+          const li=document.createElement('li');
+          li.appendChild(el('span','mdK',x.k));
+          li.appendChild(document.createTextNode(x.t));
+          ul.appendChild(li);
+        });
+        mapWrap.appendChild(ul);
+      }
+      if(tabs)Array.prototype.forEach.call(tabs.children,(t,j)=>t.classList.toggle('on',j===i));
     }
+    function draw0(){draw(0);body.appendChild(esWrap);}
+    if(tabs){
+      alts.forEach((a,i)=>{
+        const t=document.createElement('button');
+        t.className='mdTab';t.type='button';t.textContent=a.option||('第 '+(i+1)+' 篇');
+        t.addEventListener('click',()=>draw(i));
+        tabs.appendChild(t);
+      });
+    }
+    if(multi)draw(0);
     b.appendChild(body);d.appendChild(b);
   }
 
