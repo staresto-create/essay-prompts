@@ -3393,7 +3393,7 @@
        },
        {
         "k": "組織",
-        "t": "第一段先把垃圾場和新制服兩件事擺在一起，再說出選擇：特色市集，而且辦成二手市集，最後收在「把東西從這個衣櫃搬到那個衣櫃」；第二段照市集的先後寫：挑時間、收東西、整理分類、當天定價、剩下的捐出，最後以弟弟的制服傳給別的孩子收尾，回扣第一段。題目指定文分兩段，這一篇就寫兩段，兩段各自完成一件寫作任務。"
+        "t": "第一段先把垃圾場和新制服兩件事擺在一起，再說出選擇：特色市集，而且辦成二手市集，最後收在「把東西從這個衣櫃搬到那個衣櫃」；第二段照市集的先後寫：挑時間、收東西、整理分類、當天定價、剩下的捐出，最後以弟弟的制服傳給別的孩子收尾，呼應第一段。題目指定文分兩段，這一篇就寫兩段，兩段各自完成一件寫作任務。"
        },
        {
         "k": "文法句構",
@@ -3869,24 +3869,29 @@
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J073552678885145053",
-    "label": "作文佳作"
+    "label": "作文佳作",
+    "note": "大考中心公布 104 學測英文作文佳作十五篇，附原卷影像檔與簡要評分說明。選 EVERYONE IS BEAUTIFUL 的七篇（第 1 至 7 篇），選 LEADERSHIP IS A CHOICE 的八篇（第 8 至 15 篇），兩本書都有真實考生的卷子可看。"
    },
    "source": "大學入學考試中心 104 學年度學科能力測驗英文考科",
    "model": {
     "essay": {
      "words": 252,
-     "p1": "I would choose EVERYBODY IS BEAUTIFUL: Respect Others & Be Yourself. From the title, I do not think the book teaches you how to look better. It is probably about why we judge people by their faces so quickly, and how much that habit hurts. The author may open with ordinary scenes: a girl deleting a photo because her arms look too big in it, a boy who never takes off his jacket in summer, a class laughing at someone's new haircut. Then the book probably turns to the other side, showing the same people learning to say something kind, or simply learning to say nothing at all. I expect the last chapter to be about accepting the face you see in the mirror, because that is always the hardest part.",
+     "p1": "I would choose EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself. From the title, I do not think the book teaches you how to look better. It is probably about why we judge people by their faces so quickly, and how much that habit hurts. The author may open with ordinary scenes: a girl deleting a photo because her arms look too big in it, a boy who never takes off his jacket in summer, a class laughing at someone's new haircut. Then the book probably turns to the other side, showing the same people learning to say something kind, or simply learning to say nothing at all. I expect the last chapter to be about accepting the face you see in the mirror, because that is always the hardest part.",
      "p2": "I chose this book because the problem in its title is sitting in my classroom every day. Some of my friends spend twenty minutes editing one photo before they post it, and the photo still has to get enough likes to feel worth keeping. I have done the same thing myself. What I want to learn is not how to look confident, but how to stop measuring myself against a screen. A book about leadership would give me a skill I might need someday; this one would help me with something I face this afternoon. If it works, I will not become more beautiful, but I will probably be kinder, both to my classmates and to the person in my own photos.",
-     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標。題目要求兩本書擇一，本篇選的是 EVERYBODY IS BEAUTIFUL 那一本。如果你選的是 LEADERSHIP IS A CHOICE，第一段推想的內容要自己換成克服恐懼與培養領導能力那一面，第二段的理由也要扣回那個書名。不過，兩段各要寫什麼、細節要具體到什麼程度、理由怎麼跟書名接上，這一篇都示範過了；選另一本也需要比照辦理，底下五個項目的說明亦同。網站之後會再補上另一本的範文。大考中心當年公布了官方佳作，同一題目有多種寫法，直接點進去看一遍最有效。"
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；這一篇寫了 252 個單詞。\n題目要求兩本書擇一，本篇選的是 EVERYONE IS BEAUTIFUL 那一本。另一本 LEADERSHIP IS A CHOICE 也有一篇範文，點上面的標籤就能切換，可以對照看兩篇的第一段怎麼依書名推想內容、第二段的理由怎麼跟書名連起來。\n大考中心當年公布了官方佳作，同一題目有多種寫法，直接點進佳作頁看一遍最有效。",
+     "zh": {
+      "p1": "我會選 EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself 這一本。從書名看，我不認為這本書是教人怎麼變好看。它談的大概是我們為什麼那麼快就以貌取人，以及這個習慣有多傷人。作者可能會從一些平常的場景寫起：女生因為照片裡的手臂看起來太粗，就把照片刪掉；男生大熱天也從來不脫外套；全班同學取笑某個人剛剪的新髮型。接著，這本書大概會轉到另一面，寫同樣這些人學會說一句體貼的話，或乾脆學會什麼都不說。我猜最後一章會談怎麼接受鏡子裡的那張臉，因為那永遠是最難的部分。",
+      "p2": "我選這本書，是因為書名說的問題，每天就在我的教室裡。我有些朋友發一張照片前，要花二十分鐘修圖；發出去以後，還得有夠多的讚，才覺得值得留著。我自己也做過一樣的事。我想學的不是怎麼看起來有自信，而是怎麼不再拿自己跟螢幕上的樣子比。一本談領導的書，教的是我哪一天可能用得上的本事；這一本幫的，卻是我今天下午就得面對的事情。如果它真的有用，我不會因此變得更好看，但大概會對人好一點，不管是對同學，還是對自己照片裡的那個人。"
+     }
     },
     "rubric": {
      "intro": "104 的官方說明有兩份，內容互補。隨試題公布的那一份（閱卷召集人賴惠玲，國立政治大學英國語文學系教授）寫的是評分項目與閱卷流程：英文作文依內容、組織、文法句構、詞彙拼字、體例五個項目給分，字數明顯不足的作文扣總分 1 分；2 月 4 日先開評分標準訂定會議，由正、副召集人及協同主持人共 14 人參閱約 3,000 份來自不同地區的答案卷，討論一天訂出評分標準，編成《閱卷參考手冊》；本年度聘請 171 位大學教授擔任閱卷委員，2 月 6 日召開試閱會議，會後再確定一次評分標準才正式閱卷。每份試卷由兩位委員各自評分，最後以兩人的平均為準，第一閱與第二閱差距超過差分標準時，再由第三位委員（正、副召集人或協同主持人）評閱。這一份另外寫明了兩本書的完整書名，以及評分的考量重點：作文內容與所選書籍之間的關聯性是否緊密，並有足夠的細節支持。選才電子報第 247 期那一份（第一處／林秀慧）寫的是評分方式與分項配分：各項得分加總後給予一個整體分數（holistic score），再依總分 1 至 20 分分為特優（19-20 分）、優（15-18 分）、可（10-14 分）、差（5-9 分）、劣（0-4 分）五個等級；表 2 的分項配分為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分，合計 20 分。扣分規則也只有這一份寫齊：字數嚴重不足扣總分 1 分，未分段也扣總分 1 分。同一個項目兩份的寫法不一樣：選才那一份的表 2 寫「字彙、拼字」，閱卷評分原則說明寫「詞彙拼字」。這裡的欄名取表 2 那一邊作「字彙拼字」，兩種寫法並記，逐年照原件呈現、不拉齊。",
-     "keypoint": "寫作任務題目分得很清楚：第一段說明你會選哪一本書，以及你認為該書的內容大概會是什麼；第二段提出你選擇該書的理由。兩本書是 EVERYBODY IS BEAUTIFUL: Respect Others & Be Yourself 與 LEADERSHIP IS A CHOICE: Conquer Your Fears & You Can Be a Leader Too，選哪一本都可以，沒有哪一本比較好得分，也不必交代為什麼不選另一本。這一題最容易失分的地方在第一段：題目要的是「依書名想想看該書的內容」，也就是要你根據書名與副標推想這本書會寫些什麼，而不是評論這本書好不好、值不值得讀。賴惠玲那一份把評分的考量重點寫得很直接——內容與所選書籍之間的關聯性是否緊密，並有足夠的細節支持。所以第二段的理由要扣回書名。大考中心看的是理由與這一本書之間接得緊不緊，接得上的理由通常帶著自己的事；泛泛的好處放在哪一本書上都成立，關聯性那一格就量不出東西。這一年跳脫了學測常見的看圖寫作，改以書名與副標當提示，而本質仍然是引導式寫作，提示給到哪裡就寫到哪裡。"
+     "keypoint": "寫作任務題目分得很清楚：第一段說明你會選哪一本書，以及你認為該書的內容大概會是什麼；第二段提出你選擇該書的理由。兩本書是 EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself 與 LEADERSHIP IS A CHOICE: Conquer Your Fears & You Can Be a Leader Too，選哪一本都可以，沒有哪一本比較好得分，也不必交代為什麼不選另一本。這一題最容易失分的地方在第一段：題目要的是「依書名想想看該書的內容」，也就是要你根據書名與副標推想這本書會寫些什麼，而不是評論這本書好不好、值不值得讀。賴惠玲那一份把評分的考量重點寫得很直接——內容與所選書籍之間的關聯性是否緊密，並有足夠的細節支持。所以第二段的理由要跟書名連得上。大考中心看的是理由與這一本書之間接得緊不緊，接得上的理由通常帶著自己的事；泛泛的好處放在哪一本書上都成立，關聯性那一格就量不出東西。這一年跳脫了學測常見的看圖寫作，改以書名與副標當提示，而本質仍然是引導式寫作，提示給到哪裡就寫到哪裡。"
     },
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要的是依書名推想內容，加上選它的理由，兩件都要有具體的東西撐著。這一篇第一段沒有停在「這本書談尊重」，而是給了三個具體的場景：女生把手臂看起來太粗的照片刪掉、男生整個夏天不脫外套、全班笑一個人的新髮型。第二段的理由也一樣落在自己身上——修一張照片花二十分鐘、按讚數決定要不要留。賴惠玲那一份講的「足夠的細節支持」就是指這些，不是形容詞。"
+      "t": "題目要的是依書名推想內容，加上選它的理由，兩件都要寫得具體。這一篇第一段沒有停在「這本書談尊重」，而是給了三個具體的場景：女生把手臂看起來太粗的照片刪掉、男生整個夏天不脫外套、全班笑一個人的新髮型。第二段的理由也一樣落在自己身上——修一張照片花二十分鐘、按讚數決定要不要留。賴惠玲那一份講的「足夠的細節支持」就是指這些，不是形容詞。"
      },
      {
       "k": "組織",
@@ -3903,6 +3908,44 @@
      {
       "k": "體例",
       "t": "104 有這一項，配分 2 分，管的是格式、標點與大小寫；表 2 在這一項只給三檔，「優」與「可」併成同一格，裡面只有一句：格式、標點、大小寫幾無錯誤。這一題會扣分的多半是這幾件：段落沒有縮排也沒有空行，閱卷委員看不出分段；句首沒有大寫；書名整串大寫照抄題目是對的，而書名裡的冒號與 & 要跟著抄對；分號用在對照句時前後都要是完整句子。另外 104 未分段要扣總分 1 分（這一條寫在選才第 247 期那一份），與體例這一項分開算，兩邊都看得到分段做得好不好。"
+     }
+    ],
+    "option": "EVERYONE IS BEAUTIFUL",
+    "more": [
+     {
+      "option": "LEADERSHIP IS A CHOICE",
+      "essay": {
+       "words": 323,
+       "p1": "I would pick LEADERSHIP IS A CHOICE: Conquer Your Fears & You Can Be a Leader Too. The word \"choice\" tells me this is not a book about class presidents or famous business leaders. I think it is about the small moments when a group goes quiet and someone has to decide whether to speak up. The author will probably show that leading often means doing ordinary things first: suggesting a plan when nobody else will, taking the job no one wants, or saying \"That was my fault\" before anyone asks. The second half of the title suggests the book also looks at why we hold back. My guess is that most of us are not so much afraid of failing as afraid of looking bossy, or of being blamed if things go wrong. If the book is any good, it will admit that these fears are normal and then show us how to act anyway.",
+       "p2": "I want to read it because of a group project last semester. There were four of us, and for a whole week our LINE group stayed silent. Everyone was waiting for someone else to divide up the work. I actually had a plan in my head, but I kept telling myself it was not my place to take charge, since nobody had chosen me as the leader. In the end, we threw the slides together the night before, and our group got one of the lowest scores in the class. What bothered me most was not the score but the fact that one message from me could have changed everything. I do not think I lack the ability; what I lack is the nerve to go first. That is exactly what the title seems to be about. I may never be a class president, but I will be in plenty of quiet group chats, and next time I would like to be the one who gets things started.",
+       "zh": {
+        "p1": "我會選 LEADERSHIP IS A CHOICE: Conquer Your Fears & You Can Be a Leader Too 這一本。書名裡的 choice（選擇）這個字告訴我，這不是一本講班長或知名企業家的書。我想它講的是那些小小的時刻：一群人突然安靜下來，總得有人決定要不要開口。作者大概會告訴讀者，領導常常只是先去做一些平凡的事：沒有人提計畫時，先提一個；沒有人想接的工作，先接下來；還沒有人追究，就先說一句「那是我的錯」。書名的後半段看來也會談到，我們為什麼總是退縮。我猜，大多數人怕的其實不是失敗，而是怕看起來愛指揮別人，或是事情出了錯，大家都怪到自己頭上。這本書如果還值得一讀，會先承認這些害怕都很正常，再告訴我們怎麼樣照樣去做。",
+        "p2": "我想讀這本書，是因為上學期的一次分組報告。我們一組四個人，整整一個禮拜，LINE 群組裡沒有人說話，每個人都在等別人先分工。其實我腦子裡已經有一套分法，卻一直告訴自己，沒有人選我當組長，輪不到我來作主。結果我們在報告前一晚才匆匆把投影片拼湊出來，分數是全班最低的幾組之一。最讓我在意的不是分數，而是只要我傳一則訊息，整件事情就可能不一樣。我不覺得自己能力不夠；我缺的是先開口的膽量。這正是這本書的書名看起來要談的事。我也許永遠當不上班長，但以後一定還會待在很多安靜的群組裡；下一次，我想當那個讓事情動起來的人。"
+       },
+       "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；這一篇寫了 323 個單詞。\n兩本書選哪一本都可以，沒有哪一本比較好得分。官方十五篇佳作裡，選 LEADERSHIP IS A CHOICE 的有八篇，第 8 至 15 篇；那八篇大多是兩種寫法：引用名人的例子或名言，或是寫自己當幹部、帶班時的害怕。這一篇換一個角度：從書名裡的 choice 推想，領導不必有頭銜，而是群組安靜下來時，誰先開口。你如果想寫名人或當幹部那一種，點進佳作頁看真實考生怎麼寫最有效。\n這一題最容易失分的地方在第一段：題目要的是依書名推想內容，不是評論這本書好不好。這一篇第一段的推想，都是從書名裡的字出發：從 choice 推出每天的小選擇，從 Conquer Your Fears 推出我們到底在怕什麼。第二段的理由也回到同一件事：我缺的不是能力，而是先開口的膽量。理由要是跟書名連不起來，內容和書的關聯就不緊密，這正是閱卷時看的重點。"
+      },
+      "mapping": [
+       {
+        "k": "內容",
+        "t": "題目要的是依書名推想內容，加上選它的理由，兩件都要寫得具體。第一段沒有停在「這本書教人當領導者」，而是列出三件具體的小事：沒人提計畫時先提一個、沒人想接的工作先接下來、還沒人追究就先認錯；再推想書名後半段的恐懼是什麼。第二段的理由落在一件自己的事上：四個人的 LINE 群組安靜了一個禮拜、前一晚才拼湊投影片、分數是全班最低的幾組之一。閱卷說的「足夠的細節支持」，指的就是這些。"
+       },
+       {
+        "k": "組織",
+        "t": "題目指定文分兩段，這篇就寫兩段，兩段各自完成一件寫作任務。第一段先點出書名裡的 choice，再列出三件小事，接著轉到書名後半段的恐懼，最後收在「照樣去做」；第二段從分組報告的經過寫到自己的體會，最後以「想當那個讓事情動起來的人」收尾，呼應第一段「總得有人決定要不要開口」。"
+       },
+       {
+        "k": "文法句構",
+        "t": "主幹是單句與對等句，變化來自幾個地方。一是 not so much A as B（與其說是 A，不如說是 B），把結構標出來是這樣：most of us are not so much [afraid of failing] as [afraid (of looking bossy), or (of being blamed if things go wrong)]。方括號裡的兩段就是 A 與 B。B 那一邊又用了分配律：兩組圓括號裡的 of 片語並列，共用前面同一個 afraid，也就是 afraid of looking bossy 和 afraid of being blamed；of 後面都接動名詞，一個是主動的 looking，一個是被動的 being blamed，兩種用法合在同一句裡。二是 If the book is any good：any 放在形容詞前面，意思是 at all（多少、稍微），整句是「這本書如果還值得一讀」；99 學測克漏字的 is bottled water really any better? 也是同一個 any，放在比較級前面。三是分號接的對照句（I do not think I lack the ability; what I lack is the nerve to go first），後半句用 what 帶出的名詞子句當主詞。另外還有名詞子句（whether to speak up、why we hold back）與 the fact that 帶出的同位語子句。句子寫得清楚比寫得複雜重要。"
+       },
+       {
+        "k": "字彙拼字",
+        "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形只有一個：conquer（征服、克服）四級，來自題目的書名，占 178 個詞形的 0.6%。詞彙表沒有收錄的是 bossy（愛指揮別人的），由 boss 加 -y 而成，108 學測詞彙題第 2 題的題幹用過這個字，照樣使用。這一篇容易拼錯的是 semester、ability、conquer 這幾個。"
+       },
+       {
+        "k": "體例",
+        "t": "書名整串照抄題目，冒號與 & 都要抄對；書名裡引用的單字 choice 用引號標出來。分號用在對照句時，前後都要是完整的句子。題目指定兩段，段落要縮排或空行，讓閱卷委員看得出分段。"
+       }
+      ]
      }
     ]
    }
@@ -3955,7 +3998,7 @@
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要的是一段經過加一段感想，兩段都要有具體的內容支撐。這一篇第一段沒有停在「我教祖母用手機」，而是寫出了一段具體的經過：餐廳把紙本菜單收掉、桌上只剩一個方塊，祖母不願向陌生人開口求援，於是不再外食；接著是自己印一張 QR code、把每個步驟寫成大字，祖母按錯而頁面消失，把手機放下說自己太老了；最後是兩週後祖母自己點了一碗牛肉麵。第二段寫感想，寫出耐心比知識更重要，也把感想扣回具體的事情上：有兩次差點把手機拿過來自己按。評分重點寫的「是否有足夠事例支持」指的就是這些。"
+      "t": "題目要的是一段經過加一段感想，兩段都要有具體的內容支撐。這一篇第一段沒有停在「我教祖母用手機」，而是寫出了一段具體的經過：餐廳把紙本菜單收掉、桌上只剩一個方塊，祖母不願向陌生人開口求援，於是不再外食；接著是自己印一張 QR code、把每個步驟寫成大字，祖母按錯而頁面消失，把手機放下說自己太老了；最後是兩週後祖母自己點了一碗牛肉麵。第二段寫感想，寫出耐心比知識更重要，也把感想連到具體的事情上：有兩次差點把手機拿過來自己按。評分重點寫的「是否有足夠事例支持」指的就是這些。"
      },
      {
       "k": "組織",
@@ -4111,7 +4154,7 @@
     },
     "rubric": {
      "intro": "這一題站上掛得到的評分原則說明只有一份，即隨試題公布的那一份，閱卷召集人劉慶剛〈國立臺北大學人文學院院長〉。這一份寫的是：非選擇題共有兩大題，第一大題「中譯英」，題型與過去幾年相同，考生須將兩個中文句子譯成正確、通順而達意的兩個英文句子，兩題共計 8 分；第二大題「引導式作文」，考生須從試卷提供的一個統計圖中找出相關資訊，以至少 120 個單詞、依題目的提示寫出一篇兩段的作文，作文部分滿分 20 分。中譯英每小題總分 4 分，原則上每個錯誤扣 0.5 分。英文作文依內容、組織、文法句構、字彙拼字、體例五個項目給分，字數明顯不足者扣總分 1 分。閱卷的進行方式也寫了：7 月 7 日先召開評分標準訂定會議，由正、副召集人及協同主持人共 14 位，參閱 3,000 份試卷，經過一天的討論訂定評分標準，並選出合適的樣卷編製成《閱卷參考手冊》供閱卷委員參閱；7 月 9 日上午 9 時至 11 時，120 位大學教授分組進行試閱會議，依手冊裡的樣卷分別評分並討論評分準則。試閱會議之後，正、副召集人及協同主持人另開第一次評分標準再確定會議，確認評分原則之後才開始正式閱卷。每份試卷皆經兩位委員分別評分，最後以二人平均分數計算；第一閱與第二閱分數差距超過標準時，再請第三位委員（正、副召集人或協同主持人）評分。這一份另記了中譯英的命題範圍：測驗之詞彙皆控制在大考中心詞彙表四級內之詞彙。這一份的正文沒有給各項配分，沒有寫五個等級，也沒有附分項式評分指標表。",
-     "keypoint": "這一題要考生從一張統計圖裡找出資訊，寫成兩段：第一段描述該圖所呈現之特別現象，第二段說明整體而言，考生本人的時間分配與圖中該高中全體學生的異同，並說明其理由。這一份把評分的考量重點寫成四件：書寫的內容是否符合試題之圖、文引導與說明，組織是否完整，用字、拼字及句子結構是否正確，以及是否已把全文清楚地敘述出來。\n這一份另記了樣卷裡看到的寫法：英文寫作能力中等以上的考生能在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與台灣當前現象之不同處，以凸顯統計圖表資料特別之處；第二段則比較說明自己的時間安排與圖表所示之異同。也就是說，第一段不是把七個項目的數字抄一遍，而是要挑出圖上哪裡特別；第二段的比較也要扣著第一段挑出來的那幾件事，不是另起爐灶講自己的作息。"
+     "keypoint": "這一題要考生從一張統計圖裡找出資訊，寫成兩段：第一段描述該圖所呈現之特別現象，第二段說明整體而言，考生本人的時間分配與圖中該高中全體學生的異同，並說明其理由。這一份把評分的考量重點寫成四件：書寫的內容是否符合試題之圖、文引導與說明，組織是否完整，用字、拼字及句子結構是否正確，以及是否已把全文清楚地敘述出來。\n這一份另記了樣卷裡看到的寫法：英文寫作能力中等以上的考生能在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與台灣當前現象之不同處，以凸顯統計圖表資料特別之處；第二段則比較說明自己的時間安排與圖表所示之異同。也就是說，第一段不是把七個項目的數字抄一遍，而是要挑出圖上哪裡特別；第二段的比較也要針對第一段挑出來的那幾件事，不是另起爐灶講自己的作息。"
     },
     "mapping": [
      {
@@ -4546,7 +4589,7 @@
     },
     "rubric": {
      "intro": "102 的官方說明有兩份，內容互補。隨試題公布的那一份是閱卷評分原則說明，閱卷召集人張武昌〈中國文化大學外國語文學院院長〉。這一份寫的是：非選擇題共有兩大題，第一大題是中譯英，兩題合計 8 分；第二大題是引導式的作文，考生需從「隱形披風」及「智慧型眼鏡」兩項新科技產品中擇一，寫一篇至少 120 個單詞的作文，文分兩段，滿分 20 分。中譯英每小題總分 4 分，原則上每個錯誤扣 0.5 分。英文作文依內容、組織、文法句構、字彙拼字、體例五個項目給分，字數明顯不足則扣總分 1 分。閱卷的進行方式也寫了：7 月 7 日先召開評分標準訂定會議，由正、副召集人及協同主持人共 14 位參閱 3,000 份試卷，經過一天的討論訂定評分標準，並選出合適的樣卷編製成《閱卷參考手冊》；7 月 9 日上午 9 時至 11 時，118 位大學教授分組進行試閱會議。試閱會議之後，正、副召集人及協同主持人另開第一次評分標準再確定會議，確認評分原則之後才開始正式閱卷。每份試卷皆經兩位委員分別評分，最後以二人平均分數計算；第一閱與第二閱分數差距超過標準時，再請第三位委員（正、副召集人或協同主持人）評分。這一份沒有給各項配分，沒有寫五個等級，也沒有未分段扣分那一句。\n另一份是〈102 學年度指定科目考試英文考科非選擇題評分標準說明〉，大考中心第一處游春琪撰，寫的是評分方式與分項配分，依據為「102 學年度指定科目考試螢幕閱卷英文考科評分標準訂定會議」。英文作文採整體式評分，分五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分。閱卷委員讀完一份答案卷先初步決定得分，再以表一〈英文作文分項式評分指標〉檢視是否符合這個分數。表一各項分優、可、差、劣四個等級：內容與組織各為 5-4 分／3 分／2-1 分／0 分，文法句構與字彙拼字各為 4 分／3 分／2-1 分／0 分，體例只分三格：2 分／1 分／0 分。扣分規則這一份寫了三句：字數明顯不足，扣 1 分；未分段，扣 1 分；寫多段，不扣分。未分段扣分那一句只在這一份。項目名稱兩份一致，只是表一寫作「文法、句構」「字彙、拼字」，中間多一個頓號。",
-     "keypoint": "這一題要考生從兩項即將上市的新科技產品中擇一，寫成兩段：第一段說明你的選擇及理由，並舉例說明你將如何使用這項產品；第二段說明你不選擇另一項產品的理由，以及該項產品可能衍生的問題。第二段其實要寫兩件事：不選的理由是一件，那項產品可能衍生的問題是另一件，兩件都要寫到。游春琪那一份寫明，這一題主要測驗考生是否能運用詞彙、語法、修辭知識，寫出切合主題、具統一性、聯貫性之短文。\n張武昌那一份另記了樣卷裡看到的寫法：英文寫作能力中等以上之考生皆能針對兩項產品發揮創意，在第一段舉例說明選擇「隱形披風」或「智慧型眼鏡」的原因，並在第二段說明未選擇另一項產品的理由。也就是說，第一段的「舉例」要落到你真的會拿它去做的事；第二段談問題時，也要扣著另一項產品本身的功能去談。"
+     "keypoint": "這一題要考生從兩項即將上市的新科技產品中擇一，寫成兩段：第一段說明你的選擇及理由，並舉例說明你將如何使用這項產品；第二段說明你不選擇另一項產品的理由，以及該項產品可能衍生的問題。第二段其實要寫兩件事：不選的理由是一件，那項產品可能衍生的問題是另一件，兩件都要寫到。游春琪那一份寫明，這一題主要測驗考生是否能運用詞彙、語法、修辭知識，寫出切合主題、具統一性、聯貫性之短文。\n張武昌那一份另記了樣卷裡看到的寫法：英文寫作能力中等以上之考生皆能針對兩項產品發揮創意，在第一段舉例說明選擇「隱形披風」或「智慧型眼鏡」的原因，並在第二段說明未選擇另一項產品的理由。也就是說，第一段的「舉例」要落到你真的會拿它去做的事；第二段談問題時，也要針對另一項產品本身的功能去談。"
     },
     "mapping": [
      {
@@ -4842,7 +4885,7 @@
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要第一段寫的是畢業典禮的意義，這一篇的意義是：這三年沒有一個人是獨自走過來的，畢業重要的不是證書，而是幫我們拿到證書的人，所以這一天該給我們一個說謝謝的機會。題目列的三種場景，第一句就選了溫馨感人，段末再說明為什麼不是只有熱鬧、也不是只有傷感。第一段用老師、導師、同學三種人支持主題，每一種都寫出一件具體的事：把同一道數學題講到第三遍、還沒開口就發現我們不對勁、分享筆記與零食。第二段安排三個活動：播放三年來的照片短片、各班上台獻花給導師並念全班一起寫的信、老師與學弟妹夾道歡送，三個都扣回說謝謝這個意義。題目要兩段寫的兩件事，這一篇都寫到了。"
+      "t": "題目要第一段寫的是畢業典禮的意義，這一篇的意義是：這三年沒有一個人是獨自走過來的，畢業重要的不是證書，而是幫我們拿到證書的人，所以這一天該給我們一個說謝謝的機會。題目列的三種場景，第一句就選了溫馨感人，段末再說明為什麼不是只有熱鬧、也不是只有傷感。第一段用老師、導師、同學三種人支持主題，每一種都寫出一件具體的事：把同一道數學題講到第三遍、還沒開口就發現我們不對勁、分享筆記與零食。第二段安排三個活動：播放三年來的照片短片、各班上台獻花給導師並念全班一起寫的信、老師與學弟妹夾道歡送，三個都和說謝謝這個意義連在一起。題目要兩段寫的兩件事，這一篇都寫到了。"
      },
      {
       "k": "組織",
@@ -5453,7 +5496,7 @@
      },
      {
       "k": "組織",
-      "t": "題目規定分兩段，範文照題目切：第一段寫之前與現在，第二段寫未來該做什麼。第一段的時間靠兩個標記轉換：Last night 帶出地震，This morning 把鏡頭拉回圖上的現況。第二段第一句 No one can stop an earthquake, but we can be much better prepared for the next one 是主題句，接下來用 First、Second、Most importantly 排出三件事，最後以台灣學生每年的防災演練收尾：很多人把演練當成玩笑，看過這個村子的遭遇之後，才知道那幾分鐘可能救命，結尾又回扣到第一段的地震。"
+      "t": "題目規定分兩段，範文照題目切：第一段寫之前與現在，第二段寫未來該做什麼。第一段的時間靠兩個標記轉換：Last night 帶出地震，This morning 把鏡頭拉回圖上的現況。第二段第一句 No one can stop an earthquake, but we can be much better prepared for the next one 是主題句，接下來用 First、Second、Most importantly 排出三件事，最後以台灣學生每年的防災演練收尾：很多人把演練當成玩笑，看過這個村子的遭遇之後，才知道那幾分鐘可能救命，結尾又呼應第一段的地震。"
      },
      {
       "k": "文法句構",
@@ -5523,7 +5566,7 @@
      },
      {
       "k": "組織",
-      "t": "題目指定兩段各寫什麼，範文照題目切。第一段第一句用 If I could… 接回題目的假設，同時說出要邀請的人；接著 This past year 帶出過去這一年的事，Whenever… 一句寫出具體的畫面，最後 so this day would be… 把理由收回這一天。第二段第一句說出地點，With express passes、Between rides 兩個句首片語排出一天的順序，最後 After a year of… 一句給出理由，也回扣第一段的大考。"
+      "t": "題目指定兩段各寫什麼，範文照題目切。第一段第一句用 If I could… 接回題目的假設，同時說出要邀請的人；接著 This past year 帶出過去這一年的事，Whenever… 一句寫出具體的畫面，最後 so this day would be… 把理由收回這一天。第二段第一句說出地點，With express passes、Between rides 兩個句首片語排出一天的順序，最後 After a year of… 一句給出理由，也呼應第一段的大考。"
      },
      {
       "k": "文法句構",
