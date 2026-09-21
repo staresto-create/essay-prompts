@@ -3305,7 +3305,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J078584184402770688",
     "label": "作文佳作",
-    "note": "大考中心公布 107 指考英文作文佳作七篇，附原卷影像檔與簡要評分說明。七篇全部集中在題目的前兩案：提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。選前兩案的人，點進去看真實考生怎麼寫最有效；選藝文活動的人，官方這邊沒有現成的卷子可看，站上這一篇範文寫的就是那一案。"
+    "note": "大考中心公布 107 指考英文作文佳作七篇，附原卷影像檔與簡要評分說明。七篇全部集中在題目的前兩案：提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。選前兩案的人，點進去看真實考生怎麼寫最有效；選藝文活動的人，官方這邊沒有現成的卷子可看，站上的範文裡有一篇寫的就是那一案。"
    },
    "source": "大學入學考試中心 107 學年度指定科目考試英文考科",
    "model": {
@@ -3313,7 +3313,7 @@
      "words": 342,
      "p1": "Of the three plans, I would choose to hold an arts festival in our community. My neighborhood is not short of food or of willing volunteers; what it is short of is an occasion that brings different generations into the same place. Two winters ago our school choir sang for twenty minutes outside the morning market at the end of our street. From where I stood I could see a woman stop counting her change and a boy of five climb onto his father's shoulders. For those twenty minutes nobody was a vendor and nobody was a customer. Providing services for the elderly is worth doing, but it sends students in one direction only; a market opens and closes, and by eight in the evening the street is swept and empty again. An arts festival is the one plan of the three that asks the whole community to make something together, and what we make does not disappear when the lights go out.",
      "p2": "I would build the festival out of three parts, all of them on the same afternoon and on the same street. The first is an exhibit of old photographs borrowed from residents, hung along the wall of the community center with the year and the place written below; older people come because they recognize the buildings, and younger ones come because they do not. The second is a stage that school clubs and local folk musicians share, taking turns in one program, so that the same audience hears a guitar band and a group of traditional musicians within the same hour. The third is a corner where grandparents teach children to fold paper lanterns, because a craft travels faster from hand to hand than from a book. I would keep all three in one afternoon rather than spread them over a weekend. Spread out, an event like this turns into three small gatherings that each draw the same few people; kept together, it becomes the one afternoon in the year when the whole neighborhood has a reason to stay.",
-     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標。這一題的三個方案是一張選單，選哪一個都可以，沒有哪一個比較好得分，也不必說明為什麼不選另外兩個。不過官方那七篇佳作全部集中在前兩案——提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。本篇寫的就是官方那邊沒有人示範的第三案。要是你選的是老人服務或特色市集，點進佳作頁看真實考生怎麼寫最有效；要是你跟這一篇一樣選藝文活動，第二段就得自己把活動內容與設計理由兩邊都寫出來，只列幾個節目名稱，寫作任務等於只做了一半。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；這一篇寫了 342 個單詞。\n這一題的三個方案是一張選單，選哪一個都可以，沒有哪一個比較好得分，也不必說明為什麼不選另外兩個。不過官方那七篇佳作全部集中在前兩案——提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。本篇寫的就是官方那邊沒有人示範的第三案。\n另外兩案各有一篇範文，點上面的標籤就能切換；想看真實考生怎麼寫，點進佳作頁最有效。要是你跟這一篇一樣選藝文活動，第二段就得自己把活動內容與設計理由兩邊都寫出來，只列幾個節目名稱，寫作任務等於只做了一半。",
      "zh": {
       "p1": "三個方案裡，我會選擇在社區辦一場藝文活動。我住的地方不缺吃的，也不缺願意幫忙的志工，缺的是一個能把不同世代拉到同一個場合的機會。兩年前的冬天，我們學校合唱團在街尾的早市外面唱了二十分鐘。從我站的位置看過去，一位太太停下手邊正在數的零錢，一個五歲的小男孩爬上他爸爸的肩膀。那二十分鐘裡，沒有人是攤販，也沒有人是顧客。提供社區老人服務當然值得做，可是那件事只把學生往一個方向送；市集則是開了又收，到了晚上八點，街道掃乾淨，又空了下來。三個方案裡，只有藝文活動是請整個社區一起做出一樣東西，而那樣東西不會在燈熄掉的時候跟著消失。",
       "p2": "這場活動我會做成三個部分，三個部分都放在同一個下午、同一條街上。第一個部分是老照片展，照片跟居民借，掛在社區活動中心的牆上，底下寫上年份跟地點；上了年紀的人會來，因為他們認得出那些建築，年輕人也會來，因為他們認不出來。第二個部分是一個共用的舞台，學校社團跟在地的傳統樂團輪流上場，排在同一份節目表裡，讓同一批觀眾在同一個小時之內，既聽到吉他樂團，也聽到傳統樂器。第三個部分是一個角落，讓阿公阿嬤教小孩摺紙燈籠，因為一項手藝用手教，傳得比用書寫得快。這三個部分我會全部壓在同一個下午，不分散在整個週末。要是分散開來，這種活動就變成三場各自只吸引到同一小群人的小聚會；擺在一起，它才會成為一年當中，整個社區都有理由留下來的那一個下午。"
@@ -3371,6 +3371,37 @@
        {
         "k": "字彙拼字",
         "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形七個：cord 與 cords（電線）、professionals（專業人士）、volunteer（志工）為四級，extension（延長）與 tile（磁磚）為五級，tucking（收好、塞好）為六級，占 208 個詞形的 3.4%。extension cord（延長線）、bare tile（沒鋪任何東西的磁磚地）、tuck cords out of the way（把電線收到不會絆到人的地方）都是最自然的說法，照樣使用。這一篇容易拼錯的是 emergency、extension、volunteer、professionals 這幾個。"
+       }
+      ]
+     },
+     {
+      "option": "舉辦特色市集（方案二）",
+      "essay": {
+       "words": 339,
+       "p1": "Every June, right after graduation, the garbage area behind our school starts to fill up. Last year I walked past it and saw bags of uniforms, PE clothes, and reference books piled higher than my head, most of them in perfectly good condition. That same week, my mother spent more than NT$3,000 on new uniforms for my little brother, who was about to start junior high. One family was throwing away exactly what another was paying full price for. That is why I would go with the market, and I would make it a second-hand one. Plenty of families in our neighborhood have kids in school, and a lot of what they need is already sitting in someone else's closet. All we have to do is move it from one closet to the other.",
+       "p2": "The best time to hold it would be a Saturday in late August, just before the new semester, when parents are out shopping for school. For two weeks before that, we would put collection boxes at school and at the neighborhood office, and student volunteers would go through everything that comes in. Anything torn or stained would go straight to recycling, and clothes would be sorted by size and labeled, so that a parent looking for a medium PE shirt could find one in a minute instead of digging through a pile. On the day, we would set up tables on the school field and keep prices simple: ten, thirty, or fifty dollars, with no bargaining. That way, students working the tables would not get confused making change, and buyers would not spend twenty minutes trying to get a better deal. Whatever is left at the end of the day would be packed up and given to a charity that collects clothes and books, so nothing useful ends up in the garbage. If it goes well, the market could become something the neighborhood looks forward to every summer, and when my brother grows out of his uniforms, they could go to some other kid.",
+       "zh": {
+        "p1": "每年六月畢業典禮一結束，學校後面的垃圾場就開始堆滿東西。去年我經過那裡，看到一袋袋的制服、體育服和參考書，堆得比我還高，大部分都還好好的。就在同一個禮拜，我媽媽花了三千多塊，幫要升國中的弟弟買新制服。一個家庭丟掉的，正好是另一個家庭花原價在買的東西。所以我會選特色市集，而且要辦成二手市集。我們社區裡有很多家庭的孩子還在上學，他們需要的東西，很多其實就放在別人家的衣櫃裡。我們要做的，只是把東西從這個衣櫃搬到那個衣櫃。",
+        "p2": "最好的時間，是八月底開學前的一個星期六，那時家長正忙著幫孩子準備開學要用的東西。在那之前的兩個禮拜，我們在學校和里辦公室放收集箱，由學生志工把收到的東西一件一件看過。破掉或有汙漬的，直接送去回收；衣服照尺寸分好、貼上標籤，家長要找一件 M 號的體育服，一分鐘就找得到，不用在一大堆衣服裡翻。市集當天，我們在學校操場擺桌子，價格也訂得很簡單：十元、三十元、五十元三種，不接受殺價。這樣一來，顧攤的同學找錢時不會手忙腳亂，買的人也不會花二十分鐘討價還價。市集結束時還沒賣掉的，就全部打包，捐給回收衣物和書籍的慈善團體，還能用的東西，一樣都不會進垃圾場。辦得好的話，這個市集可以變成社區每年夏天都期待的活動；等弟弟的制服穿不下了，也可以傳給別的孩子。"
+       },
+       "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；這一篇寫了 339 個單詞。\n三個方案是一張選單，選哪一個都可以，沒有哪一個比較好得分。官方七篇佳作裡，選特色市集的最多，有四篇，第 3、4、6、7 篇；那四篇大多以農產與文創為主，用來展現社區的特色，二手物品只在其中兩篇順帶提到。這一篇換一個角度：整個市集只賣二手，而且鎖定開學前家家戶戶都要買的制服、體育服和參考書。你如果想寫農產或文創那一種，點進佳作頁看真實考生怎麼寫最有效。\n第二段最容易漏掉的是「設計理由」那半句。這一篇每一項安排都附了理由：為什麼挑八月底、為什麼要先照尺寸分好、為什麼只訂三種價格、為什麼剩下的要捐出去。只列出要賣什麼、沒寫為什麼這樣辦，寫作任務就只完成了一半。"
+      },
+      "mapping": [
+       {
+        "k": "內容",
+        "t": "題目要的「充分、具體之說明」在這一篇是人事時地物：每年六月畢業後學校後面的垃圾場、一袋袋的制服、體育服和參考書、同一個禮拜媽媽花三千多塊幫弟弟買新制服。第二段一樣具體——八月底開學前的星期六、學校和里辦公室的收集箱、照尺寸分好的衣服、十元三十元五十元三種價格、剩下的捐給慈善團體，寫的都是實際的做法，不是「促進社區交流」這種空話。"
+       },
+       {
+        "k": "組織",
+        "t": "第一段先把垃圾場和新制服兩件事擺在一起，再說出選擇：特色市集，而且辦成二手市集，最後收在「把東西從這個衣櫃搬到那個衣櫃」；第二段照市集的先後寫：挑時間、收東西、整理分類、當天定價、剩下的捐出，最後以弟弟的制服傳給別的孩子收尾，回扣第一段。題目指定文分兩段，這一篇就寫兩段，兩段各自完成一件寫作任務。"
+       },
+       {
+        "k": "文法句構",
+        "t": "主幹是單句與對等句，變化來自關係子句（who was about to start junior high、a charity that collects clothes and books）、what 帶出的名詞子句（exactly what another was paying full price for、a lot of what they need）、分詞片語（bags of uniforms … piled higher than my head、a parent looking for a medium PE shirt、students working the tables）、so that 帶出的目的，以及 when 帶出的時間子句。句子寫得清楚比寫得複雜重要。"
+       },
+       {
+        "k": "字彙拼字",
+        "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形七個：graduation（畢業）、reference（參考）、volunteers（志工）、recycling（回收）、bargaining（殺價）、charity（慈善團體）為四級，stained（有汙漬的）為五級，占 195 個詞形的 3.6%。這一篇容易拼錯的是 graduation、reference、semester、neighborhood 這幾個。"
        }
       ]
      }
