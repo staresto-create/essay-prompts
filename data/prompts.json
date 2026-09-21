@@ -3289,7 +3289,7 @@
     "校園與學習",
     "個人成長與自我探索"
    ],
-   "prompt": "如果你就讀的學校預計辦理一項社區活動，而目前師生初步討論出三個方案：（一）提供社區老人服務；（二）舉辦特色市集；（三）舉辦藝文活動。這三個方案，你會選擇哪一個？請以此為題，寫一篇英文作文。文分兩段，第一段說明你的選擇及原因，第二段敘述你認為應該要有哪些活動內容，並說明設計理由。",
+   "prompt": "如果你就讀的學校預計辦理一項社區活動，而目前師生初步討論出三個方案：（一）提供社區老人服務（如送餐、清掃、陪伴等）；（二）舉辦特色市集（如農產、文創、二手商品等）；（三）舉辦藝文活動（如展出、表演、比賽等）。這三個方案，你會選擇哪一個？請以此為題，寫一篇英文作文，文長至少 120 個單詞。文分兩段，第一段說明你的選擇及原因，第二段敘述你認為應該要有哪些活動內容，並說明設計理由。",
    "images": [],
    "rubricSource": "107 學年度指定科目考試英文考科非選擇題閱卷評分原則說明；大考中心選才電子報第 288 期〈107學年度指考非選擇題評分標準說明-英文〉（大考中心英文科研究員／游春琪撰，107 年 8 月 15 日出刊）",
    "sourceLinks": [
@@ -3339,6 +3339,40 @@
      {
       "k": "字彙拼字",
       "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》，四級以上詞形九個。這一篇容易拼錯的是 neighborhood、volunteers、exhibit、audience 這幾個。"
+     }
+    ],
+    "option": "舉辦藝文活動（方案三）",
+    "more": [
+     {
+      "option": "提供社區老人服務（方案一）",
+      "essay": {
+       "words": 337,
+       "p1": "If our school can only do one of these, my vote goes to providing services for the elderly. Last winter, Mr. Chen, who lives alone downstairs, fell in his bathroom one night. Unable to get up, he lay on the cold floor for almost six hours. He did not answer his daughter's calls the next morning, so she asked my father to go down and check. After he came home from the hospital, my mother sent me down with some oranges, and I could see how it had happened. The bathroom floor was bare tile, the hallway light had been broken for months, and an old extension cord lay right across his path. Nobody had noticed any of it, not even his daughter. Meals and company matter, but what Mr. Chen needed was someone to walk through his home and spot the danger in time.",
+       "p2": "So I would like our school to organize home safety visits. Our teachers could ask the neighborhood chief which seniors living alone would be happy to have us over, and on two Saturday mornings we would go in small groups, always with a teacher or volunteer. Older people are careful about who they let in, and having an adult with us makes that first knock much easier. A short checklist would keep us on task, because it is easy to get caught up in chatting and forget why we came. The work would be simple: putting non-slip mats in the bathroom, plugging in a few night lights in the hallway, tucking loose cords out of the way, and taping emergency numbers in large print next to the phone. Anything that needs tools or a ladder, like a missing smoke alarm or a grab bar, we would pass on to the neighborhood chief; that is work for professionals, not teenagers. A month later, we would drop by again, since a mat does no good rolled up in a closet, and only a second visit can tell us whether we made any difference.",
+       "zh": {
+        "p1": "如果學校只能選一個方案，我投給提供社區老人服務。去年冬天，一個人住在我們樓下的陳伯伯，某天晚上在浴室跌倒了。他爬不起來，在冰冷的地板上躺了將近六個小時。隔天早上他女兒打電話給他，一直沒人接，才請我爸爸下樓去看看。他出院回家以後，我媽媽要我送一些柳丁下去給他，到了他家，我看得出來事情是怎麼發生的：浴室的磁磚地上什麼也沒鋪，走廊的燈壞了好幾個月，一條舊的延長線就橫在他平常走的路上。這些事從來沒有人注意到，連他女兒也沒有。送餐和陪伴都很重要，可是陳伯伯需要的，是有人在他家裡走一圈，及早發現那些危險。",
+        "p2": "所以我希望學校辦的是居家安全訪視。老師可以先問里長，哪些獨居的長輩願意讓我們到家裡去；接著利用兩個星期六上午，我們分成幾個小組去拜訪，每組都有一位老師或志工同行。長輩不會隨便讓陌生人進家門，有大人一起去，第一次敲門就容易得多。帶一張簡短的檢查表，可以讓我們不忘了正事，因為一聊起來，很容易就忘了自己是來做什麼的。要做的事都很簡單：在浴室鋪上止滑墊、在走廊插幾盞小夜燈、把散落的電線收到旁邊，再把緊急聯絡電話用大字寫好，貼在電話旁邊。凡是需要工具或梯子的，像是沒有裝煙霧警報器，或是需要加裝扶手，我們就轉告里長；那是專業人士的工作，不是我們高中生能做的。一個月後，我們會再去看一看，因為止滑墊要是捲起來收進櫃子裡，就一點用也沒有；也只有第二次去，才知道我們做的事有沒有幫上忙。"
+       },
+       "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；這一篇寫了 337 個單詞。\n三個方案是一張選單，選哪一個都可以，沒有哪一個比較好得分。官方七篇佳作裡，選提供社區老人服務的有三篇，第 1、2、5 篇；那三篇的活動內容大多是送餐、打掃、陪伴與聽長輩說故事，也就是題目括號裡舉的那幾個例子。這一篇換一個角度：到獨居長輩家裡做居家安全檢查。你如果想寫送餐、陪伴那一種，點進佳作頁看真實考生怎麼寫最有效。\n第二段最容易漏掉的是「設計理由」那半句。這一篇每一項安排都附了理由：為什麼要有大人同行、為什麼帶檢查表、為什麼學生只做這幾件事、為什麼一個月後要回訪。活動也要寫得做得到：高中生不會自己去裝扶手、爬梯子，這些工作交給里長找專業的人，寫出這一層，內容才可信。只列出活動名稱、沒寫為什麼這樣設計，寫作任務就只完成了一半。"
+      },
+      "mapping": [
+       {
+        "k": "內容",
+        "t": "題目要的「充分、具體之說明」在這一篇是人事時地物：去年冬天、住在樓下的獨居長輩陳伯伯、夜裡在浴室跌倒、在冰冷的地板上躺了將近六個小時、隔天早上女兒打電話沒人接、磁磚地上什麼也沒鋪、壞了好幾個月的走廊燈、橫在路上的延長線。第二段一樣具體——里長提供名單、兩個星期六上午、每組都有大人同行、止滑墊與小夜燈、大字的緊急電話、需要工具的轉告里長、一個月後再去一次，寫的都是實際的做法，不是「希望長輩感受到溫暖」這種空話。"
+       },
+       {
+        "k": "組織",
+        "t": "第一段先表明選哪一個方案，再用一件發生在樓下的事說明原因，最後收在「陳伯伯需要的，是有人及早發現那些危險」；第二段照活動的先後寫：先找名單、再分組拜訪、只做簡單安全的事、需要工具的轉告里長、一個月後再去一次，每一步都附上理由。題目指定文分兩段，這一篇就寫兩段，兩段各自完成一件寫作任務。"
+       },
+       {
+        "k": "文法句構",
+        "t": "主幹是單句與對等句，變化來自關係子句（who lives alone downstairs）、放在句首的形容詞片語（Unable to get up, …）、過去完成式（had happened、had been broken）、間接問句（which seniors living alone would…、whether we made any difference）、what 帶出的名詞子句（what Mr. Chen needed was…），以及分詞片語（seniors living alone、a mat … rolled up in a closet）。句子寫得清楚比寫得複雜重要。"
+       },
+       {
+        "k": "字彙拼字",
+        "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形七個：cord 與 cords（電線）、professionals（專業人士）、volunteer（志工）為四級，extension（延長）與 tile（磁磚）為五級，tucking（收好、塞好）為六級，占 208 個詞形的 3.4%。extension cord（延長線）、bare tile（沒鋪任何東西的磁磚地）、tuck cords out of the way（把電線收到不會絆到人的地方）都是最自然的說法，照樣使用。這一篇容易拼錯的是 emergency、extension、volunteer、professionals 這幾個。"
+       }
+      ]
      }
     ]
    }
