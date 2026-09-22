@@ -5848,7 +5848,7 @@
     "校園與學習",
     "人際關係與友誼"
    ],
-   "prompt": "高中同學決定召開畢業後的第一次同學會，你被公推負責主辦。請將你打算籌辦的活動寫成一篇短文。文分兩段，第一段詳細介紹同學會的時間、地點及活動內容，第二段則說明採取這種活動方式的理由。",
+   "prompt": "指定科目考試完畢後，高中同學決定召開畢業後的第一次同學會，你被公推負責主辦。請將你打算籌辦的活動寫成一篇短文。文分兩段，第一段詳細介紹同學會的時間、地點及活動內容，第二段則說明採取這種活動方式的理由。",
    "images": [],
    "rubricSource": "大考中心〈94年度指定科目考試非選擇題評分標準說明〉（英文考科部分游春琪撰）",
    "sourceLinks": [
@@ -5913,7 +5913,7 @@
     "個人成長與自我探索"
    ],
    "officialTitle": "Travel Is The Best Teacher",
-   "prompt": "請以“Travel Is The Best Teacher”為主題，寫一篇至少 120 個字的英文作文。第一段針對文章主題，說明旅行的優點，並在第二段舉自己在國內或國外的旅行經驗，以印證第一段的說明。",
+   "prompt": "請以“Travel Is The Best Teacher”爲主題，寫一篇至少 120 個字的英文作文。第一段針對文章主題，說明旅行的優點，並在第二段舉自己在國內或國外的旅行經驗，以印證第一段的說明。",
    "images": [],
    "rubricSource": "大考中心選才通訊第 142 期〈學測與指考英文作文評分樣例〉（大考中心第一處／游春琪彙整）",
    "sourceLinks": [
@@ -5941,7 +5941,7 @@
     "個人成長與自我探索"
    ],
    "officialTitle": "What Makes A Good Friend?",
-   "prompt": "請以 “What Makes A Good Friend?” 為主題，寫一篇至少120個字的英文作文。第一段針對文章主題，說明什麼樣的朋友才算是「好朋友」，並在第二段舉自己的交友經驗為例，以印證第一段的說明。",
+   "prompt": "請以 “What Makes A Good Friend?” 爲主題，寫一篇至少 120 個字的英文作文。第一段針對文章主題，說明什麼樣的朋友才算是「好朋友」，並在第二段舉自己的交友經驗爲例，以印證第一段的說明。",
    "images": [],
    "source": "大學入學考試中心 93 學年度指定科目考試補考英文考科"
   },
@@ -6002,7 +6002,7 @@
     "校園與學習",
     "家庭與生活"
    ],
-   "prompt": "小考、段考、複習考、畢業考等已成為高中生生活的一部分。第一段以Exams of all kinds have become a necessary part of my high school life.為主題句；第二段則以 The most unforgettable exam I have ever taken is…為開頭並加以發展。",
+   "prompt": "小考、段考、複習考、畢業考、甚至校外其它各種大大小小的考試，已成爲高中學生生活中不可或缺的一部份。請寫一篇 120 至 150 個單詞左右的英文作文，文分兩段，第一段以 Exams of all kinds have become a necessary part of my high school life.爲主題句；第二段則以 The most unforgettable exam I have ever taken is…爲開頭並加以發展。",
    "images": [],
    "source": "大學入學考試中心 92 學年度指定科目考試英文考科"
   },
@@ -6063,7 +6063,7 @@
     "社會現象與公共議題",
     "個人成長與自我探索"
    ],
-   "prompt": "If I won two million dollars in the lottery, I would help …",
+   "prompt": "文章請以“If I won two million dollars in the lottery, I would help …”開始，敘述如果你或妳贏得台灣樂透彩新台幣兩百萬元之後，最想把全數金額拿去幫助的人、機構或組織，並寫出理由。",
    "images": [],
    "source": "大學入學考試中心 91 學年度指定科目考試英文考科"
   },
