@@ -567,6 +567,7 @@ function card(it){
   }
   d.appendChild(el('p','prompt',it.prompt));
 
+  if(it.promptNote)d.appendChild(el('p','reuse',it.promptNote));
   if(it.reuseNote)d.appendChild(el('p','reuse',it.reuseNote));
 
   // 字詞搭配：主題級與題目級用完全相同的 groups 結構，只是掛載點不同，
