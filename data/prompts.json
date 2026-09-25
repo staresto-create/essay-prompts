@@ -5788,7 +5788,45 @@
    ],
    "source": "大學入學考試中心 96 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一個女孩與貓的邂逅與後續故事，可以自選圖片順序。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 314,
+     "p1": "On a sunny Saturday afternoon, Lily was walking through the park near her home when she heard a soft jingle among the flowers. A tiny kitten was chasing a little ball with a bell inside. Lily crouched down and rolled the ball back to it. The kitten pounced on it at once, and soon the two of them were playing like old friends. When the sun began to set, Lily stood up to leave, but the kitten kept rubbing against her legs. It looked so thin that she could not bear to leave it alone, so she picked it up and carried it home in her arms. What she did not notice was that three stray cats were following close behind her.",
+     "p2": "At the front door, Lily saw her mother and begged, \"Mom, can I keep it? Look how hungry it is!\" Her mother frowned. \"A pet is a lot of work,\" she said. After a long pause, she finally agreed, as long as Lily promised to feed the kitten and clean up after it herself. In her excitement, Lily left the door open and ran to her room to find a box for her new friend. When she came back to the living room, she froze. Cats were everywhere. The strays had slipped in through the open door, and a few more had joined them. They had torn the sofa, knocked over the broom, and dragged fish bones out of the trash can, leaving paw prints all over the floor. In the middle of the mess sat the kitten, looking as if it had invited them all. That evening, Lily and her mother cleaned up the room together, and the next day they took the strays to an animal shelter. From then on, Lily kept her promise, because she had learned that having a pet means much more than cuddling a cute kitten.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長 120 個單詞(words)左右」，而這一年的扣分規則只寫了字數不足扣 1 分，沒有寫多寫扣分；這一篇寫了 314 個單詞，篇幅是為了把四張圖的細節和故事的結局都寫具體。\n這一題讓考生自己選順序：可以照 1 到 4 的順序寫，也可以自己決定四張圖的順序，只要四張圖意都寫到、情節完整、前後發展合理。本篇照 1 到 4 的順序寫。要自訂順序也可以，例如先寫第 4 張客廳一團亂的場面，再回頭交代這些貓是怎麼跟進來的；這樣寫時，回頭交代的那一段要用過去完成式，詳見底下文法句構那一項。\n這一年的說明沒有規定要分幾段，本篇分成兩段，第一段在公園，第二段回到家裡，是為了讓讀者看得出場景換了，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "一個晴朗的星期六下午，莉莉走在家附近的公園裡，忽然聽到花叢間傳來一陣輕輕的鈴鐺聲。原來是一隻小貓在追一顆裡面裝著鈴鐺的小球。莉莉蹲下來，把球滾回去給牠。小貓馬上撲了上去，沒多久，一人一貓就像老朋友一樣玩了起來。太陽開始下山了，莉莉站起來準備回家，可是小貓一直在她腳邊磨蹭。牠看起來那麼瘦，莉莉實在不忍心丟下牠，就把牠抱起來，一路抱回家。她沒注意到的是，有三隻流浪貓緊緊跟在她後面。",
+      "p2": "莉莉一到家門口，看到媽媽就求她：「媽，我可以養牠嗎？你看牠多餓！」媽媽皺起眉頭說：「養寵物要花很多心力的。」停了好一會兒，媽媽終於答應了，條件是莉莉要自己餵小貓，牠弄髒的地方也要自己清理。莉莉一興奮，門也沒關就跑回房間，要找一個箱子給她的新朋友。等她回到客廳，整個人都愣住了。到處都是貓。那幾隻流浪貓從開著的門溜了進來，還多了幾隻跟著進來。牠們把沙發抓破了，把掃把撞倒了，還從垃圾桶裡拖出魚骨頭，弄得滿地都是腳印。小貓就坐在這一團亂的正中間，好像大家都是牠請來的。那天晚上，莉莉和媽媽一起把客廳收拾乾淨，隔天就把那幾隻流浪貓送到動物收容所。從那以後，莉莉一直遵守自己的承諾，因為她明白了，養寵物不只是抱抱可愛的小貓而已。"
+     }
+    },
+    "rubric": {
+     "intro": "96 學測的官方說明只有一份，是選才通訊第 151 期〈96學科能力測驗國文、英文考科非選擇題評分標準說明〉，英文考科部分由林秀慧撰。這一份稱這一年的英文作文為「看圖作文」，滿分 20 分。\n評分標準包含五項：內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分；原文列名寫作「文法、句構」「字彙、拼字」，中間多一個頓號。扣分規則只有一條：字數不足，扣 1 分。這一份沒有附分項式評分指標表，也沒有寫整體式評分的等級。",
+     "keypoint": "這一年的看圖作文有一個特色，官方說明特別寫出來：考生可以依自己的解釋，把四張圖排出順序來寫，創意空間比較大。題目本身也把條件講清楚了：故事內容務必涵蓋四張圖意，情節要完整，前後發展要合理。所以不論照哪一種順序，四張圖都要寫到，而且圖和圖之間要接得上。\n官方說明另外記了閱卷時看到的兩種情形：抄選擇題文章的內容，以及寫作能力不足而改用中文作答。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "四張圖都寫到，照題目的順序：第一張在公園花叢邊和小貓玩球；第二張把小貓抱回家，沒發現三隻流浪貓跟在後面；第三張在家門口求媽媽讓她養，媽媽答應了，條件是她要自己照顧；第四張客廳一團亂，沙發抓破、掃把倒地、地上有魚骨頭和腳印。題目要求情節完整，所以最後補上結局：和媽媽一起收拾、把流浪貓送到收容所，以及莉莉學到的事。圖上沒畫、範文自己補的細節，都是為了讓前後接得上：球裡的鈴鐺聲讓她發現小貓，沒關的門讓流浪貓進得來，垃圾桶交代魚骨頭從哪裡來。"
+     },
+     {
+      "k": "組織",
+      "t": "兩段跟著場景切：第一段在公園，第二段回到家裡。四張圖之間靠因果接起來：小貓一直跟著不走，她才把牠抱回家；第一段最後一句先寫三隻流浪貓跟在後面（three stray cats were following close behind her），第二段才寫牠們溜進客廳（The strays had slipped in），前面寫的伏筆後面有交代。時間的轉換靠 When the sun began to set、At the front door、After a long pause、When she came back to the living room、That evening、the next day、From then on。最後一句回頭接上第三張的條件（promised → kept her promise）。"
+     },
+     {
+      "k": "文法句構",
+      "t": "敘事整段用過去式，引號裡的對話照說話當下的時間，用現在式（can I keep it、A pet is a lot of work）。第一句的 was walking … when she heard 是過去進行式接 when：她正在公園裡走，這時候聽到鈴鐺聲。\n第四張用過去完成式（had + p.p.）：莉莉回到客廳愣住的時候，貓已經溜進來、把客廳弄亂了，這幾件事比「愣住」更早發生，所以寫成 had slipped in、had joined、had torn。先寫第 4 張、再回頭交代經過的寫法，回頭交代的部分也要用過去完成式。\n[What she did not notice] was (that three stray cats were following close behind her)：What 引導的名詞子句當主詞，把要強調的部分放到 be 動詞後面。還原成不強調的說法是 She did not notice that three stray cats were following close behind her。What 子句當主詞視為單數，所以用 was。\n[In the middle of the mess] sat (the kitten)：地方副詞片語放句首，主詞與動詞倒裝。還原成一般語序是 The kitten sat in the middle of the mess。這種倒裝常用的動詞是 be、sit、stand、lie 這類表示位置的動詞。\n其他句型：so … that 表結果（It looked so thin that she could not bear to leave it alone）；as long as 表條件，意思是「只要」（she finally agreed, as long as Lily promised …）；分詞片語接在句尾，補充同一時間的情形（…, leaving paw prints all over the floor；…, looking as if it had invited them all）；as if 後面接過去完成式，表示與過去事實相反：那些貓其實不是小貓請來的。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 130、二級 19、三級 4、四級 4、六級 3，四級以上 7 個、占 160 個詞形的 4.4%，是 stray、strays（流浪的；流浪動物）與 jingle（叮噹聲），皆為六級，以及 broom（掃把）、frown（皺眉）、paw（腳掌）、shelter（收容所），皆為四級。詞彙表沒有收錄的有四個：kitten（小貓）、crouch（蹲下）、pounce（撲上去）、cuddle（摟著、抱抱），範文照樣使用，因為講小貓和貓的動作，英文就是這樣說：crouch down 就是第一張圖裡蹲下去的姿勢，pounce on 是貓往前一撲、抓住東西。clean up after（替……收拾弄髒的地方）講寵物時很常用。這一篇容易拼錯的是 kitten、crouched、excitement 這幾個，kitten 中間是兩個 t。"
+     },
+     {
+      "k": "體例",
+      "t": "96 這一年的體例配分 2 分，這一份沒有說明看哪些地方；同時期的 97 學測表 1 寫明，體例看的是格式、標點與大小寫。故事裡有對話，標點最容易出錯：逗號、問號與驚嘆號放在引號裡面（begged, \"Mom, can I keep it? …\"；\"A pet is a lot of work,\" she said）。Mom 當稱呼用，第一個字母大寫；人名 Lily 與 Saturday 也要大寫。"
+     }
+    ]
+   }
   },
   {
    "id": "E96_JCEE",
