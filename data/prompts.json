@@ -5713,7 +5713,45 @@
      "label": "選才通訊第 168 期：國文、英文考科非選擇題評分標準說明"
     }
    ],
-   "source": "大學入學考試中心 97 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 97 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 152,
+     "p1": "The TV commercial that impressed me most is a Ghost Month ad from PX Mart. In it, a young person sits at an offering table, face to face with a mischievous spirit from Taiwanese folk tales. The spirit's makeup is frightening, but their conversation is surprisingly light. The young person complains that photos posted online get only a few likes. \"At least everyone can see you,\" the spirit replies.",
+     "p2": "This ad has stayed with me for two reasons. First, it turns a month that many people fear into something warm and funny. Second, the talk about likes hit close to home. Like many students, I often check how many likes my posts get. When the spirit said that the loneliest thing is standing in front of someone who does not know you are there, I laughed at first. Then I realized that I should pay more attention to the people around me.",
+     "caveat": "這是一種寫法，不是標準答案。題目的說明寫「文長至少120個單詞」，提示又寫「請寫一篇大約120-150字的短文」；本篇照提示給的範圍寫，共 152 個單詞。\n題目要介紹一則電視或平面廣告。範文寫的是全聯福利中心 2020 年中元節系列裡的一支，這一系列 8 月 14 日起在電視上播出。選全聯的中元節廣告，是因為有一份高中生做的調查：台中曉明女中三位高一學生寫過一篇小論文，題目是全聯的創意廣告怎麼吸引年輕族群，她們問卷調查 218 位台中市的高中生，印象最深刻的全聯廣告是 2013 到 2016 年的中元節系列，合計占 77%；覺得全聯廣告幽默有趣的占 82%，覺得有創意的占 86%。這是學生的研究，不是官方資料；問卷調查的是 2013 到 2016 年的廣告，範文寫的這一支屬於同一個系列的延續。\n範文裡魔神仔那一句 At least everyone can see you，是把廣告的中文台詞翻成英文。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "我印象最深刻的電視廣告，是全聯的一支中元節廣告。廣告裡，一個年輕人坐在供桌旁，和台灣民間傳說裡愛捉弄人的魔神仔面對面。魔神仔的妝很嚇人，兩人的對話卻出乎意料地輕鬆。年輕人抱怨自己 PO 上網的照片，都只有幾個人按讚。魔神仔回答：「起碼大家都看得到你。」",
+      "p2": "這支廣告讓我一直記得，原因有兩個。第一，它把很多人害怕的鬼月，拍得溫暖又好笑。第二，按讚那一段正好說中了我的心事。跟很多學生一樣，我常常查看自己的貼文有幾個讚。魔神仔說，世界上最寂寞的事，就是站在一個人面前，對方卻不知道你在那裡；我一開始聽了哈哈大笑，後來才明白，我應該多留意身邊的人。"
+     }
+    },
+    "rubric": {
+     "intro": "97 指考的官方說明只有一份，是選才通訊第 168 期〈97指考國文、英文考科非選擇題評分標準說明〉，英文考科部分由大考中心第一處游春琪撰，依據為「九十七學年度指定科目考試人工閱卷英文考科評分標準訂定會議」。非選擇題共 28 分：英文翻譯 8 分，英文作文 20 分。\n英文作文主要測驗考生是否能運用詞彙、語法、修辭知識，寫出切合主題、具統一性、聯貫性之短文。評分採整體式，分五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分；閱卷委員讀完試卷，先有一個分數，再以表一〈英文作文分項式評分指標〉檢閱是否符合。分項為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分。表一的列名寫作「文法、句構」「字彙、拼字」，中間有頓號；體例那一列只分三格，「優」與「可」併成一格，同給 2 分。各等級的評分樣例，這一份指向選才通訊第 142 期（以 93 年學測與指考英文作文為題）。\n扣分規則有三句：字數明顯不足，扣 1 分；未分段，扣 1 分；寫多段，不扣分。",
+     "keypoint": "題目把兩段的分工寫得很清楚：第一段描述廣告的內容，第二段說明這則廣告令你印象深刻的原因。第一段括號裡的「主題、故事情節、音樂、畫面等」前面有一個「如」字，是舉例，挑這則廣告最有東西可寫的幾樣來寫就可以。\n第二段問的是這則廣告為什麼令「你」印象深刻，所以原因要落在自己身上。範文第二個原因寫的是自己也常查看貼文有幾個讚，這就是只有寫的人自己才寫得出來的細節。另外，題目指定的是電視或平面廣告，選材時要照題目的規定，挑一則電視或平面廣告來寫。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段描述廣告的內容，寫到題目括號裡的三樣：主題（全聯的中元節廣告）、故事情節（年輕人和魔神仔在供桌旁面對面，抱怨照片按讚的人太少）、畫面（魔神仔嚇人的妝）。音樂範文沒有寫，因為括號裡列的是舉例。第二段給兩個原因：一是把很多人害怕的鬼月拍得溫暖又好笑，二是按讚那一段說中了自己的心事；最後用笑了之後想通的一件事收尾。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句就點出是哪一則廣告（The TV commercial that impressed me most is…），In it 帶進畫面，but 把嚇人的妝轉到輕鬆的對話，最後以魔神仔的一句回答結束。第二段第一句 This ad has stayed with me for two reasons 先說有兩個原因，再用 First、Second 分開；第二個原因用 When… I laughed at first. Then I realized… 寫出想法怎麼轉變。"
+     },
+     {
+      "k": "文法句構",
+      "t": "這一篇的時態分兩層。描述廣告裡發生的事用現在式（sits、complains、replies）：介紹電影、廣告這類作品的情節，英文慣用現在式，好像每次播放時事情都正在發生。寫自己看廣告時的反應用過去式（said、laughed、realized）。第二段開頭 has stayed 用現在完成式，表示從看到那天起一直記到現在。\nWhen the spirit said that the loneliest thing is… 前面用過去式 said，that 後面卻用現在式 is。轉述別人說過的話時，that 子句的時態通常會跟著往前推（is → was）；不過，如果說的是不變的真理或事實，that 子句就用現在式。例如：The biology teacher told us yesterday that elephants are the biggest animals on land.（生物老師昨天告訴我們，大象是陸地上最大的動物。）魔神仔這句話講的是世上最寂寞的事，屬於這一類，所以用 is。\n句型的變化來自幾處：photos (that are) posted online 用過去分詞片語修飾名詞；the loneliest thing is [standing in front of someone] 用動名詞片語當補語；someone who does not know (that) you are there 是關係子句裡再接一個省略 that 的名詞子句；\"At least everyone can see you,\" the spirit replies 把直接引語放在句首。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇對過大考中心《高中英文參考詞彙表》：可查詞形 91 個，一級 73、二級 12、三級 3、四級 1、五級 1、六級 1，四級以上 3 個、占 3.3%，是 makeup（化妝，四級）、offering（供品，五級）、mischievous（愛惡作劇的，六級）；offering table 就是供桌。PX Mart 是全聯福利中心的英文名稱。hit close to home 是道地的說法，意思是某件事說中了自己的處境，讓人特別有感。這一篇容易拼錯的是 mischievous、commercial、surprisingly 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "這一份把體例列為一項、配分 2 分，看的是格式、標點、大小寫；表一這一項「優」與「可」併成一格給 2 分，「差」給 1 分，「劣」給 0 分。扣分規則另寫未分段扣 1 分、寫多段不扣分；範文文分兩段。標點上，直接引語 \"At least everyone can see you,\" 的逗號放在引號裡面；大小寫上，PX Mart、Ghost Month 每個字的首字母大寫，TV 全部大寫，Taiwanese 首字母大寫。"
+     }
+    ]
+   }
   },
   {
    "id": "E96_GSAT",
