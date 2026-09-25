@@ -894,6 +894,8 @@ function card(it){
   return d;
 }
 
+// 站內錨點（逐年對照表、自我檢查、評分樣例）不是篩選條件：讀篩選時略過，無篩選時保留在網址上。
+const ANCHORS=['#official-table','#selfcheck','#graded-samples'];
 function writeHash(){
   const p=new URLSearchParams();
   if(S.years.length)p.set('y',S.years.join(','));
@@ -903,9 +905,11 @@ function writeHash(){
   if(S.official)p.set('off','1');
   if(S.wb)p.set('wb','1');
   const s=p.toString();
+  if(!s&&ANCHORS.includes(location.hash))return;
   history.replaceState(null,'',s?'#'+s:location.pathname);
 }
 function readHash(){
+  if(ANCHORS.includes(location.hash))return;
   const h=location.hash.replace(/^#/,'');
   if(!h)return;
   const p=new URLSearchParams(h);
@@ -1095,11 +1099,22 @@ fetch('data/prompts.json')
     buildSelfCheck();
     buildYearTable();
     render();
+    jumpToAnchor();
   })
   .catch(()=>{
     $('#tally').textContent='題目資料載入失敗。';
     $('#list').innerHTML='<div class="empty"><b>讀不到題目資料</b><p>請確認 data/prompts.json 與 index.html 放在同一個 repo，且檔名大小寫相符。</p></div>';
   });
+
+// 題目卡片是資料載入後才畫出來的，瀏覽器第一次捲動時錨點還在上方；卡片畫完之後再展開並捲過去一次。
+function jumpToAnchor(){
+  const h=location.hash;
+  if(!ANCHORS.includes(h))return;
+  const d=h==='#official-table'?$('#official-table'):$('#selfcheck');
+  if(d)d.open=true;
+  const t=$(h);
+  if(t)requestAnimationFrame(()=>t.scrollIntoView({block:'start'}));
+}
 
 window.addEventListener('hashchange',()=>{
   if(location.hash==='#official-table'){const d=$('#official-table');if(d)d.open=true}
