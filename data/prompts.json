@@ -5647,7 +5647,47 @@
      "label": "選才通訊第 163 期：國文、英文考科非選擇題評分原則說明"
     }
    ],
-   "source": "大學入學考試中心 97 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 97 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 304,
+     "opening": "Dear Eve,",
+     "p1": "I'm writing with some bad news, and I wish I could tell you in person instead. I lost the light stick you lent me for last Saturday's concert. The show was amazing, and I waved your light stick through every song. Afterward, I joined the line for the meet-and-greet. Since I needed both hands to hold my album and my phone, I slipped the light stick into the side pocket of my backpack. The line moved slowly, and the crowd kept pushing forward. When I finally got my album signed, I was so excited that I forgot to check my bag. It wasn't until I reached the MRT station that I noticed the pocket was empty. I rushed back and searched the line, the seats, and even the restrooms, but it was nowhere to be found.",
+     "p2": "I'm really sorry. I know how much that light stick means to you. You waited in line for hours to buy it on the first day, and it was a limited edition. Now the official store is sold out, and the next batch won't arrive until next month. Here is what I plan to do. First, I have left my phone number with the lost and found at the venue, and I will call them every day this week. Second, I have posted photos of it in our fan group, in case someone picked it up by mistake. Finally, if it still doesn't turn up, I will order a new one the moment the store restocks and pay for it with my own savings. I know a new one can't take the place of the one you waited so long for, but I hope it makes up for my mistake a little. Please forgive my carelessness. From now on, I'll take better care of anything you lend me.",
+     "closing": "Your friend,\nMary",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長 120 個單詞(words)左右」，而這一年的扣分規則只寫了字數不足扣 1 分，沒有寫多寫扣分；這一篇的正文寫了 304 個單詞，開頭的稱呼語與信末的署名不算在內，篇幅是為了把遺失的經過與三個解決方案都寫出具體的細節。\n這一題是一封信，除了正文，開頭的稱呼語與信末的署名也在評分範圍內，而且信末只能用題目指定的英文名字署名，詳見底下體例那一項。\n題目只說「一件相當珍貴的物品」，沒有指定是什麼。範文寫的是演唱會的限量應援棒，因為它同時符合題目的兩個條件：對借出的人很珍貴，一時又買不到。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "很抱歉要跟你說一個壞消息，真希望我能當面告訴你。我弄丟了你借我去看上星期六演唱會的那支應援棒。演唱會非常精彩，每一首歌我都揮著你的應援棒。散場以後，我去排見面會的隊伍。因為兩隻手要拿專輯和手機，我就把應援棒塞進背包側邊的口袋。隊伍前進得很慢，後面的人一直往前擠。終於拿到簽名專輯的時候，我太興奮了，忘了檢查包包。一直到走到捷運站，我才發現那個口袋是空的。我趕緊回頭，排隊的地方、座位，連廁所都找過了，可是怎麼找都找不到。",
+      "p2": "真的很對不起。我知道那支應援棒對你有多重要。你在開賣第一天排了好幾個小時的隊才買到，而且那是限量版。現在官方商店已經賣完了，下一批要到下個月才會到貨。我打算這樣做。第一，我已經在場館的失物招領處留了電話，這個星期我每天都會打去問。第二，我已經在我們的粉絲群組貼了它的照片，說不定有人不小心撿走了。最後，如果還是找不到，商店一補貨，我就馬上訂一支新的，用我自己存的錢付。我知道新的沒辦法取代你排了那麼久才買到的那一支，但希望多少能彌補我的過失。請原諒我的粗心。從今以後，你借我的任何東西，我都會更小心保管。"
+     }
+    },
+    "rubric": {
+     "intro": "97 學測的官方說明只有一份，是選才通訊第 163 期〈97學科能力測驗國文、英文考科非選擇題評分原則說明〉，英文考科部分由大考中心第一處林秀慧撰，依據為「九十七學年度學科能力測驗人工閱卷英文考科評分標準訂定會議」。這一份把這一年的英文作文稱為「簡函寫作」，滿分 20 分。\n評分採整體式（原文寫 holistic），分為五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分；閱卷委員讀完試卷，先有一個整體分數，再用分項式評分指標檢閱是否符合。分項為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分。表 1〈英文作文分項式評分指標〉的列名寫作「文法、句構」「字彙、拼字」，中間多一個頓號；體例那一列只分三格，「優」與「可」併成一格，同給 2 分。\n扣分規則有三條：字數不足，扣 1 分；未分兩段，在體例部分扣 1 分；未使用適當書信格式（如未書寫稱呼語及信末署名），扣 1 分。",
+     "keypoint": "這一年的英文作文一改往年的看圖寫作，改考簡函寫作。官方說明特別寫到，簡函寫作不是新的題型：84 學測就考過，而且是 84 年公布的高中英文課程綱要規範高中生須具備的寫作能力之一。\n題目把兩段的分工寫得很清楚：第一段說明物品遺失的經過，第二段表達歉意並提出可能的解決方案。第二段要做兩件事，道歉之外，解決方案要具體到對方看得出你打算怎麼補救。題目另有一句「一時又買不到替代品」，所以解決方案不能只寫「我再買一個還你」，還要想好買不到的這段時間怎麼辦。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要求的三件事，這一篇都寫到了。第一段是遺失的經過：演唱會散場後去排見面會（meet-and-greet），因為兩隻手要拿專輯和手機，把應援棒塞進背包側邊的口袋，走到捷運站才發現不見了，回頭把排隊的地方、座位與廁所都找過一遍。第二段先道歉，再交代這支應援棒為什麼一時買不到：限量版、官方商店賣完、下一批下個月才到貨。接著提出三個解決方案：在場館的失物招領處留電話、在粉絲群組貼照片協尋、補貨一開賣就自己出錢買一支新的。三個方案由近到遠排，先想辦法找回原來那一支，找不到才買新的。"
+     },
+     {
+      "k": "組織",
+      "t": "書信的格式是開頭稱呼語、正文、結尾敬語加署名。正文照題目分兩段：第一段前兩句就交代寫信的原因（I lost the light stick you lent me），接著照時間順序寫演唱會、排隊、把應援棒放進口袋、到捷運站才發現、回頭去找；時間的轉換靠 Afterward、When I finally got my album signed、It wasn't until I reached the MRT station 這幾處。第二段以 I'm really sorry 開頭道歉，Here is what I plan to do 一句帶出方案，再用 First、Second、Finally 排開三項，最後以請求原諒與一句保證作結。"
+     },
+     {
+      "k": "文法句構",
+      "t": "這一篇的時態跟著事情走：遺失的經過用過去式（lost、waved、slipped、rushed back），現在的狀況用現在式（I know how much that light stick means to you、the official store is sold out），已經做完的補救用現在完成式（I have left my phone number、I have posted photos），接下來要做的事用 will（I will call them every day this week）。\n第一段有一個強調句（分裂句）：It wasn't until I reached the MRT station that I noticed the pocket was empty。這個句型的框架是 It is／was [要強調的部分] that (句子其餘的部分)，把想強調的那一塊搬到 It was 後面，其餘的部分放在 that 後面。還原成不強調的說法就看得出來：I didn't notice the pocket was empty until I reached the MRT station（我一直到走到捷運站，才發現口袋是空的）。要強調的是 [not until I reached the MRT station]，not 跟著 until 一起搬到前面，所以 that 後面的 (I noticed the pocket was empty) 變回肯定句，不能再寫成 didn't notice。事情發生在過去，框架裡的 be 動詞用 was。\n第二段的 in case someone picked it up by mistake，時態要看 in case 後面那件事發生在什麼時候。in case 表示「以防、萬一」：擔心的事還沒發生、可能發生在未來，用現在式，不用 will（Take an umbrella in case it rains）；擔心的事如果真的發生，是發生在過去，就用過去式。這一句的主要子句是現在完成式（I have posted photos of it），但「有人不小心撿走了」這件事要是真的發生，是在演唱會散場的那天晚上，所以用過去式 picked。\n其他句型：wish 後面接過去式助動詞，表示與現在事實相反的願望（I wish I could tell you in person）；so…that 表結果（I was so excited that I forgot to check my bag）；get＋受詞＋過去分詞，表示讓別人替你做（got my album signed）；the moment 當連接詞用，意思同 as soon as，後面表未來的時間子句用現在式（the moment the store restocks）。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 134、二級 20、三級 5、五級 3，四級以上 3 個、占 1.9%，是 batch（一批）、nowhere、venue（場館），皆為五級。restock（補貨）詞彙表沒有收錄，本字 stock 是五級。meet-and-greet（見面會）與 light stick（應援棒）詞彙表也沒有收這兩個組合，組成的字都在一、二級，範文照樣使用，因為講見面會和應援棒，英文就是這樣說。MRT 是台灣的捷運。這一篇容易拼錯的是 carelessness、afterward、restroom 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "這一份把體例列為一項、配分 2 分，看的是格式、標點、大小寫；未分兩段，也在這一項扣 1 分。扣分規則另有一條管書信格式：未使用適當書信格式（如未書寫稱呼語及信末署名），扣 1 分。題目還規定信末只能用 George 或 Mary 署名，不得使用自己真實的中文或英文姓名。這一篇開頭寫 Dear Eve，稱呼語後面接逗號；信末 Your friend 後面同樣接逗號，下一行署名 Mary，兩個名字都是題目指定的。大小寫上，Eve、Mary、Saturday 照專有名詞寫，MRT 全部大寫；標點上，meet-and-greet 兩處連字號不能省，First、Second、Finally 後面各接逗號。"
+     }
+    ]
+   }
   },
   {
    "id": "E97_JCEE",
