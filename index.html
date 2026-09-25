@@ -797,7 +797,8 @@ function card(it){
         a.mapping.forEach(x=>{
           const li=document.createElement('li');
           li.appendChild(el('span','mdK',x.k));
-          li.appendChild(document.createTextNode(x.t));
+          // mapping 的內容以換行符分段，段與段之間換行；未分段者只有一段，畫面與先前相同。
+          x.t.split('\n').forEach((y,j)=>{if(j)li.appendChild(document.createElement('br'));li.appendChild(document.createTextNode(y))});
           ul.appendChild(li);
         });
         mapWrap.appendChild(ul);
