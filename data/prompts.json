@@ -1,7 +1,7 @@
 {
  "version": "1.0",
  "updated": "2026-09-25",
- "count": 62,
+ "count": 63,
  "items": [
   {
    "id": "E115_GSAT",
@@ -5774,6 +5774,33 @@
    "source": "大學入學考試中心 95 學年度學科能力測驗英文考科",
    "promptSummary": "三格漫畫描述一個女子在廚房，大猩猩突然出現，結果是穿著猩猩裝的男子送花。",
    "summarySource": "外部模型產出，未經查證，不上站"
+  },
+  {
+   "id": "E95_GSAT_REF95",
+   "year": 95,
+   "exam": "課綱參考試卷",
+   "examCode": "GSAT_REF95",
+   "isOfficial": false,
+   "promptFormat": "圖片",
+   "hasImage": true,
+   "genre": [
+    "記敘文"
+   ],
+   "theme": [
+    "校園與學習"
+   ],
+   "prompt": "請以下列四張圖畫內容為藍本，依序寫一篇文章，描述兩個學生在圖書館的尷尬經驗。請注意，故事內容務必涵蓋四張圖意，力求情節完整、前後發展合理。",
+   "images": [
+    {
+     "webp": "E95_GSAT_REF95.webp",
+     "png": "E95_GSAT_REF95.png",
+     "size": [
+      1000,
+      615
+     ]
+    }
+   ],
+   "source": "大學入學考試中心 95 課綱學科能力測驗參考試卷英文考科"
   },
   {
    "id": "E95_JCEE",
