@@ -5853,7 +5853,45 @@
      "label": "選才通訊第 156 期：國文、英文考科非選擇題評分標準說明"
     }
    ],
-   "source": "大學入學考試中心 96 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 96 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 304,
+     "p1": "Imagine waking up one morning in a world without electricity. The lights would not turn on, and the microwave would be useless, so I would have to eat a cold breakfast. My phone would still work for a while, but once the battery ran out, there would be no way to charge it. The MRT would stop running, and the traffic lights at every corner would go dark, so the streets would be full of honking cars. At school, there would be no projectors or fans, and in the middle of summer in Taiwan, the classroom would feel like an oven. After sunset, I would have to do my homework by candlelight, and anything in the refrigerator would go bad within a day or two. In short, the life we take for granted would come to a stop almost overnight.",
+     "p2": "In my opinion, such a world would be a bad one, because electricity does much more than make life convenient; it keeps people alive. In hospitals, breathing machines and incubators all run on electricity. Without it, patients who cannot breathe on their own and babies born too early would be in danger within minutes. Some medicines must be kept cold, and so must fresh food, so many people could get sick. The heat would be another problem. In summer, the temperature in Taiwan often climbs above 30°C, and without air conditioners, the elderly and young children could easily suffer from heatstroke. Some people might say that a world without electricity would bring families closer, since there would be no TV or Internet to keep everyone busy in the evening. That may be true, but a few more conversations at night could never make up for the lives that would be put at risk. For me, electricity is not a luxury but a necessity.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，是下限；本篇寫了 304 個單詞。\n題目問的是「是好是壞」，第二段一開頭就要表明立場。本篇認為是壞的；認為是好的也可以，只要舉例說明原因、前後一致。本篇在最後先讓一步，承認沒有電也有一點好處，再說明為什麼這點好處抵不過代價，這樣立場反而站得更穩。\n這一年的官方說明特別寫到：不一定要使用假設語氣，只要整篇時態一致、內容切合題意，就不扣分。本篇用假設語氣，整篇一致用 would，詳見底下文法句構那一項。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "想像一下，某天早上醒來，世界上沒有電了。燈打不開，微波爐也不能用，我只好吃冷的早餐。手機還能撐一陣子，可是電池一旦用完，就沒有辦法充電了。捷運會停駛，每個路口的紅綠燈都會熄掉，街上會擠滿猛按喇叭的車子。到了學校，沒有投影機，也沒有電扇；在台灣的盛夏，教室會熱得像烤箱一樣。太陽下山以後，我只能點蠟燭寫作業，冰箱裡的東西放個一兩天就會壞掉。總之，我們習以為常的生活，幾乎會在一夜之間停擺。",
+      "p2": "我認為這樣的世界是壞的，因為電的用處遠遠不只是讓生活方便，它還維持著人的性命。醫院裡的呼吸器和保溫箱全都靠電運轉。沒有電，無法自己呼吸的病人和早產的嬰兒，幾分鐘內就會有危險。有些藥必須冷藏，新鮮的食物也是，所以很多人可能會生病。高溫也會是另一個問題。台灣的夏天，氣溫常常超過攝氏 30 度，沒有冷氣，老人和小孩很容易中暑。有人可能會說，沒有電的世界會讓家人更親近，因為晚上沒有電視、沒有網路，大家不會各忙各的。這也許沒錯，但晚上多聊幾句話，永遠換不回那些因此陷入危險的性命。對我來說，電不是奢侈品，而是必需品。"
+     }
+    },
+    "rubric": {
+     "intro": "96 指考的官方說明只有一份，是選才通訊第 156 期〈96指考 國文、英文考科非選擇題評分標準說明〉，英文考科部分由大考中心第一處游春琪撰，依據為「九十六學年度指定科目考試人工閱卷英文考科評分標準訂定會議」。\n評分採整體式，分為五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分；閱卷委員讀完試卷，先在腦海裡產生一個分數，再以各分項評分標準檢閱是否符合整體印象分數。分項為內容 5 分、組織 5 分、文法與句構 4 分、字彙與拼字 4 分、體例 2 分。表 1〈英文作文分項式評分指標〉的列名寫作「文法、句構」「字彙、拼字」，中間多一個頓號；體例那一列只分三格，「優」與「可」併成一格，同給 2 分。表 1 註明改編自張武昌等（民 93）「英文寫作能力測驗規劃研究（VI）」研究報告。\n扣分規則：字數明顯不足，扣 1 分；未分段，扣 1 分；寫三段，不扣分。這一份另外寫明，各等級的評分樣例可參閱選才通訊第 142 期〈學測與指考英文作文評分樣例〉，該文以 93 年學測與指考的英文作文為題。",
+     "keypoint": "這一年的官方說明有一句是針對這一題寫的：不一定要使用假設語氣，只要整篇時態一致，內容切合題意，就不扣分。題目問的是一個想像的世界，用假設語氣最貼切，但沒用不會因此扣分；會扣分的是時態前後不一致，例如這一句用 would，下一句又換成 will 或現在式。\n題目把兩段的分工寫得很清楚：第一段描述沒有電的世界是什麼樣子，第二段說明這樣的世界是好是壞，並舉例解釋原因。第二段要做兩件事：先表明是好是壞，再舉例說明原因。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段用一個高中生一天的生活，描述沒有電的世界：早上燈打不開、微波爐不能用，手機撐一陣子之後就沒辦法充電，捷運停駛、紅綠燈熄滅，學校沒有投影機和電扇，晚上點蠟燭寫作業，冰箱裡的食物放不過兩天。第二段第一句就表明立場（a bad one），理由是電不只讓生活方便，還維持人的性命；接著舉三個例子：醫院的呼吸器與保溫箱、需要冷藏的藥品與食物、台灣夏天的高溫。最後先讓一步，承認有人會說沒有電可以讓家人更親近，再說明這點好處抵不過代價。表 1 內容那一列的「優」寫的是主題清楚切題，並有具體、完整的相關細節支持；本篇的例子都選台灣學生熟悉的情境。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段照一天的時間走：早上醒來（waking up one morning）、到學校（At school）、太陽下山以後（After sunset），最後以 In short 總結。第二段先寫主題句（In my opinion, such a world would be a bad one, because …），再寫理由與例子；The heat would be another problem 一句帶出第二類理由；Some people might say … That may be true, but … 是先讓步、再反駁；最後一句 For me, electricity is not a luxury but a necessity 收尾，回頭接上主題句。"
+     },
+     {
+      "k": "文法句構",
+      "t": "整篇的時態：沒有電的世界是一個假想的情況，與現在事實相反，所以用 would／could＋原形動詞講它會是什麼樣子。本篇沒有寫 if 子句，條件藏在 in a world without electricity 與 Without it 裡：Without it, patients … would be in danger，意思等於 If there were no electricity, patients … would be in danger。Without＋名詞、But for＋名詞都可以代替與現在事實相反的 if 子句。\n講事實的句子照事實用現在式：electricity does much more than make life convenient、In summer, the temperature in Taiwan often climbs above 30°C。假想的部分用 would，事實的部分用現在式，兩種時態各管各的，不算時態不一致。\nSome medicines must be kept cold, [and so must] (fresh food)：so＋助動詞＋主詞，表示「……也是」，助動詞跟著前一句用 must。還原成一般說法是 fresh food must be kept cold, too。\nnot [A] but [B]：electricity is not [a luxury] but [a necessity]（電不是奢侈品，而是必需品）。\n其他句型：Imagine＋V-ing（Imagine waking up one morning …）；so 接結果（… the microwave would be useless, so I would have to eat a cold breakfast）；once 當連接詞，意思是「一旦」（once the battery ran out）；關係子句修飾名詞（patients [who cannot breathe on their own]、the lives [that would be put at risk]）；過去分詞片語修飾名詞（babies [born too early]，意思等於 babies who were born too early）。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 130、二級 13、三級 9、四級 3、五級 1，四級以上 4 個、占 156 個詞形的 2.6%，是 battery（電池）、luxury（奢侈品）、overnight（一夜之間），皆為四級，以及 take … for granted（視為理所當然）裡的 grant，五級。詞彙表沒有收錄的有：incubator（保溫箱）、projector（投影機）、honk（按喇叭）、heatstroke（中暑）、air conditioner（冷氣機），範文照樣使用，因為這幾樣東西英文就是這樣說。necessity（必需品）三級，常與 luxury 成對出現。片語：take … for granted（視為理所當然）、make up for（彌補）、on their own（靠自己）、suffer from（受……之苦）、come to a stop（停下來）。這一篇容易拼錯的是 electricity、necessity、refrigerator 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "這一份的表 1，體例看的是格式、標點、大小寫；「優」與「可」併成一格，裡面只有一句：格式、標點、大小寫幾無錯誤。本篇要留意的有：分號連接兩個完整的句子（… convenient; it keeps people alive）；溫度寫成 30°C；MRT 全部大寫，Taiwan 首字母大寫。扣分規則另有一條管分段：未分段扣 1 分，題目也要求寫兩段，本篇照寫兩段。"
+     }
+    ]
+   }
   },
   {
    "id": "E95_GSAT",
