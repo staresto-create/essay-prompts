@@ -6018,7 +6018,45 @@
      "label": "選才通訊第 144 期：非選擇題評分原則說明"
     }
    ],
-   "source": "大學入學考試中心 95 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 95 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 352,
+     "p1": "Last spring, two days before our midterm exams, my classmate Amy messaged me for help. She had missed a week of school because of the flu, and she was completely lost in math. We started a video call at nine, and I went through the chapter with her, problem by problem. By eleven thirty, she finally understood, and we were both laughing at how many silly mistakes she had made. At that moment, my mother opened the door. All she saw was me at my desk with my earphones in, laughing at my phone. She did not notice the math notes spread across the desk. Before I could say a word, she accused me of breaking our rule of no games on school nights and took my phone away. When I tried to explain, she cut me off: \"Don't make excuses.\" I lay awake for a long time that night, feeling hurt and wronged. I had done nothing wrong; in fact, I had been doing something good.",
+     "p2": "The next evening, Amy's mother sent my mother a message to thank me for helping her daughter. My mother came to my room, handed my phone back, and apologized. The misunderstanding was cleared up within a day, but the experience had a lasting impact on me. First, it taught me that when I am misunderstood, sulking in silence does not help. If I had calmly shown my mother the evidence—the math notes on my desk and my messages with Amy on the phone in her hand—the whole thing could have been settled in a minute. Second, it reminded me how easy it is to jump to conclusions based on what we see. Since then, I have tried not to do the same to others. Last month, when a friend stopped replying to my messages for three days, I almost assumed that she was ignoring me on purpose. Instead, I asked her at school, and it turned out that her phone had been at the repair shop. Being misunderstood hurt, but it taught me to explain myself calmly and to ask before I blame.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，是下限；本篇寫了 352 個單詞。\n題目沒有限定誤會來自誰，家人、朋友或老師都可以寫。第二段的影響與啟示要回到第一段那件事來談：本篇第一段寫媽媽沒注意到桌上的數學筆記，第二段才寫得出「如果當時把證據拿給她看」。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "去年春天，期中考前兩天，同學艾咪傳訊息向我求救。她得了流感，一個星期沒來上課，數學完全跟不上。我們九點開始視訊，我陪她把那一章一題一題做過一遍。到了十一點半，她終於弄懂了，我們兩個想到她先前犯了那麼多粗心的錯，都笑了起來。就在那時，媽媽打開了房門。她看到的，只有我戴著耳機坐在書桌前，對著手機大笑；攤在桌上的數學筆記，她沒有注意到。我還來不及開口，她就指責我違反了我們的約定——隔天要上學的晚上不玩遊戲，接著把我的手機收走。我想解釋，她卻打斷我：「不要找藉口。」那天晚上，我躺在床上很久都睡不著，覺得又難過又委屈。我根本沒做錯什麼；事實上，我是在做一件好事。",
+      "p2": "隔天晚上，艾咪的媽媽傳訊息給我媽媽，謝謝我幫了她女兒。媽媽走進我的房間，把手機還給我，向我道歉。這場誤會不到一天就解開了，可是這段經驗對我的影響一直留到現在。第一，它讓我明白，別人誤解我的時候，一個人悶著生氣沒有用。如果我當時冷靜地把證據拿給媽媽看——桌上的數學筆記，還有她手上那支手機裡我和艾咪的訊息——整件事一分鐘就能說清楚。第二，它提醒我，人很容易只憑眼睛看到的就下結論。從那以後，我盡量不這樣對待別人。上個月，有個朋友三天沒回我訊息，我差點就認定她是故意不理我。不過我沒有就這樣認定，而是到學校當面問她，原來她的手機拿去送修了。遭人誤解雖然很不好受，卻讓我學會冷靜地把話說清楚，也學會在怪別人之前先問清楚。"
+     }
+    },
+    "rubric": {
+     "intro": "95 指考的官方說明只有一份，是選才通訊第 144 期〈95指考非選擇題評分原則說明～國、英〉，英文考科部分由大考中心第一處游春琪撰。這一份寫明，本題主要評量考生是否有能力撰寫一篇語法正確、語意通順，並且內容統一、組織連貫的英文作文。\n本大題總分 20 分，分為五等級：特優 19-20 分、優 15-18 分、可 10-14 分、差 5-9 分、劣 0-4 分；閱卷委員讀完試卷，先在腦海裡產生一個分數，再以各分項評分標準檢閱是否符合整體印象分數。分項為內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分。〈分項式評分指標〉那張表的列名寫作「文法、句構」「字彙、拼字」，中間多一個頓號；體例那一列只分三格，「優」與「可」併成一格，同給 2 分。\n扣分規則：字數過少，扣 1 分；未分段，扣 1 分；文不對題，以零分計算。這一份另外寫明，各等級的評分樣例可參閱選才通訊第 142 期〈學測與指考英文作文評分樣例〉，該文以 93 年學測與指考的英文作文為題。",
+     "keypoint": "題目把兩段的分工寫得很清楚：「第一段描述個人被誤解的經驗，第二段談這段經驗對個人的影響與啟示」。第一段要寫出兩件事：誤會是怎麼發生的，以及自己為什麼覺得委屈；只寫「有人誤會我，我很難過」，讀者看不出誤會從哪裡來。\n第二段也要做兩件事：影響是這件事之後自己有什麼改變，啟示是從這件事學到什麼，兩者都要寫到。官方說明另外寫明文不對題以零分計算；題目要的是自己遭人誤解的經驗，寫成自己誤會別人，就偏離了主題。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段寫一件具體的事：期中考前兩天，同學艾咪得了流感、請假一週，傳訊息請我教數學；兩人視訊到十一點半，媽媽開門只看到我戴著耳機對著手機笑，沒注意到桌上的數學筆記，就指責我玩遊戲、收走手機，我想解釋，她卻打斷我。委屈寫在 feeling hurt and wronged 與段末 I had done nothing wrong; in fact, I had been doing something good。\n第二段先交代誤會怎麼解開，再寫影響與啟示：the experience had a lasting impact on me 一句先點出影響；First 與 Second 兩個啟示，一個是自己遭人誤解時該怎麼做（冷靜說明、拿出證據），一個是自己怎麼看待別人（不憑一個畫面下結論）；上個月朋友三天沒回訊息那件事，是這個改變在生活裡的例子：我沒有直接認定她故意不理我，當面問了才知道她的手機拿去送修了。表中內容那一列的「優」寫的是主題（句）清楚切題，並有具體、完整的相關細節支持。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段照時間走：Last spring、We started a video call at nine、By eleven thirty、At that moment、that night。第二段先用兩句交代誤會怎麼解開（The next evening …），再以 The misunderstanding was cleared up within a day, but … 轉到這一段真正要談的影響與啟示；First、Second 分出兩個啟示，Since then 與 Last month 帶出改變之後的例子，最後一句 Being misunderstood hurt, but it taught me … 把兩個啟示收在一起。\n第二段有兩處回頭接上第一段：the math notes on my desk 接 the math notes spread across the desk；the phone in her hand 接 took my phone away。組織那一列的「優」寫的是重點分明，有開頭、發展、結尾，前後連貫，轉承語使用得當。"
+     },
+     {
+      "k": "文法句構",
+      "t": "整篇的時態：第一段敘事用過去式；比故事當下更早發生的事用過去完成式，例如艾咪在那之前已經請假一週（had missed）、她先前犯的錯（had made）；I had been doing something good 是過去完成進行式，表示媽媽開門之前我一直在做的事。第二段講當時的事用過去式，講學到的道理用現在式（sulking in silence does not help、how easy it is to jump to conclusions），講從那時到現在的改變用現在完成式（Since then, I have tried …）。朋友那件事的 her phone had been at the repair shop 用過去完成式，因為手機送修發生在我問她之前。\n[If I had calmly shown her the evidence …], (the whole thing could have been settled in a minute)：與過去事實相反的假設，動詞倒推一個時態，if 子句用過去完成式，主要子句用 could／would ＋ have ＋ p.p.。事實是我當時沒有拿出證據。\n[All she saw was] (me at my desk …)：All ＋ S ＋ V 當主詞，意思是「她看到的只有……」。with my earphones in 是 with ＋ O ＋ OC，OC 是副詞 in，表附帶狀態。\nthe math notes [spread across the desk]：過去分詞片語修飾名詞，意思等於 the math notes which were spread across the desk。\naccused me [of breaking our rule]：accuse＋人＋of ＋ V-ing，意思是「指責某人做了某事」。\n[Sulking in silence] does not help、[Being misunderstood] hurt：動名詞片語當主詞；being ＋ p.p. 表示「遭人……」。\nit reminded me [how easy it is] (to jump to conclusions …)：it 是虛主詞，真正的主詞是後面的 to jump to conclusions。\nit taught me [to explain myself calmly] and [to ask before I blame]：teach＋人＋to V，兩個不定詞用 and 對等連接。\n其他句型：Before I could say a word（我還來不及開口）；分詞構句 feeling hurt and wronged，意思等於 and I felt hurt and wronged；It turned out that ＋ S ＋ V（原來）；stopped replying 是 stop ＋ V-ing，意思是「不再做某事」。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 137、二級 27、三級 5、四級 6，四級以上 6 個、占 175 個詞形的 3.4%，是 accused（指責，原形 accuse）、earphones（耳機）、evidence（證據）、impact（影響）、misunderstanding 與 misunderstood（誤會，原形 misunderstand），皆為四級。詞彙表沒有收錄的有 sulk（賭氣、悶悶不樂）。片語：jump to conclusions（妄下結論）、cut … off（打斷某人說話）、clear up（解開〔誤會〕）、on purpose（故意）、school night（隔天要上學的晚上）、problem by problem（一題一題地）。這一篇容易拼錯的是 completely、misunderstood、apologized 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "這一份的表中，體例看的是格式、標點、大小寫；「優」與「可」併成一格，裡面只有一句：格式、標點、大小寫幾無錯誤。本篇要留意的有：冒號引出直接引語，句點放在引號裡面（she cut me off: \"Don't make excuses.\"）；分號連接兩個完整的句子（I had done nothing wrong; in fact, …）；一對破折號夾住補充說明（the evidence—the math notes … in her hand—the whole thing …），英文破折號前後不空格；Amy's 與 Don't 的撇號不要漏掉。扣分規則另有一條管分段：未分段扣 1 分，題目也要求寫兩段，本篇照寫兩段。"
+     }
+    ]
+   }
   },
   {
    "id": "E94_GSAT",
