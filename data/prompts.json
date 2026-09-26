@@ -6087,7 +6087,45 @@
    ],
    "source": "大學入學考試中心 94 學年度學科能力測驗英文考科",
    "promptSummary": "三格漫畫描述一個學生在課堂上睡著，夢見自己變成老師，最後被老師叫醒。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 323,
+     "p1": "In the English class last week, I found out what it feels like to stand on the other side of the teacher's desk. Our teacher, Mr. Chen, was explaining Lesson 30, and the title \"We Are the World\" was written on the blackboard. I had stayed up until two in the morning playing an online game, so his calm voice sounded like a lullaby. My eyelids grew heavier and heavier, and soon I fell asleep with my head on my textbook. The next thing I knew, I was standing at the front of a classroom in a shirt and tie, with a book in my hand. The date on the blackboard showed the same month and day, only twenty years in the future. I had become an English teacher! Excited, I started teaching grammar, pointing at the board just like Mr. Chen. However, when I turned around, I could not believe my eyes. Every single student was sound asleep, and some of them were even snoring. All my hard work was for nothing. Hurt and angry, I took a deep breath and shouted, \"Wake up!\"",
+     "p2": "At that very moment, another voice shouted the same words, and it was not mine. I jumped in my seat and opened my eyes. Mr. Chen was standing right beside my desk, and his face flushed with anger. The whole class turned to look at me, and my classmate at the next desk was trying hard not to laugh. I blushed with embarrassment. I apologized to Mr. Chen, and for the rest of the class, I sat up straight and took careful notes. That dream taught me something no textbook could: it is really disappointing to teach a room full of sleeping students. Since then, I have gone to bed earlier on school nights, and I try my best to stay awake in class. After all, someday I might be the one standing in front of the blackboard.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長 120 個單詞(words)左右」，而這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 323 個單詞，篇幅與站上其他範文相近，是為了把三張圖的細節和故事的結局都寫具體。\n本篇用第一人稱 I 來寫，讀起來像主角自己在講這件事；用第三人稱 he 寫也可以。收尾也不只一種寫法，只要交代得出主角醒來之後怎麼面對老師、從這場夢學到什麼。\n這一年的題目沒有規定要分幾段，本篇分成兩段，第一段寫上課睡著和夢境，第二段寫醒來以後的事，是為了讓讀者看得出故事在哪裡轉折，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "上星期的英文課，我體會到站在講台上當老師是什麼滋味。那天陳老師正在講第三十課，黑板上寫著課名 “We Are the World”。前一天晚上我打線上遊戲打到凌晨兩點，所以老師平穩的聲音聽起來就像搖籃曲。我的眼皮越來越重，沒多久就趴在課本上睡著了。等我回過神來，我已經穿著襯衫、打著領帶，手上拿著一本書，站在一間教室的講台前面。黑板上的日期是同一個月、同一天，只是晚了二十年。我當上英文老師了！我興奮地開始上文法，像陳老師一樣指著黑板。可是一轉過身，我簡直不敢相信自己的眼睛：全班每一個學生都睡得很熟，有幾個甚至還在打呼。我辛辛苦苦上的課全都白費了。我又難過又生氣，深吸一口氣大喊：「醒醒！」",
+      "p2": "就在那一刻，另一個聲音喊出了同一句話，而那不是我的聲音。我在座位上嚇了一跳，睜開眼睛。陳老師就站在我的桌子旁邊，氣得滿臉通紅。全班同學都轉過頭來看我，隔壁的同學拚命忍著不笑出來。我羞紅了臉。我向陳老師道歉，那堂課剩下的時間都坐得直挺挺的，認真做筆記。那個夢教會我一件課本教不了的事：對著一整間睡著的學生上課，真的很讓人灰心。從那以後，隔天要上學的晚上我都比較早睡，上課也盡量保持清醒。畢竟，將來站在黑板前面的，說不定就是我。"
+     }
+    },
+    "rubric": {
+     "intro": "94 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：文長 120 個單詞左右、以 In the English class last week, … 開頭，以及把三張圖的內容寫成一個合理的故事。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 94 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目指定的開頭句 In the English class last week 決定了兩件事：故事發生在上星期，所以整篇用過去式；主角就是在英文課上睡著的那個人，他在課堂上和夢裡經歷的事都要寫到。\n三張圖的關鍵在後兩張。第二張是主角的夢：他當上老師，台下的學生卻全睡著了。第一張黑板上的日期是 2005 年 1 月 15 日，第二張變成 2025 年 1 月 15 日，同一天、晚了二十年，這就是看得出那是未來的線索。第三張夢裡的他和現實中的老師同時喊出 WAKE UP!，要寫出這兩聲重疊，讀者才看得出笑點：主角在夢裡嘗到的滋味，正是老師面對他時的感受。本篇只寫「同一個月、同一天，晚了二十年」，沒有寫出年份。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "三張圖都寫到。第一張：陳老師在講第三十課，黑板上寫著 We Are the World，我前一晚打線上遊戲到凌晨兩點，上課時趴在課本上睡著了。第二張：我夢見自己穿襯衫、打領帶站在講台前，黑板上的日期同月同日、晚了二十年，我當上英文老師、開始上文法，一轉身卻發現全班都睡著了。第三張：我在夢裡大喊 Wake up!，就在同一刻，現實中的陳老師也對我喊了同一句話，隔壁同學忍著不笑。題目要求合理的敘述，所以範文補上三件事：我為什麼睡著（前一晚熬夜）、醒來之後怎麼收場（向老師道歉、那堂課坐直做筆記），以及我從這場夢學到什麼（對著睡著的學生上課有多讓人灰心，從此早睡、上課保持清醒）。"
+     },
+     {
+      "k": "組織",
+      "t": "兩段跟著夢和現實切開：第一段從上課寫到夢裡那一聲 Wake up!，第二段從現實裡的同一聲寫到結尾。兩段靠同一句話接起來：第一段最後是我在夢裡喊，第二段第一句 another voice shouted the same words, and it was not mine 交代喊的人換成了老師。\n開頭第一句 I found out what it feels like to stand on the other side of the teacher's desk 先點出這件事教會我什麼，最後一句 someday I might be the one standing in front of the blackboard 又回到同一件事，頭尾呼應。時間的轉換靠 I had stayed up、soon、The next thing I knew、However、At that very moment、Since then。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：指定的開頭句 In the English class last week 決定了整篇用過去式；前一晚熬夜發生在上課之前，用過去完成式（had stayed up），夢裡發現自己已經當上老師也用過去完成式（had become）。第二段講從那時到現在的改變用現在完成式（Since then, I have gone to bed earlier），講現在的習慣與道理用現在式（I try my best、it is really disappointing …）。\n[The next thing I knew], (I was standing …)：意思是「等我回過神來，已經……」。說故事時，這句話表示中間有一段記不得的空白，最常用在睡著或昏過去之後。\nMy eyelids grew [heavier and heavier]：比較級 and 比較級，意思是「越來越……」。\nfell asleep [with] (my head) (on my textbook)、[with] (a book) (in my hand)：with ＋ O ＋ OC，OC 是介系詞片語，表附帶狀態。\n[Excited], I started teaching grammar、[Hurt and angry], I took a deep breath：形容詞放在句首，說明後面主詞 I 當時的狀態，意思是「我很興奮，就……」「我又難過又生氣，就……」。\n[I could not believe my eyes]：意思是「簡直不敢相信自己的眼睛」，看到意想不到的事情時的固定說法。\nwas trying hard [not to] (laugh)：try ＋ not to V，意思是「盡力不去做某事」，not 放在 to 前面。\n[It] is really disappointing [to teach a room full of sleeping students]：It 是虛主詞，真正的主詞是後面的不定詞片語。disappointing 是「令人失望的」，形容事情給人的感覺；前面的 excited 是「感到興奮的」，形容人自己的感受。\ntaught me something [no textbook could]：something 後面省略了關係代名詞 that，could 後面省略了 teach me，避免重複。\n其他句型：sound asleep 是「睡得很熟」；At that very moment 的 very 加強語氣，意思是「就在那一刻」；the one [standing in front of the blackboard] 是現在分詞片語修飾 the one；After all 是「畢竟」；at the front of a classroom 指教室最前面的位置，in the front of 多用在車子這類封閉物體的前半部，站在教室前面一般說 at the front of。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 137、二級 10、三級 4、四級 4、五級 1、六級 3，四級以上 8 個、占 159 個詞形的 5.0%，是 disappointing（令人失望的，原形 disappoint）、embarrassment（難為情，原形 embarrass）、flushed（臉紅，原形 flush）、grammar（文法，第二張圖的黑板上已經寫了），皆為四級；blushed（臉紅，原形 blush）為五級；eyelids（眼皮，原形 eyelid）、lullaby（搖籃曲）、snoring（打呼，原形 snore），皆為六級。\nflush 和 blush 都是臉紅，用法有分工：flush 的主詞可以是人或臉，原因可以是生氣、難為情或太熱，所以老師那一句寫 his face flushed with anger；blush 只用在難為情或羞愧，主詞通常是人，所以主角那一句寫 I blushed with embarrassment，不寫 his face blushed with anger。這兩個字都考過：blush 是 111 學測字彙題的答案，flush 是 114 學測綜合測驗的選項。\n片語：stay up（熬夜）、fall asleep（睡著）、sound asleep（睡得很熟）、take a deep breath（深吸一口氣）、sit up straight（坐直）、take notes（做筆記）、school night（隔天要上學的晚上）、try one's best（盡力）。這一篇容易拼錯的是 grammar、embarrassment、disappointing、snoring 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "94 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本篇要留意的有：圖上寫的是全大寫的 WAKE UP!，寫進作文時照一般句子的大小寫寫成 \"Wake up!\"，大聲喊的語氣交給 shouted 與驚嘆號來表達；《芝加哥格式手冊》（The Chicago Manual of Style）也寫明，把整個字或片語全部大寫來強調，很少是恰當的做法。驚嘆號放在引號裡面（shouted, \"Wake up!\"）；課名 \"We Are the World\" 加引號，主要的字字首大寫；Mr. 後面要加句點；teacher's 的撇號不要漏掉。"
+     }
+    ]
+   }
   },
   {
    "id": "E94_JCEE",
