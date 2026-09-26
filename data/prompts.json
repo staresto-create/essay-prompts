@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "count": 63,
  "items": [
   {
@@ -5927,7 +5927,45 @@
    ],
    "source": "大學入學考試中心 95 學年度學科能力測驗英文考科",
    "promptSummary": "三格漫畫描述一個女子在廚房，大猩猩突然出現，結果是穿著猩猩裝的男子送花。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 299,
+     "p1": "It was a quiet Friday evening. Linda was cooking dinner in the kitchen while her dog, Lucky, sat by the refrigerator, waiting for a treat. She was carrying a plate of food to the table when she heard heavy footsteps behind her. She turned around, and her heart almost stopped. A huge gorilla was standing in the doorway, staring right at her. Had it escaped from the zoo? Linda screamed and dropped the plate, which smashed on the floor. With shaking hands, she grabbed her phone and called the police. Strangely, Lucky did not bark at all. Instead of protecting his owner, he was busy eating the food that had spilled everywhere.",
+     "p2": "Then the gorilla did something even stranger: it pulled off its own head. To Linda's amazement, the face underneath belonged to her husband, Mark, who was grinning from ear to ear and holding a big bunch of lilies. \"Happy anniversary, honey!\" he said. It turned out that Mark had rented the costume for their wedding anniversary, because on their first date years ago, they had spent almost an hour watching the gorillas at the Taipei Zoo. Linda did not know whether to laugh or cry. She quickly told the officer on the phone that it was a false alarm and apologized again and again. Now she understood why Lucky had not barked: he had recognized Mark by his smell from the very start. Sitting at Mark's feet, the dog was happily wagging his tail. Linda finally burst out laughing and took the flowers, but then she pointed at the pieces of the broken plate on the floor. \"Next time,\" she said, \"just ring the doorbell.\" That night, the couple cleaned up the mess together, and Mark promised that his next surprise would be a lot less wild.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長 100 個單詞(words)左右」，而這一年的扣分規則只寫了字數不足扣 1 分，沒有寫多寫扣分；這一篇寫了 299 個單詞，篇幅是為了把三張圖的細節和故事的結局都寫具體。\n本篇把第三張的反轉寫成結婚紀念日的驚喜；換成生日或求婚也可以，只要交代得出他為什麼扮成大猩猩、為什麼送花。\n這一年的說明沒有規定要分幾段，本篇分成兩段，第一段寫前兩張圖的驚嚇，第二段寫第三張的真相，是為了讓讀者看得出故事在哪裡轉折，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "那是一個安靜的星期五晚上。琳達在廚房煮晚餐，她養的狗 Lucky 坐在冰箱旁邊，等著討點心吃。琳達端著一盤菜要走到餐桌，忽然聽到身後傳來沉重的腳步聲。她轉過身，心臟差點停了下來。一隻巨大的大猩猩站在門口，直直盯著她看。牠是從動物園逃出來的嗎？琳達尖叫一聲，手上的盤子掉到地上，摔得粉碎。她雙手發抖，抓起手機打電話報警。奇怪的是，Lucky 一聲也沒叫。牠沒有保護主人，反而忙著吃灑了一地的菜。",
+      "p2": "接著，大猩猩做了一件更奇怪的事：牠把自己的頭拔了下來。讓琳達大吃一驚的是，頭套底下那張臉竟然是她先生馬克。馬克咧著嘴笑得很開心，手上捧著一大束百合花。「老婆，結婚紀念日快樂！」他說。原來馬克租了這套猩猩裝來慶祝他們的結婚紀念日，因為好幾年前兩人第一次約會，就在台北市立動物園看了將近一個小時的大猩猩。琳達真是哭笑不得。她趕緊跟電話那頭的警察說只是虛驚一場，一再向對方道歉。這時她才明白 Lucky 為什麼沒有叫：牠一開始就從氣味認出馬克了。Lucky 坐在馬克腳邊，開心地搖著尾巴。琳達終於忍不住笑了出來，收下了花，接著又指了指地上的盤子碎片。「下次，」她說，「按門鈴就好。」那天晚上，兩個人一起把一團亂收拾乾淨，馬克也答應她，下一次的驚喜不會這麼嚇人了。"
+     }
+    },
+    "rubric": {
+     "intro": "95 學測的官方說明只有一份，是選才通訊第 139 期〈95學測非選擇題評分標準說明～國、英〉，英文考科部分由林秀慧撰。這一份寫明，英文作文在評量考生運用所學詞彙、句法，寫出「切合主題，並具有統一性與聯貫性」短文的能力，滿分 20 分。\n評分標準包含五項：內容 5 分、組織 5 分、文法句構 4 分、字彙拼字 4 分、體例 2 分；原文列名寫作「文法、句構」「字彙、拼字」，中間多一個頓號。扣分規則只有一條：字數不足，扣 1 分。這一份沒有附分項式評分指標表，也沒有寫整體式評分的等級。",
+     "keypoint": "提示點名了三個角色：女子、小狗與大猩猩，三個都要寫到，而且要寫出三者之間發生了什麼事。只描述畫面還不夠，題目要的是「合理的敘述」：前兩張的驚嚇要能接上第三張的驚喜。\n小狗也不只是背景。第二張牠低頭待在碎盤子旁邊，沒有撲向大猩猩；第三張牠坐在男子腳邊。本篇把這一點寫成伏筆，最後交代小狗早就認出主人，讀者回頭看才發現前面已經埋了線索。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "三張圖都寫到。第一張：琳達在廚房煮晚餐，狗坐在冰箱旁邊。第二張：大猩猩站在門口，琳達尖叫、盤子摔碎，她發著抖打電話報警，狗在地上吃灑出來的菜。第三張：大猩猩拿下頭套，原來是先生馬克，手上捧著百合花，狗坐在他腳邊搖尾巴。題目要求合理的敘述，所以範文補上三件事：馬克為什麼扮成大猩猩（結婚紀念日，兩人第一次約會在動物園看大猩猩）、報了警之後怎麼收場（跟警察說虛驚一場）、狗為什麼不叫（牠從氣味認出主人）。圖上沒畫、範文自己補的細節，都是為了讓前後接得上：琳達端著一盤菜，盤子才有得摔；身後傳來沉重的腳步聲，她才會轉身。"
+     },
+     {
+      "k": "組織",
+      "t": "兩段跟著故事的轉折切：第一段是前兩張圖的驚嚇，第二段是第三張的真相。第一段埋了兩個伏筆，第二段都有交代：Had it escaped from the zoo? 接到 the gorillas at the Taipei Zoo；Lucky did not bark at all 接到 Now she understood why Lucky had not barked。第一段摔碎的盤子，第二段結尾又出現一次（the pieces of the broken plate），琳達那句「下次按門鈴就好」因此有了來由。時間的轉換靠 It was a quiet Friday evening、when she heard、Then、Now、finally、That night。"
+     },
+     {
+      "k": "文法句構",
+      "t": "敘事整段用過去式，引號裡的對話照說話當下的情形：Happy anniversary 是祝賀語，just ring the doorbell 是祈使句。\nShe was carrying a plate of food to the table when she heard …：過去進行式接 when，表示正在做一件事的時候，另一件事突然發生。\n過去完成式（had + p.p.）用在比故事當下更早發生的事：菜在琳達報警之前就已經灑了一地（had spilled）；馬克在這天之前就租好了衣服（had rented）；兩人第一次約會是好幾年前的事（had spent）；狗從一開始就認出主人（had recognized、had not barked）。\n[To Linda's amazement], (the face underneath belonged to her husband)：To + 所有格 + amazement 放句首，意思是「讓某人驚訝的是」，後面接完整的句子。\n[It turned out that] (Mark had rented the costume …)：表示事後才知道的真相，意思是「原來」。同一個意思也可以寫成 [S + turned out + to V]，把事情的主角放在主詞的位置，後面接不定詞，最常見的是 turned out to be，例如 The gorilla turned out to be Mark（原來那隻大猩猩是馬克）。兩種寫法都很常用。\n[Instead of] (protecting his owner), he was busy eating …：Instead of 後面接動名詞，意思是「沒有……，反而……」。\nLinda did not know [whether to] (laugh) or (cry)：whether to + 原形動詞，兩個選項用 or 連接，整個片語就是中文的「哭笑不得」。\n[Sitting at Mark's feet], the dog was happily wagging his tail：分詞構句，句首分詞的主詞就是後面的 the dog，還原成 The dog was sitting at Mark's feet and happily wagging his tail。With shaking hands 則是 with + 名詞 + 分詞，描述做這個動作時的樣子。\n其他句型：… dropped the plate, which smashed on the floor 是非限定關係子句，which 指前面的 the plate，逗號不能省略；burst out laughing 是 burst out + V-ing，意思是「忍不住笑出來」。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 133、二級 16、三級 11、四級 2、五級 2、六級 4，四級以上 8 個、占 168 個詞形的 4.8%，是 anniversary（紀念日）、costume（戲服、裝扮），皆為四級；doorway（門口）、smashed（摔碎，原形 smash），皆為五級；gorilla、gorillas（大猩猩，題目已經給了）、underneath（在……底下）、wagging（搖〔尾巴〕，原形 wag），皆為六級。grin from ear to ear 是「咧著嘴笑得很開心」，false alarm 是「虛驚一場」，都是英文講這兩件事的固定說法。這一篇容易拼錯的是 refrigerator、anniversary、grinning、wagging 這幾個，grinning 與 wagging 要重複字尾的 n、g 再加 -ing。"
+     },
+     {
+      "k": "體例",
+      "t": "95 這一年的體例配分 2 分，這一份沒有說明看哪些地方；同時期的 97 學測表 1 寫明，體例看的是格式、標點與大小寫。故事裡有對話，標點最容易出錯：逗號與驚嘆號放在引號裡面（\"Happy anniversary, honey!\" he said）；一句話拆成兩半時，後半句開頭用小寫（\"Next time,\" she said, \"just ring the doorbell.\"）。人名 Linda、Mark、Lucky，星期 Friday 與地名 Taipei Zoo 都要大寫；Linda's、Mark's 的所有格不要漏掉撇號。"
+     }
+    ]
+   }
   },
   {
    "id": "E95_GSAT_REF95",
