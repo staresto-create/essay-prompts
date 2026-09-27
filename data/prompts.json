@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-26",
+ "updated": "2026-09-28",
  "count": 63,
  "items": [
   {
@@ -6152,7 +6152,45 @@
      "label": "非選擇題評分標準說明"
     }
    ],
-   "source": "大學入學考試中心 94 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 94 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 357,
+     "p1": "Now that the entrance exams are over, our class should get together before we go our separate ways. As the organizer, I have planned our first class reunion for Saturday, August 8, from noon to three. I have booked a private room at an all-you-can-eat barbecue restaurant near our school for all thirty-five of us and our homeroom teacher, Ms. Lin. The reunion will have three parts. First, Ms. Lin will bring the letters we wrote to our future selves in our first year of high school, and each of us will read our own. Next, we will take turns sharing our plans for the coming year. Most of us will start college in September, but not everyone. Kevin has decided to go to a cram school and take the exams again, and Amy is going to study Japanese in Tokyo before applying to a university there. Jason will do his military service first, while Lily has been accepted into a government program that lets high school graduates spend two years working and exploring their interests before college. Finally, we will take a class photo together.",
+     "p2": "Why a simple lunch like this? After this summer, we will be spread across Taiwan and beyond, so it may be a while before we are all in the same room again. I want the reunion to be about the people, not the place. That is why I chose a buffet lunch that fits everyone's budget and a private room where we can talk freely. The letters matter even more. Three years ago, we wrote them as nervous first-year students with no idea what lay ahead. Reading them now will show us how far we have come, and it will give us a chance to thank Ms. Lin, who stood by us through every exam and every bad day. Listening to Kevin, Amy, Jason, and Lily will also remind us that there is more than one road to the future, and that a different road is not a wrong one. I hope that when we meet again years from now, each of us will be proud of the road we chose.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，是下限；本篇寫了 357 個單詞，是為了把時間、地點和活動內容都寫得詳細。\n題目要第一段「詳細介紹」同學會的時間、地點及活動內容，所以本篇把日期、星期、從幾點到幾點、在哪裡、包廂坐得下多少人都寫出來，活動也分成三個部分，照先後順序寫。第二段說明理由。第一段已經照先後順序列了三個活動，第二段要是再用 First、Second、Third 列一次，整篇讀起來會像兩張清單；所以本篇換一種寫法，先用一個問句開頭，再把理由一個接一個說出來：從大家即將分開，說到為什麼挑簡單的午餐和包廂，再說到唸信和聽同學的打算有什麼意義。這樣寫，每一個理由還是對得回第一段的安排，讀起來卻像在說心裡話，比較能打動讀者。\n範文裡有四位同學各走一條不同的路：Kevin 重考、Amy 出國念書、Jason 先當兵、Lily 參加政府的計畫。Lily 參加的是教育部青年發展署的「青年生涯領航計畫」，這個計畫從 115 年開始辦，接替原本的「青年教育與就業儲蓄帳戶方案」（青儲方案）。高中職應屆畢業生可以自己寫企劃，用兩年的時間去工作、創業見習、當志工或到國內外壯遊，政府分三個階段發給獎金，最高 28.5 萬元；兩年結束以後，另有一條只給參加者申請的特殊選才管道，不看學測，也不看統測成績。以 116 年度為例，申請從高三上學期的 12 月 1 日開始，到高三下學期的 3 月 2 日截止。規定每一年都可能調整，想參加的同學可以上教育部青年發展署的網站，查「青年生涯領航計畫」。英文裡不必寫出計畫的中文名稱，用一個關係子句說明這個計畫讓畢業生做什麼（a government program that lets high school graduates spend two years working and exploring their interests before college），讀者就看得懂。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "升學考試考完了，趁大家各奔東西之前，我們班應該聚一聚。我是主辦人，把畢業後第一次同學會訂在八月八日星期六，中午十二點到下午三點。我已經在學校附近一家燒肉吃到飽餐廳訂了包廂，全班三十五個人加上導師林老師都坐得下。同學會分成三個部分。首先，林老師會把我們高一時寫給未來的自己的信帶來，每個人唸自己的那一封。接著，大家輪流說說接下來這一年的打算。我們大部分的人九月就要上大學，不過不是每個人都這樣。Kevin 決定去補習班重考；Amy 要先去東京學日文，再申請那裡的大學。Jason 要先當兵，Lily 則錄取了政府的一個計畫，這個計畫讓高中畢業生先花兩年工作、探索自己的興趣，再上大學。最後，我們會一起拍一張全班合照。",
+      "p2": "為什麼選這樣簡單的午餐聚會？過了這個暑假，大家就會分散到台灣各地，甚至到國外，下次全班再聚在同一個房間裡，可能要隔好一陣子。我希望這次同學會的重點是人，不是場地。所以我選了大家都不用擔心預算的吃到飽午餐，也訂了包廂，讓大家可以自在地聊天。那些信更重要。三年前寫信的時候，我們還是緊張的高一新生，完全不知道未來會怎麼樣。現在唸這些信，就看得出我們一路走了多遠，也能趁這個機會謝謝林老師，因為每一次考試、每一個難熬的日子，老師都陪在我們身邊。聽 Kevin、Amy、Jason 和 Lily 說說他們的打算，也會提醒我們，通往未來的路不只一條，走的路和別人不同，並不代表走錯了。希望多年以後我們再相聚時，每個人都能以自己選的路為榮。"
+     }
+    },
+    "rubric": {
+     "intro": "94 指考的官方說明只有一份，是〈94年度指定科目考試非選擇題評分標準說明〉，英文考科部分由游春琪撰，刊在選才通訊 2005 年八月號。這一份是大考中心第一次公布指考的非選擇題評分標準，編按寫明從這一期起陸續刊出；在這之前的指考都沒有公布，所以 93 以前的指考題目找不到官方評分說明。\n這一份對英文作文的說明很短：本題主要評量考生撰寫語法正確、語意通順，並且內容統一、連貫的英文作文；總分 20 分，評分標準大致為內容、組織、句構修辭、用字拼字及標點大小寫等項。這一份沒有寫各項配分，沒有寫五個等級，也沒有附分項評分表。後三項的名稱和後來各年常見的文法句構、字彙拼字、體例不同，底下的對照照這一份的寫法。\n扣分規則：字數過少，扣一分；未分段，扣一分。",
+     "keypoint": "題目把兩段的分工寫得很清楚：第一段詳細介紹同學會的時間、地點及活動內容，第二段說明採取這種活動方式的理由。第一段的關鍵字是「詳細」：只寫「八月在餐廳聚餐」不夠，時間要寫到哪一天、幾點，地點要寫是什麼樣的地方，活動要寫做哪些事、怎麼進行。第二段的理由要對得回第一段的安排，例如為什麼選中午、為什麼訂包廂、為什麼要唸信。\n這一題寫的是還沒發生的計畫，所以第一段主要用 will 和 be going to；已經辦好的事用現在完成式（I have booked …、Lily has been accepted …），講一般的事實用現在式（there is more than one road to the future）。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段交代三件事。時間：八月八日星期六，中午到下午三點（Saturday, August 8, from noon to three）。地點：學校附近燒肉吃到飽餐廳的包廂，坐得下全班三十五人和導師。活動分三個部分：唸高一時寫給未來自己的信、輪流說接下來一年的打算、拍全班合照；第二部分再寫四位同學的四條路（重考、出國念書、先當兵、參加政府的計畫），讓「活動內容」有具體的細節。第二段的理由都對回第一段：大家要分散各地，下次到齊可能要隔一陣子，所以要趁現在聚；重點是人，不是場地，所以選大家都不用擔心預算的午餐，也訂了可以自在聊天的包廂；唸信看得出三年來走了多遠，也能謝謝導師；聽四位同學的打算，會發現路不只一條，走得和別人不同也不是走錯。這一份評分說明寫明本題評量內容統一、連貫，本篇每一句都圍繞著這一次同學會。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段開頭用 Now that … 點出時機，接著 As the organizer … 交代時間、地點；The reunion will have three parts 先預告，再用 First、Next、Finally 依序寫三個部分，因為這三個活動本來就有先後順序。第二段不再逐條列點，改用問句 Why a simple lunch like this? 開頭，帶出理由；I want the reunion to be about the people, not the place 是這一段的主旨，That is why … 接著說明午餐和包廂的安排；The letters matter even more 一句轉到更重要的理由；末句 I hope that … 收尾，回到整件事的用意。"
+     },
+     {
+      "k": "句構修辭",
+      "t": "Now that＋子句：意思是「既然、由於現在……」，Now that [the entrance exams are over], our class should get together …。\n整篇的時態：還沒發生的安排用 will 和 be going to（Ms. Lin will bring …、Amy is going to study …）；已經辦好的事用現在完成式（I have booked a private room …、Lily has been accepted into …）；一般的事實用現在式（there is more than one road to the future）；三年前的事用過去式（we wrote them as nervous first-year students）。\nit may be a while before＋子句：可能要過一陣子才……，so it may be a while before [we are all in the same room again]。這樣說只是「要隔一陣子」，語氣比「這可能是最後一次」緩和，也比較符合實際情況。\n[A], not [B]：強調是 A 而不是 B，about (the people), not (the place)。\ntake turns＋V-ing：輪流做某事，we will take turns sharing our plans；美式英文多用 V-ing，英式英文常見 take turns to V。\nlet＋受詞＋原形動詞：a government program that lets [high school graduates] [spend two years …]；spend＋時間＋V-ing：spend two years (working) and (exploring their interests)。\nwhile 表對比：Jason will do his military service first, while Lily has been accepted into …。\n關係子句的限定用法與非限定用法：形容詞的作用是「限定」名詞，讓讀者知道指的是哪一個；關係子句也是一樣。關係子句前面不加逗號，是限定用法，例如 the letters [(that) we wrote to our future selves]，指的是我們寫給未來自己的那些信，不是別的信；that 在子句裡當受詞，可以省略。a buffet lunch [that fits everyone's budget]、a private room [where we can talk freely] 也是限定用法，where 代替 in which。關係子句前面加逗號，是非限定用法：Ms. Lin, [who stood by us through every exam and every bad day]，大家都知道林老師是誰，不需要再限定，逗號後面的子句只是補充說明，作用接近同位語。非限定用法不能用 that，關係代名詞也不能省略。\nas＋身分：當時是……的身分，we wrote them as [nervous first-year students]。\nremind us [that …], and [that …]：兩個 that 子句並列，都是 remind 的內容。"
+     },
+     {
+      "k": "用字拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 128、二級 18、三級 5、四級 1、六級 2，四級以上 3 個、占 154 個詞形的 1.9%，是 reunion（團聚、同學會）四級，cram（填塞）與 organizer（主辦人）六級；organizer 的動詞 organize 是三級。cram school 是美國人說「補習班」的通行說法。詞彙表沒有收錄的有：homeroom（homeroom teacher 即導師）、all-you-can-eat（吃到飽）。片語：go our separate ways（各奔東西）、take turns＋V-ing（輪流做）、be accepted into（錄取）、do one's military service（服兵役）、fit one's budget（在預算之內）、stand by（在身邊支持）、how far we have come（一路走了多遠）。matter 在這裡當動詞，意思是「重要」。這一篇容易拼錯的是 reunion、restaurant、separate、military、organizer。"
+     },
+     {
+      "k": "標點大小寫",
+      "t": "Ms. Lin 的 Ms. 在美式英文帶句點；日期寫成 Saturday, August 8，星期與月份首字母大寫、中間用逗號；Taiwan、Tokyo、Japanese 首字母大寫。放在名詞前面的複合形容詞要加連字號，all-you-can-eat barbecue restaurant、first-year students；21 到 99 的數字寫成英文時也加連字號，thirty-five。everyone's 這類所有格要加撇號。第二段第一句是問句，句尾用問號。扣分規則另有一條：未分段扣一分，題目也要求分兩段，本篇照寫兩段。"
+     }
+    ]
+   }
   },
   {
    "id": "E93_GSAT",
