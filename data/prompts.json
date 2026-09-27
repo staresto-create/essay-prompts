@@ -6227,7 +6227,45 @@
    ],
    "source": "大學入學考試中心 93 學年度學科能力測驗英文考科",
    "promptSummary": "三格漫畫描述一人參加喜宴，喝醉酒攔計程車誤搭上警車，最後醒來發現在警察局的故事。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 326,
+     "p1": "One evening, my whole family went to my cousin's wedding banquet at a big restaurant downtown. My uncle had driven there himself, but during the dinner, one guest after another came over to toast him, and he emptied glass after glass. By the time the banquet ended, his face was red, and he could hardly walk in a straight line. Fortunately, he still knew that he should not drive, so he left his car in the parking lot and decided to take a taxi home. That night, the police had set up a checkpoint for drunk driving near the restaurant, and they were giving breath tests to drivers leaving the banquet. A police car was parked by the road with its roof light flashing. In the dark, my uncle mistook the light for a taxi sign. He waved his arm and shouted, \"Taxi!\" Two officers walked over and found that he could not stand steadily or even tell them where he lived. Since it was too dangerous to leave him alone on the street late at night, they helped him into the police car and took him to the police station. As soon as he sat down, he fell fast asleep.",
+     "p2": "After checking his ID card, the officers reached my aunt and told her that he was safe. When my uncle woke up the next morning, he saw a clock on the wall and a police officer standing beside him. For a moment, he had no idea where he was. The officer explained what had happened and added that two drivers had failed the breath test at the checkpoint the night before. \"You hailed the wrong car,\" the officer said with a smile, \"but at least you made the right choice not to drive.\" Soon my aunt arrived to take him home. Ever since that night, whenever our family calls a taxi, someone always reminds my uncle to make sure it is not a police car.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，這是大約的長度，不是上限；本篇寫了 326 個單詞，把三張圖、解釋與結局都交代清楚。\n題目要求三件事：以 “One evening,…” 開頭；描述三張圖中主角經歷的事件；提供合理的解釋與結局。本篇第一段依序寫前兩張圖，第二段寫第三張圖，並在其中交代解釋與結局。所謂「合理的解釋」，就是回答讀者看圖時心中的疑問：警車為什麼剛好停在那裡？主角為什麼會把警車當成計程車？他又為什麼會在警察局醒來？本篇的答案是：警方在喜宴會場附近設了酒駕臨檢點；天色昏暗，主角又喝醉了，把警車的警示燈誤認成計程車的車頂燈；員警見他醉到站不穩、說不出住址，把他一個人留在路邊太危險，才帶他回警察局。\n員警帶他回警察局這一段有法律依據。《警察職權行使法》第 19 條規定，警察對於酒醉、非管束不能救護其生命或身體危險的人，得為管束；管束最長不得超過二十四小時，並應即時通知家屬或其他關係人。範文寫員警查看身分證之後聯絡舅媽，就是依照這一條。\n酒駕與酒測是生活中常見的議題，英文分別是 drunk driving 與 breath test；警方設置的路檢點是 checkpoint，查緝酒駕的臨檢點可以說 a checkpoint for drunk driving，正式說法是 sobriety checkpoint。本篇沒有把喝醉寫成趣事，而是藉員警之口點出重點：主角雖然攔錯了車，至少在喝酒之後選擇不開車。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照；選才通訊第 142 期的評分樣例是研究計畫另外請高三學生寫的短文，不是 93 學測考生的答案卷。",
+     "zh": {
+      "p1": "某天晚上，我們全家到市區一家大餐廳參加表哥的喜宴。舅舅是自己開車去的，可是用餐時，賓客一個接一個過來向他敬酒，他一杯接著一杯喝。喜宴結束時，他已經滿臉通紅，連直線都走不太穩。好在他還知道自己不該開車，於是把車留在停車場，決定搭計程車回家。那天晚上，警方在餐廳附近設了酒駕臨檢點，正對離開喜宴的駕駛人實施酒測。一輛警車停在路邊，車頂的警示燈閃個不停。天色昏暗，舅舅把那盞燈誤認成計程車的車頂燈，揮著手大喊：「計程車！」兩名員警走過來，發現他站都站不穩，甚至說不清楚自己住在哪裡。深夜把他一個人留在街上太危險，員警於是扶他上警車，送他到警察局。他一坐下，就沉沉睡去。",
+      "p2": "員警查看他的身分證之後，聯絡上舅媽，告訴她舅舅平安無事。第二天早上舅舅醒來，看見牆上的時鐘，還有一名員警站在身旁；有那麼一會兒，他完全不知道自己身在何處。員警向他說明事情經過，還補充說，前一晚臨檢點有兩名駕駛人酒測值超標。「你攔錯車了，」員警笑著說，「不過至少你做了正確的選擇，沒有開車。」沒多久，舅媽就來接他回家。從那天晚上起，每次我們家叫計程車，總會有人提醒舅舅，先確定來的不是警車。"
+     }
+    },
+    "rubric": {
+     "intro": "93 學測大考中心沒有公布當年的作文評分說明。站上所列的選才通訊第 142 期〈學測與指考英文作文評分樣例〉（大考中心第一處游春琪彙整），是兩年後的研究成果：「94指定科目英文考科非選擇題研發計畫」委託四所高中與一所高職約 195 位高三學生，以 93 年學測或指考的英文作文為題撰寫短文，再由閱卷委員初閱、複閱，與研究小組共同挑選學測與指考評分樣例各 9 份，逐份寫出得分說明。學測 9 份的等級分布為特優 1、優 2、可 3、差 1、劣 2。\n評分表分五項：內容 5 分、組織 5 分、文法、句構 4 分、字彙、拼字 4 分、體例 2 分，總分 20 分。等級分為特優、優、可、差、劣，文中沒有列出各等級的分數範圍。字數不足者，另扣一分。\n從樣例的得分說明可以看出閱卷的重點。特優那一份的說明是：主題明確，內容敘述相當具體且完整；重點分明，組織具連貫性；文句富變化，幾無文法錯誤。可級的樣例則多半是「相關敘述發展不全」；其中學測編號 5 因為內容與圖意不甚切合，最後一段又偏離主題，內容與組織各只得 3.5 分。",
+     "keypoint": "題目要求三件事：以 “One evening,…” 開頭；依三張圖描述主角所經歷的事件；提供合理的解釋與結局。三件事缺一不可；如果只把三張圖依序描述一遍，沒有解釋，也沒有結局，內容就不完整。\n「合理的解釋」要把圖與圖之間的空白補起來：第二張圖裡主角還在路邊攔車，第三張圖他已經在警察局裡，中間發生了什麼事，要寫得合情合理。至於「結局」，則要交代事情怎麼收場。本篇的解釋是員警見他醉到無法照顧自己，依法帶他回警察局；結局是舅媽來接他回家，再以家人日後的玩笑作結。\n這是一篇敘事文，整篇以過去式為主；比故事主線更早發生的事，用過去完成式（had driven、had set up、had failed）。最後一句 Ever since that night, whenever our family calls a taxi … 講的是到現在仍然如此的情形，所以用現在式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "三張圖依序寫出具體細節：喜宴上賓客輪流敬酒，主角喝多了；散場後他在路邊把停著的警車當成計程車，揮手大喊 Taxi!；隔天早上他在警察局醒來，看見牆上的時鐘和身旁的員警。解釋與結局也一一交代：警車出現在會場外，是因為警方設了酒駕臨檢點；主角醉得看不清楚，把警示燈誤認成計程車的車頂燈；員警見他站不穩、說不出住址，才帶他回警察局，並聯絡舅媽；員警提到前一晚有兩名駕駛人酒測值超標，主角至少選擇了不開車；最後舅媽來接他，家人日後拿這件事開玩笑。142 期特優樣例的說明是「內容敘述相當具體且完整」，本篇每一張圖都有具體的細節，解釋與結局也前後呼應。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段照時間順序寫前兩張圖：用餐時（during the dinner）→ 喜宴結束時（By the time the banquet ended）→ 當晚會場外的情形（That night）→ 員警走過來（Two officers walked over）→ 帶回警察局。第二段寫第三張圖與結局：After checking his ID card 接上前一段的結尾，the next morning 轉到隔天，Soon 帶出舅媽來接他，Ever since that night 收尾。第一段的 Fortunately, he still knew that he should not drive 與第二段員警所說的 at least you made the right choice not to drive 前後呼應，整篇的重點因此一以貫之。"
+     },
+     {
+      "k": "文法、句構",
+      "t": "整篇的時態：故事主線用過去式；比主線更早發生的事用過去完成式，例如 My uncle [had driven] there himself（開車去是在喜宴之前）、the police [had set up] a checkpoint（臨檢點在他走出來之前就設好了）、two drivers [had failed] the breath test（酒測值超標，發生在員警說話之前）。they [were giving] breath tests 用過去進行式，表示他走出會場時，酒測正在進行。\nBy the time＋子句（過去式）：到……的時候。主要子句講那個時間點的狀態，用過去式，By the time [the banquet ended], his face was red；講在那之前已經完成的事，則用過去完成式。\none (guest) after another：一個接一個；(glass) after (glass)：一杯接一杯。\nmistake [A] for [B]：把 A 誤認為 B，my uncle mistook [the light] for [a taxi sign]。\nwith＋受詞＋V-ing：表示伴隨的狀態，A police car was parked by the road [with (its roof light) (flashing)]，說明警車停著的時候，車頂的燈正在閃。\nfound that＋子句：he could not (stand steadily) or even (tell them where he lived)，兩個並列的動詞片語共用 could not；where he lived 是間接問句，用直述句的語序，不寫成 where did he live。\nSince＋子句：since 在這裡的意思是「因為」。Since it was too dangerous [to leave him alone on the street late at night]，it 是虛主詞，真正的主詞是後面的不定詞片語。\nAs soon as＋子句：一……就……，As soon as he sat down, he fell fast asleep。\nremind＋受詞＋to V：提醒某人做某事，someone always reminds [my uncle] [to make sure it is not a police car]。\n直接引語拆成兩半：\"You hailed the wrong car,\" the officer said with a smile, \"but at least you made the right choice not to drive.\" 中間插入 the officer said with a smile，後半句接續同一句話，所以 but 小寫。"
+     },
+     {
+      "k": "字彙、拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 135、二級 10、三級 6、四級 1、六級 2，四級以上 3 個，占 154 個詞形的 1.9%，是 banquet（宴會；wedding banquet 即喜宴）與 hail（招手叫車）六級，以及 fortunately（幸好）的 fortunate 四級。三級的有 breath、downtown、drunk、flash、remind、steady。詞彙表沒有收錄的有 checkpoint（檢查站、臨檢點）與 ID（ID card 即身分證）。片語：drunk driving（酒駕）、breath test（酒測）、hail a taxi（攔計程車；hail 是招手讓計程車停下來，與 taxi、cab 固定搭配）、mistake A for B（把 A 誤認為 B）、walk in a straight line（走直線）、fall fast asleep（沉沉睡去）、have no idea（完全不知道）、make sure（確定）。這一篇容易拼錯的是 banquet、restaurant、fortunately、officer、steadily。"
+     },
+     {
+      "k": "體例",
+      "t": "142 期的評分表中，體例占 2 分；樣例的得分說明常提到標點符號使用不當。本篇要留意的有：開頭照題目寫成 One evening, 並保留逗號；直接引語用雙引號，句末的驚嘆號、逗號與句號都放在引號內（shouted, \"Taxi!\"）；拆成兩半的引語，前半以逗號結束，後半接續同一句話，所以小寫起頭；ID 全部大寫。字數不足另扣一分，本篇字數足夠。"
+     }
+    ]
+   }
   },
   {
    "id": "E93_JCEE",
