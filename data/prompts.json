@@ -6293,7 +6293,45 @@
      "label": "選才通訊第 142 期：學測與指考英文作文評分樣例"
     }
    ],
-   "source": "大學入學考試中心 93 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 93 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 363,
+     "p1": "People often say that travel is the best teacher, and I could not agree more. Books can tell us about a place, but only travel lets us see it with our own eyes. A town that seems far away on a page becomes real when we walk through it, and what we learn in this way stays with us much longer than facts we memorize for a test. Travel also teaches us to depend on ourselves. Away from home, no one plans every step for us, so when a bus does not come or it suddenly starts to rain, we have to think quickly and make our own decisions. What I value most, though, is the chance to meet people whose lives are different from ours. Talking with them broadens our horizons and helps us see our own lives in a new light.",
+     "p2": "Last summer, three classmates and I spent three days in Tainan, and the trip proved all of these points to me. In history class, I had read that the Dutch built Chihkan Tower in 1653, but it was only a name and a date to me. Standing in front of its old brick walls, I learned from a sign that the sea once came right up to the tower. Today, the coast is several kilometers away. Suddenly, the maps in my textbook made sense. On the second day, however, things did not go as planned. We had checked the wrong bus timetable, and the next bus to Anping would not come for an hour. Instead of waiting, we asked a shop owner for help, rented bikes, and made it to Anping Old Fort before it closed. That evening, the owner of our guesthouse told us that he had left his office job in Taipei and moved back to his hometown. He earned less than before, he said, but he had time to cook, to fish, and to chat with travelers like us. His story made me think about what kind of life I really want. None of these lessons came from a textbook alone. They came from the road, and that is why I believe travel is the best teacher.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少120個單詞」，這是下限；本篇寫了 363 個單詞。\n題目要求兩段各做一件事：第一段說明旅行的優點；第二段舉自己在國內或國外的旅行經驗，印證第一段的說明。本篇第一段列出三個優點，第二段的台南之旅逐一對應：赤崁樓對應「親眼看見書上讀過的東西」，查錯公車時刻表、改租腳踏車趕到安平古堡對應「學會靠自己」，民宿老闆的故事對應「接觸生活方式不同的人」。也就是說，第一段說了什麼，第二段就拿經驗一件一件證明，這就是題目所說的「印證」。\n範文裡關於赤崁樓的敘述有史實根據：赤崁樓是荷蘭人在 1653 年興建的，原稱普羅民遮城；清朝初年台江內海還沒有淤積，海浪可以直達樓下，「赤崁夕照」曾是台灣八景之一。如今赤崁樓周圍都是街道，離海岸已經有一段距離。荷蘭人在台南另有一座熱蘭遮城，就是今天的安平古堡，範文第二天去的正是那裡。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照；選才通訊第 142 期的評分樣例是研究計畫另外請高三學生寫的短文，不是 93 指考考生的答案卷。",
+     "zh": {
+      "p1": "常聽人說旅行是最好的老師，這句話我非常同意。書本可以告訴我們一個地方的樣子，可是只有旅行能讓我們親眼看見。一座城鎮在書頁上顯得遙遠，等我們親自走過一趟，就變得真實起來；用這種方式學到的東西，也比為了考試背下來的知識記得更久。旅行也教我們靠自己。離開家以後，沒有人會替我們安排好每一步，所以要是公車沒來，或是突然下起雨來，我們就得趕快想辦法，自己做決定。不過，我最看重的，是旅行讓我有機會認識生活方式和我們不一樣的人。跟他們聊天，可以開闊我們的眼界，也讓我們用新的眼光看待自己的生活。",
+      "p2": "去年暑假，我和三個同學在台南待了三天，這趟旅行讓我親身印證了上面說的每一點。歷史課上，我讀過荷蘭人在 1653 年興建赤崁樓，可是對我來說，那只是一個名字和一個年份。站在赤崁樓古老的紅磚牆前，我從一塊解說牌上得知，以前海水就在樓下；如今海岸已經在好幾公里外。課本裡那幾張地圖，我一下子就看懂了。不過到了第二天，事情沒有照計畫走。我們查錯了公車時刻表，下一班往安平的公車要等一個小時才會來。我們沒有乾等，而是向一家店的老闆求助，租了腳踏車，在安平古堡關門前趕到。那天晚上，民宿老闆告訴我們，他辭掉了在台北上班的工作，搬回故鄉。他說自己現在賺得比以前少，卻有時間煮飯、釣魚，也能跟我們這樣的旅客聊聊天。聽了他的故事，我開始思考自己真正想過什麼樣的生活。這些收穫沒有一樣是光靠課本學得到的，都是在旅途中得來的；也正因為如此，我相信旅行是最好的老師。"
+     }
+    },
+    "rubric": {
+     "intro": "93 指考大考中心沒有公布當年的作文評分說明。站上所列的選才通訊第 142 期〈學測與指考英文作文評分樣例〉（大考中心第一處游春琪彙整），是兩年後的研究成果：「94指定科目英文考科非選擇題研發計畫」委託四所高中與一所高職約 195 位高三學生，以 93 年學測或指考的英文作文為題撰寫短文，再由閱卷委員初閱、複閱，與研究小組共同挑選學測與指考評分樣例各 9 份，逐份寫出得分說明。指考 9 份的等級分布為特優 1、優 1、可 2、差 2、劣 3。\n評分表分五項：內容 5 分、組織 5 分、文法、句構 4 分、字彙、拼字 4 分、體例 2 分，總分 20 分。等級分為特優、優、可、差、劣，文中沒有列出各等級的分數範圍。字數不足者，另扣一分。\n從樣例的得分說明可以看出閱卷的重點。特優那一份的說明是：主題清楚、具體，內容豐富；重點分明、組織完整且連貫。可級的兩份都是「部分相關敘述發展不全」，其中一份「有佈局，但未連貫發展」。至於編號 9，說明只有四個字「文不對題」，五項全部 0 分。",
+     "keypoint": "題目要求兩段各做一件事：第一段說明旅行的優點，第二段舉自己在國內或國外的旅行經驗，印證第一段的說明。關鍵在「印證」兩個字：第二段不是另外寫一篇遊記，而是要拿經驗回頭證明第一段說過的話。第一段列了幾個優點，第二段最好每一個都有對應的經驗；如果第二段只寫去了哪裡、吃了什麼，跟第一段接不起來，內容與組織兩項都會失分。142 期差級樣例的說明「未能就主題充分發揮」「第二段結尾不明顯」，指的就是這種情形。\n第一段講的是一般的道理，用現在式；第二段講過去的一次旅行，用過去式。比旅行更早發生的事，用過去完成式，例如 I had read（在歷史課讀到，是旅行之前的事）、We had checked the wrong bus timetable（查錯時刻表，發生在發現公車不來之前）。\n題目是 “Travel Is The Best Teacher”，本篇開頭先表明立場（I could not agree more），結尾以 that is why I believe travel is the best teacher 收束，回到題目，首尾呼應。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段提出三個理由，每一個都有具體說明：親眼看見書上讀過的東西，而且記得比考試背的更久；離開家以後要自己做決定，例如公車沒來、突然下雨；接觸生活方式不同的人，換一個眼光看自己的生活。第二段的台南之旅逐點印證：在赤崁樓從解說牌得知以前海水就在樓下，課本地圖因此看懂；查錯公車時刻表，改向店家求助、租腳踏車，在安平古堡關門前趕到；民宿老闆辭掉台北的工作回鄉，讓「我」開始思考想過什麼樣的生活。人事時地物、數字與動作都寫得具體。142 期特優樣例的說明是「主題清楚、具體，內容豐富」。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先表明立場，接著提出三個理由，三個理由各用不同的方式帶出，不必一路數 first、second、finally：第一個用對比帶出（Books can tell us about a place, but only travel lets us see it with our own eyes），第二個用 also 接上（Travel also teaches us …），第三個用 What I value most, though, is … 帶出，同時點明這是作者最看重的一點，三個理由因此有由輕到重的層次。第二段第一句 the trip proved all of these points to me 把兩段接起來，接著照時間順序寫：In history class（旅行之前）→ Standing in front of its old brick walls（第一天）→ On the second day, however（轉折）→ That evening。第二段三件事的順序與第一段三個理由的順序相同，讀者可以一一對照。倒數第二句 None of these lessons came from a textbook alone 回應第一段的 Books can tell us about a place，最後一句回到題目。"
+     },
+     {
+      "k": "文法、句構",
+      "t": "[A], but only [B]：只有 B 才……，用來對比兩者，Books can tell us about a place, but only travel lets us see it with our own eyes。\nwhose＋名詞：people [whose lives are different from ours]，whose lives 就是 people's lives；ours＝our lives。\nWhat I value most is＋名詞：what 引導名詞子句當主詞，What I value most, though, is the chance to …；though 插在句中表示轉折，意思是「不過」。\n動名詞片語當主詞，動詞用單數：[Talking with them] broadens our horizons and helps us see …。\n分詞構句：[Standing in front of its old brick walls], I learned …，前後主詞都是 I，還原成 As I was standing in front of its old brick walls。\n兩個動詞共用 had：he had (left his office job in Taipei) and (moved back to his hometown)。\n三個動作並列：we (asked a shop owner for help), (rented bikes), and (made it to Anping Old Fort)；to (cook), to (fish), and to (chat with travelers like us)。\n插入 he said：He earned less than before, he said, but he had time …，轉述他說的話，插在句中。\n動詞＋受詞＋原形動詞：let＋受詞＋V（travel lets us see）、help＋受詞＋V（helps us see）、make＋受詞＋V（made me think）。\nteach＋受詞＋to V：travel teaches us to depend on ourselves。"
+     },
+     {
+      "k": "字彙、拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 150、二級 18、三級 6、四級 4、六級 1，四級以上 5 個，占 179 個詞形的 2.8%，是 broaden（使變寬；broaden one's horizons 即開闊眼界）六級，以及 fort（堡壘）、horizon（眼界）、memorize（背誦）、timetable（時刻表）四級。三級的有 brick、chat、hometown、kilometer、tower、traveler。詞彙表沒有收錄的有 guesthouse（民宿）。片語：see with one's own eyes（親眼看見）、depend on oneself（靠自己）、make a decision（做決定）、broaden one's horizons（開闊眼界）、see … in a new light（用新的眼光看待）、make sense（說得通、看懂）、go as planned（照計畫進行）、ask someone for help（向某人求助）、make it to＋地點（及時趕到）。142 期特優樣例的評語指出 broaden my mind 應為 broaden my horizons；其實兩種說法都有，字典也收 Travel broadens the mind（旅行能增廣見聞）這句話，只是受詞不能混用：broaden the mind 的 mind 用單數，broaden one's horizons 的 horizons 固定用複數。這一篇容易拼錯的是 memorize、horizons、timetable、kilometers、decisions。"
+     },
+     {
+      "k": "體例",
+      "t": "142 期的評分表中，體例占 2 分。本題題目給了標題，142 期指考 9 份樣例有 7 份在第一行寫上標題；站上範文只列兩段正文，考試時可以照題目的寫法把 Travel Is The Best Teacher 寫在第一行。本篇要留意的有：專有名詞大寫（Tainan、Chihkan Tower、Anping Old Fort、the Dutch）；年份用阿拉伯數字（1653）；句首的時間副詞或副詞片語後加逗號（Last summer, 、Suddenly, ）；however 插在句中時前後都加逗號（On the second day, however, things …）。字數不足另扣一分，本篇字數足夠。"
+     }
+    ]
+   }
   },
   {
    "id": "E93_JCEE_MAKEUP",
