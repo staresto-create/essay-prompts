@@ -6588,7 +6588,45 @@
    ],
    "prompt": "文章請以“If I won two million dollars in the lottery, I would help …”開始，敘述如果你或妳贏得台灣樂透彩新台幣兩百萬元之後，最想把全數金額拿去幫助的人、機構或組織，並寫出理由。",
    "images": [],
-   "source": "大學入學考試中心 91 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 91 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 157,
+     "p1": "If I won two million dollars in the lottery, I would help an organization that holds camps at small schools in remote areas. Last winter, I volunteered at one of its camps at a junior high in New Taipei. A small school has only a few teachers, so one teacher often teaches subjects they never studied. As a result, classes like music and art are often the first to suffer. Students who never get a chance to try these subjects may never find out what they are good at, which leaves them with fewer choices later.",
+     "p2": "Our camp gave them that chance. We offered not only math and science but also art, music, and PE. On the second day, a quiet boy picked up a pair of drumsticks and would not put them down. With all that money, the organization could hold more camps like ours, so that more students like him could discover what they love.",
+     "caveat": "這是一種寫法，不是標準答案。題目規定「文長約120至150個單詞左右」，給了上下兩個數，和其他年度只給下限的寫法不同；本篇照原卷的範圍寫了 157 個單詞，所以比站上其他範文短。\n題目規定文章要以 If I won two million dollars in the lottery, I would help … 開始，所以第一句照題目寫，help 後面直接接上要幫助的對象：一個專門到偏鄉小校辦營隊的組織。第一段先交代我去年寒假在這個組織辦的營隊當過志工，再說明為什麼要幫它；第二段寫我在營隊裡看到的事，最後說明這筆錢交給這個組織能做什麼。題目要的是「全數金額」，所以本篇只寫一個組織，最後一句也用 all that money 表明錢全部給它。\n題目以樂透為背景，和當年的時事有關：91 年（2002 年）是台灣發行樂透彩的第一年，這一年一月第一張樂透開賣，熱潮延燒全台。\n範文第一段寫的情形確實存在：監察委員調查發現，偏遠地區國中老師非專長授課的情形嚴重，甚至有一位老師要教四個科目。\n大考中心自 94 年起才公布指考非選擇題的評分標準，自 98 年起才公布作文佳作，這一年沒有官方資料可以對照。",
+     "zh": {
+      "p1": "如果我買樂透中了兩百萬元，我會把錢拿去幫助一個組織，這個組織專門到偏鄉小校辦營隊。去年寒假，我到新北市的一所國中，在這個組織辦的營隊當志工。學校小，老師就少，所以一位老師常常得教自己沒學過的科目。結果，最先吃虧的往往是音樂、美術這些課。學生如果一直沒有機會試試這些科目，可能永遠不知道自己擅長什麼，將來能選的路也就少了。",
+      "p2": "我們的營隊就給了他們這個機會。我們開的課不只有數學和自然，還有美術、音樂和體育。第二天，一個平常很安靜的男生拿起鼓棒，就不肯放下了。有了這一整筆錢，這個組織就能多辦幾個像我們這樣的營隊，讓更多像他一樣的學生找到自己喜歡的事情。"
+     }
+    },
+    "rubric": {
+     "intro": "91 指考的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：文長約 120 至 150 個單詞左右、文章以 If I won two million dollars in the lottery, I would help … 開始，以及敘述最想把全數金額拿去幫助的人、機構或組織，並寫出理由。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 91 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目要寫兩件事：要幫助的是誰，以及為什麼。開頭句照題目寫到 help，後面直接接上要幫助的對象，讀者讀完第一句就知道答案；至於理由，要說明為什麼非幫這個對象不可，不能只說它做了很多好事。\n題目說的是「全數金額」，所以只寫一個對象，不要把錢分給好幾個地方。\n時態跟著內容走：開頭句是與現在事實相反的假設，if 子句用過去式 won，主要子句用 would help；說明偏遠學校的情形，說的是現在的事實，用現在式；講去年寒假的營隊，用過去式；最後一句又回到假設，用 could。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段開頭照題目說出要幫助的對象：一個專門到偏鄉小校辦營隊的組織，接著交代我去年寒假在這個組織辦的營隊當過志工。理由從學校的規模說起：學校小，老師就少；老師少，一位老師常常得教自己沒學過的科目；最先吃虧的因此往往是音樂、美術這些課；學生沒有機會試，就可能不知道自己擅長什麼，將來能選的路也少了。\n第二段寫營隊怎麼補上這一塊：營隊開的課不只有數學和自然，還有美術、音樂和體育；第二天，一個很安靜的男生拿起鼓棒就不肯放下。最後一句說明這兩百萬元全部交給這個組織，就能多辦幾個營隊，讓更多學生找到自己喜歡的事情。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段的理由不是並排列出來的，而是一個原因牽出下一個原因：A small school has only a few teachers → so one teacher often teaches subjects they never studied → As a result, classes like music and art are often the first to suffer → Students who never get a chance to try these subjects may never find out … → which leaves them with fewer choices later。前一句的結果就是下一句的起點，so、As a result 與 which 把這一串接起來。\n第二段開頭 Our camp gave them that chance. 用 that chance 回指第一段的 get a chance to try，把第一段的道理接到營隊上；接著 On the second day 帶出營隊裡的一個畫面；最後一句 With all that money 回到開頭的兩百萬元，首尾呼應，也交代全數金額拿去做什麼。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：開頭句是與現在事實相反的假設；說明偏遠學校的情形用現在式；講去年寒假的營隊用過去式；最後一句又回到假設。\nIf I won two million dollars in the lottery, I would help …：與現在事實相反的假設，if 子句用過去式，主要子句用 would＋原形動詞。最後一句 the organization could hold … 是同一個假設的延續，所以用 could。\nan organization [that holds camps at small schools in remote areas]：that 引導限定關係子句，說明是哪一種組織。\nsubjects [they never studied]：subjects 後面省略了關係代名詞 that；they 指的是前面的 one teacher。不知道或不必說出性別時，可以用 they 指一個人，過去多寫成 he or she；《芝加哥格式手冊》第 18 版（2024 年）已經接受這種 they 用在正式的文章裡。they 指一個人時，動詞仍用複數形，例如 they are。\nare often [the first to suffer]：the first to V，意思是「最先……」；《牛津高階英語詞典》first 名詞的例句 The poorest will be the first to suffer 就是這個用法。\nStudents [who never get a chance to try these subjects] may never find out [what they are good at]：who 引導關係子句，修飾 Students；what 引導名詞子句，當 find out 的受詞；be good at 意思是「擅長」。\n…, [which leaves them with fewer choices later]：which 指的不是前面某一個名詞，而是前面整件事（學生不知道自己擅長什麼）；這種關係子句前面要加逗號，不能用 that。leave＋O＋with＋N，意思是「使……只剩下……」。\nnot only (math and science) but also (art, music, and PE)：not only A but also B，A 和 B 的詞性要對稱，這裡兩邊都是名詞。\nwould not put (them) (down)：would not 表示過去「不肯」做某件事；put＋代名詞＋down，代名詞要放在 put 和 down 中間，不說 put down them。\n[so that] more students like him could discover [what they love]：so that 表示目的；前面的主要子句是假設，所以 so that 後面也用 could。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 83、二級 4、三級 3、四級 1、六級 1，四級以上 2 個，占 92 個詞形的 2.2%，是 volunteered（原形 volunteer，當志工，四級）與 lottery（樂透，六級，題目給的字）。二級的有 discover、offer、organization、result；三級的有 junior、remote、suffer。\nmath 是美式的寫法，英式寫 maths；體育課在美式英文常寫 PE，也說 phys ed，《韋氏詞典》把 PE 列為 physical education 的縮寫。站上英文一律用美式。\n片語：as a result（因此）、get a chance to（有機會……）、find out（發現）、be good at（擅長）、not only … but also（不只……還有……）、pick up（拿起）、put … down（放下）。這一篇容易拼錯的是 lottery、organization、volunteered、science 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "91 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，不必自己加。開頭句照題目寫，題目句末的「…」是留給考生接下去寫的，不要把省略號抄進答案卷。本篇要留意的有：If 子句放在句首時，後面加逗號；句首的片語後面加逗號（Last winter, 、As a result, 、On the second day, 、With all that money, ）；非限定關係子句 which 前面加逗號；列出三項以上時，最後一項前面的 and 也加逗號（art, music, and PE），這是美式常見的寫法；地名 New Taipei 兩個字的字首都大寫。"
+     }
+    ]
+   }
   },
   {
    "id": "E90_GSAT",
