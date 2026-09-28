@@ -6646,7 +6646,45 @@
    "officialTitle": "Something Interesting about a Classmate of Mine",
    "prompt": "請以 “Something Interesting about a Classmate of Mine” 為題，寫出有關你一位同學的一件趣事。這位同學可以是你任何時期的同學，例如中學、小學或幼稚園的同學。",
    "images": [],
-   "source": "大學入學考試中心 90 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 90 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 306,
+     "p1": "The loudest sound I have ever heard in an English class did not come from anyone's mouth. It came from my classmate Kai, and it happened in the middle of a speaking lesson in our first year of senior high. Kai was a quiet boy who sat in the back row and seldom raised his hand, so nobody expected him to become the star of that lesson.",
+     "p2": "That day, we were practicing a dialogue about seeing the school nurse. Our teacher, Ms. Lin, asked Kai to play a student who felt sick, and she chose me to be the nurse. Kai walked slowly to the front, held his stomach, and read his line from the script: \"I have a terrible stomachache.\" The moment he finished, a loud noise came from where he was standing. Everyone knew at once what had happened: Kai had passed gas, right in front of the whole class. For a second, the room was completely silent. Then everyone burst out laughing. Kai's face flushed with embarrassment, but instead of running back to his seat, he looked at me and said, \"See? I'm not acting.\" That made us laugh even harder. Ms. Lin laughed so hard that tears came to her eyes. When she finally calmed down, she wrote \"cut the cheese\" on the board and explained that it was American slang for passing gas. \"You may hear it in movies,\" she said, \"but never use it in your essays.\" Today, none of us can remember a single line from that dialogue, but all of us remember that expression. Whenever anyone in our class says they have a stomachache, we look at each other and try hard not to laugh. Kai is still quiet, but since that day, we have all known how quickly he can turn an awkward moment into a joke.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120字左右」，這裡的「字」指的是英文單字（words），不是中文字數；91 學測起，原卷才寫成「120個單詞(words)」。這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 302 個單詞，篇幅與站上其他範文相近，是為了把事情的經過和每個人的反應都寫具體。\n題目要寫的是「一件」趣事，所以本篇只寫一堂英文課上發生的事，沒有把這位同學的各種特點一一列出來。第一段只用一句交代阿凱平常的樣子（安靜、坐最後一排、很少舉手），是為了讓讀者看出，他後來那句話有多出人意料。好笑的地方也不在放屁本身，而在阿凱當下的反應：他沒有躲回座位，反而用一句話化解了尷尬。寫同學的趣事，最好也寫到當事人怎麼面對，不要只是拿同學出糗來開玩笑。\n文中的 cut the cheese 是美式俚語，意思是放屁，而且不太禮貌；本篇只讓它出現在老師說的話裡，老師也交代了不能寫進作文。敘述的部分用的是 pass gas，這是比較客氣的說法，寫作文時要用這一個。這一年的題目沒有規定要分幾段，本篇第一段交代人物，第二段寫事情的經過，是為了讓讀者看得出兩件事的分界，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "我在英文課上聽過最響的一個聲音，不是從誰的嘴巴發出來的。那是高一的一堂口說課，聲音來自我的同學阿凱。阿凱平常很安靜，坐在最後一排，很少舉手，所以誰也沒想到，那堂課的主角會是他。",
+      "p2": "那天我們在練習一段到健康中心看病的對話。林老師請阿凱演一個身體不舒服的學生，又要我演護理師。阿凱慢慢走到台前，抱著肚子，唸出他的台詞：「我肚子痛得不得了。」話才說完，他站的地方就傳出很響的一聲。大家馬上就知道發生了什麼事：阿凱在全班面前放了一個屁。教室安靜了一秒鐘，接著大家哄堂大笑。阿凱臉都紅了，可是他沒有跑回座位，反而看著我說：「你看，我不是在演。」這一句讓大家笑得更厲害，林老師笑到眼淚都流出來了。等她好不容易平靜下來，就在黑板上寫下 cut the cheese，說這是美國的俚語，意思就是放屁。她說：「你們看電影可能會聽到，可是寫作文千萬別用。」到現在，那段對話我們連一句都不記得了，那個說法卻每個人都記得。只要班上有人說肚子痛，大家就會互看一眼，拚命忍住不笑。阿凱還是一樣安靜，可是從那天起，我們都知道，他三兩下就能把尷尬的場面變成笑話。"
+     }
+    },
+    "rubric": {
+     "intro": "90 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：「文長120字左右」、以 “Something Interesting about a Classmate of Mine” 為題，以及寫出有關你一位同學的一件趣事。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 90 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目要的是「一件」趣事：重點放在一件事情上，不是介紹這位同學的全部。趣事要讓讀者自己看出好笑在哪裡，所以要把當時的場面寫具體——大家在做什麼、誰說了什麼、其他人有什麼反應——而不是只寫一句 It was very funny。\n題目說這位同學可以是任何時期的同學；不管寫哪個時期，都要讓讀者知道是什麼時候的事。本篇在第一段就交代，是高一的一堂英文口說課。\n時態跟著內容走：第一句說的是到現在為止聽過最響的聲音，用現在完成式（have ever heard）；事情的經過用過去式；大家「知道」發生了什麼事，而放屁發生在知道之前，所以用過去完成式（had happened、had passed）；最後寫到現在，用現在式（can remember、is still quiet）；從那天起一直到現在都知道，用現在完成式（have known）。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段交代人物與時間：阿凱是我的同學，事情發生在高一的一堂英文口說課；再用一句寫他平常的樣子——安靜、坐最後一排、很少舉手。第二段寫事情的經過，每一步都有具體的動作與對白：大家在練習到健康中心看病的對話，老師要阿凱演身體不舒服的學生、我演護理師；阿凱抱著肚子唸出 I have a terrible stomachache，話才說完就放了一個屁；教室安靜一秒後，大家哄堂大笑；阿凱臉紅，卻說 See? I'm not acting；老師笑到流眼淚，接著在黑板上寫下 cut the cheese，並交代作文不能用。最後寫到現在：那段對話沒有人記得，那個俚語每個人都記得；只要有人說肚子痛，大家就忍著不笑。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句 The loudest sound I have ever heard in an English class did not come from anyone's mouth 先不說破是什麼聲音，讓讀者想知道答案；第二句點出人物與時間；第三句寫阿凱平常的樣子，並用 nobody expected him to become the star of that lesson 預告他後來的表現。\n第二段照事情發生的先後寫：That day, we were practicing … → The moment he finished … → For a second, the room was completely silent → Then everyone burst out laughing → When she finally calmed down …。接著用 Today 從那一天跳到現在，寫這件事留下了什麼。最後一句 Kai is still quiet 呼應第一段的 Kai was a quiet boy，再加上從那天起大家才知道的另一面；讀到這裡，讀者也就明白第一段為什麼說誰也沒想到主角會是他。"
+     },
+     {
+      "k": "文法句構",
+      "t": "[The loudest sound] [I have ever heard in an English class] did not come from anyone's mouth：最高級＋省略 that 的關係子句＋have ever＋p.p.，意思是「……過最……的」；聽過的聲音算到現在為止，所以用現在完成式。\nKai was a quiet boy [who sat in the back row and seldom raised his hand]：關係子句裡的兩個動詞 sat、raised 共用主詞 who。\nnobody [expected] him [to become] the star of that lesson：expect＋O＋to V；後面的 asked Kai to play a student 是同一個句型。\nKai (walked slowly to the front), (held his stomach), and (read his line)：三個動作並列，前兩個後面加逗號，最後一個前面加 and。\n[The moment] he finished, …：the moment＋子句，意思是「一……就……」，用法等於 as soon as。\na loud noise came from [where he was standing]：where 子句當介系詞 from 的受詞。\nEveryone knew at once [what had happened]: Kai [had passed] gas：大家知道是在聽到聲音之後，放屁發生在知道之前，所以兩處都用過去完成式；冒號後面的句子說明冒號前面的 what had happened。\nThen everyone [burst out laughing]：burst out＋V-ing，意思是「突然……起來」；也可以說 burst into laughter。\n[instead of] running back to his seat：instead of＋V-ing，意思是「沒有……，反而……」。\n\"See? I'm not acting.\"：現在進行式，說的是說話當下正在做的事。\nMs. Lin laughed [so] hard [that] tears came to her eyes：so＋副詞＋that 子句，意思是「……到……的程度」。\nexplained that it was American slang [for] passing gas：slang for＋名詞或 V-ing，意思是「指……的俚語」；explained 是過去式，that 子句跟著用 was。\nnone of us can remember [a single line] from that dialogue：a single＋單數名詞用在否定句，強調「連一個都沒有」。none of us 當主詞時，接的是複數代名詞，動詞用單數、複數都有人用，正式寫作多用單數；本句用助動詞 can，不受影響。\n[Whenever] anyone in our class says [they] have a stomachache：anyone 可以用 they 來指，動詞仍用複數形 have；《芝加哥格式手冊》第 18 版 5.51 已接受這個用法用於正式文章。\nwe look at each other and try hard [not] to laugh：不定詞的否定，not 放在 to 前面。\n[since that day], we [have] all [known] how quickly he can [turn] an awkward moment [into] a joke：since＋過去的時間點，主要子句用現在完成式；how quickly … 是名詞子句，當 known 的受詞；turn A into B，意思是「把 A 變成 B」。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 129、二級 18、三級 4、四級 2、五級 1、六級 1，四級以上 4 個，占 155 個詞形的 2.6%，是 embarrassment（尷尬）、flushed（臉變紅，原形 flush）兩個四級字，五級的 script（劇本），以及六級的 slang（俚語）。三級的有 awkward、gas、senior、stomach；二級的有 dialogue、stomachache、expression、silent、seldom、whenever 等。\n片語：come from（從……來）、in the middle of（在……的中間）、sit in the back row（坐在最後一排）、read one's line from the script（照著劇本唸台詞）、raise one's hand（舉手）、pass gas（放屁）、at once（立刻）、burst out laughing（突然大笑起來）、flush with embarrassment（尷尬得臉紅）、instead of（沒有……反而）、calm down（平靜下來）、look at each other（互相看一眼）、try not to（盡量不）、turn A into B（把 A 變成 B）。cut the cheese 也是放屁的意思，但是美式俚語，而且不太禮貌，只在口語裡用；寫作文要用 pass gas。這一篇容易拼錯的是 stomachache、dialogue、embarrassment、awkward、whenever 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "90 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法把 Something Interesting about a Classmate of Mine 寫在第一行；站上範文只列兩段正文。本篇對白多，要留意引號的用法：引號裡的句子以大寫開頭，句號、逗號放在引號裡面（《芝加哥格式手冊》6.9），例如 \"I have a terrible stomachache.\"；一句話中間插入 she said 的時候，前半句的逗號放在引號裡面，後半句接著用小寫，例如 \"You may hear it in movies,\" she said, \"but never use it in your essays.\"；提到 cut the cheese 這個說法本身時，也加上引號。另外，Ms. 後面加句點是美式寫法；三個以上的項目並列時，and 前面也加逗號（walked slowly to the front, held his stomach, and read his line）；practicing 是美式拼法，英式拼作 practising，站上英文一律用美式。"
+     }
+    ]
+   }
   },
   {
    "id": "E89_GSAT",
