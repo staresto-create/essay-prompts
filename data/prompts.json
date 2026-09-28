@@ -6451,7 +6451,45 @@
    ],
    "prompt": "小考、段考、複習考、畢業考、甚至校外其它各種大大小小的考試，已成爲高中學生生活中不可或缺的一部份。請寫一篇 120 至 150 個單詞左右的英文作文，文分兩段，第一段以 Exams of all kinds have become a necessary part of my high school life.爲主題句；第二段則以 The most unforgettable exam I have ever taken is…爲開頭並加以發展。",
    "images": [],
-   "source": "大學入學考試中心 92 學年度指定科目考試英文考科"
+   "source": "大學入學考試中心 92 學年度指定科目考試英文考科",
+   "model": {
+    "essay": {
+     "words": 155,
+     "p1": "Exams of all kinds have become a necessary part of my high school life. Quizzes come almost every day and check whether I have learned yesterday's lesson. Midterms show me which chapters I need to review again. Practice exams prepare me for the college entrance exam. Stressful as they are, exams keep me studying a little every day instead of cramming the night before.",
+     "p2": "The most unforgettable exam I have ever taken is my first math midterm in high school. Ten minutes into the test, the classroom began to shake. We hid under our desks until the shaking stopped, and by then I could hardly remember a single formula. Our teacher calmed us down and gave us ten extra minutes. I finished every question and even got an 85. Since then, whenever I panic during an exam, I remind myself that if I could finish a test after an earthquake, I can finish any test.",
+     "caveat": "這是一種寫法，不是標準答案。題目規定「文長約120至150個單詞左右」，給了上下兩個數，和其他年度只給下限的寫法不同；本篇照原卷的範圍寫了 155 個單詞，所以比站上其他範文短。\n題目規定兩段的開頭：第一段以 Exams of all kinds have become a necessary part of my high school life. 為主題句，第二段以 The most unforgettable exam I have ever taken is… 為開頭。原卷另外寫明「未依提示書寫各段主題句扣兩分」，所以這兩句要照題目寫，一個字都不改。本篇第一段依考試的大小，從幾乎天天都有的小考、段考，寫到為大考準備的模擬考，說明各種考試各有什麼用處，最後一句再說考試讓我每天念一點書；第二段寫高一第一次數學段考遇上地震的經過，以及我從那次考試學到的事。\n大考中心自 94 年起才公布指考非選擇題的評分標準，自 98 年起才公布作文佳作，這一年沒有官方資料可以對照。",
+     "zh": {
+      "p1": "各種考試已經成為我高中生活中不可或缺的一部分。小考幾乎天天都有，檢視我前一天的課學會了沒有。段考讓我知道哪幾課需要再複習。模擬考則讓我為大學入學考試做準備。考試雖然讓人壓力很大，卻讓我每天都念一點書，不必等到考前一晚才臨時抱佛腳。",
+      "p2": "我考過最難忘的一次考試，是上高中以後的第一次數學段考。考試開始十分鐘，教室就搖了起來。我們躲在桌子底下，一直到不再搖晃；到了那時候，我幾乎連一個公式都想不起來。老師先讓大家冷靜下來，又多給了我們十分鐘。我把每一題都寫完了，甚至還考了 85 分。從那以後，每當考試時一慌，我就提醒自己：連地震過後都能把考卷寫完，就沒有寫不完的考卷。"
+     }
+    },
+    "rubric": {
+     "intro": "92 指考的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有四項：文長約 120 至 150 個單詞左右、文分兩段、第一段以 Exams of all kinds have become a necessary part of my high school life. 為主題句，以及第二段以 The most unforgettable exam I have ever taken is… 為開頭並加以發展；原卷並寫明，未依提示書寫各段主題句扣兩分。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 92 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "兩個指定句都要照題目寫。第一段的主題句說考試是高中生活中不可或缺的一部分，後面幾句就要說明為什麼不可或缺；如果只列出有哪幾種考試，卻沒有說它們有什麼用處，第一段就只寫了一半。第二段的開頭句後面要接一次具體的考試，再寫那次考試發生了什麼事、為什麼忘不了。\n開頭句用現在完成式 have ever taken，指到現在為止考過的所有考試；is 後面要說出是哪一次考試，本篇寫的是 my first math midterm in high school。\n時態跟著兩段的任務走：第一段講現在的高中生活，用現在式；第二段的開頭句照題目用現在式，接下來講那次段考的經過，改用過去式；最後一句講從那次以後養成的習慣，回到現在式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段在主題句之後，說明三種考試各有什麼用處：小考幾乎天天都有，檢視我前一天的課學會了沒有；段考讓我知道哪幾課需要再複習；模擬考讓我為大學入學考試做準備。最後一句先承認考試讓人壓力很大，再說出考試帶來的好處：讓我每天念一點書，不必等到考前一晚才臨時抱佛腳。\n第二段寫一次具體的考試：高一第一次數學段考，考試開始十分鐘發生地震，全班躲到桌子底下；不再搖晃的時候，我幾乎連一個公式都想不起來。老師先讓大家冷靜下來，又多給十分鐘，結果我每一題都寫完，還考了 85 分。最後一句交代這次考試為什麼忘不了：從此考試一慌，我就用這件事提醒自己。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段列三種考試，既不用 first、second、finally，也不加任何連接詞，而是讓三種考試輪流當主詞：Quizzes …、Midterms …、Practice exams …。三種考試由小到大排：小考天天有，段考一學期考幾次，模擬考是為了大考，讀者從主詞就看得出換了一種考試。最後一句 Stressful as they are, exams … 用 they 把三種考試合在一起講，替整段作結。\n第二段照時間順序寫：Ten minutes into the test → until the shaking stopped → by then → Our teacher calmed us down → I finished every question → Since then。最後一句由那一次的經過轉到現在的習慣，回應開頭句的 unforgettable，交代這次考試為什麼忘不了。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：第一段講現在的高中生活，用現在式；小考檢視的是到那時候學會了沒有，用現在完成式（whether I have learned）；第二段講那次段考，用過去式；最後一句講現在的習慣，回到現在式。\n[Stressful] as [they are], exams keep me …：形容詞＋as＋主詞＋be 動詞，意思是「雖然……」，和 Although they are stressful 意思相同，形容詞要放在 as 的前面。《牛津高階英語詞典》as 連接詞的例句 Happy as they were, there was something missing 就是這個句型。放在 as 前面的也可以是名詞，這時名詞前面不加冠詞：寫 Boy as he is, …、Child as he is, he knows a lot，不寫 A boy as he is, …。名詞放在句首的寫法，在十九世紀的書裡最常見，現在用得比較少，屬於正式的書面寫法。\nexams keep (me) (studying)：keep＋O＋V-ing，意思是「讓……一直……」。\n[instead of] cramming：instead of 是介系詞片語，後面接動名詞。\ncheck [whether I have learned yesterday's lesson]：whether 引導名詞子句，當 check 的受詞。\nshow me [which chapters I need to review again]：間接問句要用直述句的語序，寫 I need，不寫 do I need。\n[Ten minutes into] the test：一段時間＋into＋名詞，表示某件事開始以後過了多久；《牛津高階英語詞典》into 列有「到某段時間中的某一點」這個意思。\nWe hid under our desks [until the shaking stopped]：until 引導時間副詞子句；shaking 是動名詞，意思是「搖晃」。\n[by then] I could hardly remember a single formula：by then 意思是「到了那時候」；hardly 本身帶否定的意思，不再加 not；hardly … a single … 意思是「幾乎連一個……都不……」。\nOur teacher calmed (us) (down)：calm＋O＋down，受詞是代名詞時要放在 calm 和 down 中間，不說 calmed down us。\n[whenever] I panic during an exam：whenever＋子句，意思是「每當……」。\nI remind myself [that if I could finish a test after an earthquake, I can finish any test]：remind oneself that＋子句。if 子句裡的 could 是 can 的過去式，說的是那一次真的做到了，不是假設語氣，所以後半句用 can。\nThe most unforgettable exam [I have ever taken]：exam 後面省略了關係代名詞 that；最高級後面的關係子句常用現在完成式加 ever。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 73、二級 15、三級 2、四級 1、六級 1，四級以上 2 個，占 92 個詞形的 2.2%，是 formula（公式，四級）與 cramming（原形 cram，臨時抱佛腳，六級）。三級的有 panic、remind。midterm（段考）詞彙表未收；stressful 由二級的 stress 加上 -ful；unforgettable 是題目給的字。\n模擬考在美式英文常說 practice exam 或 practice test；也有人說 mock exam，那是英式的說法，站上英文一律用美式。\n片語：exams of all kinds（各種考試）、prepare for（為……做準備）、instead of（而不是）、calm someone down（讓某人冷靜下來）、by then（到了那時候）、remind oneself（提醒自己）、get an 85（考 85 分）。這一篇容易拼錯的是 necessary、quizzes、unforgettable、earthquake、formula 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "92 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，不必自己加。兩個指定句照題目寫；第二句句末的「…」是題目留給考生接下去寫的，不要把省略號抄進答案卷。本篇要留意的有：句首的片語或子句後面加逗號（Ten minutes into the test, 、Stressful as they are, 、Since then, ）；yesterday's 的撇號；分數 85 用阿拉伯數字。"
+     }
+    ]
+   }
   },
   {
    "id": "E91_GSAT",
