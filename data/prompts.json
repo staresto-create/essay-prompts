@@ -6374,7 +6374,45 @@
    "officialTitle": "Music Is An Important Part of Our Life",
    "prompt": "請以 “Music Is An Important Part of Our Life” 為題，說明音樂（例如古典音樂、流行歌曲、搖滾音樂等）在生活中的重要性，並以你或他人的經驗為例，敘述音樂所帶來的好處。",
    "images": [],
-   "source": "大學入學考試中心 92 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 92 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 294,
+     "p1": "Music is an important part of our life, even when we do not notice it. We hear pop songs in clothing stores, classical pieces at weddings, and rock music at basketball games. Among other people, music brings us together. At a concert, thousands of strangers sing the same lines, and classmates who have little in common can share a favorite band. On our own, music changes how we feel. A slow piano piece can calm us down when we are nervous, and a loud rock song can wake us up on a sleepy afternoon. Long after an important moment has passed, music keeps its memory alive. Hearing a song from that day can take us back there, even years later.",
+     "p2": "I learned all this from our class chorus competition last year. When we started practicing, most of us had hardly spoken to one another, and our first practice was a mess. For three weeks, we practiced during every lunch break. The quiet students began to make jokes, and the loud ones learned to listen to others. The night before the competition, I was so nervous that I could not sleep. I put on my earphones and played a slow piano piece by Chopin, and within ten minutes, my heart stopped pounding. On stage the next day, we did not win first place, but when the last note faded, everyone was smiling. When I told my grandmother about it, she understood right away. She still sings the song her class sang at her graduation sixty years ago, and her eyes shine every time she does. I am sure that one day, I will do the same with our song. Music, after all, is not just something we hear. It is part of who we are.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，而這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 294 個單詞，篇幅與站上其他範文相近，是為了把音樂的好處和經驗都寫具體。\n題目要求兩件事：先說明音樂在生活中的重要性，再以你或他人的經驗為例，敘述音樂帶來的好處。本篇第一段說明音樂的三個好處：把人凝聚在一起、改變心情、讓回憶一直鮮活；第二段照同樣的順序，以自己參加班際合唱比賽的經驗和奶奶的經驗逐一對應：三個星期的練唱讓全班變熟，比賽前一晚聽鋼琴曲讓心情平靜下來，奶奶到現在還會唱畢業時全班唱的那首歌。也就是說，題目說的「你」和「他人」的經驗，本篇兩種都寫到了；只寫其中一種，也符合題目的要求。\n這一年的題目沒有規定要分幾段，本篇分成兩段，第一段講道理，第二段講經驗，是為了讓讀者看得出兩件事的分界，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "音樂是我們生活中很重要的一部分，就算我們沒有察覺也一樣。我們在服飾店聽到流行歌曲，在婚禮上聽到古典樂曲，在籃球比賽聽到搖滾樂。和別人在一起的時候，音樂能把我們凝聚起來。演唱會上，好幾千個素不相識的人唱著同樣的歌詞；平常沒什麼共同點的同學，也可以一起喜歡同一個樂團。自己一個人的時候，音樂能改變我們的心情。緊張的時候，一首緩慢的鋼琴曲可以讓我們冷靜下來；在昏昏欲睡的午後，一首大聲的搖滾歌曲也能讓我們清醒過來。一個重要的時刻過去很久以後，音樂還能讓那段回憶一直鮮活。多年以後再聽到那天的一首歌，就能把我們帶回那一刻。",
+      "p2": "這些道理，我是從去年班上的合唱比賽學到的。剛開始練唱的時候，我們大多數人彼此幾乎沒說過話，第一次練習唱得亂七八糟。整整三個星期，我們每天利用午休時間練習。安靜的同學開始會開玩笑，平常最吵的同學也學會了聽別人唱。比賽前一晚，我緊張得睡不著，就戴上耳機，播了一首蕭邦的慢板鋼琴曲，不到十分鐘，我的心就不再怦怦狂跳了。隔天上了台，我們沒有拿到第一名，可是最後一個音漸漸消失的時候，每個人都在笑。我把這件事告訴奶奶，她一聽就懂了。六十年前她畢業時，全班一起唱的那首歌，她到現在還會唱，而且每次唱，眼睛都會發亮。我相信有一天，我也會這樣唱起我們的那首歌。說到底，音樂不只是我們聽見的聲音，它是我們的一部分。"
+     }
+    },
+    "rubric": {
+     "intro": "92 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：文長 120 個單詞左右、以 “Music Is An Important Part of Our Life” 為題，以及說明音樂在生活中的重要性，並以你或他人的經驗為例，敘述音樂所帶來的好處。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 92 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目要求兩個動作：「說明」音樂的重要性，是講道理；「敘述」音樂帶來的好處，是講經驗。兩者要接得起來：第一段說了音樂有哪些好處，第二段的經驗就要讓讀者看得到那些好處。如果第二段只寫自己喜歡哪位歌手、平常聽什麼歌，卻沒有交代音樂帶來了什麼改變，就沒有回應題目。\n題目在括號裡舉了古典音樂、流行歌曲、搖滾音樂，那是舉例，不是規定每一種都要寫；本篇第一段三種都提到，第二段只用到鋼琴曲。\n時態跟著兩段的任務走：第一段講一般的道理，用現在式；第二段講去年的比賽，用過去式；比開始練唱更早的事用過去完成式（had hardly spoken）；說到奶奶現在的習慣與我將來會怎麼做，再回到現在式與未來式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段提出三個好處，每一個都有具體的例子：和別人在一起時，音樂把人凝聚起來（演唱會上好幾千個素不相識的人唱同樣的歌詞，沒什麼共同點的同學可以喜歡同一個樂團）；自己一個人時，音樂能改變心情（緊張時聽慢的鋼琴曲可以冷靜下來，昏昏欲睡的午後聽大聲的搖滾歌曲可以清醒過來）；重要的時刻過去很久以後，音樂還能讓回憶一直鮮活（多年後再聽到那天的歌，就能回到那一刻）。第二段以兩個人的經驗逐一印證：我參加班際合唱比賽，三個星期午休練唱，安靜的同學會開玩笑了，吵的同學學會聽別人唱；比賽前一晚緊張得睡不著，聽了蕭邦的鋼琴曲，不到十分鐘就平靜下來；奶奶六十年前畢業時唱的歌，她到現在還會唱。人、時間、地點與動作都寫得具體。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句 Music is an important part of our life 直接回應題目，接著用生活中常聽到的三種音樂（流行歌曲、古典樂曲、搖滾樂）帶出主題。三個好處不用 first、second、finally 一路數下去，而是各配一個情境開頭，讓讀者一看就知道換了一個面向：Among other people（和別人在一起時）、On our own（自己一個人時）、Long after an important moment has passed（重要的時刻過去很久以後）。三個情境從「和別人」到「自己」再到「時間」，每個情境後面緊接著一句說明音樂的作用（music brings us together、music changes how we feel、music keeps its memory alive），再接一句具體的例子。\n第二段第一句 I learned all this from … 把兩段接起來，接著照時間順序寫：When we started practicing → For three weeks → The night before the competition → On stage the next day → When I told my grandmother。第二段三件事的順序與第一段三個好處的順序相同，讀者可以一一對照。最後一句 It is part of who we are 回到第一段第一句「音樂是生活的一部分」，頭尾呼應。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：第一段講一般的道理，用現在式；第二段講去年的事，用過去式；開始練唱之前大家幾乎沒說過話，發生得更早，用過去完成式（had hardly spoken）；奶奶現在的習慣用現在式（She still sings），我將來會怎麼做用未來式（I will do the same）。\n[Among other people]、[On our own]、[Long after an important moment has passed]：三個好處都用一個說明情境的片語或子句放在句首，後面再接主要子句 music ……。on our own 意思是「自己一個人」，和 alone 同義，口語和一般寫作都常用。\nLong after＋子句：意思是「……之後很久」，an important moment has passed 用現在完成式，表示那一刻已經過去。\nmusic keeps (its memory) (alive)：keep＋O＋OC，OC 是形容詞 alive，意思是「讓……一直保持鮮活」；its 指前面的 an important moment。\n[Hearing a song from that day] can take us back there：動名詞片語當主詞，動詞用單數；take＋O＋back 意思是「讓人回想起過去」。\nthousands of strangers：thousands of＋複數名詞，意思是「好幾千的、數以千計的」；這個說法指的是幾千，不是「成千上萬」，後者比較接近 tens of thousands。\nclassmates [who have little in common]：關係子句修飾 classmates；have little in common 意思是「沒什麼共同點」。\nA slow piano piece can [calm us down]、a loud rock song can [wake us up]：calm＋O＋down、wake＋O＋up，受詞是代名詞時要放在動詞和 down、up 中間，不說 calm down us、wake up us。\nI was [so] nervous [that] I could not sleep：so＋形容詞＋that，意思是「太……以至於……」。\nThe quiet students began to make jokes, and the loud ones learned to listen to others：ones 代替前面的 students，避免重複。\nShe still sings the song [her class sang at her graduation]：song 後面省略了關係代名詞 that。\nher eyes shine [every time] she does：every time＋子句，意思是「每次……」；does 代替 sings，避免重複。\nMusic, [after all], is not just something we hear. It is part of [who we are]：after all 插在句中，意思是「說到底」，前後都加逗號；who we are 是名詞子句，當介系詞 of 的受詞。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 138、二級 18、三級 3、四級 4，四級以上 4 個，占 163 個詞形的 2.5%，是 chorus（合唱）、competition（比賽）、earphones（耳機，原形 earphone）、graduation（畢業），皆為四級。三級的有 concert、faded（原形 fade）、mess。\n片語：bring people together（把人凝聚在一起）、on one's own（自己一個人）、have little in common（沒什麼共同點）、calm someone down（讓某人冷靜下來）、wake someone up（叫醒某人）、keep … alive（讓……保持鮮活）、take someone back（讓人回想起過去）、make jokes（開玩笑）、put on earphones（戴上耳機）、win first place（拿第一名）、right away（馬上）。這一篇容易拼錯的是 competition、graduation、chorus、thousands、earphones 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "92 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法把 Music Is An Important Part of Our Life 寫在第一行；站上範文只列兩段正文。本篇要留意的有：人名 Chopin 字首大寫；句首的片語後面加逗號（Among other people, 、On our own, 、The night before the competition, ）；after all 插在句中時前後都加逗號；favorite 是美式拼法，英式拼作 favourite，站上英文一律用美式。"
+     }
+    ]
+   }
   },
   {
    "id": "E92_GSAT_MAKEUP",
