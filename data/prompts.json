@@ -6510,7 +6510,45 @@
    "officialTitle": "The Most Precious Thing in My Room",
    "prompt": "以“The Most Precious Thing in My Room”為題寫一篇英文作文，描述你的房間內一件你最珍愛的物品，同時並說明珍愛的理由。(這一件你最珍愛的物品不一定是貴重的，但對你來說卻是最有意義或是最值得紀念的。)",
    "images": [],
-   "source": "大學入學考試中心 91 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 91 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 322,
+     "p1": "The most precious thing in my room is not something I can hold in my hands. It is the window next to my desk. It is just an ordinary window with an old metal frame, and it rattles a little on windy days. For the past ten years, however, it has given me a view that no amount of money could buy. Beyond the rooftops of our neighborhood, I can see a short stretch of the river, a wide sky that turns orange in the evening, and green mountains in the distance.",
+     "p2": "Last spring, a construction crane appeared across the street, and a new apartment building began to rise. Every few weeks, it grows a few floors taller, and each time, part of my view disappears. The river went first. I had not realized how much it meant to me until it was gone. Before every big exam, I used to stand at the window and watch the water, and somehow my mind would become calm. Then, this summer, the building blocked the sunset. For years, the orange sky had been my signal to put down my pen and take a break. Now the evening simply turns dark, and I often study until my eyes hurt. Soon the mountains will be gone too. Even now, I can only catch a glimpse of their tops above the new building. My grandparents live in a small town at the foot of those mountains, and whenever I miss them, I look out at the mountains and feel that they are not so far away. I cannot stop the building from growing, so every morning, I take a picture from my window to keep a record of what is left. My window will still be there after the building is finished, but what makes it precious will not. I have learned that the most precious things in life are not always the ones we can keep.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，而這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 322 個單詞，篇幅與站上其他範文相近，是為了把窗外的景色和每一個珍愛的理由都寫具體。\n題目要描述的是「房間內」的一件「物品」。本篇真正珍愛的是窗外的景色，可是景色不在房間裡，也不是物品，所以第一段第一句先說最珍貴的東西不是可以拿在手上的小東西，第二句才點明是書桌旁的那扇窗戶：窗戶在房間裡，符合題目；它珍貴，是因為從它看得到的景色。如果開頭直接寫 the view，就沒有扣住題目說的「房間內一件物品」。題目括號裡說這件物品不一定貴重，本篇寫的只是一扇普通的舊窗戶，也回應了這一點。\n本篇沒有把理由一條一條列出來，而是照景色消失的先後帶出理由：河先看不見，接著是夕陽，再來是山；每少一樣，就說出它對「我」的意義。也就是說，理由是在失去的時候才看清楚的。這一年的題目沒有規定要分幾段，本篇第一段描述，第二段說明理由，是為了讓讀者看得出兩件事的分界，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "我房間裡最珍貴的東西，不是可以拿在手上的小東西，而是書桌旁的那扇窗戶。它只是一扇普通的窗戶，金屬窗框已經很舊了，風大的日子還會輕輕地喀啦作響。不過這十年來，我從這扇窗戶看到的景色，再多錢也買不到。在我們這一帶的屋頂後面，看得到一小段河，還有一大片天空，傍晚會變成橘色；再遠一點，是青翠的山。",
+      "p2": "去年春天，對街立起了一座工地吊車，一棟新的公寓大樓開始往上蓋。每隔幾個星期，大樓就蓋高好幾層，而每高一次，我的窗景就少一塊。最先看不見的是河。直到看不見了，我才發現那段河對我有多重要。以前每次大考前，我都會站在窗前看著河水，心情不知道為什麼就會平靜下來。到了今年夏天，大樓又擋住了夕陽。過去這些年，只要天空一變成橘色，我就知道該放下筆、休息一下了。現在傍晚天色一下子就暗了，我常常讀書讀到眼睛痛。再過不久，山也會看不見了；就連現在，新大樓上方也只露出一點點山頂。我的爺爺奶奶住在那片山腳下的一個小鎮，每次想念他們，我就會望著窗外的山，覺得他們好像沒有那麼遠。我沒有辦法阻止大樓繼續往上蓋，所以每天早上，我都會對著窗外拍一張照片，把還看得到的景色記錄下來。大樓蓋好以後，我的窗戶還會在那裡，可是讓它珍貴的東西就不在了。我因此明白，人生中最珍貴的東西，我們未必留得住。"
+     }
+    },
+    "rubric": {
+     "intro": "91 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：文長 120 個單詞左右、以 “The Most Precious Thing in My Room” 為題，以及描述你的房間內一件你最珍愛的物品，並說明珍愛的理由。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 91 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目要求兩個動作：「描述」物品，是寫它長什麼樣子、在房間的哪裡；「說明」珍愛的理由，是寫它對你有什麼意義。兩者都要寫到：只描述而不說理由，或只說理由卻看不出是哪一件東西，都沒有完整回應題目。\n這件物品要在房間內。本篇把窗戶當成那件物品，窗外的景色是它珍貴的理由；如果想寫的是一段回憶、一個人或一片風景，也要先找出房間裡和它連在一起的一件東西，再從那件東西寫起。\n時態跟著內容走：第一段描述窗戶和窗外看得到的東西，用現在式；「這十年來它讓我看到……」一直延續到現在，用現在完成式（has given）；第二段大樓從去年春天開始蓋，已經發生的事（河看不見了、大樓擋住夕陽）用過去式，比那些事更早的用過去完成式（had not realized、had been）；大樓每隔幾個星期蓋高幾層、我現在每天拍照，是現在還在發生的事，用現在式；山之後才會看不見，用未來式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段先描述物品本身：書桌旁一扇普通的窗戶，金屬窗框很舊，風大的時候會喀啦作響；再描述窗外看得到的三樣東西：一小段河、傍晚變成橘色的天空、遠處的山。第二段說明珍愛的理由，每一個理由都有具體的經驗：以前每次大考前站在窗前看河水，心情就會平靜下來；天空變成橘色，是提醒我放下筆休息的訊號，夕陽看不見以後，我常常讀到眼睛痛；爺爺奶奶住在那片山腳下的小鎮，想念他們的時候看著山，就覺得他們沒有那麼遠。最後寫我每天早上拍一張照片，把還剩下的景色記錄下來。時間、地點與動作都寫得具體。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句 The most precious thing in my room is not something I can hold in my hands 回應題目，先讓讀者想知道是什麼，第二句 It is the window next to my desk 才點明是哪一件東西。接著由窗戶本身寫到窗外，用 For the past ten years, however 轉到它珍貴的地方，最後一句依序列出河、天空和山。\n第二段第一句 Last spring, a construction crane appeared across the street 帶出變化，接著照景色消失的先後帶出理由：The river went first → Then, this summer, the building blocked the sunset → Soon the mountains will be gone too。每一樣東西消失之後，緊接著說它對我的意義，讀者看得出理由是在失去的時候才看清楚的。第二段三樣東西的順序和第一段列出的順序相同（河、天空、山），可以一一對照。最後兩句回到窗戶：窗戶還會在，讓它珍貴的東西卻留不住，呼應第一段第一句「不是可以拿在手上的小東西」。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：第一段描述現況，用現在式；這十年來一直如此，用現在完成式（has given）；第二段已經發生的事用過去式，比那些事更早的用過去完成式（had not realized、had been）；現在還在發生的事用現在式（grows、take）；之後才會發生的事用未來式（will be gone）。\nnot something [I can hold in my hands]：something 後面省略了關係代名詞 that。\na view [that no amount of money could buy]：[no amount of]＋名詞＋can／could＋V，意思是「再多的……也不能……」；no 本身已經是否定，後面的助動詞不再加 not，不說 no amount of money couldn't buy。\nFor the past ten years, [however], it has given me …：however 插在句中，前後都加逗號；for the past＋一段時間，常和現在完成式連用。\na short stretch of the river：a stretch of＋名詞，指一段河、一段路或一段海岸。\na wide sky [that turns orange in the evening]：turn＋形容詞，意思是「變成……」；後面 the evening simply turns dark 是同一個用法。\n[Every few weeks], it grows (a few floors) taller, and [each time], part of my view disappears：大樓現在還在蓋，每隔幾個星期長高幾層、窗景就少一塊，是到現在還一再發生的事，所以用現在式；現在式本來就用來說經常、反覆發生的事。緊接著的 The river went first 說的是已經看不見的河，那件事已經發生了，所以回到過去式。比較級 taller 前面加 a few floors，說明高了多少。\nI had [not] realized how much it meant to me [until] it was gone：not … until，意思是「直到……才……」；發現的時間在河看不見的那一刻，而那之前一直沒發現，所以用過去完成式；how much it meant to me 是名詞子句，當 realize 的受詞。\nI [used to] stand at the window …, and somehow my mind [would] become calm：used to＋V 表示過去的習慣，現在已經沒有了；would＋V 也可以表示過去反覆發生的動作，這裡接在 used to 後面，避免重複。would 不用來說過去的狀態，become calm 是一個變化，所以可以用。\nthe orange sky had been my signal [to put down my pen and take a break]：不定詞片語修飾 signal，說明是做什麼的訊號。\nI can only [catch a glimpse of] their tops：catch a glimpse of 意思是「只瞥見一下、只看到一部分」；本篇指山只剩山頂露在新大樓上方。\n[stop] the building [from] growing：stop＋O＋from＋V-ing，意思是「阻止……做……」。\nto [keep a record of] what is left：keep a record of 意思是「把……記錄下來」；what is left 是名詞子句，意思是「剩下的東西」。\nMy window will still be there [after the building is finished]：after 引導的子句說的是將來的事，子句裡用現在式，不用 will。\n[what makes it precious] will not：what 子句當主詞；will not 後面省略了 still be there，避免重複。\nthe ones [we can keep]：ones 代替前面的 things；關係子句省略了 that。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 131、二級 16、三級 5、四級 3、五級 1，四級以上 4 個，占 156 個詞形的 2.6%，是 construction（工程；construction crane 是工地吊車）、frame（框）、glimpse（一瞥）三個四級字，以及五級的 rattles（喀啦作響，原形 rattle）。三級的有 crane、neighborhood、precious、signal、somehow。\n片語：no amount of（再多的……也不）、a stretch of（一段）、turn orange／turn dark（變成橘色／變暗）、used to（過去常常）、put down（放下）、take a break（休息一下）、catch a glimpse of（瞥見）、at the foot of（在……山腳下）、look out at（往外看著）、stop … from V-ing（阻止……做……）、keep a record of（把……記錄下來）。這一篇容易拼錯的是 precious、neighborhood、construction、glimpse、realized 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "91 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法把 The Most Precious Thing in My Room 寫在第一行；站上範文只列兩段正文。本篇要留意的有：句首的片語後面加逗號（Last spring, 、Every few weeks, 、For years, 、Then, this summer, ）；however 插在句中時前後都加逗號；too 放在句尾時前面通常不加逗號（will be gone too），《芝加哥格式手冊》6.56 的建議是預設不加，只有想強調時才加；neighborhood、realized 是美式拼法，英式拼作 neighbourhood、realised，站上英文一律用美式。"
+     }
+    ]
+   }
   },
   {
    "id": "E91_GSAT_MAKEUP",
