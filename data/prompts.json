@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "count": 63,
  "items": [
   {
@@ -6706,7 +6706,45 @@
    "officialTitle": "Weight Loss",
    "prompt": "請寫一篇英文作文，主題爲 “Weight Loss”：以你個人或你熟悉的人(朋友、親戚)爲例，說明造成這個人體重過重的原因，並提出你認爲理想的解決之道。",
    "images": [],
-   "source": "大學入學考試中心 89 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 89 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 342,
+     "p1": "My cousin Jun is in his last year of junior high, and in the past year, he has gained almost ten kilograms. After spending a few days with him, I found that the reasons were hidden in his daily routine. In the morning, he gets up so late that he has no time for breakfast, and by the second break, he is so hungry that he buys cookies and chocolate at the school store. After school, he takes the bus straight to his cram school. On the way, he picks up a large full-sugar bubble tea, and dinner is usually greasy fried chicken eaten at a long, narrow table in his cram school classroom. He does not get home until 9:30 p.m., and even then, he plays games on his phone until after midnight, with a bag of potato chips next to him. From morning to night, he hardly moves except to walk from one seat to the next.",
+     "p2": "The ideal solution, I believe, is not to make Jun go on a strict diet but to change the small habits that fill his day, one part of the day at a time. In the morning, his mother can prepare a simple breakfast the night before, such as a sandwich and a carton of milk, so that he no longer arrives at school hungry. After school, Jun can ride a YouBike to the cram school instead of taking the bus, and choose unsweetened tea and a lunch box with vegetables over bubble tea and fried chicken. At night, the most important change is to hand his phone to his parents at eleven and go to bed. Teenagers need eight to ten hours of sleep a night, and those who sleep too little are more likely to gain weight. None of these changes is hard on its own. If the whole family makes them together instead of scolding him, Jun will not feel that he is being punished, and he will be more likely to keep them up long after his exams are over.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120字左右」，這裡的「字」指的是英文單字（words），不是中文字數；91 學測起，原卷才寫成「120個單詞(words)」。這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 342 個單詞，篇幅與站上其他範文相近，是為了把每一個原因和對應的辦法都寫具體。\n題目要做兩件事：說明造成體重過重的原因，再提出理想的解決之道。本篇以表弟為例，第一段說原因，第二段說辦法。原因沒有一條一條列出來，而是跟著表弟一天的作息帶出來：早上、放學後、晚上；第二段的辦法也照同樣的時間順序一一對應。這樣讀者不必另外記哪個辦法對應哪個原因，兩段放在一起就對得起來。\n題目說的是「理想的」解決之道，所以本篇第二段第一句先表明立場：理想的做法不是節食，而是改掉幾個小習慣，最後再說明為什麼要全家一起改。第二段說青少年每晚需要睡八到十個小時，依據的是美國睡眠醫學會的建議；美國疾病管制與預防中心（CDC）也指出，睡眠不足的兒童與青少年，肥胖的風險比較高。這一年的題目沒有規定要分幾段，本篇分成兩段，是為了讓原因和辦法的分界清楚，不是題目的要求。同一份考卷的簡答題，考的正是一則兒童減重營的報導。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "表弟阿俊今年國三，一年下來胖了快十公斤。我跟他相處了幾天，發現問題就出在他每天的作息。他早上總是起得太晚，沒時間吃早餐，到了第二節下課就餓得受不了，跑去福利社買餅乾、巧克力。放學後，他搭公車直奔補習班，路上先買一大杯全糖珍奶，晚餐多半是油膩膩的炸雞，就在補習班的長條桌上解決。晚上九點半到家，他又拿起手機打電動，一打就打過半夜，手邊還放著一包洋芋片。一整天下來，除了從這張椅子換到那張椅子，他幾乎沒動過。",
+      "p2": "我認為，理想的做法不是逼阿俊節食，而是順著他一天的作息，把幾個小習慣一個一個改過來。早上，他媽媽可以前一晚先把簡單的早餐準備好，像是一個三明治加一盒牛奶，他就不會餓著肚子上學。放學後，他可以騎 YouBike 去補習班，不必再搭公車；飲料改喝無糖茶，晚餐改吃有青菜的便當，不要再買珍奶、吃炸雞。晚上最要緊的，是十一點一到就把手機交給爸媽，上床睡覺。青少年每天晚上要睡八到十個小時，睡太少的人比較容易發胖。這些改變，每一項單獨來看都不難；要是全家一起改，而不是一直罵他，阿俊就不會覺得自己在受罰，會考考完以後，也比較能繼續維持下去。"
+     }
+    },
+    "rubric": {
+     "intro": "89 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：「文長120字左右」、主題為 “Weight Loss”，以及以你個人或你熟悉的人為例，說明造成這個人體重過重的原因，並提出你認為理想的解決之道。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 89 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目要的是兩件事：原因與解決之道，兩者缺一不可；而且要「以一個人為例」，不是泛泛地談現代人為什麼會胖。所以原因要寫這個人自己的生活：他什麼時候吃了什麼、做了什麼、少做了什麼。\n解決之道要能對上原因。寫了三個原因，卻只提出「多運動、少吃」這種對誰都適用的辦法，讀起來就像沒有回應前面的內容；每一個原因最好都有一個對應的辦法。題目還說「你認為理想的」，所以要表明自己的看法，並說出為什麼這樣最理想。\n時態跟著內容走：這一年來胖了將近十公斤，一直延續到現在，用現在完成式（has gained）；我陪他幾天、發現原因，是已經發生的事，用過去式（found）；他每天的作息是現在的習慣，用現在式（gets up、buys、takes）；提出的辦法用 can、will 表示可以做到、將會如何。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段先交代這個人：表弟阿俊國三，這一年來胖了將近十公斤。接著跟著他一天的作息說原因，每一個原因都有具體的細節：早上來不及吃早餐，第二節下課餓了就去福利社買餅乾和巧克力；放學搭公車直接去補習班，路上買一大杯全糖珍奶，晚餐是在補習班教室長條桌上吃的油膩炸雞；九點半才到家，玩手機遊戲到半夜，旁邊擺著一包洋芋片；最後一句總結他一整天幾乎都坐著。第二段先表明理想的做法是改習慣、不是節食，再照同樣的時段一一提出辦法：前一晚準備好早餐；騎 YouBike 去補習班，改選無糖茶和有青菜的便當；十一點把手機交給爸媽、上床睡覺，並說明睡太少比較容易變胖。最後說明為什麼要全家一起改：阿俊不會覺得自己在受罰，考完試以後也比較能持續。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句點出這個人和問題（胖了將近十公斤），第二句 I found that the reasons were hidden in his daily routine 預告原因要從作息裡找；接著用 In the morning → After school → On the way → He does not get home until 9:30 p.m. 帶出原因，最後一句 From morning to night 把一整天收成一句。\n第二段第一句 The ideal solution, I believe, is not … but … 先表明立場，再用和第一段同樣的時段帶出辦法：In the morning → After school → At night。第一段每一個原因，在第二段都找得到對應的辦法：沒吃早餐 → 前一晚準備早餐；搭公車、珍奶、炸雞 → 騎 YouBike、無糖茶、有青菜的便當；玩手機到半夜 → 十一點交出手機。倒數第二句 None of these changes is hard on its own 把所有辦法收在一起，最後一句說明為什麼要全家一起改，回到第一句所說的「理想」。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：這一年來的變化延續到現在，用現在完成式（has gained）；我陪他幾天、發現原因，用過去式（found、were hidden）；他每天的作息是現在的習慣，用現在式（gets up、buys、takes、plays）。\n[After] spending a few days with him, I found …：介系詞 after 後面接 V-ing；spending 的主詞就是後面的 I。\nhe gets up [so] late [that] he has no time for breakfast：so＋副詞＋that 子句，意思是「……到……的程度」；後面的 he is so hungry that … 是同一個句型，用的是形容詞。\ndinner is usually greasy fried chicken [eaten at a long, narrow table in his cram school classroom]：過去分詞片語修飾 chicken，等於 that is eaten at …；炸雞是吃的對象，所以用過去分詞。\nHe does [not] get home [until] 9:30 p.m.：not … until，意思是「直到……才……」。\n[with] a bag of potato chips [next to him]：with＋O＋OC，這裡的 OC 是介系詞片語 next to him，說明他玩手機時的情形。\nhe [hardly] moves [except to walk] from one seat to the next：hardly 本身就是否定，意思是「幾乎不」；except 後面接不定詞，說明唯一的例外。\nThe ideal solution, [I believe], is [not] (to make Jun go on a strict diet) [but] (to change …)：I believe 插在句中，前後加逗號；not A but B 連接兩個不定詞片語，A 與 B 形式相同；make＋O＋原形動詞。\nthe small habits [that fill his day]：關係子句修飾 habits。\n[so that] he no longer arrives at school hungry：so that 表示目的；句尾的 hungry 說明他到學校時的狀態。\nride a YouBike to the cram school [instead of] taking the bus：instead of＋V-ing。\n[choose] unsweetened tea and a lunch box with vegetables [over] bubble tea and fried chicken：choose A over B，意思是「選 A 而不選 B」。\nthe most important change is [to] (hand his phone to his parents at eleven) and (go to bed)：不定詞片語當主詞補語，hand 和 go 共用 to。\n[those who] sleep too little are more likely to gain weight：those who，意思是「……的人」；be likely to V，意思是「可能……」，more likely 表示比較可能。\n[None] of these changes [is] hard on its own：none of 接複數名詞時，動詞用單數、複數都有人用，正式寫作多用單數，這裡用 is；on its own 意思是「單獨看」。\n[If] the whole family [makes] them together instead of scolding him, Jun [will] not feel …：表示時間或條件的副詞子句，用現在式代替未來式。主要子句 Jun will not feel … 說的是將來，用 will；if 引導條件副詞子句，說的也是將來的事，卻用現在式 makes，不說 if the whole family will make。同樣的規則也適用於 when、before、until、as soon as、unless 引導的副詞子句。instead of 後面接 V-ing（scolding）。\nhe [is being] punished：先比較兩句。He is kind. 說的是他的個性，平常就是這樣；He is being kind. 說的是他此刻的表現，一時如此，平常不一定這樣。being 表示「此刻、這一陣子」的情形；後面接過去分詞，就成了被動語態的進行式（be being p.p.），意思是「正在……」。同樣地，He is punished whenever he is late. 說的是一般的情形（他只要遲到就會受罰）；He is being punished. 說的是此刻正在受罰。本句說的是全家一起改習慣的這段期間，阿俊不會覺得自己「正在受罰」，所以用 is being punished。\n[keep] them [up]：keep something up，意思是「持續做下去」；受詞是代名詞時要放在 keep 和 up 中間，不說 keep up them。\nhe [will] be more likely to keep them up long [after] his exams [are] over：after 引導時間副詞子句，和前面的 if 子句一樣，說的是將來的事卻用現在式 are，不說 after his exams will be over；主要子句 he will be more likely … 才用 will。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 132、二級 20、三級 4、四級 2、六級 2，四級以上 4 個，占 160 個詞形的 2.5%，是 greasy（油膩的）、scolding（責罵，原形 scold）兩個四級字，以及六級的 cram（cram school 是補習班）、carton（紙盒；a carton of milk 是一盒牛奶）。三級的有 bubble、chips、junior、routine。\n片語：gain weight（變胖）、daily routine（每天的作息）、get up（起床）、cram school（補習班）、a long, narrow table（長條桌）、pick up（順路買）、bubble tea（珍珠奶茶）、get home（到家）、go on a diet（節食）、a carton of（一盒）、ride a YouBike（騎 YouBike 微笑單車）、instead of（沒有……反而）、choose A over B（選 A 而不選 B）、go to bed（上床睡覺）、on one's own（單獨）、keep … up（持續下去）。desk 通常指一個人用的書桌；補習班教室裡好幾個人並排坐的長條桌，英文說 long table 或 long, narrow table 就清楚了。這一篇容易拼錯的是 kilograms、routine、breakfast、sandwich、unsweetened 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "89 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目只給了主題 “Weight Loss”，考試時可以把 Weight Loss 寫在第一行當標題；站上範文只列兩段正文。本篇要留意的有：句首的片語或子句後面加逗號（In the morning, 、After school, 、After spending a few days with him, ）；I believe 這類插入語前後都加逗號；時間寫成 9:30 p.m.，p.m. 用小寫加句點，是美式常見的寫法；a long, narrow table 的兩個形容詞都在描述桌子，順序可以對調，中間要加逗號；YouBike 是公共自行車的名稱，Y 與 B 都大寫，寫成一個字；full-sugar 是兩個字合起來放在名詞前當形容詞，中間加連字號。"
+     }
+    ]
+   }
   },
   {
    "id": "E88_GSAT",
