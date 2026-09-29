@@ -6773,7 +6773,45 @@
      ]
     }
    ],
-   "source": "大學入學考試中心 88 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 88 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 353,
+     "p1": "Of the four jobs, the one I would choose is the tour guide position at Southeastern Travel Services. Going through the ad line by line, I found that it asks for almost exactly what I have. The ad asks for an outgoing personality. Last spring, when six students from our sister school in Japan visited us, I volunteered to show them around Taipei, and by the end of the day, we had followed one another on Instagram. Next on the list is a good knowledge of English. English was the only language we all shared, so I used it to explain how to add money to an EasyCard, which MRT line to take, and why stinky tofu smells so bad but tastes so good. The only education the ad requires is a high school diploma, which I will have in a year and a half. As for the duties, the job is to escort foreign visitors and help them get from place to place, and that is exactly what I did that day. I would love to be paid to do it every day.",
+     "p2": "The job I would be least likely to take is the marketing job in Ad A. When I picture myself doing it, three questions come to mind. Could I sell health products to people I know? My aunt sells health supplements for a direct selling company, and she keeps posting ads for them in our family LINE group. Most of my relatives have muted the group, and I would hate for my friends to do the same to me. Could I be as “aggressive” as the ad wants? I enjoy helping people find what they need, but I am not good at persuading them to buy things they do not need. Could I live on commissions? The ad boasts that the company has paid NT$3.5 billion in commissions in the US, yet it says nothing about how much an ordinary seller earns in a month. My answer to all three questions is no, so no matter how lucrative the job is, it is not the right one for me.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長約120字」，這裡的「字」指的是英文單字（words），不是中文字數；91 學測起，原卷才寫成「120個單詞(words)」。這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 353 個單詞，篇幅與站上其他範文相近，是為了把每一個理由都寫具體。\n題目規定文分兩段：第一段寫你認為最好的工作，第二段寫你最不可能選擇的工作，兩段都要說明理由。本篇第一段選 D 的導遊，理由是拿廣告上的條件一條一條對照自己：個性外向、英文好、高中學歷、工作內容，每一條都用接待日本交流學生那天的經歷來證明；第二段選 A 的行銷工作，換一個方式，用三個問自己的問句帶出理由，最後一句一起回答。廣告 D 還寫了 Good appearance，本篇沒有拿來當理由：對照條件時，挑自己拿得出事情來證明的寫就好。\n題目也給了另一條路：四種工作都不喜歡的話，第一段說明為什麼都不喜歡，第二段寫自己喜歡什麼工作。走這條路也可以，但兩段的內容要照題目的順序寫。這一題是 88 學年度（1999 年）的考題，所以廣告上才會有傳真履歷、打電話約面試這些做法；同一份考卷的簡答題，考的正是這四則廣告。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "四種工作裡，我會選東南旅行社的導遊。我把廣告一行一行看下來，發現它要的條件，我幾乎都有。廣告要找個性外向的人。去年春天，日本姊妹校有六個學生來我們學校交流，我自告奮勇帶他們逛台北，一天下來，大家已經互相追蹤 IG 了。接下來一條是英文要好。那天我們唯一共通的語言就是英文，我就用英文告訴他們悠遊卡怎麼加值、該搭哪一條捷運線，還有臭豆腐為什麼聞起來那麼臭、吃起來卻那麼香。學歷方面，廣告只要求高中畢業，再過一年半，我就拿到畢業證書了。至於工作內容，這份工作是陪外國旅客四處參觀、幫他們打點交通，而這正是我那天做的事。要是每天做這件事還有錢領，我求之不得。",
+      "p2": "我最不可能選的，是 A 廣告的行銷工作。只要想像自己做這份工作，心裡就會冒出三個問題。我能把保健產品賣給認識的人嗎？我阿姨在一家直銷公司賣保健食品，常常在家族 LINE 群組裡貼產品廣告，親戚大多已經把群組設成靜音；我可不希望朋友也這樣對我。我能像廣告要求的那樣「積極強勢」嗎？我喜歡幫別人找到他們需要的東西，卻不擅長說服別人買他們用不到的東西。我能靠抽佣金過日子嗎？廣告誇口說這家公司在美國已經發出新台幣三十五億元的佣金，一般業務員一個月能賺多少，卻一個字也沒提。這三個問題，我的答案都是不能；所以這份工作就算再好賺，也不適合我。"
+     }
+    },
+    "rubric": {
+     "intro": "88 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有三項：「文長約120字」、文分兩段，以及根據四則求職廣告，第一段寫出你認為最好的工作並說明理由，第二段寫出你最不可能選擇的工作並說明理由（四種都不喜歡的話，第一段說明理由，第二段寫你喜歡的工作）。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 88 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "題目要的是兩件事，而且各有各的段落：第一段寫最好的工作，第二段寫最不可能選的工作，兩段都要說明理由。理由最好從廣告本身出發：廣告寫了資格、工作內容和待遇，拿這些條件對照自己的個性、能力和經驗，理由才有根據，不會只是一句「我喜歡」或「我不喜歡」。\n理由要具體。說自己個性外向、英文不錯，最好舉一件真正發生過的事來證明；說不想做某個工作，也要講出是廣告上的哪一點讓你卻步。\n時態跟著內容走。我現在並沒有真的要去應徵這些工作，選哪一份、做不做得到都只是假設，屬於與現在事實相反的假設：動詞倒推一個時態，will 變成 would、can 變成 could，所以寫 the one I would choose、the job I would be least likely to take，問自己做不做得到也用 Could I …?。至於廣告上寫的條件，那是現在的事實，用現在式（asks for、requires）；接待交流學生那天是過去的事，用過去式（visited、volunteered、used），到那天結束時已經完成的事，用過去完成式（had followed）。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段先說出選擇：東南旅行社的導遊，再用一句話交代理由從哪裡來：廣告要的條件，我幾乎都有。接著逐條對照：廣告要個性外向，就講去年春天自願帶日本姊妹校六個學生逛台北，一天下來互相追蹤 IG；廣告要英文好，就講用英文教他們悠遊卡怎麼加值、搭哪一條捷運線，還解釋臭豆腐；廣告只要求高中學歷，一年半後就拿得到；最後連工作內容都正是那天做過的事。第二段先說出最不可能選的是 A 的行銷工作，再用三個問句帶出理由：能不能把產品賣給認識的人（阿姨在家族 LINE 群組貼直銷廣告，親戚大多設成靜音）；能不能像廣告要的那樣 aggressive（喜歡幫人找需要的東西，不擅長說服人買用不到的東西）；能不能靠佣金過活（廣告只誇公司發出多少佣金，沒說一般業務員一個月賺多少）。最後一句回答三個問題，收回結論。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句 Of the four jobs, the one I would choose is … 直接回答題目，第二句 Going through the ad line by line, … 預告理由要從廣告裡一條一條找；接著照廣告的條件依序帶出理由：The ad asks for an outgoing personality → Next on the list is a good knowledge of English → The only education the ad requires is … → As for the duties, …。每一條都是先引廣告、再講自己。\n第二段第一句同樣直接回答題目，第二句 three questions come to mind 預告理由的形式；三個理由都用 Could I …? 開頭，後面緊接著回答。最後一句 My answer to all three questions is no 把三個問題收在一起，再用 so 帶出結論。兩段都是先講選擇、再講理由，讀者一看就知道每一段在回答題目的哪一個部分。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：選工作是假設的事，用 would；廣告上的條件用現在式（asks for、requires）；交流那天的事用過去式（visited、volunteered、used）；到那天結束時已經完成的事，用過去完成式（had followed）。\n本篇的 [would] 和 [could] 都是假設語氣。題目問的是「如果要你選」，我現在並沒有真的去應徵這些工作，所以是與現在事實相反的假設；動詞倒推一個時態，will 變成 would，can 變成 could。if 子句沒有寫出來，the one I would choose is … 等於 If I had to choose one of the four jobs, I would choose …；第二段的 Could I sell health products to people I know? 等於「要是我去做這份工作，我能把保健產品賣給認識的人嗎？」。I would love to …、I would hate for … 也是同一個道理。\n[Of] the four jobs, the one [I would choose] is …：of 表示「在……之中」；the one 代替前面說過的 job，I would choose 是省略了 that 的關係子句。\n[Going through] the ad line by line, I found …：分詞構句，going 的主詞就是後面的 I。\n[by the end of the day], we [had followed] one another on Instagram：by the end of the day 意思是「到那天結束時」，在那之前已經完成的事，用過去完成式。\nexplain (how to add money to an EasyCard), (which MRT line to take), and (why stinky tofu smells so bad but tastes so good)：explain 後面接三個並列的受詞，前兩個是「疑問詞＋不定詞」，第三個是 why 引導的名詞子句。smell、taste 是連綴動詞，後面接形容詞（bad、good），不接副詞。\na high school diploma, [which] I will have in a year and a half：非限定關係子句，which 前面加逗號，補充說明 diploma；in a year and a half 意思是「再過一年半」。\nthe job is [to] (escort foreign visitors) and (help them get from place to place)：不定詞片語當主詞補語，escort 和 help 共用 to；help＋O＋原形動詞。\nI would love [to be paid] to do it every day：be paid to V，意思是「做某件事有錢領」。\nthe job I would be [least likely to] take：be likely to V 意思是「可能……」，least likely 是「最不可能」。\nWhen I [picture] myself [doing] it：picture＋O＋V-ing，意思是「想像某人正在做某事」。\nshe [keeps posting] ads：keep＋V-ing，意思是「一直、老是」。\nI [would hate for] my friends [to] do the same to me：would hate for＋人＋to V，意思是「很不希望某人做某事」；Oxford Advanced Learner's Dictionary 收有 I'd hate for all this to go to waste 這個例句。不加 for，說 would hate my friends to do … 也可以。\nCould I be [as] “aggressive” [as] the ad wants?：as＋原級＋as，稱為原級比較，也有人叫同等比較，意思是「和……一樣」。兩個 as 中間放形容詞或副詞的原級，不放比較級；這裡是 be 動詞後面的形容詞 aggressive，所以不寫 more aggressive。\nI enjoy [helping] people [find] what they need, but I am not good at [persuading] them [to] buy …：enjoy＋V-ing；help＋O＋原形動詞；be good at＋V-ing；persuade＋O＋to V。\nCould I [live on] commissions?：live on，意思是「靠……過活」。\nThe ad boasts that …, [yet] it says nothing about [how much an ordinary seller earns in a month]：yet 連接語氣相反的兩句；how much 引導的名詞子句當 about 的受詞，用直述句的語序，不說 how much does an ordinary seller earn。\n[no matter how] lucrative the job is：no matter how＋形容詞＋主詞＋動詞，意思是「不管多麼……」；也可以說 however lucrative the job is。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 121、二級 17、三級 3、四級 4、五級 1、六級 5，四級以上 10 個，占 151 個詞形的 6.6%。四級是 aggressive（積極強勢的）、boast（誇口）、diploma（畢業證書）、volunteer（自願）；五級是 commission（佣金）；六級是 escort（陪同）、lucrative（賺錢的）、mute（設成靜音）、outgoing（外向的）、supplement（補充品；health supplements 是保健食品）。其中 aggressive、diploma、escort、lucrative、outgoing、commission 都是廣告上原本就有的字，讀懂廣告，就等於先拿到這幾個字。三級的有 ad、persuade、product。詞彙表沒有收 seller（sell 加 -er）與 stinky。\n片語：tour guide（導遊）、sister school（姊妹校）、show sb around（帶某人參觀）、by the end of the day（一天下來）、follow sb on Instagram（在 IG 上追蹤某人）、add money to an EasyCard（悠遊卡加值）、stinky tofu（臭豆腐）、high school diploma（高中畢業證書）、get from place to place（到處移動）、direct selling（直銷）、health supplements（保健食品）、live on（靠……過活）。這一篇容易拼錯的是 personality、knowledge、diploma、aggressive、commissions、lucrative 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "88 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：句首的片語或子句後面加逗號（Last spring, 、Going through the ad line by line, 、As for the duties, ）；非限定關係子句前面加逗號（a high school diploma, which …）；aggressive 是借用廣告上的字，所以加引號；錢數寫成 NT$3.5 billion；公司、學校、品牌與專有名詞開頭大寫：Southeastern Travel Services、EasyCard、MRT、LINE、Instagram；Ad A 的 A 是廣告的代號，也大寫。"
+     }
+    ]
+   }
   },
   {
    "id": "E87_GSAT",
