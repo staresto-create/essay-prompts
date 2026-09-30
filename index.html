@@ -253,6 +253,8 @@ h1 .sub{display:block;font-size:.45em;font-weight:400;letter-spacing:.22em;color
   margin-top:12px;font-size:13.5px;color:var(--seal);
   border:1px dashed var(--rule);padding:8px 12px;border-radius:2px;background:#fff
 }
+.reuse a{color:inherit;text-decoration:underline;text-underline-offset:2px;display:inline-block}
+.item.jumpHit{outline:2px solid var(--seal);outline-offset:4px}
 .otitle{
   margin:0 0 10px;padding-left:16px;font-family:var(--serif);
   font-size:16.5px;line-height:1.7;color:var(--ink)
@@ -545,6 +547,7 @@ function wordBanksFor(it){
 }
 function card(it){
   const d=el('div','item'+(it.hasImage?' has-pic':'')+(it.isOfficial?'':' unofficial'));
+  d.id='p-'+it.id;   // 供參考試卷那一句跳回原題用；網址錨點另有篩選條件在用，這個 id 不寫進網址。
   const h=el('div','ihead');
   const y=el('div','iyear');y.appendChild(document.createTextNode(String(it.year)));
   const sm=el('small',null,'學年度');y.appendChild(sm);
@@ -569,7 +572,19 @@ function card(it){
   d.appendChild(el('p','prompt',it.prompt));
 
   if(it.promptNote)d.appendChild(el('p','reuse',it.promptNote));
-  if(it.reuseNote)d.appendChild(el('p','reuse',it.reuseNote));
+  if(it.reuseNote){
+    const r=el('p','reuse',it.reuseNote);
+    // 參考試卷採用歷年考題者，資料以 sameAs 指向原題；原題有範文，就在這一句後面接一條連結跳過去。
+    const src=it.sameAs&&DATA.find(x=>x.id===it.sameAs);
+    if(src&&src.model){
+      r.appendChild(document.createTextNode('　'));
+      const a=document.createElement('a');
+      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文 ↓';
+      a.addEventListener('click',e=>{e.preventDefault();jumpTo(src.id)});
+      r.appendChild(a);
+    }
+    d.appendChild(r);
+  }
 
   // 字詞搭配：主題級與題目級用完全相同的 groups 結構，只是掛載點不同，
   // 渲染前先合併成一個陣列再交給同一支渲染函式（資料形狀一種、渲染函式一支）。
@@ -1127,6 +1142,18 @@ window.addEventListener('hashchange',()=>{
     const t=$('#graded-samples');if(t)t.scrollIntoView({block:'start'});
   }
 });
+
+// 跳到某一題的卡片。目前的篩選條件若把那一題篩掉了，先清除條件再跳，否則畫面上找不到它。
+function jumpTo(id){
+  const it=DATA.find(x=>x.id===id);
+  if(it&&!matches(it)){S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;S.wb=false;render();}
+  const t=document.getElementById('p-'+id);if(!t)return;
+  // 篩選統計列固定在畫面頂端，直接捲到卡片頂會被它蓋住，所以扣掉它的高度再留一點空。
+  const bar=document.querySelector('.resultbar');
+  const off=(bar&&getComputedStyle(bar).position==='sticky'?bar.getBoundingClientRect().height:0)+12;
+  window.scrollTo(0,t.getBoundingClientRect().top+window.scrollY-off);
+  t.classList.add('jumpHit');setTimeout(()=>t.classList.remove('jumpHit'),2000);
+}
 
 $('#reset').addEventListener('click',()=>{
   S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;S.wb=false;render();
