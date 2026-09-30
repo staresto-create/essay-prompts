@@ -7013,7 +7013,48 @@
      ]
     }
    ],
-   "source": "大學入學考試中心 84 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 84 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 149,
+     "date": "February 20, 1995",
+     "opening": "Dear George:",
+     "p1": "Welcome to Taiwan! I was so happy to hear your family will be living here for two years. You asked what you should do, so here are two suggestions. Learn a few Chinese words before you come. Even a simple \"xiexie,\" which means \"thank you,\" will make people smile and treat you like a friend. Then try our food at a night market. Stinky tofu smells terrible, but it tastes wonderful, and I will take you there myself.",
+     "p2": "As for what you should not do, remember two of our customs. Never leave your chopsticks standing straight up in a bowl of rice, because that is how we offer food to the dead. Do not walk into anyone's home with your shoes on, either; we always take them off at the door. Follow these tips, and you will feel at home in no time. I can't wait to meet you!",
+     "closing": "Your friend,\nChih-ping",
+     "caveat": "這是一種寫法，不是標準答案。原卷要求寫「一封100至150字的信」，給的是範圍，這裡的「字」指的是英文單字（words）。本篇照範圍寫，正文 149 個單詞，開頭的日期、稱呼語與信末的署名不算在內，所以比站上其他範文短得多；字數有上限的時候，每一句都要用在回答問題上。\n這一題是一封信，原卷規定了上下款的寫法：右上角寫日期 February 20, 1995，稱呼寫 Dear George:，信末寫 Your friend, 再署名 Chih-ping，範文都照原卷寫，詳見底下體例那一項。原卷的格式圖在正文中間畫了三個直排的圓點，意思是正文照這樣往下寫，不是要求把建議條列出來。\nGeorge 的問題分成兩半，what I should do 和 what I should not do，本篇就照他的問題分段回答：第一段寫該做的兩件事，第二段寫不該做的兩件事。信上的日期是 1995 年，所以範文避開當時還沒有的東西，例如台北捷運 1996 年才通車，就不寫搭捷運；學中文、逛夜市、用筷子的禁忌、進門脫鞋，放在 1995 年和今天都成立。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "歡迎你來台灣！聽說你們全家要來這裡住兩年，我真的好高興。你問我該做些什麼，我有兩個建議。來之前先學幾句中文吧，就算只會說一句「謝謝」，大家也會對你笑，把你當朋友。來了以後，一定要去夜市吃吃看我們的小吃。臭豆腐聞起來很臭，吃起來卻很好吃，我會親自帶你去。",
+      "p2": "至於不該做的事，要記得我們的兩個習俗。千萬不要把筷子直直插在飯上，因為我們祭拜往生的人，才會這樣擺。也不要穿著鞋子走進別人家裡，我們進門一定會先把鞋子脫掉。照著這幾點做，你很快就會覺得像在自己家一樣。真希望趕快見到你！"
+     }
+    },
+    "rubric": {
+     "intro": "84 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作。不過這一年的原卷在作文的說明裡直接寫了評分標準：內容 5 分，組織 5 分，文法 4 分，用字拼字 4 分，體例（格式、標點、大小寫）2 分，合計 20 分。題目本身的要求有三項：寫「一封100至150字的信」、以王治平的身份回信給 George，歡迎他來台灣並針對他的問題提出具體的建議，以及上下款照原卷規定的方式寫。\n下面的五項對照照原卷的名稱寫。原卷寫的是「文法」「用字拼字」，和 95 學測以後常見的「文法句構」「字彙拼字」不同，這裡照原卷。",
+     "keypoint": "題目要做兩件事：歡迎 George 來台灣，再針對他的問題提出具體的建議。George 問的是 what I should do and what I should not do，所以建議最好兩邊都有；只寫該做的事，等於只回答了一半。本篇第一句先歡迎，接著照他的問題分成兩段回答。\n「具體」是這一題的關鍵字。只寫 You should respect our culture，讀的人不知道該怎麼做；本篇每一個建議都寫出確實要做的事，再用一句話說明為什麼，例如不要把筷子直直插在飯上，因為那是祭拜往生者的擺法。字數只有 150 個單詞，建議不必多，兩三件寫清楚就夠了。\n語氣也要對：這是寫給同年齡筆友的信，建議用祈使句直接說（Learn a few Chinese words、Never leave your chopsticks …），不必寫成 You are advised to … 這種公文的說法；最後一句 I can't wait to meet you! 用縮寫，讓信讀起來像朋友在說話。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段先歡迎 George 全家來台灣住兩年，再回答他問題的前一半，也就是該做的事，提出兩個建議：來之前先學幾句中文，就算只會說「謝謝」，大家也會對他笑、把他當朋友；來了以後去夜市吃小吃，臭豆腐聞起來很臭、吃起來卻很好吃，治平還要親自帶他去。第二段回答問題的後一半，也就是不該做的事，提醒他兩個習俗：不要把筷子直直插在飯上，因為那是祭拜往生者的擺法；不要穿著鞋子走進別人家裡，因為台灣人進門都會脫鞋。最後說照這幾點做，他很快就會覺得像在自己家一樣，並以期待見面作結。每一個建議都寫出具體要做的事與原因，正好回應題目「提出一些具體的建議」。"
+     },
+     {
+      "k": "組織",
+      "t": "全篇照 George 自己的問題分段：他問 what I should do and what I should not do，第一段就用 You asked what you should do 接住前一半，第二段用 As for what you should not do 接住後一半。讀信的人不必找，就知道每一段在回答哪一個問題。\n兩段裡面的寫法相同，都是先寫要做（或不要做）的事，再用一句話補上原因或好處：學中文，因為大家會對你笑；去夜市，因為臭豆腐好吃；筷子不要直插，因為那是祭拜往生者的擺法；進門要脫鞋，因為我們都這樣做。第一段兩個建議之間用 Then 接，第二段用 either 接，都不必寫成 First／Second。\n開頭 Welcome to Taiwan! 直接回應題目「歡迎他來台灣」；結尾先用 Follow these tips, and you will feel at home in no time 把四個建議收在一起，再用 I can't wait to meet you! 收尾，一封朋友之間的信就完整了。"
+     },
+     {
+      "k": "文法",
+      "t": "時態：George 一家還沒到，住兩年是未來會持續一段時間的事，用未來進行式（your family will be living here for two years）；George 已經問過了，用過去式（You asked）；台灣人的習慣是現在的事實，用現在式（we always take them off）。\nI was so happy to hear [(that)] your family will be living here：hear 後面接 that 子句，that 可以省略。\nYou asked [what you should do]：間接問句，疑問詞後面用直述句的語序（what you should do），不是 what should you do。\n[Here] [are] two suggestions：here 放句首，主詞 two suggestions 在動詞後面，主詞是複數，所以動詞用 are。\n祈使句用原形動詞開頭，主詞 you 省略：Learn a few Chinese words、Then try our food、Never leave your chopsticks …、Do not walk into …。Cambridge 文法頁也提醒，祈使句的語氣很直接；這裡是寫給朋友的建議，所以用起來很自然。\nEven a simple \"xiexie,\" [which means \"thank you,\"] will [make] people [smile] and [treat] you like a friend：which 帶出的關係子句補充說明 xiexie，前後加逗號；make＋受詞＋原形動詞，意思是「讓……做……」，smile 與 treat 都是原形。\nStinky tofu [smells] (terrible), but it [tastes] (wonderful)：smell、taste 這類感官動詞後面接形容詞，不接副詞，所以是 smells terrible，不是 smells terribly。\n[As for] what you should not do, …：as for 意思是「至於」，用來換到另一件事；後面接的 what you should not do 是名詞子句。\nNever [leave] (your chopsticks) [standing] straight up in a bowl of rice：leave＋受詞＋V-ing，意思是「讓……保持……的狀態」。\nbecause [that is how] we offer food to the dead：that is how＋子句，意思是「那就是……的方式」；the dead 是 the＋形容詞，指往生的人，當複數用。\nDo not walk into anyone's home [with] (your shoes) [on], [either]：with＋受詞＋副詞，說明附帶的狀況（穿著鞋子）；either 放在否定句的句尾，意思是「也（不）」，Cambridge 文法頁的例句是 She doesn't like eggs and she doesn't like fish either。\n(… either)[;] (we always take them off at the door)：分號連接兩個意思緊密相關的完整句子；take off 的受詞是代名詞時要放在中間（take them off），不能寫成 take off them。\n[Follow these tips], [and] you will feel at home in no time：祈使句＋and＋will，意思是「只要……，就會……」，和 If you follow these tips, you will … 意思相同。\nI can't wait [to meet] you!：can't wait to V，意思是「等不及要……」。"
+     },
+     {
+      "k": "用字拼字",
+      "t": "全篇逐字對過大考中心《高中英文參考詞彙表》：用字大多在一、二級，四級只有 suggestion（建議）一個，這個字也是 George 來信裡用的字。custom（習俗）是二級；複數的 customs 另有「海關」的意思，列在五級，這裡指的是習俗。stinky（臭的）詞彙表沒有收，它的字根 stink（發臭）是五級；臭豆腐的英文通行說法就是 stinky tofu，照用。tofu（豆腐）與 chopsticks（筷子）都是二級。\n片語：be living here（住在這裡）、treat … like a friend（把……當朋友）、night market（夜市）、as for（至於）、straight up（直直地）、offer food to（祭拜、供奉食物給）、take off（脫下）、feel at home（覺得自在，像在自己家一樣）、in no time（很快）、can't wait to（等不及要）。這一篇容易拼錯的是 suggestions、chopsticks、wonderful、either 這幾個。"
+     },
+     {
+      "k": "體例",
+      "t": "84 這一年的原卷寫明，體例看的是格式、標點與大小寫，配 2 分；這一題是書信，格式尤其要照原卷。上下款照原卷的規定寫：日期寫在右上角，February 20, 1995 是月、日、逗號、年的美式寫法；稱呼寫 Dear George:，這一題原卷用的是冒號，照原卷寫（站上 97、101 學測的書信題，稱呼後面用的是逗號）；信末 Your friend, 後面加逗號，下一行才署名 Chih-ping，而且要用題目指定的名字。正文每段第一行內縮或段與段之間空一行，讓兩段分得清楚。標點方面，引號裡的逗號放在引號裡面（\"xiexie,\"、\"thank you,\"）；補充說明的 which 子句前後加逗號；分號後面小寫（…, either; we always …）；Welcome to Taiwan! 與 I can't wait to meet you! 用驚嘆號表現歡迎與期待，但全篇只用在頭尾兩句。大小寫方面，Taiwan、Chinese 這類專有名詞與它的形容詞要大寫，George、Chih-ping 也一樣。"
+     }
+    ]
+   }
   },
   {
    "id": "E83_GSAT",
