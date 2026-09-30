@@ -7074,7 +7074,45 @@
    "prompt": "在成長的過程中，有些事情在開始的時候你可能覺得很難，但經過一番努力後就不再認爲因難了。請寫一篇至少一百二十個單字的英文作文，描述一個親身的經驗。文章的頭兩句必須是： Things are not as difficult as they appear. I have a personal experience to prove this.",
    "promptNote": "「因難」是原卷的寫法，這裡照錄；依上下文應為「困難」。",
    "images": [],
-   "source": "大學入學考試中心 83 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 83 學年度學科能力測驗英文考科",
+   "model": {
+    "essay": {
+     "words": 310,
+     "p1": "Things are not as difficult as they appear. I have a personal experience to prove this. Our P.E. teacher announced at the start of tenth grade that all the girls in our class would have to take an 800-meter fitness test by the end of the semester. Eight hundred meters is only two laps of our school track, but to someone like me, it sounded like a marathon. On my first practice run, I set off far too fast, and by the middle of the second lap, my legs felt like stone and my chest was burning. I walked the last two hundred meters while my classmates cheered for me, which only made me feel worse. The stopwatch read five minutes and forty seconds. That night, I told my mother that some people were simply born unable to run, and I was one of them.",
+     "p2": "It was my friend Ting who changed my mind. She suggested that we meet at the track at seven every morning and she made me a promise: we would not try to run faster; we would only add one lap each week. For the first few days, I could not finish even one lap without stopping. By the third week, I could jog two laps, and by the sixth, I was running four laps while chatting. Somewhere along the way, the track stopped looking long. On the day of the test, I started at an easy pace, kept my breathing steady, and passed three runners on the final stretch. My time was four minutes and fifty-two seconds, nearly fifty seconds faster than my first try. What I learned is that a task often looks hard only because we see it all at once. Broken into small steps, even two laps that once seemed endless became something I could finish, one morning at a time.",
+     "caveat": "這是一種寫法，不是標準答案。原卷要求寫「至少一百二十個單字」，這是下限，不是上限；本篇寫了 310 個單詞，篇幅與站上其他範文相近。原卷還寫明「文章可以分段，也可以不分段」，本篇分成兩段，是照站上範文的體例，一段寫「一開始覺得很難」，一段寫「努力之後不再覺得難」，不是題目的要求。\n題目有三個要求：文章的頭兩句必須是 Things are not as difficult as they appear. I have a personal experience to prove this.，一字不差；寫的要是「親身的經驗」；經驗要有「開始的時候覺得很難」和「經過一番努力後不再認為困難」兩個部分。頭兩句是規定的，第三句起才是自己的文章，所以本篇第三句直接進入經驗（Our P.E. teacher announced …），不再重複道理。\n本篇寫的是高中體適能測驗的 800 公尺。國中以上的體適能測驗，心肺耐力這一項女生跑 800 公尺、男生跑 1600 公尺，近年也可以改測漸速耐力折返跑，所以範文寫成「體育老師宣布班上女生要跑 800 公尺」，是一個班的安排，不是全國的規定。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "事情往往沒有看起來那麼難，我有一個親身的經驗可以證明。高一剛開學，體育老師就宣布，班上女生在學期結束前都要參加體適能測驗，跑 800 公尺。八百公尺不過是學校操場兩圈，可是對我這種人來說，聽起來就像要跑一場馬拉松。第一次練跑，我一起跑就衝得太快，跑到第二圈一半，兩條腿重得像石頭，胸口也像火在燒。最後兩百公尺我是用走的，同學在旁邊替我加油，反而讓我更難受。碼錶上的時間是五分四十秒。那天晚上，我跟媽媽說，有些人天生就不會跑步，我就是其中一個。",
+      "p2": "讓我改變想法的，是我的朋友小婷。她提議我們每天早上七點在操場碰面，還跟我約好：我們不求跑得更快，只要每個星期多跑一圈。頭幾天，我連一圈都沒辦法不停下來跑完。到了第三個星期，我可以慢跑兩圈；到了第六個星期，我已經可以一邊聊天一邊跑四圈。不知不覺中，操場看起來不再那麼長了。測驗那天，我用輕鬆的速度起跑，保持呼吸平穩，在最後的直線跑道上還超過了三個人。我的成績是四分五十二秒，比第一次快了將近五十秒。我學到的是，一件事看起來很難，常常只是因為我們想一口氣把它全部完成。把它拆成一小步一小步，就連曾經覺得跑不完的兩圈，也變成我可以一個早上接著一個早上完成的事。"
+     }
+    },
+    "rubric": {
+     "intro": "83 學測的英文作文，大考中心沒有公布評分說明，也沒有公布佳作。不過這一年的原卷在作文的說明裡直接寫了評分標準：內容 5 分，組織 5 分，文法 4 分，用字與拼字 4 分，體例（格式、標點、大小寫）2 分，合計 20 分。題目本身的要求有三項：寫「至少一百二十個單字」、描述一個親身的經驗，以及文章的頭兩句必須是 Things are not as difficult as they appear. I have a personal experience to prove this.\n下面的五項對照照原卷的名稱寫。原卷第四項寫的是「用字與拼字」，84、85 學測寫「用字拼字」，95 學測以後常見的是「字彙拼字」，這裡照原卷。",
+     "keypoint": "題目規定了頭兩句，第二句 I have a personal experience to prove this 已經告訴讀者「接下來要講一個經驗」，所以第三句就要進入經驗，不必再解釋一次道理。經驗必須是自己的，而且要寫出前後的對比：開始的時候多難，努力之後又怎麼樣；只寫「後來我努力練習，就成功了」，讀的人看不到「一番努力」在哪裡。\n本篇用數字把努力寫具體：第一次練跑五分四十秒，每星期多跑一圈，第三週兩圈、第六週四圈，測驗當天四分五十二秒。數字讓讀者看得到變化，比 I practiced very hard 有說服力得多。最後兩句再回到題目的道理，說明為什麼事情沒有看起來那麼難，文章就頭尾呼應了。\n時態：頭兩句是規定的現在式；經驗是過去的事，用過去式；最後 What I learned is that a task often looks hard … 是作者到現在仍然相信的道理，所以 is、looks、see 用現在式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "頭兩句照原卷規定寫，接著進入親身的經驗：體育老師宣布班上女生學期結束前要跑 800 公尺的體適能測驗，這對作者來說像要跑馬拉松。第一段寫「開始的時候覺得很難」：第一次練跑衝得太快，第二圈跑到一半雙腿像石頭、胸口像火在燒，最後兩百公尺用走的，成績五分四十秒，當晚還跟媽媽說自己天生不會跑步。第二段寫「經過一番努力後不再認為困難」：朋友小婷提議每天早上七點一起練，不求跑快，只求每週多跑一圈；頭幾天連一圈都跑不完，第三週能跑兩圈，第六週能一邊聊天一邊跑四圈；測驗當天用輕鬆的速度起跑，最後還超過三個人，成績四分五十二秒，快了將近五十秒。最後兩句點出學到的道理：事情看起來難，常常是因為想一口氣全部完成，拆成一小步一小步，就做得到了，正好回應題目 Things are not as difficult as they appear。"
+     },
+     {
+      "k": "組織",
+      "t": "全篇照事情發生的先後寫，兩段正好對應題目的兩個部分：第一段是「開始的時候覺得很難」，第二段是「經過一番努力後不再認為困難」。第二段第一句 It was my friend Ting who changed my mind 是兩段之間的轉折，一句話就讓讀者知道情況要改變了。\n進步用數字標出來，而且每個數字前面都有表示時間的片語，讀者跟著走就知道過了多久：On my first practice run（五分四十秒）→ For the first few days → By the third week → by the sixth → On the day of the test（四分五十二秒）。頭尾兩個時間放在一起比，nearly fifty seconds faster than my first try 一句就看得出努力的成果。\n結尾兩句不再寫事情，而是寫從事情學到的道理：What I learned is that … 先說道理，Broken into small steps, even two laps that once seemed endless became something I could finish 再用這次的經驗印證，最後的 one morning at a time 呼應前面每天早上的練習，也呼應開頭規定的 Things are not as difficult as they appear。"
+     },
+     {
+      "k": "文法",
+      "t": "時態：頭兩句是規定的現在式；經驗是過去的事，用過去式（announced、set off、walked）；跑到一半時「胸口正在燒」是當時正在進行的狀態，用過去進行式（my chest was burning），第二段的 I was running four laps while chatting 也一樣；最後的道理是作者現在仍然相信的事，用現在式（What I learned is that a task often looks hard …）。\nThings are [not as] difficult [as] they appear：not as＋形容詞＋as，意思是「沒有……那麼……」。\nI have a personal experience [to prove] this：不定詞 to prove 放在名詞後面，修飾 experience，意思是「可以證明這一點的經驗」。\nOur P.E. teacher announced … that all the girls in our class [would] have to take …：主要子句是過去式 announced，that 子句裡原本的 will 跟著改成 would；told my mother that some people [were] simply born unable to run 也是同樣的道理。\n[Eight hundred meters] [is] only two laps：距離、時間、金額當作一個整體時，雖然是複數形，動詞用單數。\nit [sounded like] a marathon：sound like＋名詞，意思是「聽起來像……」；my legs [felt like] stone 的 feel like＋名詞也一樣。\nI set off [far] [too] fast：far 放在 too 前面加強語氣，意思是「快得太多了」。\nwhile my classmates cheered for me, [which] only made me feel worse：which 前面加逗號，指的是前面一整件事（同學替我加油），不是單指 me 或 classmates；make＋受詞＋原形動詞，feel 用原形；worse 是 bad 的比較級。\nThe stopwatch [read] five minutes and forty seconds：read 在這裡的意思是「（儀表）顯示」，過去式拼法仍是 read。\n[It was] my friend Ting [who] changed my mind：分裂句 It was＋強調的部分＋who／that，強調改變我想法的是小婷。Cambridge 文法頁說明，分裂句把一個訊息拆成兩個子句，用來強調新的資訊。\nShe [suggested] that we [meet] at the track：suggest 後面的 that 子句用原形動詞（或 should＋原形），所以是 we meet，不是 we met；Cambridge 詞典的例句是 They suggested we meet up at Mustafa's。\n(she made me a promise)[:] (we would not try to run faster)[;] (we would only add one lap each week)：冒號後面說明約定的內容；兩個完整句子用分號連接，一句說不做什麼，一句說只做什麼。\nI could not finish even one lap [without stopping]：without＋V-ing，意思是「沒有……而……」。\n[By] the third week, I could jog two laps, and by the sixth, …：by 表示「到了……的時候」；by the sixth 省略了重複的 week。\nthe track [stopped looking] long：stop＋V-ing，意思是「不再……」；stop＋to V 則是「停下來去做……」，意思不同。\nI (started at an easy pace), (kept my breathing steady), and (passed three runners on the final stretch)：三個過去式動詞片語並列，前兩個用逗號隔開，最後一個前面加 and；keep＋受詞＋形容詞，意思是「讓……保持……」。\n[nearly fifty seconds] faster than my first try：比較級前面加上差距（nearly fifty seconds），說明快了多少。\n[What I learned] is [that] a task often looks hard only because we see it all at once：what 帶出的名詞子句當主詞，that 子句當補語。\n[Broken into small steps], (even two laps) [that once seemed endless] became something I could finish：過去分詞開頭的分詞構句，句子的主詞 two laps 不是去拆的一方，而是拆開的對象，所以用表示被動意思的過去分詞 broken；that once seemed endless 是關係子句，修飾 laps。"
+     },
+     {
+      "k": "用字與拼字",
+      "t": "全篇逐字對過大考中心《高中英文參考詞彙表》：四級以上只有兩個，marathon（馬拉松）與 pace（速度）；三級的有 breath、chest、semester、steady。lap（一圈）、track（跑道）、stretch（一段路）都是二級字，但在這裡用的是跑步的意思，stretch 平常多當「伸展」用。詞彙表沒有收 stopwatch（碼錶）；fitness（體適能）與 endless（沒有盡頭的）分別是 fit、end 加字尾變成的。\n片語：at the start of（在……之初）、by the end of（在……結束之前）、set off（出發、起跑）、cheer for（替……加油）、be born＋形容詞（天生……）、change one's mind（改變想法）、make someone a promise（向某人許諾）、somewhere along the way（不知不覺中）、at an easy pace（用輕鬆的速度）、the final stretch（最後一段路）、all at once（一下子全部）、one … at a time（一次一個）。這一篇容易拼錯的是 semester、marathon、breathing、steady、endless 這幾個；breath（名詞）與 breathe（動詞）拼法不同，本篇用的是 breathing。"
+     },
+     {
+      "k": "體例",
+      "t": "83 這一年的原卷寫明，體例看的是格式、標點與大小寫，配 2 分。原卷給了題目 Things Are Not As Difficult As They Appear，站上範文照體例只列正文。頭兩句照原卷寫，兩句各自以句號結束，大小寫也和原卷一樣。數字方面，句首的數字要用英文拼出來（Eight hundred meters is …），不寫成 800 meters；800-meter 放在名詞前面當形容詞時，中間加連字號，meter 用單數。P.E. 是縮寫，兩個字母後面都加句點。標點方面，冒號後面接約定的內容，前面的 she made me a promise 是完整的句子；分號連接兩個完整的句子，後面小寫；三個動詞片語並列時，最後一個 and 前面的逗號可加可不加，本篇有加；指前面一整件事的 which 前面要加逗號；句首的片語或子句後面加逗號（On my first practice run, 、For the first few days, 、By the third week, 、On the day of the test, 、Broken into small steps, ）。"
+     }
+    ]
+   }
   }
  ],
  "themeWordBanks": {
