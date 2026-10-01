@@ -6117,7 +6117,45 @@
      ]
     }
    ],
-   "source": "大學入學考試中心 95 課綱學科能力測驗參考試卷英文考科"
+   "source": "大學入學考試中心 95 課綱學科能力測驗參考試卷英文考科",
+   "model": {
+    "essay": {
+     "words": 122,
+     "p1": "Amy wanted to study at home for a math test, but Ben talked her into going to the library. \"It's quieter there,\" he said on the phone. As soon as they sat down side by side, however, they began chatting about everything but math. They laughed so loudly that the whole reading room could hear them.",
+     "p2": "One by one, the students around them looked up and frowned. Then the librarian walked over with a smile and led Amy to an empty seat at another table. Ben was left alone, scratching his head, and both of them turned red. For the rest of the afternoon, neither of them dared to say a word. It was the first time they had studied so quietly.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長約100至120個單詞」，給的是一個範圍，不是下限；本篇寫了 122 個單詞。\n這一題是看圖寫作，四張圖已經把故事定好，題目要求依序寫，而且要涵蓋四張圖意。篇幅只有一百多個單詞，每一張圖只能挑最重要的動作寫，圖上的細節不必全部寫進去。題目沒有規定要分幾段，本篇分成兩段，第一段寫兩人到圖書館聊開了，第二段寫旁人的反應與管理員的處置，是為了讓讀者看得出故事在哪裡轉折，不是題目的要求。\n這份參考試卷，大考中心沒有公布佳作。",
+     "zh": {
+      "p1": "艾咪本來想在家準備數學考試，班恩卻說服她去圖書館。他在電話裡說：「那裡比較安靜。」可是兩個人一並排坐下，就聊了起來，什麼都聊，就是不聊數學。他們笑得好大聲，整間閱覽室都聽得到。",
+      "p2": "周圍的同學一個接一個抬起頭來，皺起眉頭。這時圖書館管理員笑著走過來，把艾咪帶到另一張桌子的空位上。班恩一個人留在原位抓著頭，兩個人的臉都紅了。那天下午剩下的時間，兩人誰也不敢再說一句話。那是他們念書念得最安靜的一次。"
+     }
+    },
+    "rubric": {
+     "intro": "95 課綱學測參考試卷的英文作文，大考中心沒有公布評分說明，也沒有公布佳作；同時公布的參考答案只列選擇題，所以這一題沒有官方資料可以對照。題目本身的要求是：文長約 100 至 120 個單詞；以四張圖畫內容為藍本，依序寫一篇文章，描述兩個學生在圖書館的尷尬經驗；故事內容務必涵蓋四張圖意，力求情節完整、前後發展合理。\n下面的五項對照，借用這份參考試卷適用的 95 課綱第一年正式施測、也就是 98 學測評分標準說明所列的評分項目，逐項說明範文怎麼寫；這五項不是參考試卷公布的規定，所以這裡不寫配分。",
+     "keypoint": "這一題有兩個容易失分的地方。一是順序：題目寫明要「依序」寫，四張圖一張都不能少。這一點和 96 學測不同，那一年的官方說明允許考生自己排四張圖的順序。第三張旁邊的同學皺眉瞪人，正是第四張管理員出面的原因，跳過第三張，故事就接不起來。二是題目點明要寫「尷尬經驗」，所以兩個人自己要覺得難為情；只寫事情的經過，不寫他們的反應，就少了題目要的那一層。篇幅只有一百多個單詞，這兩件事比堆砌細節重要。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "這一項看的是四張圖都寫到，而且照順序。第一張在電話裡，一個想在家念書、一個想去圖書館，範文寫艾咪本來想在家準備考試，班恩說服她去圖書館；第二張兩人並排坐著聊天，範文寫一坐下就聊開了，笑得整間閱覽室都聽得到；第三張旁邊的同學皺眉瞪人（looked up and frowned）；第四張管理員笑著把女生帶到別桌，男生一個人抓頭（scratching his head）。題目要的「尷尬」落在 both of them turned red 與 neither of them dared to say a word 兩句；最後一句反過來收尾：那是他們念書念得最安靜的一次。"
+     },
+     {
+      "k": "組織",
+      "t": "範文分兩段，跟著故事的轉折切：第一段寫兩人到圖書館聊開了，第二段從旁人的反應寫起。前後呼應靠「安靜」：第一段班恩說 It's quieter there，結果他們自己吵到整間閱覽室；最後一句 It was the first time they had studied so quietly 回頭接上這句話。時間的轉換靠 As soon as、One by one、Then、For the rest of the afternoon，四張圖之間不必另外寫 In the first picture 之類的句子。"
+     },
+     {
+      "k": "文法句構",
+      "t": "Ben [talked] her [into] going to the library：talk + 人 + into + V-ing，表示「說服某人去做某事」；說服對方不要做，則用 talk + 人 + out of + V-ing。\nchatting about [everything but] (math)：這裡的 but 是介系詞，等於 except，意思是「什麼都聊，就是不聊數學」。\nThey laughed [so] (loudly) [that] the whole reading room could hear them：so + 副詞（或形容詞）+ that + 子句，表示「……到……的程度」。\nBen was left alone, [scratching his head]：逗號後面的 V-ing 是分詞構句，表示同時發生的動作，意思等於 and he was scratching his head。\n[It was the first time] (that) they [had studied] so quietly：It was the first time 後面接過去完成式；講的是現在的事，就用 It is the first time + 現在完成式。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形三個（frowned，原形 frown 四級；librarian 四級；scratching，原形 scratch 四級），占 88 個詞形的 3.4%；三級的字有 chat（文中是 chatting）、dare（文中是 dared）。librarian 是圖書館管理員，由 library 加 -ian 而來；frown 是皺眉，對得上第三張圖裡同學的表情。片語：side by side（並排）、one by one（一個接一個）、the rest of（剩下的）。容易拼錯的是 librarian（中間的 r 不要漏掉）、chatting（t 要重複再加 -ing）、quietly（不要和 quite 混在一起）。"
+     },
+     {
+      "k": "體例",
+      "t": "這份參考試卷沒有評分說明可以對照；98 學測的分項式評分指標裡，體例管的是格式、標點與大小寫。故事裡有一句對話，標點最容易出錯：美式寫法把逗號放在引號裡面（\"It's quieter there,\" he said），說話的人放在引號後面，句子到 phone 才結束。人名 Amy、Ben 每一次都要大寫；It's 的撇號不能漏。"
+     }
+    ]
+   }
   },
   {
    "id": "E95_JCEE",
