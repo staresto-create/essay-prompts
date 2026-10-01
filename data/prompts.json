@@ -2050,7 +2050,41 @@
    ],
    "source": "大學入學考試中心 110 學年度學科能力測驗試辦考試英文考科",
    "promptSummary": "圖片呈現乾涸的水庫與民眾排隊取水的情景。要求描述圖片內容，再討論原因並提出具體因應措施。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "model": {
+    "essay": {
+     "words": 326,
+     "p1": "The two pictures show what a long dry spell can do to a place. In the first one, a reservoir has almost run dry. A huge concrete dam still stands on the right, and the hills behind it are as green as ever, yet the water that should fill the valley has shrunk to a thin strip. Where the lake used to be, the ground is now bare mud, cracked into hundreds of pieces like a broken puzzle. The second picture moves to a street. A water truck from the Taiwan Water Corporation is parked by the road, and a crowd of residents has gathered around it. Some are bending over to fill plastic jugs from the taps at the back of the truck, while others wait their turn with empty containers at their feet. Put side by side, the two scenes tell one story: when the reservoir is empty, the tap at home soon is, too.",
+     "p2": "The most obvious cause is the weather. Taiwan depends on typhoons and the plum rain season to refill its reservoirs, so a year with few typhoons and little spring rain leaves them half empty. Yet the weather is only part of the story. Many reservoirs are slowly filling up with mud, which leaves less room for water, and more than a tenth of our tap water leaks out of old pipes before it ever reaches our homes. On top of that, many of us use water as if the supply were endless. To keep such scenes from happening again, the government should remove the mud from reservoirs regularly and replace aging pipes, so that every drop of rain is put to use. As for ordinary people, small habits add up: taking shorter showers, turning off the tap while brushing our teeth, and reusing the water from washing vegetables. Water only feels precious when the tap runs dry, so we had better treat it that way before that day comes.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少120個單詞」，那是下限而不是目標；本篇寫了 326 個單詞，篇幅與站上其他範文相近。\n這一題兩段的任務分得很清楚：第一段只描述兩張圖片，第二段才談原因和因應措施。本篇第一段照圖片順序寫，先水庫、再街上，最後一句把兩張圖連成同一件事，交給第二段。第二段先講原因，再講措施，而且措施對得上原因：水庫淤積對應清除淤泥，管線漏水對應汰換管線，用水習慣對應個人省水。也就是說，提出的措施要回應自己講的原因，才算回答了題目的「以避免類似景象再度發生」。\n第二段漏水那一句有根據：台灣自來水公司 2020 年底的漏水率為 13.90%，所以寫「超過一成」。",
+     "zh": {
+      "p1": "這兩張圖片呈現長時間不下雨會讓一個地方變成什麼樣子。第一張圖裡，水庫幾乎見底。右邊那座巨大的水泥水壩還立在原地，後面的山也一樣青翠，可是原本應該蓄滿山谷的水，已經縮成細細的一條。原本是湖的地方，如今只剩光禿禿的泥地，裂成好幾百塊，像一幅拆散的拼圖。第二張圖換到街上。一輛台灣自來水公司的水車停在路邊，附近的居民圍了過來。有些人彎著腰，用車尾的水龍頭把塑膠水桶裝滿，其他人腳邊放著空水箱，等著輪到自己。兩張圖放在一起看，說的是同一件事：水庫一旦乾了，家裡的水龍頭很快也跟著沒水。",
+      "p2": "最明顯的原因是天氣。台灣要靠颱風和梅雨把水庫補滿，所以只要哪一年颱風少、春雨又不多，水庫就只剩半滿。不過，天氣只是原因之一。很多水庫底下的泥沙越積越多，能蓄的水就跟著變少；另外，超過一成的自來水還沒送到家，就從老舊的管線漏掉了。再加上很多人用起水來，好像水永遠用不完似的。要避免這樣的景象再度發生，政府應該定期清除水庫的淤泥、汰換老舊管線，讓每一滴雨水都派得上用場。至於一般人，小習慣累積起來也很可觀：洗澡時間短一點、刷牙時把水龍頭關掉、把洗菜的水留下來再利用。總要等到水龍頭沒水了，才知道水有多珍貴；我們最好別等到那一天，現在就開始珍惜。"
+     }
+    },
+    "rubric": {
+     "intro": "110 學測試辦考試的英文作文，大考中心沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求是：文長至少 120 個單詞、文分兩段；第一段描述兩張圖片的內容，包括其中的人、事、物以及發生的事情；第二段討論導致這個現象可能的原因，並說明未來可以採取什麼具體的因應措施。\n下面的四項對照，借用同一年正式學測閱卷評分原則說明所列的評分項目，逐項說明範文怎麼寫；這四項不是試辦考試公布的規定，所以這裡不寫配分。",
+     "keypoint": "這一題第二段要做兩件事：先說原因，再提措施，而且題目要的是「具體的」因應措施。只寫一句 We should save water，等於沒有回答「具體」兩個字；措施要說得出由誰來做、做什麼，最好還能對上前面講的原因。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的人、事、物，第一段兩張圖都給了具體畫面：第一張是水壩、青山、縮成一條的水和龜裂的泥地；第二張是水車、圍過來的居民、彎腰裝水的人和拿著空水箱排隊的人。第二段的原因有四個：颱風少、春雨少、水庫淤積、管線漏水，再加上用水習慣；措施有三種：定期清淤、汰換管線、個人省水。題目開頭問的「你對這些景象有什麼感想」，放在全篇最後一句。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段照圖片順序走，最後用 Put side by side 那一句把兩張圖連成一件事。第二段以 The most obvious cause is the weather 開頭，再用 Yet the weather is only part of the story 轉到人為的原因；接著以 To keep such scenes from happening again 帶出措施，這句話對應題目的「以避免類似景象再度發生」。措施先講政府、再用 As for ordinary people 轉到一般人。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：第一段描述圖片，用現在式與現在進行式講畫面上正在發生的事（A huge concrete dam still stands、Some are bending over、others wait their turn）；水庫乾涸、水縮成一條、居民圍過來，是畫面上看到的「已經造成的結果」，用現在完成式（has almost run dry、has shrunk、has gathered）。shrink 的三態是 shrink–shrank–shrunk，has 後面接過去分詞 shrunk。第二段講普遍的原因，用現在式（Taiwan depends on…、Many reservoirs are slowly filling up…）；提出措施用 should。\n[Where] (the lake used to be), the ground is now bare mud：where 引導表示地點的副詞子句，放在句首；used to + 原形動詞表示「以前是如此，現在不是了」，與後面的 now 形成對比。\ncracked into hundreds of pieces [like] a broken puzzle：like + 名詞，表示「像……一樣」，用比喻把龜裂的泥地寫具體。\n[Some] are bending over to fill plastic jugs …, [while] [others] wait their turn：some … others … 表示「有些人……，其他人……」；while 在這裡表示對比，不是「當……的時候」。\n[Put side by side], the two scenes tell one story：過去分詞構句，還原成 When they are put side by side，主詞就是後面的 the two scenes。\nwhen the reservoir is empty, the tap at home soon is, too：後半句 is 後面省略了與前半句相同的 empty，還原成 the tap at home soon is empty, too。\na year with few typhoons and little spring rain [leaves] (them) [half empty]：leave + 受詞 + 形容詞，表示「使……處於某種狀態」。few 接可數名詞 typhoons，little 接不可數名詞 rain。\n[more than a tenth of] our tap water [leaks]：分數或比例 + of + 名詞當主詞時，動詞跟著 of 後面的名詞走；water 是不可數名詞，所以動詞用單數 leaks。\nuse water [as if] (the supply [were] endless)：as if + 過去式或 were，表示與事實不符；as if 後面不接 would。\n[To keep] such scenes [from] happening again, …：不定詞片語放在句首表示目的；keep + 受詞 + from + V-ing，意思是「使……不要發生」。\nreplace aging pipes, [so that] (every drop of rain is put to use)：so that 引導表示目的的子句。\nwe [had better] treat it that way：had better + 原形動詞，表示「最好……」，不寫成 had better to treat。"
+     },
+     {
+      "k": "詞彙拼字",
+      "t": "四級以上的字：crack、concrete、container、flush、plum 是四級，jug、resident、reservoir 是五級。dry spell 是「一段時間不下雨」，spell 在這裡不是「拼字」也不是「咒語」。plum rain season 是梅雨季，台灣的英文媒體就這樣寫。refill、reuse 詞彙表沒有收，都是 re- 加上一級字 fill、use。這一篇容易拼錯的是 reservoir、typhoon、vegetables 這幾個。"
+     }
+    ]
+   }
   },
   {
    "id": "E110_JCEE",
