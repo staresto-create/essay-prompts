@@ -2776,7 +2776,41 @@
      "label": "非選擇題評分原則"
     }
    ],
-   "source": "大學入學考試中心 109 學年度指定科目考試補考英文考科"
+   "source": "大學入學考試中心 109 學年度指定科目考試補考英文考科",
+   "model": {
+    "essay": {
+     "words": 323,
+     "p1": "Jenny has been my closest friend since junior high, so I never thought a single photo could come between us. On our class trip to Hualien last spring, she fell asleep on the bus with her head against the window and her mouth wide open. She looked so funny that I took a picture of her and posted it on my Instagram story with the caption “Sleeping Beauty, anyone?” Within minutes, dozens of classmates had viewed it, and several of them replied with laughing emojis. To me, it was just a harmless joke between friends. When Jenny woke up and checked her phone, however, her face turned red. She quietly asked me to take the story down, but by then someone had already shared a screenshot of it in our class group chat. For the rest of the trip, she hardly said a word to me, and only then did I realize that what had been a joke to me was a public embarrassment to her.",
+     "p2": "That night, I deleted the story and sent her a message to apologize, but a few words on a screen did not seem enough. The next morning, I waited for her at the school gate and told her face to face that I was sorry for posting her photo without asking her first. I also asked the classmate who had shared the screenshot to delete it, and he did so at once. Jenny forgave me a few days later, and we are still close, yet the experience has changed the way I use social media. Before I post a photo with anyone else in it, I now ask that person first. More importantly, I have learned that whether a joke is funny is decided not by the person who tells it but by the person it is about. A post can be deleted in a second, but the hurt it causes cannot be taken back so easily.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少120個單詞」，那是下限而不是目標；本篇寫了 323 個單詞，篇幅與站上其他範文相近。\n題目要的是「不經意」得罪別人的經驗，所以第一段要讓讀者看得出來，我當時並不知道這樣做會傷人。本篇用 To me, it was just a harmless joke between friends 交代當時的想法，段末再用 only then did I realize 點出後來才明白；要是寫成故意捉弄別人，就不是「不經意」了。\n第二段題目要兩件事：怎麼彌補，以及這件事的影響或啟示。本篇先寫三個彌補的做法，刪限動、當面道歉、請同學刪截圖，再用 yet the experience has changed the way I use social media 轉到影響，最後寫啟示。彌補的做法要對得上第一段造成的傷害：照片已經傳開了，所以除了刪掉自己的貼文，也要去處理別人轉貼的截圖。",
+     "zh": {
+      "p1": "珍妮從國中起就是我最要好的朋友，所以我從沒想過，一張照片就能讓我們之間起了嫌隙。去年春天全班到花蓮校外教學，她在遊覽車上睡著了，頭靠著車窗，嘴巴張得大大的。那模樣實在太好笑，我就拍了下來，放上 IG 限時動態，還加了一行字：「誰家的睡美人？」才幾分鐘，就有好幾十個同學看過，還有幾個回了大笑的表情符號。在我看來，那不過是朋友之間無傷大雅的玩笑。沒想到珍妮醒來看了手機，臉一下子就紅了。她小聲要我把限動刪掉，可是那時已經有人截了圖，貼到我們班的群組裡。接下來的行程，她幾乎沒跟我說話；直到這時我才明白，對我來說只是一個玩笑，對她卻是當著大家的面出糗。",
+      "p2": "當天晚上，我刪掉限動，也傳了訊息向她道歉，可是螢幕上的幾句話，好像還不夠。隔天早上，我在校門口等她，當面跟她道歉，說我不該沒先問過她，就貼出她的照片。我也去找那位截圖轉貼的同學，請他把圖刪掉，他馬上就刪了。過了幾天，珍妮原諒了我，我們到現在還是很要好；不過，這件事改變了我使用社群媒體的方式。現在只要照片裡有別人，我貼出來之前一定先問過對方。更重要的是，我學到一件事：一個玩笑好不好笑，不是講的人說了算，而是玩笑的對象說了算。貼文一秒鐘就刪得掉，它造成的傷害卻沒辦法這麼輕易收回。"
+     }
+    },
+    "rubric": {
+     "intro": "109 指考補考英文非選擇題共 28 分，中譯英兩小題合計 8 分，英文作文 20 分，文長至少 120 個單詞。大考中心公布的評分原則寫明：評分標準依內容、組織、文法句構、字彙拼字四個項目給分，字數明顯不足則扣總分 1 分。評分重點在於內容須符合題目要求、提供充分具體的說明、句構語法及用字適切，以及拼字與標點符號使用得當；內容充實與語言能力表現佳，是得分的重要元素。\n評分原則沒有寫四個項目各占幾分，大考中心也沒有公布補考的佳作，所以這裡不寫各項目的配分。",
+     "keypoint": "評分原則把這一題兩段的任務重述了一次：第一段描述事件發生的始末，第二段說明如何彌補這個失誤所造成的傷害，並探討這個事件的影響或啟示。第一段的「始末」，指的是事情怎麼開始、怎麼演變、最後造成什麼結果，三樣都要交代。第二段的彌補與啟示兩件事都要寫到；只寫「我道歉了，她原諒我了」，等於只回答了一半。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段把始末交代完整：起因是我把珍妮在遊覽車上睡著的照片貼上 IG 限時動態；接著同學紛紛看過、回了大笑的表情符號，珍妮醒來要我刪掉，卻已經有人截圖貼進班級群組；結果是她整趟行程幾乎不跟我說話。「不經意」落在 To me, it was just a harmless joke between friends 這一句。第二段的彌補有三個做法：刪限動、在校門口當面道歉、請同學刪截圖。影響是現在貼出有別人的照片之前，會先問過對方；啟示是一個玩笑好不好笑，由玩笑的對象決定。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先用 Jenny has been my closest friend since junior high 交代兩人的交情，後面的傷害才有份量；接著照時間順序寫：On our class trip … last spring、Within minutes、When Jenny woke up、by then、For the rest of the trip。第二段一樣照時間走：That night、The next morning、a few days later；再用 yet the experience has changed … 從彌補轉到影響，以 More importantly 帶出啟示。最後一句回到第一段那則貼文：貼文刪得掉，傷害收不回。"
+     },
+     {
+      "k": "文法句構",
+      "t": "時態：敘事用過去式，更早完成的事用過去完成式（had viewed、had already shared）；has been、has changed、have learned 是現在完成式，講延續到現在的狀態與改變。\n[with] (her head) [against the window] and (her mouth) [wide open]：with + 受詞 + 補語，表附帶狀態。\nand [only then] [did] I [realize] that …：only then 放在句首，主要子句要倒裝，did 移到主詞前面，動詞用原形。\n[what had been a joke to me] was a public embarrassment to her：what 是複合關係代名詞，what = the thing(s) which／that（先行詞 + 關係代名詞）。[what had been a joke to me] 是名詞子句，當全句的主詞；what 在子句裡又是 had been 的主詞，所以直接接動詞（what + V）。還原回去就是 the thing that had been a joke to me。\n[Whether a joke is funny] is decided：whether 引導名詞子句當主詞，這個位置不用 if。\nis decided not (by) [the person who tells it] but (by) [the person it is about]：not A but B 前後要對稱，by + 名詞對 by + 名詞。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "三級以上的字：apologize、chat、junior 是三級，embarrassment 是四級（原形 embarrass），caption 是六級；harmless 是三級字 harm 加上 -less。詞彙表沒有收的字：delete（刪除）、emoji（表情符號）、screenshot（截圖），都是寫限時動態、班級群組這類情節少不了的日常用語。片語：come between（使……之間產生嫌隙）、take … down（把貼文撤下）、face to face（當面）、at once（立刻）、take back（收回）。這一篇容易拼錯的是 embarrassment（兩個 r、兩個 s）、apologize、caption 這幾個。"
+     }
+    ]
+   }
   },
   {
    "id": "E108_GSAT",
