@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-02",
+ "updated": "2026-10-01",
  "count": 63,
  "items": [
   {
@@ -380,7 +380,7 @@
    "promptSummary": "圖片對比颱風假時，民眾在室內休閒娛樂與在室外風雨中奔波的情景。要求描述情景，再說明個人看法與\n經驗。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Climate change and extreme weather",
@@ -755,7 +755,7 @@
    "promptSummary": "圖片呈現青少年三種困擾。要求選擇一項，說明原因，並闡述希望機器人小幫手具備的特質與合作方式。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Is rejection good for us?",
@@ -2281,7 +2281,7 @@
     ]
    },
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Can apps teach you a language?",
@@ -3589,23 +3589,6 @@
     "label": "作文佳作"
    },
    "source": "大學入學考試中心 106 學年度指定科目考試英文考科",
-   "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
-    "items": [
-     {
-      "title": "Why does heartbreak hurt so much?",
-      "series": "BBC 6 Minute English",
-      "date": "2026-10-01",
-      "length": "6 分 34 秒",
-      "blurb": "Neil 與 Georgie 談失戀為什麼會痛：掃描大腦的研究發現，心碎時有反應的區域，跟燙傷或骨折時有反應的是同一塊。節目也提到，一個人寂寞、又缺少親友之間緊密的連結，死亡風險上升的幅度跟肥胖或抽菸差不多。這一題問寂寞的時候有誰或什麼陪你，這一集說明的正是寂寞為什麼不只是心情不好，以及人為什麼需要陪伴。",
-      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261001",
-      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
-      "alt": "https://open.spotify.com/episode/33mQpbOioIBlYRvPqszTRX",
-      "altLabel": "Spotify",
-      "checked": "2026 年 10 月"
-     }
-    ]
-   },
    "model": {
     "essay": {
      "words": 292,
@@ -3775,7 +3758,7 @@
     ]
    },
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "Who does the housework?",
@@ -5312,7 +5295,47 @@
    ],
    "prompt": "新聞報導鄰國大地震，災情嚴重，請寫一封信給在當地的朋友（英文名字必須假設為 Tom 或 Kelly），表達慰問之意。第一段敘述自己從新聞報導上得知該地震的災情訊息；第二段表達自己對天災的感受（或分享經驗）並表達慰問之意。請注意：為避免評分困擾，信末必須使用 John 或 Susan 署名，不得使用自己真實的中文或英文名字。",
    "images": [],
-   "source": "大學入學考試中心 99 課綱學科能力測驗參考試卷英文考科"
+   "source": "大學入學考試中心 99 課綱學科能力測驗參考試卷英文考科",
+   "model": {
+    "essay": {
+     "words": 276,
+     "opening": "Dear Kelly,",
+     "p1": "I have been glued to the news ever since I heard about the earthquake that hit your city yesterday. The pictures on TV are heartbreaking. Whole buildings have collapsed, roads have cracked open, and rescue workers are still searching through the rubble for people who may be trapped. According to the reports, hundreds of people have been injured, and thousands have had to spend the night in schools and gyms because their homes are no longer safe. Power and water are still cut off in many neighborhoods, too. When the news showed a map of the hardest-hit areas, my heart sank, for your neighborhood was right in the middle of it. I have sent you several messages since last night, but you have not read any of them yet, so I am writing you this longer letter in case you can check your email.",
+     "p2": "News like this always reminds me how small we are in the face of nature. I still remember the morning a powerful earthquake struck Hualien. Even in Taipei, our apartment shook so hard that books flew off my shelves, and I could do nothing but crawl under my desk and wait for it to stop. Those few seconds felt like forever, so I can only imagine how frightening it must have been for you. Please know that you are not alone. Our class is collecting money and supplies for the victims, and I will do whatever I can to help, whether you need warm clothes, medicine, or just someone to talk to. Take care of yourself and your family, and let me know you are safe as soon as you can.",
+     "closing": "Thinking of you,\nSusan",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少120個單詞」，那是下限而不是目標。這一篇的正文寫了 276 個單詞，開頭的稱呼語與信末的署名不算在內。\n這一題是一封信，除了正文，開頭的稱呼語與信末的署名也要照格式寫，而且只能用題目指定的英文名字：收信人是 Tom 或 Kelly，署名是 John 或 Susan，詳見底下體例那一項。\n第一段題目要的是「從新聞報導上得知」的災情，所以這一篇只寫新聞裡看得到的事：大樓倒塌、多少人受傷、停水停電、哪裡災情最重，不寫自己猜的。第二段先寫自己經歷地震的感受，再表達慰問；慰問落在具體的事情上，例如班上在募款、需要什麼都可以說，比只寫一句 I am sorry to hear that 更有份量。",
+     "zh": {
+      "p1": "自從聽說你們那裡昨天發生地震，我就一直守著新聞。電視上的畫面讓人好心痛：整棟大樓倒塌，道路裂開，搜救人員還在瓦礫堆裡尋找可能受困的人。根據報導，已經有好幾百人受傷，好幾千人因為家裡已經不安全，只能在學校和體育館過夜。很多地區到現在也還是停水停電。新聞秀出災情最嚴重地區的地圖時，我的心一沉，因為你住的那一帶就在正中間。從昨晚到現在，我傳了好幾則訊息給你，你一則都還沒讀，所以我寫了這封比較長的信，心想你也許還能收電子郵件。",
+      "p2": "這樣的新聞總讓我想到，人在大自然面前有多渺小。我到現在還記得花蓮大地震那天早上。就連在台北，我們家也搖得好厲害，書從架子上掉下來，我除了躲到書桌底下、等它停下來，什麼也不能做。那短短幾秒鐘，感覺像永遠那麼長，所以我只能想像，你那時候一定害怕極了。請記得，你不是一個人。我們班正在為災民募款、募集物資；不管你需要的是保暖的衣服、藥品，還是只想找個人說說話，我都會盡我所能幫忙。好好照顧自己和家人，一有機會就讓我知道你平安。"
+     }
+    },
+    "rubric": {
+     "intro": "99 課綱學測參考試卷的英文作文，大考中心沒有公布評分說明，也沒有公布佳作；同時公布的參考答案只列選擇題與中譯英，所以這一題沒有官方資料可以對照。題目本身的要求是：文長至少 120 個單詞；寫一封信給在當地的朋友（Tom 或 Kelly），第一段敘述自己從新聞報導上得知的災情，第二段表達自己對天災的感受（或分享經驗）並表達慰問之意；信末必須使用 John 或 Susan 署名。\n下面的五項對照，借用這份參考試卷適用的 99 課綱第一年正式施測、也就是 102 學測閱卷評分原則說明所列的評分項目，逐項說明範文怎麼寫；這五項不是參考試卷公布的規定，所以這裡不寫配分。",
+     "keypoint": "這一題有兩個容易失分的地方。一是名字：收信人只能是 Tom 或 Kelly，署名只能是 John 或 Susan，題目明說不得使用自己真實的中文或英文名字。二是第二段要做兩件事：先表達自己對天災的感受（或分享經驗），再表達慰問之意。只寫感受、忘了慰問，或者只用一句 I am sorry to hear that 帶過，第二段都只完成了一半。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段只寫從新聞得知的災情：大樓倒塌、道路裂開、搜救人員在瓦礫堆裡找人、好幾百人受傷、好幾千人在學校和體育館過夜、停水停電，最後落到收信人身上——她住的地區正好在災情最重的範圍裡，傳的訊息也都還沒讀。第二段先寫自己的經驗：花蓮地震那天早上，人在台北，書從架上掉下來，只能躲到書桌底下；再由自己推到對方的處境。慰問有三層：你不是一個人、班上在募款募物資、需要什麼都可以說，最後請對方報平安。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句就交代寫信的原因（I have been glued to the news ever since …），接著由大到小：先寫整座城市的災情，再寫受傷與無家可歸的人數，最後縮到收信人住的那一帶，帶出寫這封信的直接原因。第二段第一句 News like this always reminds me how small we are in the face of nature 先寫感受，接著用花蓮地震的經驗支撐這份感受，再用 so I can only imagine … 從自己轉到對方，後面才是慰問與幫忙，最後一句請對方報平安作結。"
+     },
+     {
+      "k": "文法句構",
+      "t": "I [have been glued to] the news [ever since] I heard …：現在完成式 + since + 過去式子句，表示從過去延續到現在；have had to、have sent 也是現在完成式，講的是到寫信當下為止的狀況。\nI [could do nothing but] crawl under my desk：do nothing but + 原形動詞，表示「除了……什麼也不能做」；對照 have no choice but to + 原形動詞。\nI can only imagine [how frightening it must have been] for you：how + 形容詞 + 主詞 + 動詞是間接問句，當 imagine 的受詞；must have + 過去分詞，表示對過去的事很有把握的推測。\nI will do [whatever I can] to help：whatever 是複合關係代名詞，whatever = anything that（先行詞 + 關係代名詞），whatever I can 就是 anything that I can do。\n[whether] you need (A), (B), [or] (C)：whether … or … 引導副詞子句，表示「不管是……還是……」。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "四級的字：collapse、crack、injure、rescue；三級的字：crawl、forever、frighten（文中是 frightening）、neighborhood、sink（文中是過去式 sank）、victim。詞彙表沒有收的字：rubble（瓦礫堆），以及 heartbreaking（令人心碎的，由 heart + break 組成）。片語：be glued to（目不轉睛地盯著）、in the face of（面對）、do whatever I can（盡我所能）。容易拼錯的是 neighborhood（美式拼法）、frightening、heartbreaking。"
+     },
+     {
+      "k": "體例",
+      "t": "書信的格式是開頭稱呼語、正文、結尾敬語加署名。這一篇開頭寫 Dear Kelly，稱呼語後面接逗號；信末 Thinking of you 後面同樣接逗號，下一行署名 Susan，兩個名字都是題目指定的。101 學測同樣是寫信題，那一年的評分說明另有兩條管格式：未按規定使用英文名字扣總分 1 分，書信格式使用不當（如未書寫稱呼語及信末署名）扣總分 1 分；這兩條不是這份參考試卷公布的規定，照著做卻不會錯。大小寫上，Kelly、Susan、Hualien、Taipei 照專有名詞寫；標點上，hardest-hit 放在名詞前當形容詞，中間要加連字號。"
+     }
+    ]
+   }
   },
   {
    "id": "E99_JCEE",
@@ -5541,7 +5564,7 @@
     ]
    },
    "listening": {
-    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "note": "這是英式口語討論，拿來練聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容為 BBC 所有，本站只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
       "title": "How do we describe smells?",
