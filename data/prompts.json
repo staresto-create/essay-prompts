@@ -6646,7 +6646,45 @@
    ],
    "prompt": "請以自己的經驗為例，敘述當你感到不快樂或情緒低落時，(除了簡答題選文中所提及的方法外，)你最常用哪一種方法幫自己渡過低潮，並舉實例說明這個方法何以有效。",
    "images": [],
-   "source": "大學入學考試中心 92 學年度學科能力測驗補考英文考科"
+   "source": "大學入學考試中心 92 學年度學科能力測驗補考英文考科",
+   "model": {
+    "essay": {
+     "words": 318,
+     "p1": "Whenever I feel down, I rent a YouBike and ride along the riverside bike path for about an hour. It may sound too simple to work, but it has never failed me, because a bike keeps me busy in just the right way. My legs have to keep moving, so my mind cannot keep going around in circles. My hands are busy too: with both of them on the handlebars, I cannot check my phone and read the same upsetting messages again and again. Only my eyes are free, and what they see helps most of all. The wide river, the open sky, and the people jogging past remind me that the world is much bigger than whatever is bothering me. By the time I return the bike, the problem is still there, but it no longer feels too heavy to deal with.",
+     "p2": "I discovered this in my first semester of high school. My group had spent two weeks preparing a science presentation, and I was in charge of the slides. On the big day, I opened the wrong file in front of the class, and our teacher took five points off. Nobody blamed me out loud, yet the silence in our group chat after school hurt more than any blame. Lying on my bed, I kept rereading our old messages. Around five o'clock, I grabbed my jacket and headed for the river. For the first twenty minutes, I pedaled hard, still angry at myself. Somewhere near the bridge, though, I noticed the sunset turning the water orange, and my breathing slowed down. Back home, I sent the group a short apology and offered to make the handout for our next report. Three of them replied with thumbs-up stickers within a minute. Since then, whenever bad news arrives, I know where to go, because an hour on two wheels makes even a big problem small enough to handle.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，而這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 318 個單詞，篇幅與站上其他範文相近，是為了把方法和實例都寫具體。\n題目要兩件事：說出自己最常用的一種方法，再舉實例說明這個方法為什麼有效。本篇第一段先說方法，再說出有效的三個理由：雙腿一直在動，腦子就不會在同一件事上打轉；兩隻手握著把手，就沒辦法一直重讀讓人難過的訊息；眼睛看到的河面、天空和慢跑的人，提醒自己世界比煩惱大得多。第二段用高一報告出錯的那一天，把三個理由逐一印證：出門前躺在床上一直重讀群組訊息，騎車的頭二十分鐘還在氣自己，騎到橋邊看到夕陽才慢慢平靜，回到家終於做得出補救的事。\n題目的括號要求避開簡答題選文提過的方法：做出笑臉、把看似全壞的事轉成好事、跟正向又心情好的人在一起。本篇寫的是一個人騎單車，三種都不是；最後傳道歉、主動做講義，是騎完車之後回頭面對問題，不是把壞事說成好事。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "每當心情低落，我就租一輛 YouBike，沿著河濱自行車道騎一個小時左右。這個方法聽起來簡單得不像會有用，卻從來沒有讓我失望過，因為騎單車讓我忙得恰到好處。雙腿得一直踩，腦子就沒辦法一直在同一件事上打轉。兩隻手也閒不下來：都握著把手，我就沒辦法滑手機，把那些讓人難過的訊息一讀再讀。只有眼睛是空著的，而眼睛看到的東西幫助最大。寬闊的河面、頭上的一大片天空，還有從身邊跑過去的慢跑的人，都提醒我，世界比讓我心煩的那件事大得多。等到還車的時候，問題還在，可是感覺已經沒有那麼沉重，我處理得來了。",
+      "p2": "我是在高一上學期發現這個方法的。我們這一組花了兩個星期準備自然科的上台報告，投影片由我負責。上台那天，我當著全班的面開錯了檔案，老師扣了我們五分。沒有人當面怪我，可是放學後，我們的群組一片安靜，那比任何責怪都讓我難受。我躺在床上，一遍又一遍地重讀之前的訊息。快五點的時候，我抓起外套就往河邊去。頭二十分鐘，我拚命踩著踏板，心裡還在氣自己。不過騎到橋附近，我看到夕陽把河水染成了橘色，呼吸也跟著慢了下來。回到家，我在群組裡傳了一段簡短的道歉，還主動說下一次報告的講義由我來做。不到一分鐘，就有三個人回了按讚的貼圖。從那以後，每當有壞消息傳來，我都知道該往哪裡去，因為騎上一個小時的單車，再大的問題也會變小，小到我應付得來。"
+     }
+    },
+    "rubric": {
+     "intro": "92 學測補考的英文作文，大考中心只公布了試卷和選擇題答案，沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求是：文長 120 個單詞左右；以自己的經驗為例，敘述心情低落時最常用哪一種方法幫自己走出低潮，並舉實例說明這個方法為什麼有效；這個方法不能是簡答題選文提過的那幾種。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 92 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "這一題最容易漏掉的是後半句「舉實例說明這個方法何以有效」。只寫「我心情不好就去騎車，騎完就好了」，等於只交代了方法，沒有說明為什麼有效；要寫出這個方法讓身體和腦子起了什麼變化，再用一次真實的經過，讓讀者看到它確實有效。\n括號裡的條件也要看清楚：選文提過的三種方法不能拿來寫。寫「找好朋友聊一聊」要小心，很容易落進「跟正向又心情好的人在一起」；寫「往好處想」也一樣，會變成選文的「把看似全壞的事轉成好事」。\n時態跟著兩段的任務走：第一段講平常的習慣，用現在式；第二段講高一那一次，用過去式；比上台更早的準備，用過去完成式（had spent）；最後一句說到現在的習慣（Since then, whenever bad news arrives, I know where to go），再回到現在式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段先交代方法：心情低落的時候，租一輛 YouBike，沿著河濱自行車道騎一個小時左右；接著說出有效的三個理由：雙腿一直在動，腦子就不會在同一件事上打轉；兩隻手握著把手，沒辦法一直重讀讓人難過的訊息；眼睛看到的河面、天空和慢跑的人提醒自己，世界比煩惱大得多。第二段的實例有具體的人、事、時間與數字：高一上學期，全組準備了兩個星期的報告，我當著全班開錯檔案，老師扣了五分；放學後群組沒有人說話，我躺在床上一直重讀訊息；快五點出門，頭二十分鐘還在氣自己，騎到橋邊看到夕陽把河水染成橘色，呼吸才慢下來；回家傳了道歉，主動做下一次的講義，不到一分鐘就有三個人回了按讚的貼圖。騎單車是高中生真的會做的事，而且三種選文提過的方法都沒有用到。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句 Whenever I feel down 直接回答題目問的「最常用哪一種方法」；第二句先承認這個方法聽起來太簡單，接著用 because a bike keeps me busy in just the right way 一句話說出有效的原因，後面再分三句展開。三個理由不一路數 first、second、finally，而是順著身體寫：雙腿一直在動（My legs …），兩隻手也閒不下來（My hands are busy too），只剩眼睛是空著的（Only my eyes are free）。每一句都接住上一句：too 表示手和腳一樣忙，Only 把眼睛和前面的手腳對比，what they see helps most of all 再點出第三個理由最重要。列舉理由也可以用 One reason …、Another …、Still another …，或 For one thing …, For another …；這一篇的三個理由剛好落在身體的三個部位，順著寫下去，讀起來比一條一條數理由更順。末句 By the time I return the bike 寫到還車，把騎車的過程收尾。\n第二段第一句 I discovered this … 把兩段接起來，接著照時間順序寫：On the big day → after school → Around five o'clock → For the first twenty minutes → Somewhere near the bridge → Back home。最後一句的 an hour on two wheels 回到第一段開頭的 for about an hour，前後說的都是一個小時。"
+     },
+     {
+      "k": "文法句構",
+      "t": "[Whenever] I feel down, I rent a YouBike：whenever 意思是「每當」，等於 every time；講平常的習慣，兩個子句都用現在式。\nIt may sound [too] simple [to] work、it no longer feels [too] heavy [to] (deal with)：too + 形容詞 + to + 原形動詞，意思是「太……而不能……」；deal with 的受詞就是主詞 it，句尾不再加 it，with 也不能省略。\n[By the time] I return the bike, the problem [is] still there：講每次都會這樣的習慣，by the time 子句和主要子句都用現在式。\nI noticed (the sunset) (turning the water orange)：notice + 受詞 + V-ing，表示看到動作正在進行；turn + 受詞 + 顏色，意思是「把……染成某種顏色」。\nmakes (even a big problem) (small [enough to] handle)：make + 受詞 + 形容詞；形容詞 + enough to + 原形動詞，意思是「夠……而能……」；handle 後面一樣不再加 it。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形三個：apology（道歉）、presentation（上台報告）四級，pedaled（踩踏板，原形 pedal）五級，占 172 個詞形的 1.7%；三級的有 breathing（原形 breathe）、chat、grabbed（原形 grab）、remind、semester。詞彙表沒有收錄的有 handlebars（腳踏車把手，通常用複數）、handout（講義）、stickers（貼圖，原形 sticker），照樣使用。\n片語：go around in circles（想來想去，卻沒有進展）、be in charge of（負責）、take … points off（扣……分）、out loud（出聲地）、head for（往……去）、deal with（處理）、most of all（最重要的是、尤其）。這一篇容易拼錯的是 semester、apology、presentation、breathing（breathe 去掉 e 再加 ing）。"
+     },
+     {
+      "k": "體例",
+      "t": "92 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：YouBike 是品牌名稱，照官方寫法 Y 和 B 都大寫；five o'clock 的撇號不要漏；thumbs-up 放在名詞 stickers 前面當形容詞用，中間加連字號；句首的片語後面加逗號（On a bike, 、Around five o'clock, 、Back home, ）；though 插在句中時前後都加逗號（Somewhere near the bridge, though, ）；冒號後面只接一個句子，照《芝加哥格式手冊》的寫法，第一個字小寫（My hands are busy too: with both of them …），美聯社（AP）的格式則會大寫，同一篇前後一致即可。pedaled 是美式拼法，英式拼作 pedalled，站上英文一律用美式。"
+     }
+    ]
+   }
   },
   {
    "id": "E92_JCEE",
