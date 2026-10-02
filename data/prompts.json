@@ -6515,7 +6515,45 @@
    "officialTitle": "What Makes A Good Friend?",
    "prompt": "請以 “What Makes A Good Friend?” 爲主題，寫一篇至少 120 個字的英文作文。第一段針對文章主題，說明什麼樣的朋友才算是「好朋友」，並在第二段舉自己的交友經驗爲例，以印證第一段的說明。",
    "images": [],
-   "source": "大學入學考試中心 93 學年度指定科目考試補考英文考科"
+   "source": "大學入學考試中心 93 學年度指定科目考試補考英文考科",
+   "model": {
+    "essay": {
+     "words": 318,
+     "p1": "It is easy to collect hundreds of followers on Instagram, but true friends are the ones who stay the same whether life is going well or badly. When you win a prize, they are truly happy for you instead of feeling jealous, because your success does not make them feel smaller. When you are about to make a mistake, they care enough to tell you the truth, even if it is the last thing you want to hear. Anyone can click \"like\"; only a friend will tell you to stop. And when you are at your lowest, true friends do not disappear. They may not know the perfect words to say, yet they stay by your side until you can stand on your own again. In short, people who make us feel good are easy to find, while people who make us better are rare.",
+     "p2": "My classmate Kai has proved all of this to me. We both entered our school's English speech contest, and only I made it to the final round. Instead of sulking, Kai cheered louder than anyone in the audience and treated me to bubble tea afterwards. A few months later, I got so angry at a classmate that I typed a long, nasty message and was about to post it in our class LINE group. Kai took my phone away and asked quietly, \"Are you sure you won't regret this tomorrow?\" He was right, and I deleted every word. Then came the math exam that I failed so badly I wanted to give up on the subject. Kai did not lecture me about working harder. He simply stayed after school with me every day for two weeks, going over the problems I had gotten wrong until I could solve them by myself. My grades have improved since then, and I have learned that one friend like Kai is worth more than hundreds of followers.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少120個單詞」，這是下限；本篇寫了 318 個單詞。\n題目要求兩段各做一件事：第一段說明什麼樣的朋友才算是好朋友；第二段舉自己的交友經驗為例，印證第一段的說明。本篇第一段用三種時刻說明好朋友：你得意的時候、你正要犯錯的時候、你跌到谷底的時候。第二段阿凱的三件事逐一對應：只有我進了演講比賽決賽，他在台下加油加得最大聲；我正要在班級群組貼難聽的話，他把手機拿走；數學考壞了，他連續兩個禮拜放學陪我訂正。也就是說，第一段說了什麼，第二段就拿經驗一件一件證明，這就是題目所說的「印證」。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "在 Instagram 上累積幾百個追蹤者並不難，但真正的朋友，不管你過得順不順利，對你都一樣。你得獎的時候，他們打從心底替你高興，不會嫉妒，因為你的成功並不會讓他們覺得自己比較差。你正要犯錯的時候，他們在乎你，所以會跟你說實話，就算那是你最不想聽的話。誰都可以按個「讚」，只有朋友會叫你住手。至於你跌到谷底的時候，真正的朋友不會消失。他們也許不知道該說什麼才好，卻會一直陪在你身邊，直到你能重新站起來。總之，讓我們心情好的人很容易找到，能讓我們變得更好的人卻很少。",
+      "p2": "我的同學阿凱就讓我看到了這一切。我們兩個都報名了學校的英語演講比賽，結果只有我進了決賽。阿凱沒有因此生悶氣，反而在台下為我加油加得比誰都大聲，比賽完還請我喝珍珠奶茶。幾個月後，我氣一個同學氣到打了一大段難聽的話，正要貼到班上的 LINE 群組。阿凱把我的手機拿走，小聲問我：「你確定明天不會後悔嗎？」他說得沒錯，我把那段話全刪了。後來是那次數學考試，我考得一塌糊塗，差點想放棄數學。阿凱沒有對我說教，要我更用功；他只是連續兩個禮拜，每天放學都留下來陪我，把我寫錯的題目一題一題重新看過，直到我自己會解為止。從那以後，我的成績進步了，我也明白了：一個像阿凱這樣的朋友，勝過幾百個追蹤者。"
+     }
+    },
+    "rubric": {
+     "intro": "這一題是 93 學年度指定科目考試「敏督利颱風受災地區考生補救考試」的英文作文。大考中心只公布了試卷與選擇題參考答案，沒有公布這次補考的作文評分說明，也沒有佳作，所以這一題沒有官方資料可以對照。題目本身的要求是：文長至少 120 個單詞；以 “What Makes A Good Friend?” 為主題，第一段說明什麼樣的朋友才算是「好朋友」，第二段舉自己的交友經驗為例，印證第一段的說明。\n下面的五項對照，借用同一年正式指考站上所列的選才通訊第 142 期〈學測與指考英文作文評分樣例〉評分表的五個項目，逐項說明範文怎麼寫；這五項不是這次補考公布的規定，所以這裡不寫配分。",
+     "keypoint": "這一題和同一年的正式指考（Travel Is The Best Teacher）用的是同一套格式：第一段說明道理，第二段舉自己的經驗印證。關鍵一樣在「印證」兩個字：第二段不是另外寫一段友情故事，而是要拿經驗回頭證明第一段說過的話。第一段說好朋友有哪幾種表現，第二段最好每一種都有對應的事；如果第二段只寫兩人認識多久、一起做過什麼，跟第一段接不起來，內容與組織兩項都會失分。\n時態也要分清楚：第一段講一般的道理，用現在式；第二段講自己的經驗，用過去式；講到現在為止的結果，用現在完成式，例如 Kai has proved all of this to me、My grades have improved since then。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段用三種時刻說明好朋友：你得獎時真心替你高興、不嫉妒；你正要犯錯時肯說實話，就算你不想聽，按讚的人做不到這一點；你跌到谷底時不消失，陪你到重新站起來。最後一句把三種時刻收成一個結論：讓我們心情好的人很容易找到，能讓我們變得更好的人卻很少。第二段阿凱的三件事逐一印證：只有我進了演講比賽決賽，他在台下加油加得比誰都大聲，還請我喝珍珠奶茶；我正要把罵人的話貼到班級 LINE 群組，他把手機拿走，問我確不確定明天不會後悔；數學考壞了，他沒有說教，連續兩個禮拜放學陪我訂正錯題。情境都是現在的高中生會遇到的事，人、事、數字與動作都寫得具體。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句先拿「Instagram 上的幾百個追蹤者」和「真正的朋友」對比，點出主題；接著三種時刻都用 When you … 帶出，最後一種用 And when you … 開頭，提示這是最後一點，不必數 first、second、finally。第一段末句用 In short 總結，兩個子句之間用 while 對照。第二段第一句 My classmate Kai has proved all of this to me 把兩段接起來，接著照時間順序寫三件事：演講比賽、A few months later 的群組訊息、Then came 帶出的數學考試，順序和第一段的三種時刻一致。最後一句回到開頭的追蹤者（one friend like Kai is worth more than hundreds of followers），首尾呼應。"
+     },
+     {
+      "k": "文法、句構",
+      "t": "[It] is easy [to collect hundreds of followers]：it 是虛主詞，真正的主詞是後面的 to collect hundreds of followers；英文習慣先用 it 占住主詞的位置，把較長的不定詞片語移到句尾。\nthey care [enough to] tell you the truth：enough 放在動詞後面，再接 to + 原形動詞，表示「在乎到肯說實話的程度」。\nWhen you [are about to] make a mistake：be about to + 原形動詞，表示「正要……」；第二段 was about to post it 是過去式。\npeople who make us feel good are easy to find, [while] people who make us better are rare：while 連接兩個對比的子句，意思接近 whereas，表示「……，而……」。\n[Then came] (the math exam)：副詞 then 放句首，動詞 came 移到主詞前面，是倒裝，等於 Then the math exam came；主詞是代名詞時不倒裝，例如 Then it came。"
+     },
+     {
+      "k": "字彙、拼字",
+      "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形三個（contest 四級；lecture 四級，文中當動詞，意思是「說教」；nasty 五級），占 188 個詞形的 1.6%；三級的有 audience、badly、bubble、follower、jealous、regret、afterwards。詞彙表沒有收錄的有 delete（刪除）與 sulk（生悶氣，文中是 sulking）。片語：make it to（進入、抵達）、treat somebody to something（請某人吃喝某物）、at one's lowest（在最低潮的時候）、go over（逐一檢查）、give up on（放棄）。容易拼錯的是 jealous（中間的 a 不要漏掉）、audience、afterwards（也可以寫成 afterward）。"
+     },
+     {
+      "k": "體例",
+      "t": "142 期評分表的五項之中有體例一項。本題題目給了標題，考試時可以照題目的寫法把 What Makes A Good Friend? 寫在第一行；站上範文只列兩段正文。本篇要留意的有：專有名詞大寫（Kai、English、LINE）；引號裡的問句，問號放在引號裡面（asked quietly, \"Are you sure you won't regret this tomorrow?\"）；分號連接兩個關係密切的完整句子（Anyone can click \"like\"; only a friend will tell you to stop），分號放在引號外面。"
+     }
+    ]
+   }
   },
   {
    "id": "E92_GSAT",
