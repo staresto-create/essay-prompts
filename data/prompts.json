@@ -2097,6 +2097,206 @@
       "t": "四級以上的字：crack、concrete、container、flush、plum 是四級，jug、resident、reservoir 是五級。dry spell 是「一段時間不下雨」，spell 在這裡不是「拼字」也不是「咒語」。plum rain season 是梅雨季，台灣的英文媒體就這樣寫。refill、reuse 詞彙表沒有收，都是 re- 加上一級字 fill、use。這一篇容易拼錯的是 reservoir、typhoon、vegetables 這幾個。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "a reservoir",
+        "zh": "水庫",
+        "own": true
+       },
+       {
+        "w": "run dry",
+        "zh": "乾涸、見底",
+        "own": true
+       },
+       {
+        "w": "a severe drought",
+        "zh": "嚴重的乾旱",
+        "src": "107年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0046"
+        ]
+       },
+       {
+        "w": "crack",
+        "zh": "龜裂（地面、牆面裂開）",
+        "own": true
+       },
+       {
+        "w": "a water shortage",
+        "zh": "缺水",
+        "src": "101年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0113"
+        ]
+       },
+       {
+        "w": "water rationing",
+        "zh": "限水（分區、分時段供水）",
+        "own": true
+       },
+       {
+        "w": "a plastic container",
+        "zh": "塑膠容器",
+        "src": "114年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0481"
+        ]
+       },
+       {
+        "w": "wait one's turn",
+        "zh": "等著輪到自己",
+        "own": true
+       },
+       {
+        "w": "leak",
+        "zh": "漏水",
+        "own": true
+       },
+       {
+        "w": "the water supply",
+        "zh": "供水",
+        "src": "99年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0139"
+        ]
+       },
+       {
+        "w": "reduce water consumption",
+        "zh": "減少用水量",
+        "src": "115年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0495"
+        ]
+       },
+       {
+        "w": "take shorter showers",
+        "zh": "洗澡洗快一點",
+        "own": true
+       },
+       {
+        "w": "turn off the faucet",
+        "zh": "關水龍頭（美式說 faucet，英式說 tap）",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "連續好幾個月沒下大雨，中部的水庫幾乎見底了。",
+        "en": "After months without heavy rain, the reservoirs in central Taiwan have almost run dry.",
+        "hint": "run dry 是「乾掉、見底」；用現在完成式，表示到現在已經變成這樣。",
+        "covers": [
+         "a reservoir",
+         "run dry"
+        ],
+        "bold": [
+         "reservoirs",
+         "run dry"
+        ]
+       },
+       {
+        "zh": "這場嚴重的乾旱期間，原本是湖底的地方龜裂成好幾百塊。",
+        "en": "During the severe drought, the ground where the lake used to be cracked into hundreds of pieces.",
+        "hint": "crack 在這裡是不及物動詞，「裂成…」用 crack into + 碎片。",
+        "covers": [
+         "a severe drought",
+         "crack"
+        ],
+        "bold": [
+         "severe drought",
+         "cracked into hundreds of pieces"
+        ]
+       },
+       {
+        "zh": "缺水的時候，政府開始限水，有些地區一個星期只供水五天。",
+        "en": "During the water shortage, the government began water rationing, and some areas had water only five days a week.",
+        "covers": [
+         "a water shortage",
+         "water rationing"
+        ],
+        "bold": [
+         "water shortage",
+         "water rationing"
+        ]
+       },
+       {
+        "zh": "送水車一到，居民就拿著塑膠容器排隊，等著輪到自己接水。",
+        "en": "When the water truck arrived, residents lined up with plastic containers, waiting their turn to fill them.",
+        "hint": "wait one's turn 的 one's 要換成主詞的所有格，這裡主詞是 residents，所以用 their。",
+        "covers": [
+         "a plastic container",
+         "wait one's turn"
+        ],
+        "bold": [
+         "plastic containers",
+         "waiting their turn"
+        ]
+       },
+       {
+        "zh": "老舊的水管會漏水，水還沒送到家裡就流失了一成以上，這也影響了供水。",
+        "en": "Old pipes leak more than a tenth of the water before it reaches our homes, which also affects the water supply.",
+        "hint": "逗號後面的 which 指的是前面整件事（水管漏水），不是單指 homes。",
+        "covers": [
+         "leak",
+         "the water supply"
+        ],
+        "bold": [
+         "leak",
+         "the water supply"
+        ]
+       },
+       {
+        "zh": "要減少用水量，我們可以從小習慣做起，例如洗澡洗快一點、刷牙時關掉水龍頭。",
+        "en": "To reduce water consumption, we can start with small habits, such as taking shorter showers and turning off the faucet while brushing our teeth.",
+        "hint": "such as 後面舉的例子是動作，用 V-ing；while brushing 是 while we are brushing 省略主詞與 be 動詞。",
+        "covers": [
+         "reduce water consumption",
+         "take shorter showers",
+         "turn off the faucet"
+        ],
+        "bold": [
+         "reduce water consumption",
+         "taking shorter showers",
+         "turning off the faucet"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "contaminate the water supply",
+        "zh": "汙染水源",
+        "src": "102年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0103"
+        ]
+       },
+       {
+        "w": "bring about landslides and flooding",
+        "zh": "造成山崩與淹水",
+        "src": "93年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0191"
+        ]
+       },
+       {
+        "w": "irrigation",
+        "zh": "灌溉",
+        "own": true
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3001,6 +3201,229 @@
       "t": "三級以上的字：apologize、chat、junior 是三級，embarrassment 是四級（原形 embarrass），caption 是六級；harmless 是三級字 harm 加上 -less。詞彙表沒有收的字：delete（刪除）、emoji（表情符號）、screenshot（截圖），都是寫限時動態、班級群組這類情節少不了的日常用語。片語：come between（使……之間產生嫌隙）、take … down（把貼文撤下）、face to face（當面）、at once（立刻）、take back（收回）。這一篇容易拼錯的是 embarrassment（兩個 r、兩個 s）、apologize、caption 這幾個。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "tease sb about + N",
+        "zh": "拿某件事取笑某人",
+        "src": "110年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0436"
+        ]
+       },
+       {
+        "w": "blush with embarrassment",
+        "zh": "尷尬得臉紅",
+        "src": "90年聯考 Q9、111年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0460"
+        ]
+       },
+       {
+        "w": "offend sb",
+        "zh": "冒犯、得罪某人",
+        "own": true
+       },
+       {
+        "w": "on purpose",
+        "zh": "故意",
+        "own": true
+       },
+       {
+        "w": "post a photo",
+        "zh": "把照片貼到網路上",
+        "own": true
+       },
+       {
+        "w": "take down a post",
+        "zh": "把貼文撤下",
+        "own": true
+       },
+       {
+        "w": "apologize to sb for + N／V-ing",
+        "zh": "為某件事向某人道歉",
+        "src": "85年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0025"
+        ]
+       },
+       {
+        "w": "sincerely",
+        "zh": "誠心地",
+        "src": "96年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0235"
+        ]
+       },
+       {
+        "w": "make up for + N",
+        "zh": "彌補",
+        "own": true
+       },
+       {
+        "w": "forgive sb for + V-ing",
+        "zh": "原諒某人做了某事",
+        "own": true
+       },
+       {
+        "w": "learn a lesson",
+        "zh": "學到教訓",
+        "own": true
+       },
+       {
+        "w": "respect sb's privacy",
+        "zh": "尊重某人的隱私",
+        "src": "108年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0406"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "媽媽第一次自己烤生日蛋糕，蛋糕卻從中間塌了下去；我覺得好笑，就拍照貼到家族群組。",
+        "en": "Mom baked a birthday cake by herself for the first time, and when it sank in the middle, I thought it was funny and posted a photo of it in our family group chat.",
+        "hint": "「貼到群組」用 post … in a group chat，介系詞用 in。",
+        "covers": [
+         "post a photo"
+        ],
+        "bold": [
+         "posted a photo of it"
+        ]
+       },
+       {
+        "zh": "表哥表姊整個晚上都拿那個蛋糕取笑她。",
+        "en": "My cousins teased her about the cake all evening.",
+        "hint": "tease 後面直接接人，「拿某件事」用 about 帶出來。",
+        "covers": [
+         "tease sb about + N"
+        ],
+        "bold": [
+         "teased her about the cake"
+        ]
+       },
+       {
+        "zh": "媽媽跟著大家笑，臉卻尷尬得紅了起來。",
+        "en": "Mom laughed along, but she blushed with embarrassment.",
+        "hint": "blush 是不及物動詞，「因為…而臉紅」用 with。",
+        "covers": [
+         "blush with embarrassment"
+        ],
+        "bold": [
+         "blushed with embarrassment"
+        ]
+       },
+       {
+        "zh": "我不是故意讓她難堪，只是從來沒想過一張照片會得罪她。",
+        "en": "I did not embarrass her on purpose; I simply never thought a photo would offend her.",
+        "hint": "on purpose 放在句尾；分號連接兩個意思緊密相關的句子。",
+        "covers": [
+         "on purpose",
+         "offend sb"
+        ],
+        "bold": [
+         "on purpose",
+         "offend her"
+        ]
+       },
+       {
+        "zh": "那天晚上她什麼也沒說，第二天早上卻問我能不能把照片撤下來。",
+        "en": "She said nothing that night, but the next morning she asked if I could take the post down.",
+        "hint": "take down 是可以拆開的片語動詞；受詞是代名詞時一定要放中間，寫成 take it down。",
+        "covers": [
+         "take down a post"
+        ],
+        "bold": [
+         "take the post down"
+        ]
+       },
+       {
+        "zh": "我誠心地為那個玩笑向她道歉，說我不該拿她為我做的蛋糕開玩笑。",
+        "en": "I sincerely apologized to her for the joke and told her I should not have laughed at a cake she had made for me.",
+        "hint": "apologize 是不及物動詞，「向某人」用 to，「為某件事」用 for。",
+        "covers": [
+         "apologize to sb for + N／V-ing",
+         "sincerely"
+        ],
+        "bold": [
+         "sincerely apologized to her for the joke"
+        ]
+       },
+       {
+        "zh": "為了彌補，那個週末我陪她重烤了一個蛋糕，這次蛋糕沒有塌。",
+        "en": "To make up for it, I baked another cake with her that weekend, and this time it did not sink.",
+        "hint": "make up for 後面接名詞或代名詞。",
+        "covers": [
+         "make up for + N"
+        ],
+        "bold": [
+         "make up for it"
+        ]
+       },
+       {
+        "zh": "她笑著說，她早就原諒我拿蛋糕開她玩笑了。",
+        "en": "She laughed and said she had already forgiven me for making fun of her cake.",
+        "hint": "forgive sb for + V-ing；原諒發生在「說」之前，轉述時用過去完成式 had forgiven。",
+        "covers": [
+         "forgive sb for + V-ing"
+        ],
+        "bold": [
+         "forgiven me for making fun of her cake"
+        ]
+       },
+       {
+        "zh": "我學到一個教訓：就算是家人，也要尊重他們的隱私，貼任何東西之前先問一聲。",
+        "en": "I learned a lesson: even with my own family, I need to respect their privacy and ask before I post anything.",
+        "covers": [
+         "learn a lesson",
+         "respect sb's privacy"
+        ],
+        "bold": [
+         "learned a lesson",
+         "respect their privacy"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "offensive",
+        "zh": "冒犯人的（offensive remarks／jokes）",
+        "src": "114年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0484"
+        ]
+       },
+       {
+        "w": "mock",
+        "zh": "嘲笑（及物，後面直接接人）",
+        "src": "109年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0432"
+        ]
+       },
+       {
+        "w": "sincerity",
+        "zh": "誠意",
+        "src": "112年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0465"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3322,6 +3745,222 @@
      {
       "k": "字彙拼字",
       "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 121、二級 25、三級 3、四級 5、五級 1，四級以上 6 個、占 3.9%，分別是 percent、issue、disaster、category、entertainment、celebrity。詞彙表沒有收錄的是 influencer。這一年的指標表把大小寫也放在這一項，範文裡的 Americans、Taiwan 都是專有名詞，字首大寫。這一篇容易拼錯的是 entertainment、celebrity、conversation 這幾個。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "conduct a survey",
+        "zh": "進行調查",
+        "src": "107年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0404"
+        ]
+       },
+       {
+        "w": "aged + 數字 to + 數字",
+        "zh": "年齡在…到…歲之間",
+        "own": true
+       },
+       {
+        "w": "pay attention to + N",
+        "zh": "注意、關注",
+        "src": "100年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0294"
+        ]
+       },
+       {
+        "w": "rank first",
+        "zh": "排名第一",
+        "own": true
+       },
+       {
+        "w": "be close behind",
+        "zh": "緊追在後",
+        "own": true
+       },
+       {
+        "w": "at the bottom",
+        "zh": "排在最後",
+        "own": true
+       },
+       {
+        "w": "in terms of + N",
+        "zh": "就…而言",
+        "src": "89年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0244"
+        ]
+       },
+       {
+        "w": "international affairs",
+        "zh": "國際事務（時事是 current affairs）",
+        "src": "95年指考 Q2、87年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0174",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0273"
+        ]
+       },
+       {
+        "w": "follow the news closely",
+        "zh": "密切關注新聞",
+        "own": true
+       },
+       {
+        "w": "a celebrity",
+        "zh": "名人",
+        "own": true
+       },
+       {
+        "w": "an influencer",
+        "zh": "網紅",
+        "own": true
+       },
+       {
+        "w": "feel left out",
+        "zh": "覺得自己插不上話、跟大家不合群",
+        "own": true
+       },
+       {
+        "w": "on the whole",
+        "zh": "整體來說",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "這份調查的對象是美國 18 到 29 歲的年輕人，問他們關注哪幾類新聞。",
+        "en": "The survey was conducted among young Americans aged 18 to 29, asking which kinds of news they pay attention to.",
+        "hint": "aged 18 to 29 放在名詞後面，說明年齡範圍；pay attention to 的 to 不能省。",
+        "covers": [
+         "conduct a survey",
+         "aged + 數字 to + 數字",
+         "pay attention to + N"
+        ],
+        "bold": [
+         "was conducted",
+         "aged 18 to 29",
+         "pay attention to"
+        ]
+       },
+       {
+        "zh": "環境與天災新聞排名第一，社會議題緊追在後。",
+        "en": "News about the environment and natural disasters ranks first, with social issues close behind.",
+        "hint": "with + 名詞 + 補充說明，用來帶出第二名的情況，不必另起一個句子。",
+        "covers": [
+         "rank first",
+         "be close behind"
+        ],
+        "bold": [
+         "ranks first",
+         "close behind"
+        ]
+       },
+       {
+        "zh": "藝術與文化排在最後，關注度還不到第一名的一半。",
+        "en": "Arts and culture is at the bottom, with less than half the attention of the top category.",
+        "covers": [
+         "at the bottom"
+        ],
+        "bold": [
+         "at the bottom"
+        ]
+       },
+       {
+        "zh": "就關注度而言，國際事務和娛樂新聞幾乎不相上下。",
+        "en": "In terms of attention, international affairs and entertainment news are nearly tied.",
+        "hint": "in terms of 後面接名詞，不接子句。",
+        "covers": [
+         "in terms of + N",
+         "international affairs"
+        ],
+        "bold": [
+         "In terms of attention",
+         "international affairs"
+        ]
+       },
+       {
+        "zh": "颱風和地震的新聞我都會密切關注，因為那些事可能直接影響到我們家。",
+        "en": "I follow news about typhoons and earthquakes closely because it can affect my family directly.",
+        "hint": "news 不可數，代名詞用 it，動詞用單數。",
+        "covers": [
+         "follow the news closely"
+        ],
+        "bold": [
+         "follow news about typhoons and earthquakes closely"
+        ]
+       },
+       {
+        "zh": "我們班下課最常聊名人和網紅的消息，沒跟上的人就會覺得插不上話。",
+        "en": "At break time, my classmates mostly talk about celebrities and influencers, and anyone who has not kept up feels left out.",
+        "covers": [
+         "a celebrity",
+         "an influencer",
+         "feel left out"
+        ],
+        "bold": [
+         "celebrities",
+         "influencers",
+         "feels left out"
+        ]
+       },
+       {
+        "zh": "整體來說，年輕人最關注的是可能影響自身安全或生活的新聞。",
+        "en": "On the whole, young people pay the most attention to news that may affect their safety or daily lives.",
+        "covers": [
+         "on the whole"
+        ],
+        "bold": [
+         "On the whole"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "decrease by + 幅度",
+        "zh": "減少了多少（減至多少用 decrease to）",
+        "src": "109年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424"
+        ]
+       },
+       {
+        "w": "supposedly",
+        "zh": "號稱、據稱（the supposedly unbiased media）",
+        "src": "112年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470"
+        ]
+       },
+       {
+        "w": "a rumor spreads",
+        "zh": "謠言傳開",
+        "src": "92年學測補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0172"
+        ]
+       },
+       {
+        "w": "a reliable source",
+        "zh": "可靠的消息來源",
+        "src": "98年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261"
+        ]
+       }
+      ]
      }
     ]
    }
