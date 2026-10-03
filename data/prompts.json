@@ -2167,11 +2167,12 @@
     ]
    },
    "wordBank": {
-    "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該用法考過的年度與題號。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "teach a course in English",
@@ -2253,10 +2254,113 @@
         "zh": "大家都這麼說，但未必如此（寫別人的說法而不當成事實）",
         "own": true
        }
+      ],
+      "sentences": [
+       {
+        "zh": "我表哥念的大學，大一的微積分是必修課，教授全程用英語授課。",
+        "en": "At my cousin's university, calculus is a required course for first-year students, and the professor teaches it entirely in English.",
+        "covers": [
+         "a required course",
+         "teach a course in English"
+        ],
+        "bold": [
+         "a required course",
+         "teaches it entirely in English"
+        ]
+       },
+       {
+        "zh": "他說第一個月最難的是跟上教授的速度，等他熟悉了那些專業術語，就輕鬆多了。",
+        "en": "He says the hardest part of the first month was keeping up with the professor, and that things got much easier once he was familiar with the technical terms.",
+        "hint": "「跟上」用 keep up with，後面接人或進度；「熟悉某件事物」是 be familiar with，主詞是人。",
+        "covers": [
+         "keep up with + N",
+         "be familiar with + N"
+        ],
+        "bold": [
+         "keeping up with the professor",
+         "was familiar with"
+        ]
+       },
+       {
+        "zh": "他班上的同學英文不見得都很流利，不過大部分的人一兩個月內就適應了全英語的課。",
+        "en": "Not everyone in his class was fluent in English, but most of them adapted to lectures in English within a month or two.",
+        "hint": "adapt to 和 adjust to 的 to 都是介系詞，後面接名詞或 V-ing，不接原形動詞。",
+        "covers": [
+         "be fluent in + 語言",
+         "adapt to + N"
+        ],
+        "bold": [
+         "fluent in English",
+         "adapted to lectures in English"
+        ]
+       },
+       {
+        "zh": "有些同學為了配合這門課，調整了讀書的方法：上網查課程大綱，每一章都在上課前先讀過。",
+        "en": "Some of his classmates adjusted to the course by changing the way they studied: they looked up the syllabus online and read each chapter before class.",
+        "hint": "「用什麼方法」用 by + V-ing 帶出來；冒號後面把方法一項一項列出。",
+        "covers": [
+         "adjust to + N",
+         "look up the syllabus"
+        ],
+        "bold": [
+         "adjusted to the course",
+         "looked up the syllabus"
+        ]
+       },
+       {
+        "zh": "為了因應全英語的課，我會先請教授同意讓我錄音，回家再聽一次。",
+        "en": "To cope with lectures given entirely in English, I would ask the professor for permission to record them and listen to them again at home.",
+        "hint": "「請某人同意做某事」是 ask sb for permission to V；permission 不可數，前面不加 a。",
+        "covers": [
+         "cope with + N",
+         "ask for permission to V"
+        ],
+        "bold": [
+         "cope with",
+         "ask the professor for permission to record"
+        ]
+       },
+       {
+        "zh": "如果每一本教科書都有中文版，用英語上課的理由就會少很多。",
+        "en": "If every textbook were available in Chinese, there would be far less reason to teach in English.",
+        "hint": "與現在事實相反的假設：if 子句用過去式，be 動詞正式寫 were；主要子句用 would + 原形動詞。",
+        "covers": [
+         "If + S + were …, S + would + 原形動詞"
+        ],
+        "bold": [
+         "were available",
+         "would be"
+        ]
+       },
+       {
+        "zh": "要是我對自己的英文更有信心，上星期那場講座我早就舉手問講者問題了。",
+        "en": "If I were more confident in English, I would have raised my hand and asked the speaker a question at last week's talk.",
+        "hint": "條件講的是現在一直如此的狀態（到現在還是沒信心），結果講的是過去那一次（上星期沒問），所以 if 子句用過去式，主要子句用 would have + p.p.。",
+        "covers": [
+         "If + S + were/was …, S + would have + p.p."
+        ],
+        "bold": [
+         "were more confident",
+         "would have raised"
+        ]
+       },
+       {
+        "zh": "大家都會告訴你，用英語上課英文就會進步，但如果沒有人敢發問，進步其實很有限。",
+        "en": "People will tell you that taking courses in English will improve your English, but if nobody dares to ask questions, the progress is limited.",
+        "hint": "引別人的說法而不當成事實，先用 People will tell you that… 帶出來，but 後面接自己的看法。",
+        "covers": [
+         "People will tell you that …, but …"
+        ],
+        "bold": [
+         "People will tell you that",
+         "but"
+        ]
+       }
       ]
      },
      {
       "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
       "entries": [
        {
         "w": "efficient",
@@ -2636,7 +2740,7 @@
      "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
       "p1": "學校是學生一天當中待得最久的地方，也正因為如此，校園安全最容易讓人視而不見。眼前沒有一樣東西看起來危險：走廊是熟的，人臉是熟的，校門每天同一個時間打開。可是校園同時也是個擁擠的地方，而擁擠的地方出問題都是從小地方開始。早上下過雨的濕樓梯、化學實驗室裡有人忘了關的本生燈、一個鬆掉的籃框、放在沒鎖門的教室裡的一個書包，這些在出事之前，沒有一樣看起來像意外。還有一些危險不是身體上的。有人跟蹤回家的學生，或是在群組裡遭人霸凌卻不出聲的學生，同樣不安全，即使校園裡看起來沒有一樣東西壞掉。",
-      "p2": "校園安全不能只交給校門口的警衛，因為一個人只顧得了一個出入口。老師可以在上課之前檢查自己教室裡的設備，也可以讓「發現壞掉就回報」變成理所當然的事，而不是繞過去就算了。學生做得到的是那些累積起來才看得出效果的小事：午休時把教室門關上、樓梯間的燈壞了一個星期就說一聲、不要把消防演練當成白賺的十分鐘。學校那一邊，可以把演練挑在沒有人預期的時間舉行，因為一場大家都準備好的演練，證明不了什麼。最重要的是，學校要有一個不需要勇氣就能通報的管道，例如線上表單，或是辦公室外面的一個意見箱。人之所以不說，多半不是不在乎，而是說出來要付代價。"
+      "p2": "校園安全不能只交給校門口的警衛，因為一個人只顧得了一個出入口。老師可以在上課之前檢查自己教室裡的設備，也可以讓「發現壞掉就回報」變成理所當然的事，而不是繞過去就算了。學生做得到的是那些累積起來才看得出效果的小事：午休時把教室門關上、樓梯間的燈壞了一個星期就說一聲、不要把消防演練當成賺到的十分鐘。學校那一邊，可以把演練挑在沒有人預期的時間舉行，因為一場大家都準備好的演練，證明不了什麼。最重要的是，學校要有一個不需要勇氣就能通報的管道，例如線上表單，或是辦公室外面的一個意見箱。人之所以不說，多半不是不在乎，而是說出來要付代價。"
      }
     },
     "rubric": {
@@ -2663,11 +2767,12 @@
     ]
    },
    "wordBank": {
-    "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該用法考過的年度與題號。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "campus safety",
@@ -2729,10 +2834,83 @@
         "zh": "把某件事視為理所當然",
         "own": true
        }
+      ],
+      "sentences": [
+       {
+        "zh": "每天走同樣的走廊、看同樣的面孔，我們很容易把校園安全視為理所當然。",
+        "en": "We walk down the same hallways and see the same faces every day, so it is easy to take campus safety for granted.",
+        "hint": "take + 受詞 + for granted；受詞太長時，改寫成 take it for granted that + 子句。",
+        "covers": [
+         "take sth for granted",
+         "campus safety"
+        ],
+        "bold": [
+         "take campus safety for granted"
+        ]
+       },
+       {
+        "zh": "很多同學沒有意識到下雨天濕滑的樓梯有多危險，那正是校園裡最常讓人受傷的地方之一。",
+        "en": "Many students are not aware of the danger of wet stairs on rainy days, one of the most common causes of injuries at school.",
+        "hint": "be aware of 後面接名詞；逗號後的名詞片語是同位語，補充說明前面那個名詞。",
+        "covers": [
+         "be aware of + N",
+         "an injury"
+        ],
+        "bold": [
+         "aware of the danger",
+         "injuries"
+        ]
+       },
+       {
+        "zh": "每次上實驗課之前，老師都會提醒我們採取預防措施，像是戴護目鏡、把長頭髮綁起來。",
+        "en": "Before every lab class, our teacher reminds us to take precautions, such as wearing goggles and tying back long hair.",
+        "hint": "「採取預防措施」常用複數 take precautions；such as 後面舉例，動詞用 V-ing 跟 precautions 對齊。",
+        "covers": [
+         "take precautions"
+        ],
+        "bold": [
+         "take precautions"
+        ]
+       },
+       {
+        "zh": "颱風逼近那天，學校在午休前發布警報，要所有社團取消放學後的活動。",
+        "en": "On the day the typhoon was approaching, the school issued an alert before lunch break, telling all clubs to cancel their after-school activities.",
+        "covers": [
+         "issue an alert"
+        ],
+        "bold": [
+         "issued an alert"
+        ]
+       },
+       {
+        "zh": "樓梯間的燈壞了，不要繞過去就算了，直接向學務處通報故障。",
+        "en": "When a light in the stairwell is broken, report the fault to the student affairs office instead of just walking past it.",
+        "hint": "「而不是…」用 instead of + V-ing 放在句尾。",
+        "covers": [
+         "report a fault"
+        ],
+        "bold": [
+         "report the fault"
+        ]
+       },
+       {
+        "zh": "消防演練是為了大家的安全，讓每個人在真的失火時知道往哪裡跑；把它當成賺到的十分鐘，就失去了意義。",
+        "en": "A fire drill exists for everyone's safety: it shows us where to go if a real fire breaks out. Treating it as ten free minutes defeats the purpose.",
+        "hint": "「失去意義」可以用 defeat the purpose；動名詞片語 Treating it as… 當主詞，動詞用單數。",
+        "covers": [
+         "a fire drill",
+         "safety"
+        ],
+        "bold": [
+         "A fire drill",
+         "safety"
+        ]
+       }
       ]
      },
      {
       "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
       "entries": [
        {
         "w": "secure",
@@ -2865,7 +3043,7 @@
      "p2": "Neither of these belongs on a poster, because neither is a view. The truck is not even a tidy story: the tune is Beethoven's Fur Elise in some cities and A Maiden's Prayer in others, more than one account of how they were chosen is still in circulation, and no official record settles it. If I had to introduce these two things, I would not make an advertisement; I would let visitors run into them, and I would use the people who are already here. Exchange students and migrant workers explain this country to their own families every week, in their own languages and without sounding like a government, and a school or a city could give them a camera and stay out of the way. What I would avoid is the word amazing. The moment a country tells the world how warm and friendly it is, the world stops believing it. Show the truck, and let people work out what it means.",
      "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
-      "p1": "如果有人問我台灣最讓我驕傲的是什麼，我不會從一座山或一個夜市講起。我會從皮夾裡那張健保卡講起。這裡每一個人都有一張，這代表一個獨居在小鎮的阿嬤，和一個在台北上班的主管，看同一種病所付的錢相去不遠。我阿嬤兩年前開刀，手術結束以後我們家討論的是她的復原，不是帳單。第二件事沒那麼有名，而且很容易讓人笑出來：垃圾車。大部分的晚上，都會有一輛垃圾車放著一首古典鋼琴曲開進我們那條巷子，鄰居提著分好的袋子走出來，廚餘一袋、塑膠一袋、紙類壓平。沒有人在旁邊盯著。分類垃圾就這樣變成大家自然而然會做的事，而一個沒有人盯著也還留得住的習慣，比任何一座紀念碑都更能說明一個社會是什麼樣子。",
+      "p1": "如果有人問我台灣最讓我驕傲的是什麼，我不會從一座山或一個夜市講起。我會從皮夾裡那張健保卡講起。這裡每一個人都有一張，這代表一個獨居在小鎮的阿嬤，和一個在台北上班的主管，看同一種病所付的錢相去不遠。我阿嬤兩年前開刀，手術結束以後我們家討論的是她的復原，不是帳單。第二件事沒那麼有名，而且很容易讓人笑出來：垃圾車。大部分的晚上，都會有一輛垃圾車放著一首古典鋼琴曲開進我們那條巷子，鄰居提著分好的袋子走出來，廚餘一袋、塑膠一袋、紙類壓平。沒有人在旁邊盯著。分類垃圾就這樣變成大家自然而然會做的事，而一個沒有人盯著也還留得住的習慣，比任何一處古蹟都更能說明一個社會是什麼樣子。",
       "p2": "這兩件事都做不成海報，因為它們都不是拍得出來的風景。垃圾車這件事，連它自己的來歷都說不清楚：有些城市放的是貝多芬的《給愛麗絲》，有些放的是《少女的祈禱》，這兩首曲子怎麼選上的，流傳的說法不只一種，也沒有正式紀錄足以定案。如果要我來介紹這兩件事，我不會拍廣告，我會讓來的人自己遇上，也會用已經在這裡的人。交換學生和移工每個星期都在用自己的語言跟家人講這個國家，講起來也不像政府在講話；一所學校或一個城市只要給他們一台相機，然後不要插手就好。我會避開的是 amazing 這個字。一個國家只要開口告訴全世界自己有多溫暖友善，全世界就不會再相信了。把垃圾車拍出來，意思讓別人自己想。"
      }
     },
@@ -2893,11 +3071,12 @@
     }
    },
    "wordBank": {
-    "updated": "2026-09-14",
-    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該用法考過的年度與題號。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
       "entries": [
        {
         "w": "be proud of + N",
@@ -2940,7 +3119,7 @@
        },
        {
         "w": "a monument",
-        "zh": "紀念碑",
+        "zh": "古蹟；紀念碑、紀念館",
         "src": "109年學測 Q6",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426"
@@ -2959,10 +3138,84 @@
         "zh": "一…就…",
         "own": true
        }
+      ],
+      "sentences": [
+       {
+        "zh": "台灣最讓我引以為傲的是全民健保，它讓幾乎每個人都看得起醫生。",
+        "en": "What I am most proud of in Taiwan is national health insurance, which makes a visit to the doctor affordable for almost everyone.",
+        "hint": "What 子句當主詞，動詞用單數 is；「讓某件事變得負擔得起」用 make + 名詞 + affordable。",
+        "covers": [
+         "be proud of + N",
+         "national health insurance",
+         "affordable"
+        ],
+        "bold": [
+         "most proud of",
+         "national health insurance",
+         "affordable"
+        ]
+       },
+       {
+        "zh": "不管住在大城市還是小村莊，每個人看病的時候都受到同樣的對待。",
+        "en": "Whether people live in a big city or a small village, they are treated equally when they see a doctor.",
+        "hint": "equally 是副詞，修飾 are treated；「不論 A 或 B」用 whether A or B。",
+        "covers": [
+         "equally"
+        ],
+        "bold": [
+         "treated equally"
+        ]
+       },
+       {
+        "zh": "垃圾車來之前，我們家會先做好垃圾分類，把可以回收的紙類和塑膠分開裝袋。",
+        "en": "Before the garbage truck arrives, my family sorts the garbage, putting paper and plastic that can be recycled into separate bags.",
+        "hint": "逗號後的 putting… 是分詞構句，補充說明怎麼分類；recycle 用被動 can be recycled，因為紙和塑膠是被回收的東西。",
+        "covers": [
+         "sort the garbage",
+         "recycle"
+        ],
+        "bold": [
+         "sorts the garbage",
+         "can be recycled"
+        ]
+       },
+       {
+        "zh": "外國朋友來台灣，常問哪一處古蹟最值得去，我卻會先帶他們去等垃圾車。",
+        "en": "Foreign friends often ask me which monument is most worth visiting, but I would rather take them to wait for the garbage truck.",
+        "hint": "「哪一座最值得去」是間接問句，主詞放在動詞前面（which monument is…），不倒裝。",
+        "covers": [
+         "a monument"
+        ],
+        "bold": [
+         "monument"
+        ]
+       },
+       {
+        "zh": "推廣台灣的一個方法，是讓交換學生用自己的話，把台灣介紹給家鄉的朋友。",
+        "en": "One way to promote Taiwan is to let exchange students introduce it to their friends back home in their own words.",
+        "covers": [
+         "promote"
+        ],
+        "bold": [
+         "promote Taiwan"
+        ]
+       },
+       {
+        "zh": "外國遊客一走進便利商店，就會發現這裡幾乎什麼事都辦得到：繳費、取包裹、印文件。",
+        "en": "The moment foreign visitors walk into a convenience store, they find that they can do almost anything there: pay bills, pick up packages, and print documents.",
+        "hint": "The moment + 子句 意思是「一…就…」，等於 as soon as；這個子句裡不用 will。",
+        "covers": [
+         "The moment + 子句"
+        ],
+        "bold": [
+         "The moment"
+        ]
+       }
       ]
      },
      {
       "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
       "entries": [
        {
         "w": "afford",
@@ -3673,7 +3926,8 @@
    "prompt": "你認為家裡生活環境的維持應該是誰的責任?請寫一篇短文說明你的看法。文分兩段，第一段說明你對家事該如何分工的看法及理由，第二段舉例說明你家中家事分工的情形，並描述你自己做家事的經驗及感想。",
    "images": [],
    "wordBank": {
-    "updated": "2026-09-05",
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -5436,7 +5690,8 @@
     ]
    },
    "wordBank": {
-    "updated": "2026-08-28",
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
     "groups": [
      {
       "name": "活用型單字（Words for Production）",
@@ -5509,13 +5764,13 @@
        },
        {
         "zh": "我們每次走出來，身上帶的是肥皂味，不是汗味。",
-        "en": "Each time we walked out smelling of soap instead of sweat.",
+        "en": "Each time we walked out, we smelled of soap instead of sweat.",
         "hint": "身上帶著某樣東西本身的味道用 smell of；smell like 是拿別的東西來比喻。",
         "covers": [
          "smell of + N"
         ],
         "bold": [
-         "smelling of soap"
+         "smelled of soap"
         ]
        },
        {
