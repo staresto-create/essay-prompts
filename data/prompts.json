@@ -8395,6 +8395,340 @@
       "t": "這一份把體例列為一項、配分 2 分，看的是格式、標點、大小寫；這一題是書信，扣分規則裡另有兩條管格式：未按規定使用英文名字扣總分 1 分，書信格式使用不當（如未書寫稱呼語及信末署名）扣總分 1 分，日期非必要。這一篇開頭寫 Dear Ken，稱呼語後面接逗號；信末 Your friend 後面同樣接逗號，下一行署名 Jack，兩個名字都是題目指定的。寫給朋友的信，結尾常見 Your friend、Take care、See you soon、Regards、Love 等，後面一樣接逗號，下一行署名。大小寫上，Ken、Jack、Friday 照專有名詞寫；標點上，分號一處，前後各自都是完整的句子，引號一處（\"just one more match\"）。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "be hooked on + N",
+        "zh": "迷上…",
+        "own": true
+       },
+       {
+        "w": "be addicted to + N",
+        "zh": "對…上癮",
+        "own": true
+       },
+       {
+        "w": "stay up",
+        "zh": "熬夜（stay up late 熬夜到很晚）",
+        "src": "90年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0118"
+        ]
+       },
+       {
+        "w": "neglect",
+        "zh": "疏忽、荒廢（neglect one's studies 荒廢課業）",
+        "src": "105年學測 Q13、104年學測 Q2、96年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0373",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0347",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0228"
+        ]
+       },
+       {
+        "w": "concentrate",
+        "zh": "專心（concentrate on + N）",
+        "src": "90年聯考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0236"
+        ]
+       },
+       {
+        "w": "resist the temptation of + N／to + V",
+        "zh": "抗拒…的誘惑",
+        "src": "94年學測 Q9、83年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0310"
+        ]
+       },
+       {
+        "w": "interfere with + N",
+        "zh": "妨礙、干擾…",
+        "src": "93年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0197"
+        ]
+       },
+       {
+        "w": "frustrated",
+        "zh": "沮喪的、懊惱的",
+        "src": "102年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329"
+        ]
+       },
+       {
+        "w": "lecture",
+        "zh": "說教、訓斥",
+        "src": "92年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0206"
+        ]
+       },
+       {
+        "w": "concern",
+        "zh": "擔心、關心（out of concern for sb 出於對某人的關心）",
+        "src": "87年推薦甄選 Q2、87年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0062",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0063"
+        ]
+       },
+       {
+        "w": "reluctant",
+        "zh": "不情願的（be reluctant to + V）",
+        "src": "102年學測 Q5、99年學測 Q1、91年學測補考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0320",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0271",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0144"
+        ]
+       },
+       {
+        "w": "sincerely",
+        "zh": "真誠地、由衷地",
+        "src": "96年學測 Q10、95年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0235",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0213"
+        ]
+       },
+       {
+        "w": "set a time limit",
+        "zh": "訂一個時間上限",
+        "own": true
+       },
+       {
+        "w": "urge sb to + V",
+        "zh": "力勸某人…",
+        "src": "106年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0383"
+        ]
+       },
+       {
+        "w": "ruin",
+        "zh": "毀掉",
+        "src": "105年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0373"
+        ]
+       },
+       {
+        "w": "regret",
+        "zh": "後悔（regret + V-ing 後悔做了某事）",
+        "src": "89年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0098"
+        ]
+       },
+       {
+        "w": "fall behind",
+        "zh": "落後",
+        "own": true
+       },
+       {
+        "w": "catch up",
+        "zh": "趕上進度",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "自從你迷上那款手機遊戲，我們幾乎沒有好好聊過天。",
+        "en": "Since you got hooked on that mobile game, we have hardly had a real conversation.",
+        "covers": [
+         "be hooked on + N"
+        ],
+        "bold": [
+         "got hooked on"
+        ]
+       },
+       {
+        "zh": "你自己也說過，你可能已經上癮了。",
+        "en": "You told me yourself that you might be addicted to it.",
+        "hint": "addicted to 的 to 是介系詞，後面接名詞或動名詞。",
+        "covers": [
+         "be addicted to + N"
+        ],
+        "bold": [
+         "addicted to"
+        ]
+       },
+       {
+        "zh": "你常常熬夜打到天亮，難怪上星期有三天沒趕上校車。",
+        "en": "You often stay up playing until dawn, so no wonder you missed the school bus three times last week.",
+        "covers": [
+         "stay up"
+        ],
+        "bold": [
+         "stay up"
+        ]
+       },
+       {
+        "zh": "你連排球隊的練習都不去了，課業也荒廢了。",
+        "en": "You have stopped going to volleyball practice, and you have neglected your schoolwork, too.",
+        "covers": [
+         "neglect"
+        ],
+        "bold": [
+         "neglected your schoolwork"
+        ]
+       },
+       {
+        "zh": "我看得出來，你上課越來越難專心。",
+        "en": "I can tell that it is getting harder and harder for you to concentrate on your lessons.",
+        "covers": [
+         "concentrate"
+        ],
+        "bold": [
+         "concentrate on your lessons"
+        ]
+       },
+       {
+        "zh": "我知道要忍住每隔幾分鐘就看一下遊戲，有多不容易。",
+        "en": "I know how hard it is to resist the temptation to check the game every few minutes.",
+        "hint": "the temptation 後面接名詞時用 of，接動詞時用 to + V。",
+        "covers": [
+         "resist the temptation of + N／to + V"
+        ],
+        "bold": [
+         "resist the temptation to check"
+        ]
+       },
+       {
+        "zh": "可是，遊戲已經開始妨礙你打排球，也影響到你和朋友的感情了。",
+        "en": "But the game has started to interfere with your volleyball and your friendships.",
+        "covers": [
+         "interfere with + N"
+        ],
+        "bold": [
+         "interfere with"
+        ]
+       },
+       {
+        "zh": "我能體會，爸媽把你的手機收走，你一定很沮喪。",
+        "en": "I understand that you feel frustrated now that your parents have taken away your phone.",
+        "hint": "now that 意思是「既然、由於現在」，後面接完整的子句。",
+        "covers": [
+         "frustrated"
+        ],
+        "bold": [
+         "feel frustrated"
+        ]
+       },
+       {
+        "zh": "請別以為我在對你說教，我寫這封信，是因為我真的很擔心你。",
+        "en": "Please don't think I am lecturing you. I am writing out of concern for you.",
+        "covers": [
+         "lecture",
+         "concern"
+        ],
+        "bold": [
+         "lecturing you",
+         "out of concern for you"
+        ]
+       },
+       {
+        "zh": "我知道你一向不太願意跟別人談自己的問題，但我希望你能找導師聊一聊。",
+        "en": "I know you are usually reluctant to talk about your problems, but I hope you will talk with our homeroom teacher.",
+        "covers": [
+         "reluctant"
+        ],
+        "bold": [
+         "reluctant to talk"
+        ]
+       },
+       {
+        "zh": "我真心希望你能替自己訂一個時間上限，例如一天一個小時。",
+        "en": "I sincerely hope you will set a time limit for yourself, say, one hour a day.",
+        "hint": "say 放在這裡是插入語，意思是「比如說」，前後用逗號隔開。",
+        "covers": [
+         "sincerely",
+         "set a time limit"
+        ],
+        "bold": [
+         "sincerely",
+         "set a time limit"
+        ]
+       },
+       {
+        "zh": "我勸你，段考結束之前先把遊戲刪掉。",
+        "en": "I urge you to delete the game until the exams are over.",
+        "covers": [
+         "urge sb to + V"
+        ],
+        "bold": [
+         "urge you to delete"
+        ]
+       },
+       {
+        "zh": "再這樣下去，你可能會毀了自己的高中生活。",
+        "en": "If this goes on, you may ruin your high school life.",
+        "covers": [
+         "ruin"
+        ],
+        "bold": [
+         "ruin your high school life"
+        ]
+       },
+       {
+        "zh": "我不希望你將來後悔浪費了這麼多時間。",
+        "en": "I don't want you to regret wasting so much time someday.",
+        "hint": "regret + V-ing 是後悔已經做了的事；regret to + V 是「很遺憾要…」，意思不同。",
+        "covers": [
+         "regret"
+        ],
+        "bold": [
+         "regret wasting"
+        ]
+       },
+       {
+        "zh": "化學課已經上到第五章，你落後了一大段；午休時我們一起讀，讓你把進度趕上。",
+        "en": "Our chemistry class has moved on to Chapter 5, and you have fallen behind. Let's study together during lunch break so that you can catch up.",
+        "covers": [
+         "fall behind",
+         "catch up"
+        ],
+        "bold": [
+         "fallen behind",
+         "catch up"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "quarrelsome",
+        "zh": "愛吵架的（站上考的是跟人起爭執，這一題是好言相勸）",
+        "src": "107年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0050"
+        ]
+       },
+       {
+        "w": "harmony",
+        "zh": "和睦、和諧（live in peace and harmony 和平和睦地相處）",
+        "src": "109年學測 Q1、98年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0421",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0262"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -8465,6 +8799,392 @@
      {
       "k": "體例",
       "t": "101 指考兩份原件寫到體例的地方不一樣。劉慶剛那一份把體例列為五個項目之一，扣分只寫一條：字數明顯不足則扣總分 1 分；另寫明未按照規定書寫作文，會酌予扣分。游春琪那一份的表一把體例列為一項、配分 2 分，看的是格式、標點、大小寫，扣分規則另寫三句：字數明顯不足扣 1 分，未分段扣 1 分，寫多段不扣分。大考中心佳作頁收的十三篇裡，跆拳道那一篇分成三段，評分說明寫「雖分成三段，但仍具連貫性」，與「寫多段，不扣分」那一句對得上；不過兩段各寫什麼題目有規定，段數可以多，題目要的內容一樣不能少。這一篇 328 個單詞、文分兩段，都在規定之內。大小寫上，Lee Yang、Wang Chi-lin、Tokyo、Paris、Olympic 照專有名詞寫；標點上，冒號一處（the idea is simple: …）、分號一處，前後各自都是完整的句子，所有格的撇號一處（men's doubles）。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "facilities",
+        "zh": "設施（sports facilities 運動設施）",
+        "src": "108年學測 Q1、105年學測 Q6、98年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0406",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0366",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0148"
+        ]
+       },
+       {
+        "w": "equipment",
+        "zh": "裝備、用品（不可數名詞）",
+        "own": true
+       },
+       {
+        "w": "durable",
+        "zh": "耐用的",
+        "src": "108年學測 Q15、105年學測 Q8、101年指考 Q3、100年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0420",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0368",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0115",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0132"
+        ]
+       },
+       {
+        "w": "warm up",
+        "zh": "暖身",
+        "own": true
+       },
+       {
+        "w": "opponent",
+        "zh": "對手",
+        "src": "106年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0053"
+        ]
+       },
+       {
+        "w": "athletic",
+        "zh": "擅長運動的",
+        "src": "91年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0218"
+        ]
+       },
+       {
+        "w": "regularly",
+        "zh": "定期地、規律地",
+        "src": "101年學測 Q2、86年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0302",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0279"
+        ]
+       },
+       {
+        "w": "vigorous",
+        "zh": "激烈的、需要大量體力的",
+        "src": "110年學測 Q12、109年學測 Q14、108年指考 Q5、104年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0447",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0434",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0035",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0074"
+        ]
+       },
+       {
+        "w": "moderate",
+        "zh": "適度的、中等的",
+        "src": "111年學測 Q8、99年學測 Q1、90年聯考 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0458",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0271",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0237"
+        ]
+       },
+       {
+        "w": "strengthen",
+        "zh": "強化、使更有力",
+        "src": "106年指考 Q4、93年學測 Q1、84年推薦甄選 Q8、83年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0054",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0181",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0018",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0312"
+        ]
+       },
+       {
+        "w": "physically",
+        "zh": "身體上",
+        "src": "103年學測 Q3、96年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0333",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0166"
+        ]
+       },
+       {
+        "w": "stay fit",
+        "zh": "保持體態健康",
+        "own": true
+       },
+       {
+        "w": "relieve",
+        "zh": "減輕、紓解（relieve stress 紓解壓力）",
+        "src": "109年學測 Q4、107年學測 Q10、103年學測 Q12、102年學測 Q14、100年指考 Q9、99年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0400",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0342",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0131",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0272"
+        ]
+       },
+       {
+        "w": "refresh",
+        "zh": "使恢復精神",
+        "src": "98年學測 Q14、97年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0156"
+        ]
+       },
+       {
+        "w": "persist",
+        "zh": "堅持（persist in + V-ing）",
+        "src": "101年指考 Q4、94年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+        ]
+       },
+       {
+        "w": "sharpen",
+        "zh": "提升、精進（sharpen one's skills 精進技巧）",
+        "src": "81年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0326"
+        ]
+       },
+       {
+        "w": "individually",
+        "zh": "個別地、以個人身分",
+        "src": "105年學測 Q15、100年指考 Q4、98年學測 Q12、98年指考參考試卷（99 課綱適用） Q3、93年指考 Q10、87年推薦甄選 Q4、83年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0375",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0126",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0267",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0336",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0202",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0064",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0313"
+        ]
+       },
+       {
+        "w": "determination",
+        "zh": "決心",
+        "src": "88年聯考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0254"
+        ]
+       },
+       {
+        "w": "accomplishment",
+        "zh": "成就（a sense of accomplishment 成就感）",
+        "src": "104年學測 Q4、93年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0349",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0194"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "我最常打的運動是籃球；學校的運動設施很齊全，光是室外球場就有四座。",
+        "en": "The sport I play most often is basketball, and our school has good sports facilities, including four outdoor courts.",
+        "covers": [
+         "facilities"
+        ],
+        "bold": [
+         "sports facilities"
+        ]
+       },
+       {
+        "zh": "打籃球需要的裝備很少，一顆球加上一雙耐穿的球鞋就夠了。",
+        "en": "Basketball needs very little equipment: a ball and a pair of durable shoes are enough.",
+        "hint": "equipment 是不可數名詞，不加 s，也不說 an equipment。",
+        "covers": [
+         "equipment",
+         "durable"
+        ],
+        "bold": [
+         "equipment",
+         "durable shoes"
+        ]
+       },
+       {
+        "zh": "每次比賽前，我們一定先暖身，免得受傷。",
+        "en": "Before every game, we always warm up so that we won't get hurt.",
+        "covers": [
+         "warm up"
+        ],
+        "bold": [
+         "warm up"
+        ]
+       },
+       {
+        "zh": "我們通常打三對三，想辦法運球閃過對手，再把球投進籃框。",
+        "en": "We usually play three-on-three, trying to dribble past our opponents and shoot the ball into the basket.",
+        "covers": [
+         "opponent"
+        ],
+        "bold": [
+         "our opponents"
+        ]
+       },
+       {
+        "zh": "我小時候並不擅長運動，現在卻固定每週打三次球。",
+        "en": "I was never very athletic as a child, but now I play regularly, three times a week.",
+        "covers": [
+         "athletic",
+         "regularly"
+        ],
+        "bold": [
+         "athletic",
+         "regularly"
+        ]
+       },
+       {
+        "zh": "打全場是很激烈的運動，打完一場，我總是全身溼透。",
+        "en": "A full-court game is vigorous exercise, and afterwards I am always soaked in sweat.",
+        "covers": [
+         "vigorous"
+        ],
+        "bold": [
+         "vigorous exercise"
+        ]
+       },
+       {
+        "zh": "世界衛生組織建議青少年每天至少做一小時中等到激烈強度的運動。",
+        "en": "The World Health Organization recommends that teenagers get at least an hour of moderate to vigorous exercise every day.",
+        "hint": "recommend that 後面的動詞用原形（get），不隨主詞加 s。",
+        "covers": [
+         "moderate"
+        ],
+        "bold": [
+         "moderate to vigorous exercise"
+        ]
+       },
+       {
+        "zh": "打球讓我的腿變得更有力，也跳得比以前高。",
+        "en": "Playing basketball has strengthened my legs, and I can jump higher than before.",
+        "covers": [
+         "strengthen"
+        ],
+        "bold": [
+         "strengthened my legs"
+        ]
+       },
+       {
+        "zh": "籃球讓我在身體上和心理上都變得更強壯。",
+        "en": "Basketball has made me stronger both physically and mentally.",
+        "covers": [
+         "physically"
+        ],
+        "bold": [
+         "physically"
+        ]
+       },
+       {
+        "zh": "最重要的是，打籃球能讓我保持健康的體態，又一點也不覺得是在做苦差事。",
+        "en": "Most importantly, basketball helps me stay fit without ever feeling like a chore.",
+        "covers": [
+         "stay fit"
+        ],
+        "bold": [
+         "stay fit"
+        ]
+       },
+       {
+        "zh": "考了一整天的試，在球場上打半小時，最能紓解壓力。",
+        "en": "After a whole day of tests, half an hour on the court is the best way to relieve stress.",
+        "covers": [
+         "relieve"
+        ],
+        "bold": [
+         "relieve stress"
+        ]
+       },
+       {
+        "zh": "沖個澡、喝杯水，我又精神百倍，可以回去讀書了。",
+        "en": "A shower and a glass of water refresh me, and I am ready to study again.",
+        "covers": [
+         "refresh"
+        ],
+        "bold": [
+         "refresh me"
+        ]
+       },
+       {
+        "zh": "練球的時候，我專門練三分球，想讓自己的投籃更準。",
+        "en": "In practice, I focus on three-pointers to sharpen my shooting skills.",
+        "covers": [
+         "sharpen"
+        ],
+        "bold": [
+         "sharpen my shooting skills"
+        ]
+       },
+       {
+        "zh": "教練常提醒我們，輸贏是整支球隊的事，不是哪一個人的事。",
+        "en": "Our coach often reminds us that we win or lose as a team, not individually.",
+        "covers": [
+         "individually"
+        ],
+        "bold": [
+         "individually"
+        ]
+       },
+       {
+        "zh": "以前我投籃幾乎都不進，但我堅持每天練習，現在命中率高多了。",
+        "en": "I used to miss almost every shot, but I persisted in practicing every day, and now I score far more often.",
+        "hint": "persist in 的 in 是介系詞，後面接動名詞。",
+        "covers": [
+         "persist"
+        ],
+        "bold": [
+         "persisted in practicing"
+        ]
+       },
+       {
+        "zh": "後來，我也把同樣的決心用在課業上。",
+        "en": "Later, I brought the same determination to my studies.",
+        "covers": [
+         "determination"
+        ],
+        "bold": [
+         "determination"
+        ]
+       },
+       {
+        "zh": "第一次在比賽中投進致勝球的那份成就感，我到現在都忘不了。",
+        "en": "I still remember the sense of accomplishment I felt when I made the winning shot in my first game.",
+        "covers": [
+         "accomplishment"
+        ],
+        "bold": [
+         "sense of accomplishment"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "be confined to + N",
+        "zh": "受限於…（站上考的是車禍後只能坐輪椅）",
+        "src": "105年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0364"
+        ]
+       },
+       {
+        "w": "medal",
+        "zh": "獎牌（站上考的是奧運選手夢想的金牌）",
+        "src": "106年學測 Q12、104年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0387",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0354"
+        ]
+       }
+      ]
      }
     ]
    }
@@ -8544,6 +9264,352 @@
      {
       "k": "體例",
       "t": "100 這一年的體例配分 2 分，管的是格式、標點與大小寫；表 1 在這一項只給三檔，「優」與「可」併成一格，裡面只有一句：格式、標點、大小寫幾無錯誤。故事裡有對話，標點最容易出錯：美式寫法把逗號與句號放在引號裡面（shouted, \"Stop that noise! …\"），說話的人放在句子中間時，前後兩半都要各自加引號（\"…at midnight,\" she said, \"but I do. …\"）。人名 Tom 每一次都要大寫。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "costume party",
+        "zh": "化妝舞會",
+        "own": true
+       },
+       {
+        "w": "wear a mask",
+        "zh": "戴面具",
+        "own": true
+       },
+       {
+        "w": "disguise oneself as + N",
+        "zh": "假扮成…",
+        "src": "106年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0388"
+        ]
+       },
+       {
+        "w": "identity",
+        "zh": "身分",
+        "src": "105年學測 Q3、98年學測 Q11、88年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0363",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0266",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0080"
+        ]
+       },
+       {
+        "w": "fall in love with sb at first sight",
+        "zh": "對某人一見鍾情",
+        "own": true
+       },
+       {
+        "w": "charm",
+        "zh": "迷住、吸引（be charmed by + N）",
+        "src": "109年學測 Q2、90年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0422",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0107"
+        ]
+       },
+       {
+        "w": "graceful",
+        "zh": "優雅的",
+        "src": "91年指考 Q4、90年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0218",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0106"
+        ]
+       },
+       {
+        "w": "gaze",
+        "zh": "凝視（gaze at + N）",
+        "src": "90年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0107"
+        ]
+       },
+       {
+        "w": "serenade",
+        "zh": "（在窗下）對某人唱情歌",
+        "own": true
+       },
+       {
+        "w": "passionately",
+        "zh": "熱情地、投入地",
+        "src": "88年推薦甄選 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0085"
+        ]
+       },
+       {
+        "w": "disturb",
+        "zh": "打擾、吵到",
+        "src": "112年學測 Q9、83年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0469",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0003"
+        ]
+       },
+       {
+        "w": "furious",
+        "zh": "氣壞了的、極其生氣的",
+        "src": "114年學測 Q4、101年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0484",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0115"
+        ]
+       },
+       {
+        "w": "complaint",
+        "zh": "抱怨、投訴（make a complaint 投訴）",
+        "src": "109年指考補考 Q3、98年學測 Q7、84年推薦甄選 Q4、82年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0013",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0262",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0014",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0315"
+        ]
+       },
+       {
+        "w": "tolerate",
+        "zh": "忍受、容忍",
+        "src": "105年學測 Q7、97年學測 Q4、86年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0367",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0283"
+        ]
+       },
+       {
+        "w": "blush",
+        "zh": "臉紅",
+        "src": "90年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
+        ]
+       },
+       {
+        "w": "humiliated",
+        "zh": "丟臉的、難堪的",
+        "src": "103年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0090"
+        ]
+       },
+       {
+        "w": "apologize to sb for + N",
+        "zh": "為了…向某人道歉",
+        "src": "85年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0025"
+        ]
+       },
+       {
+        "w": "anxiously",
+        "zh": "焦急地、不安地",
+        "src": "107年學測 Q8、96年指考 Q7、92年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0398",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0169",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0208"
+        ]
+       },
+       {
+        "w": "a round of applause",
+        "zh": "一陣掌聲",
+        "src": "99年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0138"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "在萬聖節的化妝舞會上，阿凱把自己打扮成海盜，還在眼睛上戴了一副面具。",
+        "en": "At a Halloween costume party, Kai disguised himself as a pirate and wore a mask over his eyes.",
+        "hint": "disguise oneself as 的受詞是反身代名詞，不能省略。",
+        "covers": [
+         "costume party",
+         "disguise oneself as + N",
+         "wear a mask"
+        ],
+        "bold": [
+         "costume party",
+         "disguised himself as a pirate",
+         "wore a mask"
+        ]
+       },
+       {
+        "zh": "沒有人猜得出他是誰。",
+        "en": "No one could figure out his identity.",
+        "covers": [
+         "identity"
+        ],
+        "bold": [
+         "identity"
+        ]
+       },
+       {
+        "zh": "舞池另一頭，一個戴著亮晶晶皇冠的女孩吸引了他的目光，他對她一見鍾情。",
+        "en": "Across the room, a girl in a sparkling crown caught his eye, and Kai fell in love with her at first sight.",
+        "covers": [
+         "fall in love with sb at first sight"
+        ],
+        "bold": [
+         "fell in love with her at first sight"
+        ]
+       },
+       {
+        "zh": "整個晚上，她優雅的舞姿都讓他看得入迷。",
+        "en": "All evening, he was charmed by her graceful dancing.",
+        "covers": [
+         "charm",
+         "graceful"
+        ],
+        "bold": [
+         "charmed by",
+         "graceful"
+        ]
+       },
+       {
+        "zh": "他的視線一直離不開她。",
+        "en": "He could not stop gazing at her.",
+        "hint": "gaze 後面接 at，再接看的對象。",
+        "covers": [
+         "gaze"
+        ],
+        "bold": [
+         "gazing at her"
+        ]
+       },
+       {
+        "zh": "隔天傍晚，他站在她家陽台下的街上，對著她唱情歌。",
+        "en": "The next evening, he serenaded her from the street below her balcony.",
+        "hint": "serenade 是及物動詞，後面直接接對象，不加 to。",
+        "covers": [
+         "serenade"
+        ],
+        "bold": [
+         "serenaded her"
+        ]
+       },
+       {
+        "zh": "他唱得太投入，完全忘了時間已經很晚。",
+        "en": "He sang so passionately that he forgot how late it was.",
+        "covers": [
+         "passionately"
+        ],
+        "bold": [
+         "passionately"
+        ]
+       },
+       {
+        "zh": "他的歌聲吵到了整棟樓的住戶。",
+        "en": "His singing disturbed everyone in the building.",
+        "covers": [
+         "disturb"
+        ],
+        "bold": [
+         "disturbed everyone"
+        ]
+       },
+       {
+        "zh": "一位氣壞了的鄰居打電話向大樓管理員投訴。",
+        "en": "One furious neighbor called the building manager to make a complaint.",
+        "covers": [
+         "furious",
+         "complaint"
+        ],
+        "bold": [
+         "furious",
+         "make a complaint"
+        ]
+       },
+       {
+        "zh": "她說她再也受不了這種噪音了。",
+        "en": "She said she could not tolerate the noise any longer.",
+        "covers": [
+         "tolerate"
+        ],
+        "bold": [
+         "tolerate the noise"
+        ]
+       },
+       {
+        "zh": "阿凱滿臉通紅，覺得丟臉極了。",
+        "en": "Kai blushed and felt completely humiliated.",
+        "covers": [
+         "blush",
+         "humiliated"
+        ],
+        "bold": [
+         "blushed",
+         "humiliated"
+        ]
+       },
+       {
+        "zh": "他向鄰居道歉，說自己吵到大家了。",
+        "en": "He apologized to the neighbors for making so much noise.",
+        "hint": "apologize to 接道歉的對象，for 接道歉的原因。",
+        "covers": [
+         "apologize to sb for + N"
+        ],
+        "bold": [
+         "apologized to the neighbors for"
+        ]
+       },
+       {
+        "zh": "就在這時候，女孩從陽台探出頭來；阿凱抬頭望著她，緊張得不得了，等著她開口說話。",
+        "en": "Just then, the girl leaned over her balcony, and Kai looked up, waiting anxiously for her to speak.",
+        "covers": [
+         "anxiously"
+        ],
+        "bold": [
+         "anxiously"
+        ]
+       },
+       {
+        "zh": "她笑著請他小聲地再唱一遍；他唱完時，陽台上的鄰居給了他一陣掌聲。",
+        "en": "She smiled and asked him to sing it once more, softly this time. When he finished, the neighbors on their balconies gave him a round of applause.",
+        "covers": [
+         "a round of applause"
+        ],
+        "bold": [
+         "a round of applause"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "courtesy",
+        "zh": "禮貌（站上考的是替後面的人扶門）",
+        "src": "96年指考 Q2、85年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024"
+        ]
+       },
+       {
+        "w": "compliment",
+        "zh": "稱讚（give sb compliments 稱讚某人）",
+        "src": "107年指考 Q4、93年學測 Q10、87年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0044",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0190",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0063"
+        ]
+       }
+      ]
      }
     ]
    }
