@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-03",
+ "updated": "2026-10-04",
  "count": 63,
  "items": [
   {
@@ -13352,9 +13352,10 @@
        {
         "w": "cut off",
         "zh": "切斷、中斷",
-        "src": "95年學測 Q15",
+        "src": "95年學測 Q15、85年推薦甄選 Q15",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0225"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0225",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0035"
         ]
        },
        {
@@ -13937,10 +13938,12 @@
        {
         "w": "disguise",
         "zh": "喬裝（disguise oneself as + N）",
-        "src": "106年學測 Q13、98年指考參考試卷（99 課綱適用） Q4",
+        "src": "106年學測 Q13、101年指考 Q2、98年指考參考試卷（99 課綱適用） Q4、94年學測 Q3",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0388",
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0337"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0114",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0337",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0198"
         ]
        },
        {
@@ -14328,6 +14331,370 @@
       "t": "這份參考試卷沒有評分說明可以對照；98 學測的分項式評分指標裡，體例管的是格式、標點與大小寫。故事裡有一句對話，標點最容易出錯：美式寫法把逗號放在引號裡面（\"It's quieter there,\" he said），說話的人放在引號後面，句子到 phone 才結束。人名 Amy、Ben 每一次都要大寫；It's 的撇號不能漏。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "persuade",
+        "zh": "說服（persuade sb to V）",
+        "src": "97年學測 Q14、95年學測 Q4、94年學測 Q11、92年學測補考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0254",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0214",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0168"
+        ]
+       },
+       {
+        "w": "talk sb into + V-ing",
+        "zh": "說服某人去做某事",
+        "own": true
+       },
+       {
+        "w": "distracted",
+        "zh": "分心的",
+        "own": true
+       },
+       {
+        "w": "concentrate",
+        "zh": "專心（concentrate on + N）",
+        "src": "90年聯考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0236"
+        ]
+       },
+       {
+        "w": "chat",
+        "zh": "聊天",
+        "src": "111年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0453"
+        ]
+       },
+       {
+        "w": "whisper",
+        "zh": "小聲說話",
+        "own": true
+       },
+       {
+        "w": "giggle",
+        "zh": "咯咯地笑",
+        "src": "101年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0312"
+        ]
+       },
+       {
+        "w": "laugh out loud",
+        "zh": "笑出聲來",
+        "own": true
+       },
+       {
+        "w": "frown",
+        "zh": "皺眉",
+        "own": true
+       },
+       {
+        "w": "glare",
+        "zh": "（生氣地）瞪（glare at sb）",
+        "src": "114年學測 Q3、109年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0483",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0432"
+        ]
+       },
+       {
+        "w": "annoyed",
+        "zh": "不耐煩的、惱火的",
+        "own": true
+       },
+       {
+        "w": "disturb",
+        "zh": "打擾",
+        "src": "112年學測 Q9、83年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0469",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0003"
+        ]
+       },
+       {
+        "w": "librarian",
+        "zh": "圖書館員",
+        "own": true
+       },
+       {
+        "w": "keep one's voice down",
+        "zh": "壓低音量",
+        "own": true
+       },
+       {
+        "w": "separate",
+        "zh": "把…分開",
+        "own": true
+       },
+       {
+        "w": "scratch one's head",
+        "zh": "抓抓頭",
+        "src": "97年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0242"
+        ]
+       },
+       {
+        "w": "embarrassed",
+        "zh": "尷尬的、難為情的",
+        "own": true
+       },
+       {
+        "w": "blush",
+        "zh": "臉紅",
+        "src": "90年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
+        ]
+       },
+       {
+        "w": "awkward",
+        "zh": "尷尬的、不自在的",
+        "src": "92年學測補考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166"
+        ]
+       },
+       {
+        "w": "ashamed",
+        "zh": "慚愧的（be ashamed of oneself）",
+        "src": "106年學測 Q14、104年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0389",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0353"
+        ]
+       },
+       {
+        "w": "considerate",
+        "zh": "體貼的、為別人著想的（be considerate of others）",
+        "src": "103年指考 Q1、100年學測 Q15、92年學測補考 Q1、91年指考 Q5、90年聯考 Q13、85年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0237",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0287"
+        ]
+       },
+       {
+        "w": "dare",
+        "zh": "敢（not dare (to) V 不敢做某事）",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "段考前一個星期，小傑一直勸我週末跟他一起去市立圖書館念書。",
+        "en": "A week before our midterm exams, Jay kept trying to persuade me to study with him at the city library over the weekend.",
+        "covers": [
+         "persuade"
+        ],
+        "bold": [
+         "persuade me to study"
+        ]
+       },
+       {
+        "zh": "他說在家念書很容易分心，去圖書館比較能專心。",
+        "en": "He said it was easy to get distracted at home and much easier to concentrate at the library.",
+        "covers": [
+         "distracted",
+         "concentrate"
+        ],
+        "bold": [
+         "get distracted",
+         "concentrate"
+        ]
+       },
+       {
+        "zh": "我本來想在家念就好，最後還是答應跟他去了。",
+        "en": "I wanted to stay home at first, but in the end, he talked me into going.",
+        "hint": "talk sb into + V-ing 是「說服某人去做某事」，into 後面接名詞或 V-ing。",
+        "covers": [
+         "talk sb into + V-ing"
+        ],
+        "bold": [
+         "talked me into going"
+        ]
+       },
+       {
+        "zh": "一坐下來，小傑就拿出手機，給我看一支搞笑影片。",
+        "en": "As soon as we sat down, Jay took out his phone to show me a funny video.",
+        "covers": [],
+        "bold": []
+       },
+       {
+        "zh": "我們一邊看一邊小聲聊天。",
+        "en": "We watched it together, whispering and chatting about it.",
+        "covers": [
+         "whisper",
+         "chat"
+        ],
+        "bold": [
+         "whispering",
+         "chatting"
+        ]
+       },
+       {
+        "zh": "看到最好笑的地方，我們先是忍不住咯咯笑，接著就笑出聲來了。",
+        "en": "At the funniest part, we couldn't help giggling, and then we laughed out loud.",
+        "covers": [
+         "giggle",
+         "laugh out loud"
+        ],
+        "bold": [
+         "giggling",
+         "laughed out loud"
+        ]
+       },
+       {
+        "zh": "整間自習室的人都抬起頭來，有人皺眉，有人直接瞪著我們。",
+        "en": "Everyone in the study room looked up. Some people frowned, and others glared at us.",
+        "covers": [
+         "frown",
+         "glare"
+        ],
+        "bold": [
+         "frowned",
+         "glared at us"
+        ]
+       },
+       {
+        "zh": "坐在對面的大學生看起來很不耐煩，一直嘆氣。",
+        "en": "A college student across from us looked annoyed and kept sighing.",
+        "covers": [
+         "annoyed"
+        ],
+        "bold": [
+         "looked annoyed"
+        ]
+       },
+       {
+        "zh": "這時我們才發現，自己的笑聲打擾到所有人了。",
+        "en": "That was when we realized our laughter was disturbing everyone.",
+        "covers": [
+         "disturb"
+        ],
+        "bold": [
+         "disturbing everyone"
+        ]
+       },
+       {
+        "zh": "館員走過來，客氣地請我們壓低音量。",
+        "en": "A librarian came over and politely asked us to keep our voices down.",
+        "covers": [
+         "librarian",
+         "keep one's voice down"
+        ],
+        "bold": [
+         "librarian",
+         "keep our voices down"
+        ]
+       },
+       {
+        "zh": "他還把我們兩個分開，讓小傑坐到另一排去。",
+        "en": "He also separated us and moved Jay to another row.",
+        "covers": [
+         "separate"
+        ],
+        "bold": [
+         "separated us"
+        ]
+       },
+       {
+        "zh": "小傑抓抓頭，拿著書走開，一臉尷尬。",
+        "en": "Jay scratched his head and walked away with his books, looking embarrassed.",
+        "covers": [
+         "scratch one's head",
+         "embarrassed"
+        ],
+        "bold": [
+         "scratched his head",
+         "looking embarrassed"
+        ]
+       },
+       {
+        "zh": "我的臉一下子就紅了。",
+        "en": "I blushed right away.",
+        "covers": [
+         "blush"
+        ],
+        "bold": [
+         "blushed"
+        ]
+       },
+       {
+        "zh": "之後每次跟那位大學生對到眼，氣氛都很尷尬。",
+        "en": "After that, every time I met the college student's eyes, it felt awkward.",
+        "covers": [
+         "awkward"
+        ],
+        "bold": [
+         "awkward"
+        ]
+       },
+       {
+        "zh": "我們都覺得很慚愧，在公共場所本來就應該為別人著想。",
+        "en": "We were ashamed of ourselves. In a public place, we should have been considerate of others.",
+        "hint": "considerate 後面接 of + 人，表示「為某人著想」。",
+        "covers": [
+         "ashamed",
+         "considerate"
+        ],
+        "bold": [
+         "ashamed of ourselves",
+         "considerate of others"
+        ]
+       },
+       {
+        "zh": "直到閉館，我們都低頭念書，一句話也不敢再說。",
+        "en": "Until the library closed, we kept our heads down and didn't dare to say another word.",
+        "covers": [
+         "dare"
+        ],
+        "bold": [
+         "didn't dare to say"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "available",
+        "zh": "可借閱的、可取得的",
+        "src": "111年學測 Q7、94年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0457",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0202"
+        ]
+       },
+       {
+        "w": "variety",
+        "zh": "各式各樣（a wide variety of + N）",
+        "src": "111年學測 Q3、86年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0453",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0045"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -14390,6 +14757,397 @@
      {
       "k": "體例",
       "t": "這一份的表中，體例看的是格式、標點、大小寫；「優」與「可」併成一格，裡面只有一句：格式、標點、大小寫幾無錯誤。本篇要留意的有：冒號引出直接引語，句點放在引號裡面（she cut me off: \"Don't make excuses.\"）；分號連接兩個完整的句子（I had done nothing wrong; in fact, …）；一對破折號夾住補充說明（the evidence—the math notes … in her hand—the whole thing …），英文破折號前後不空格；Amy's 與 Don't 的撇號不要漏掉。扣分規則另有一條管分段：未分段扣 1 分，題目也要求寫兩段，本篇照寫兩段。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "assume",
+        "zh": "以為、認定",
+        "src": "101年學測 Q3、101年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0303",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0114"
+        ]
+       },
+       {
+        "w": "accuse",
+        "zh": "指責（accuse sb of + N／V-ing）",
+        "src": "88年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0083"
+        ]
+       },
+       {
+        "w": "explain oneself",
+        "zh": "為自己解釋",
+        "own": true
+       },
+       {
+        "w": "excuse",
+        "zh": "藉口（make excuses 找藉口）",
+        "src": "102年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0108"
+        ]
+       },
+       {
+        "w": "innocent",
+        "zh": "清白的、無辜的",
+        "src": "96年學測 Q9、93年敏督利颱風受災地區考生補救考試 Q8、91年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0234",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0098",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219"
+        ]
+       },
+       {
+        "w": "prove",
+        "zh": "證明",
+        "own": true
+       },
+       {
+        "w": "wronged",
+        "zh": "受了委屈的（feel wronged）",
+        "own": true
+       },
+       {
+        "w": "frustrated",
+        "zh": "沮喪的、懊惱的",
+        "src": "102年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329"
+        ]
+       },
+       {
+        "w": "evidence",
+        "zh": "證據",
+        "src": "92年學測補考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0173"
+        ]
+       },
+       {
+        "w": "misunderstand",
+        "zh": "誤解（be misunderstood 受到誤解）",
+        "own": true
+       },
+       {
+        "w": "mislead",
+        "zh": "誤導",
+        "src": "109年指考補考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0014"
+        ]
+       },
+       {
+        "w": "blame",
+        "zh": "責怪（blame sb for + N）",
+        "src": "90年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
+        ]
+       },
+       {
+        "w": "apologize to sb for + N",
+        "zh": "為了…向某人道歉",
+        "src": "85年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0025"
+        ]
+       },
+       {
+        "w": "sincerity",
+        "zh": "誠意",
+        "src": "112年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0465"
+        ]
+       },
+       {
+        "w": "misunderstanding",
+        "zh": "誤會（clear up a misunderstanding 化解誤會）",
+        "own": true
+       },
+       {
+        "w": "learn a lesson",
+        "zh": "學到教訓、學到一課",
+        "own": true
+       },
+       {
+        "w": "impact",
+        "zh": "影響（have an impact on + N）",
+        "src": "115年學測 Q7、85年推薦甄選 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0497",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0031"
+        ]
+       },
+       {
+        "w": "calmly",
+        "zh": "冷靜地",
+        "own": true
+       },
+       {
+        "w": "communication",
+        "zh": "溝通",
+        "src": "94年學測 Q14、85年推薦甄選 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0209",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0027"
+        ]
+       },
+       {
+        "w": "jump to conclusions",
+        "zh": "妄下結論",
+        "own": true
+       },
+       {
+        "w": "put oneself in sb's shoes",
+        "zh": "設身處地為別人著想",
+        "own": true
+       },
+       {
+        "w": "give sb the benefit of the doubt",
+        "zh": "姑且相信某人、先往好的方面想",
+        "own": true
+       },
+       {
+        "w": "tolerant",
+        "zh": "包容的、寬容的",
+        "src": "92年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0159"
+        ]
+       },
+       {
+        "w": "influence",
+        "zh": "影響",
+        "src": "111年學測 Q2、100年學測 Q9、92年學測補考 Q8、89年聯考 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0452",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0294",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0173",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0253"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "數學小考時，我的橡皮擦掉到地上，滾到隔壁同學的椅子底下。",
+        "en": "During a math quiz, my eraser fell off my desk and rolled under my classmate's chair.",
+        "covers": [],
+        "bold": []
+       },
+       {
+        "zh": "我彎下腰去撿，老師卻以為我在偷看隔壁的答案。",
+        "en": "When I bent down to pick it up, my teacher assumed that I was looking at my classmate's answers.",
+        "covers": [
+         "assume"
+        ],
+        "bold": [
+         "assumed"
+        ]
+       },
+       {
+        "zh": "她當著全班的面說我作弊。",
+        "en": "She accused me of cheating in front of the whole class.",
+        "hint": "accuse sb of + N／V-ing 是「指責某人做了某事」，介系詞用 of。",
+        "covers": [
+         "accuse"
+        ],
+        "bold": [
+         "accused me of cheating"
+        ]
+       },
+       {
+        "zh": "我想為自己解釋，可是老師認為我只是在找藉口。",
+        "en": "I tried to explain myself, but she thought I was just making excuses.",
+        "covers": [
+         "explain oneself",
+         "excuse"
+        ],
+        "bold": [
+         "explain myself",
+         "making excuses"
+        ]
+       },
+       {
+        "zh": "我明明是清白的，卻沒辦法證明。",
+        "en": "I knew I was innocent, but I couldn't prove it.",
+        "covers": [
+         "innocent",
+         "prove"
+        ],
+        "bold": [
+         "innocent",
+         "prove"
+        ]
+       },
+       {
+        "zh": "那天我覺得好委屈，回到家一句話都不想說。",
+        "en": "I felt so wronged that day that I didn't want to talk to anyone when I got home.",
+        "covers": [
+         "wronged"
+        ],
+        "bold": [
+         "felt so wronged"
+        ]
+       },
+       {
+        "zh": "我也很沮喪，因為同學們看我的眼光好像都不一樣了。",
+        "en": "I was also frustrated because my classmates seemed to look at me differently.",
+        "covers": [
+         "frustrated"
+        ],
+        "bold": [
+         "frustrated"
+        ]
+       },
+       {
+        "zh": "幸好隔壁的同學下課後去找老師，說他看到我只是在撿橡皮擦；他的話就是最好的證據。",
+        "en": "Luckily, my classmate went to see the teacher after class and told her that he had seen me picking up my eraser. His words were the best evidence I could have.",
+        "covers": [
+         "evidence"
+        ],
+        "bold": [
+         "evidence"
+        ]
+       },
+       {
+        "zh": "老師這才知道她誤解我了，原來是我彎腰的動作誤導了她。",
+        "en": "The teacher realized that she had misunderstood me. My bending down had misled her.",
+        "covers": [
+         "misunderstand",
+         "mislead"
+        ],
+        "bold": [
+         "misunderstood",
+         "misled"
+        ]
+       },
+       {
+        "zh": "隔天，老師在全班面前向我道歉，說她不該錯怪我。",
+        "en": "The next day, the teacher apologized to me in front of the whole class for blaming me unfairly.",
+        "hint": "apologize to 後面接道歉的對象，for 後面接道歉的原因。",
+        "covers": [
+         "apologize to sb for + N",
+         "blame"
+        ],
+        "bold": [
+         "apologized to me",
+         "for blaming me"
+        ]
+       },
+       {
+        "zh": "我感受得到她的誠意，這場誤會也就化解了。",
+        "en": "I could feel her sincerity, and the misunderstanding was cleared up.",
+        "covers": [
+         "sincerity",
+         "misunderstanding"
+        ],
+        "bold": [
+         "sincerity",
+         "the misunderstanding was cleared up"
+        ]
+       },
+       {
+        "zh": "這段經驗讓我學到很重要的一課，對我的影響也很深。",
+        "en": "I learned an important lesson from this experience, and it had a deep impact on me.",
+        "covers": [
+         "learn a lesson",
+         "impact"
+        ],
+        "bold": [
+         "learned an important lesson",
+         "had a deep impact on"
+        ]
+       },
+       {
+        "zh": "別人誤解我的時候，與其生悶氣，還不如冷靜地把事情說清楚。",
+        "en": "When someone misunderstands me, it is better to explain things calmly than to keep quiet and sulk.",
+        "covers": [
+         "calmly"
+        ],
+        "bold": [
+         "calmly"
+        ]
+       },
+       {
+        "zh": "我也學到，好好溝通可以避免很多誤會。",
+        "en": "I also learned that good communication can prevent many misunderstandings.",
+        "covers": [
+         "communication"
+        ],
+        "bold": [
+         "communication"
+        ]
+       },
+       {
+        "zh": "現在我不會只看了一眼就妄下結論。",
+        "en": "Now I try not to jump to conclusions after just one quick look.",
+        "covers": [
+         "jump to conclusions"
+        ],
+        "bold": [
+         "jump to conclusions"
+        ]
+       },
+       {
+        "zh": "遇到類似的情況，我會先設身處地想一想，姑且相信對方。",
+        "en": "In similar situations, I try to put myself in the other person's shoes and give them the benefit of the doubt.",
+        "covers": [
+         "put oneself in sb's shoes",
+         "give sb the benefit of the doubt"
+        ],
+        "bold": [
+         "put myself in the other person's shoes",
+         "give them the benefit of the doubt"
+        ]
+       },
+       {
+        "zh": "這件事也讓我變得比較包容，比較不會急著責怪別人。",
+        "en": "This experience has also made me more tolerant and less quick to blame others.",
+        "covers": [
+         "tolerant"
+        ],
+        "bold": [
+         "more tolerant"
+        ]
+       },
+       {
+        "zh": "它甚至影響了我跟別人相處的方式。",
+        "en": "It has even influenced the way I get along with people.",
+        "covers": [
+         "influence"
+        ],
+        "bold": [
+         "influenced"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "remedy",
+        "zh": "補救",
+        "src": "113年學測 Q7、97年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0477",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0156"
+        ]
+       }
+      ]
      }
     ]
    }
@@ -14459,6 +15217,343 @@
      {
       "k": "體例",
       "t": "94 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本篇要留意的有：圖上寫的是全大寫的 WAKE UP!，寫進作文時照一般句子的大小寫寫成 \"Wake up!\"，大聲喊的語氣交給 shouted 與驚嘆號來表達；《芝加哥格式手冊》（The Chicago Manual of Style）也寫明，把整個字或片語全部大寫來強調，很少是恰當的做法。驚嘆號放在引號裡面（shouted, \"Wake up!\"）；課名 \"We Are the World\" 加引號，主要的字字首大寫；Mr. 後面要加句點；teacher's 的撇號不要漏掉。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "stay up",
+        "zh": "熬夜（stay up late）",
+        "src": "90年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0118"
+        ]
+       },
+       {
+        "w": "drowsy",
+        "zh": "昏昏欲睡的",
+        "src": "105年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0362"
+        ]
+       },
+       {
+        "w": "lecture",
+        "zh": "（老師）講課",
+        "src": "92年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0206"
+        ]
+       },
+       {
+        "w": "doze off",
+        "zh": "打瞌睡",
+        "own": true
+       },
+       {
+        "w": "fall asleep",
+        "zh": "睡著",
+        "own": true
+       },
+       {
+        "w": "sound asleep",
+        "zh": "睡得很熟",
+        "own": true
+       },
+       {
+        "w": "enthusiastic",
+        "zh": "熱情的、起勁的",
+        "src": "91年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0218"
+        ]
+       },
+       {
+        "w": "snore",
+        "zh": "打呼",
+        "own": true
+       },
+       {
+        "w": "attention",
+        "zh": "注意力（pay attention to + N）",
+        "src": "100年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0294"
+        ]
+       },
+       {
+        "w": "discouraged",
+        "zh": "洩氣的、灰心的",
+        "src": "96年學測 Q8、84年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0233",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0015"
+        ]
+       },
+       {
+        "w": "in vain",
+        "zh": "白費、徒勞無功",
+        "src": "90年學測 Q14、88年推薦甄選 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0119",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0086"
+        ]
+       },
+       {
+        "w": "startled",
+        "zh": "嚇了一跳的",
+        "own": true
+       },
+       {
+        "w": "blush",
+        "zh": "臉紅",
+        "src": "90年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
+        ]
+       },
+       {
+        "w": "embarrassment",
+        "zh": "難為情（blush with embarrassment 尷尬得臉紅）",
+        "own": true
+       },
+       {
+        "w": "awake",
+        "zh": "醒著的（stay awake 保持清醒）",
+        "src": "99年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0273"
+        ]
+       },
+       {
+        "w": "sit up straight",
+        "zh": "坐挺",
+        "own": true
+       },
+       {
+        "w": "take notes",
+        "zh": "抄筆記",
+        "own": true
+       },
+       {
+        "w": "from sb's point of view",
+        "zh": "從某人的角度",
+        "own": true
+       },
+       {
+        "w": "appreciate",
+        "zh": "體會、了解（某事的難處或價值）",
+        "own": true
+       },
+       {
+        "w": "devote",
+        "zh": "投入、奉獻（devote oneself to + N／V-ing）",
+        "src": "95年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0217"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "前一天晚上，我熬夜看 NBA 總冠軍賽的重播，一直到半夜兩點才睡。",
+        "en": "The night before, I stayed up until two in the morning watching a replay of the NBA Finals.",
+        "covers": [
+         "stay up"
+        ],
+        "bold": [
+         "stayed up"
+        ]
+       },
+       {
+        "zh": "隔天第一節是歷史課，我一坐下來就昏昏欲睡。",
+        "en": "The next morning, the first class was history, and I felt drowsy as soon as I sat down.",
+        "covers": [
+         "drowsy"
+        ],
+        "bold": [
+         "felt drowsy"
+        ]
+       },
+       {
+        "zh": "老師在台上講課，我卻一直打瞌睡。",
+        "en": "While the teacher was lecturing, I kept dozing off.",
+        "covers": [
+         "lecture",
+         "doze off"
+        ],
+        "bold": [
+         "lecturing",
+         "dozing off"
+        ]
+       },
+       {
+        "zh": "沒多久，我就趴在桌上睡著了，而且睡得很熟。",
+        "en": "Before long, I fell asleep on my desk and was soon sound asleep.",
+        "covers": [
+         "fall asleep",
+         "sound asleep"
+        ],
+        "bold": [
+         "fell asleep",
+         "sound asleep"
+        ]
+       },
+       {
+        "zh": "我夢到自己變成歷史老師，正在台上很起勁地講古代中國的故事。",
+        "en": "In my dream, I was an enthusiastic history teacher, telling my students stories about ancient China.",
+        "covers": [
+         "enthusiastic"
+        ],
+        "bold": [
+         "enthusiastic"
+        ]
+       },
+       {
+        "zh": "講了好一陣子，我才發現台下的學生一個個都睡著了，有的還在打呼。",
+        "en": "After a while, I noticed that my students had fallen asleep one by one, and some were even snoring.",
+        "covers": [
+         "snore"
+        ],
+        "bold": [
+         "snoring"
+        ]
+       },
+       {
+        "zh": "沒有人在聽我講課，我覺得好洩氣。",
+        "en": "Nobody was paying attention to me, and I felt really discouraged.",
+        "covers": [
+         "attention",
+         "discouraged"
+        ],
+        "bold": [
+         "paying attention to",
+         "discouraged"
+        ]
+       },
+       {
+        "zh": "我花了一整晚準備的課，全都白費了。",
+        "en": "All the hours I had spent preparing the lesson were in vain.",
+        "covers": [
+         "in vain"
+        ],
+        "bold": [
+         "in vain"
+        ]
+       },
+       {
+        "zh": "一陣笑聲把我吵醒，我嚇了一跳，猛然抬起頭。",
+        "en": "A burst of laughter woke me up, and I lifted my head, startled.",
+        "covers": [
+         "startled"
+        ],
+        "bold": [
+         "startled"
+        ]
+       },
+       {
+        "zh": "原來我在夢裡大喊了一聲「醒醒！」，全班都聽到了。",
+        "en": "It turned out that I had shouted \"Wake up!\" in my sleep, and the whole class had heard it.",
+        "covers": [],
+        "bold": []
+       },
+       {
+        "zh": "我尷尬得滿臉通紅。",
+        "en": "I blushed with embarrassment.",
+        "covers": [
+         "blush",
+         "embarrassment"
+        ],
+        "bold": [
+         "blushed with embarrassment"
+        ]
+       },
+       {
+        "zh": "老師沒有罵我，只要我到教室後面站一下，讓自己保持清醒。",
+        "en": "The teacher didn't scold me. She just asked me to stand at the back of the classroom for a while so that I could stay awake.",
+        "covers": [
+         "awake"
+        ],
+        "bold": [
+         "stay awake"
+        ]
+       },
+       {
+        "zh": "一直到下課，我都坐得直直的，把老師寫在黑板上的重點都抄了下來。",
+        "en": "Until the bell rang, I sat up straight and took notes on every key point the teacher wrote on the board.",
+        "covers": [
+         "sit up straight",
+         "take notes"
+        ],
+        "bold": [
+         "sat up straight",
+         "took notes"
+        ]
+       },
+       {
+        "zh": "那個夢讓我開始從老師的角度看事情。",
+        "en": "That dream made me start to see things from my teacher's point of view.",
+        "covers": [
+         "from sb's point of view"
+        ],
+        "bold": [
+         "from my teacher's point of view"
+        ]
+       },
+       {
+        "zh": "我終於能體會，老師每天備課有多辛苦。",
+        "en": "I finally appreciated how hard teachers work to prepare their lessons.",
+        "covers": [
+         "appreciate"
+        ],
+        "bold": [
+         "appreciated"
+        ]
+       },
+       {
+        "zh": "老師把心力都投注在教學上，學生卻在台下睡覺，心裡一定很難過。",
+        "en": "Teachers devote themselves to teaching, so it must be upsetting when students fall asleep in class.",
+        "hint": "devote oneself to + N／V-ing 是「投入、奉獻」，to 是介系詞。",
+        "covers": [
+         "devote"
+        ],
+        "bold": [
+         "devote themselves to teaching"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "induce",
+        "zh": "引起、誘發（induce sleepiness 讓人想睡）",
+        "src": "109年指考補考 Q2、106年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0012",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0055"
+        ]
+       },
+       {
+        "w": "demanding",
+        "zh": "要求高的、吃力的",
+        "src": "109年指考補考 Q1、107年學測 Q7、98年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0011",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0397",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0149"
+        ]
+       }
+      ]
      }
     ]
    }
