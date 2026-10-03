@@ -2714,7 +2714,7 @@
        },
        {
         "w": "elbow one's way through the crowd",
-        "zh": "用手肘推擠穿過人群（one's way 是固定受詞，不能只寫 elbow through；115 學測考過這個結構，正確率 29%、鑑別度 21，錯的多半不是單字而是結構）",
+        "zh": "用手肘推擠穿過人群（one's way 是固定受詞，不能只寫 elbow through）",
         "src": "115年學測 Q9",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0499"
@@ -4379,6 +4379,305 @@
       ]
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "hold a community event",
+        "zh": "舉辦社區活動",
+        "own": true
+       },
+       {
+        "w": "bring people of all ages together",
+        "zh": "把各個年齡層的人聚在一起",
+        "own": true
+       },
+       {
+        "w": "the elderly / seniors living alone",
+        "zh": "長者（the elderly 指整個族群，動詞用複數）／獨居長輩",
+        "own": true
+       },
+       {
+        "w": "on a voluntary basis",
+        "zh": "以志工身分、不支薪",
+        "src": "99年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0279"
+        ]
+       },
+       {
+        "w": "deliver meals to + N",
+        "zh": "送餐給…",
+        "src": "111年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0451"
+        ]
+       },
+       {
+        "w": "keep sb company",
+        "zh": "陪伴某人",
+        "own": true
+       },
+       {
+        "w": "interact with + N",
+        "zh": "與…互動（名詞是 interaction）",
+        "src": "110年學測 Q7、104年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0442",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359"
+        ]
+       },
+       {
+        "w": "fresh local produce",
+        "zh": "在地的新鮮農產品（produce 當名詞不可數，重音在第一音節；94 學測那一題原卷印成 produces，是誤加 -s）",
+        "src": "114年學測 Q2、94年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0482",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0199"
+        ]
+       },
+       {
+        "w": "handmade crafts",
+        "zh": "手作工藝品",
+        "own": true
+       },
+       {
+        "w": "set up a booth",
+        "zh": "擺攤、設攤位",
+        "own": true
+       },
+       {
+        "w": "go to charity",
+        "zh": "（收入）捐作慈善用途",
+        "src": "97年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0247"
+        ]
+       },
+       {
+        "w": "promote + N",
+        "zh": "推廣、宣傳",
+        "src": "104年學測 Q11、97年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244"
+        ]
+       },
+       {
+        "w": "hold a contest",
+        "zh": "舉辦比賽",
+        "src": "99年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0278"
+        ]
+       },
+       {
+        "w": "display + N",
+        "zh": "展出、陳列",
+        "src": "103年學測 Q7、100年學測 Q8、90年學測 Q10、84年推薦甄選 Q2、84年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0337",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0293",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0115",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0012",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0299"
+        ]
+       },
+       {
+        "w": "an amateur",
+        "zh": "業餘愛好者（也可當形容詞：amateur musicians）",
+        "src": "115年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0492"
+        ]
+       },
+       {
+        "w": "perform",
+        "zh": "表演、演出",
+        "src": "108年學測 Q5、97年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0410",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0254"
+        ]
+       },
+       {
+        "w": "inspire creativity",
+        "zh": "激發創意",
+        "src": "102年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0106"
+        ]
+       },
+       {
+        "w": "be designed to + V",
+        "zh": "這樣設計是為了…",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "如果只能選一個方案，我會辦市集，因為它最能把各個年齡層的人聚在一起。",
+        "en": "If I had to pick one plan, I would hold a market, because it can bring people of all ages together better than anything else.",
+        "covers": [
+         "bring people of all ages together"
+        ],
+        "bold": [
+         "bring people of all ages together"
+        ]
+       },
+       {
+        "zh": "我們學校每年都會舉辦一場社區活動，讓學生認識住在附近的人。",
+        "en": "Our school holds a community event every year so that students can get to know the people who live nearby.",
+        "hint": "so that 後面接完整的子句，說明目的。",
+        "covers": [
+         "hold a community event"
+        ],
+        "bold": [
+         "holds a community event"
+        ]
+       },
+       {
+        "zh": "我們可以以志工身分在週末送餐給獨居長輩，再留下來陪他們一會兒。",
+        "en": "Working on a voluntary basis, we could deliver meals to seniors living alone on weekends and stay to keep them company for a while.",
+        "hint": "keep sb company 的 company 不加冠詞，被陪的人放在 keep 和 company 中間。",
+        "covers": [
+         "on a voluntary basis",
+         "deliver meals to + N",
+         "the elderly / seniors living alone",
+         "keep sb company"
+        ],
+        "bold": [
+         "on a voluntary basis",
+         "deliver meals to seniors living alone",
+         "keep them company"
+        ]
+       },
+       {
+        "zh": "我們社區的長者，很少有機會跟年輕人互動。",
+        "en": "The elderly in our neighborhood rarely have a chance to interact with young people.",
+        "hint": "the elderly 指的是一群人，動詞用複數（have，不是 has）；interact 後面接 with。",
+        "covers": [
+         "the elderly / seniors living alone",
+         "interact with + N"
+        ],
+        "bold": [
+         "The elderly",
+         "interact with"
+        ]
+       },
+       {
+        "zh": "在地小農可以擺攤賣新鮮農產品，學生則可以賣手作工藝品。",
+        "en": "Local farmers could set up booths to sell fresh local produce, and students could sell handmade crafts.",
+        "hint": "produce 當名詞是「農產品」，不可數，不加 s。",
+        "covers": [
+         "set up a booth",
+         "fresh local produce",
+         "handmade crafts"
+        ],
+        "bold": [
+         "set up booths",
+         "fresh local produce",
+         "handmade crafts"
+        ]
+       },
+       {
+        "zh": "市集賺到的錢，全部捐作慈善用途。",
+        "en": "All the money we make at the market will go to charity.",
+        "hint": "泛指慈善用途時 charity 不加冠詞；指某一個慈善機構才說 a charity。",
+        "covers": [
+         "go to charity"
+        ],
+        "bold": [
+         "go to charity"
+        ]
+       },
+       {
+        "zh": "我們可以為小朋友辦一場繪畫比賽，把作品展在學校圖書館。",
+        "en": "We could hold a drawing contest for children and display their works in the school library.",
+        "covers": [
+         "hold a contest",
+         "display + N"
+        ],
+        "bold": [
+         "hold a drawing contest",
+         "display their works"
+        ]
+       },
+       {
+        "zh": "這場比賽是為了激發孩子的創意而設計的，所以每一件作品都會展出，不只得獎的那幾件。",
+        "en": "The contest is designed to inspire creativity in children, so every entry will be displayed, not just the winning ones.",
+        "hint": "be designed to 後面接原形動詞，說明設計的目的；要說「為某些人設計」用 be designed for + 名詞。",
+        "covers": [
+         "be designed to + V",
+         "inspire creativity"
+        ],
+        "bold": [
+         "is designed to",
+         "inspire creativity"
+        ]
+       },
+       {
+        "zh": "我們也可以辦一場開放麥克風之夜，不論老少，任何業餘愛好者都能報名上台表演。",
+        "en": "We could also host an open-mic night where any amateur, young or old, can sign up and perform.",
+        "covers": [
+         "an amateur",
+         "perform"
+        ],
+        "bold": [
+         "amateur",
+         "perform"
+        ]
+       },
+       {
+        "zh": "為了宣傳這個活動，我們會在捷運站貼海報，也會在學校的 Instagram 上發一支短片。",
+        "en": "To promote the event, we would put up posters at the MRT station and post a short video on the school's Instagram account.",
+        "covers": [
+         "promote + N"
+        ],
+        "bold": [
+         "To promote the event"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "devotion to + N",
+        "zh": "對…的奉獻（站上考的是得獎的人長年照顧弱勢，這一題寫的是一次活動，用不到）",
+        "src": "109年指考 Q5、107年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0025",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0047"
+        ]
+       },
+       {
+        "w": "sufficient funds",
+        "zh": "足夠的經費（這一題不必談錢從哪裡來）",
+        "src": "88年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0256"
+        ]
+       },
+       {
+        "w": "a collection of + N",
+        "zh": "（博物館的）館藏、收藏品",
+        "src": "84年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0298"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4457,6 +4756,267 @@
      {
       "k": "詞彙拼字",
       "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形八個（suitcase、strolled、dusk、gloomy、vendor、creeping、disappointment、shade），占 164 個詞形的 4.9%。這一篇容易拼錯的是 whistled、entrance、disappointment 這幾個。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "go on a day trip",
+        "zh": "出門一日遊",
+        "own": true
+       },
+       {
+        "w": "in high spirits",
+        "zh": "興高采烈、心情很好",
+        "own": true
+       },
+       {
+        "w": "the traffic is light / heavy",
+        "zh": "車不多／車很多（traffic 不可數，不說 many traffic）",
+        "src": "89年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0092"
+        ]
+       },
+       {
+        "w": "be choked with traffic",
+        "zh": "塞滿了車",
+        "src": "112年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0469"
+        ]
+       },
+       {
+        "w": "be stuck in traffic",
+        "zh": "卡在車陣裡",
+        "own": true
+       },
+       {
+        "w": "at a snail's pace",
+        "zh": "慢得像蝸牛在爬（站上考的是 at this slow pace，pace 前面用 at）",
+        "src": "87年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0068"
+        ]
+       },
+       {
+        "w": "impatient / impatiently",
+        "zh": "不耐煩的／不耐煩地",
+        "src": "93年敏督利颱風受災地區考生補救考試 Q8、86年聯考 Q3、84年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0098",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0276",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0013"
+        ]
+       },
+       {
+        "w": "form a long line",
+        "zh": "大排長龍",
+        "own": true
+       },
+       {
+        "w": "be packed with + N",
+        "zh": "擠滿了…",
+        "own": true
+       },
+       {
+        "w": "be delayed by + N",
+        "zh": "因為…而延誤",
+        "src": "85年推薦甄選 Q18",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0038"
+        ]
+       },
+       {
+        "w": "elbow one's way through the crowd",
+        "zh": "用手肘推擠穿過人群（one's way 是固定受詞，不能只寫 elbow through）",
+        "src": "115年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0499"
+        ]
+       },
+       {
+        "w": "frustrated",
+        "zh": "沮喪、洩氣的",
+        "src": "102年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329"
+        ]
+       },
+       {
+        "w": "cancel the plan",
+        "zh": "取消原本的計畫",
+        "src": "100年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0290"
+        ]
+       },
+       {
+        "w": "make the best of it",
+        "zh": "在不理想的情況下，盡量往好處去做",
+        "own": true
+       },
+       {
+        "w": "turn out to be + N／adj.",
+        "zh": "結果（事後才知道）是…",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "連假第一天，我們一家人興高采烈地出發，要去海洋館一日遊。",
+        "en": "On the first day of the long weekend, my family set off in high spirits on a day trip to the aquarium.",
+        "covers": [
+         "go on a day trip",
+         "in high spirits"
+        ],
+        "bold": [
+         "in high spirits",
+         "on a day trip"
+        ]
+       },
+       {
+        "zh": "一開始車不多，弟弟還在後座唱歌。",
+        "en": "At first the traffic was light, and my little brother was singing in the back seat.",
+        "hint": "traffic 不可數，車多車少用 heavy／light 形容，不說 many／few traffic。",
+        "covers": [
+         "the traffic is light / heavy"
+        ],
+        "bold": [
+         "the traffic was light"
+        ]
+       },
+       {
+        "zh": "可是一上高速公路，整條路就塞滿了車。",
+        "en": "Once we got on the highway, however, the road was choked with traffic.",
+        "hint": "be choked with 後面接把路塞住的東西。",
+        "covers": [
+         "be choked with traffic"
+        ],
+        "bold": [
+         "was choked with traffic"
+        ]
+       },
+       {
+        "zh": "我們卡在車陣裡將近兩個小時，車子慢得像蝸牛在爬。",
+        "en": "We were stuck in traffic for nearly two hours, moving at a snail's pace.",
+        "covers": [
+         "be stuck in traffic",
+         "at a snail's pace"
+        ],
+        "bold": [
+         "were stuck in traffic",
+         "at a snail's pace"
+        ]
+       },
+       {
+        "zh": "爸爸用手指不耐煩地敲著方向盤。",
+        "en": "Dad drummed his fingers impatiently on the steering wheel.",
+        "hint": "修飾動作用副詞 impatiently；說人的狀態用形容詞，例如 He grew impatient.",
+        "covers": [
+         "impatient / impatiently"
+        ],
+        "bold": [
+         "impatiently"
+        ]
+       },
+       {
+        "zh": "等我們終於到了，海洋館外面早就大排長龍，館內也擠滿了遊客。",
+        "en": "By the time we finally arrived, people had formed a long line outside the aquarium, and the hall inside was packed with visitors.",
+        "hint": "By the time 後面用過去式；主要子句用過去完成式，交代我們到之前就已經發生的事。",
+        "covers": [
+         "form a long line",
+         "be packed with + N"
+        ],
+        "bold": [
+         "had formed a long line",
+         "was packed with visitors"
+        ]
+       },
+       {
+        "zh": "我們已經因為塞車耽擱了一個上午，想到還要再排兩個小時，誰都受不了。",
+        "en": "We had already been delayed by the traffic jam for a whole morning, and none of us could bear the thought of waiting two more hours.",
+        "covers": [
+         "be delayed by + N"
+        ],
+        "bold": [
+         "had already been delayed by the traffic jam"
+        ]
+       },
+       {
+        "zh": "我們試著擠過人群走到售票口，沒多久大家就覺得很洩氣。",
+        "en": "We tried to elbow our way through the crowd to the ticket counter, but soon we all felt frustrated.",
+        "covers": [
+         "elbow one's way through the crowd",
+         "frustrated"
+        ],
+        "bold": [
+         "elbow our way through the crowd",
+         "frustrated"
+        ]
+       },
+       {
+        "zh": "於是爸爸取消了原本的計畫，載我們到附近一個小漁港。",
+        "en": "So Dad canceled the plan and drove us to a small fishing harbor nearby.",
+        "hint": "美式拼法 canceled 只有一個 l，英式是 cancelled。",
+        "covers": [
+         "cancel the plan"
+        ],
+        "bold": [
+         "canceled the plan"
+        ]
+       },
+       {
+        "zh": "我們決定好好過完剩下的半天，結果那天成了整個連假最棒的一天。",
+        "en": "We decided to make the best of it, and the day turned out to be the best part of the long weekend.",
+        "covers": [
+         "make the best of it",
+         "turn out to be + N／adj."
+        ],
+        "bold": [
+         "make the best of it",
+         "turned out to be"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "traffic is disrupted / obstructed",
+        "zh": "交通因事故中斷、受阻（這一題的塞車是車太多，不是出了事故）",
+        "src": "93年敏督利颱風受災地區考生補救考試 Q6、91年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0096",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0221"
+        ]
+       },
+       {
+        "w": "facilitate the traffic flow",
+        "zh": "讓車流順暢（講的是交通規劃）",
+        "src": "89年聯考 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0253"
+        ]
+       },
+       {
+        "w": "a hot spring resort",
+        "zh": "溫泉度假村",
+        "src": "101年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0119"
+        ]
+       }
+      ]
      }
     ]
    }
@@ -4542,6 +5102,260 @@
      {
       "k": "字彙、拼字",
       "t": "表一「優」這一格要的是用字精確、得宜，且幾無拼字、大小寫錯誤。171 個不同詞形之中，四級以上 6 個，占 3.5%——boredom、comment、companion、drift、exclude、murmur。boredom 用來把寂寞與無聊分開，companion 用在「一塊螢幕稱不上是夥伴」這一句，其餘四個各自對應一個具體的動作或聲音。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "be home alone",
+        "zh": "一個人在家",
+        "own": true
+       },
+       {
+        "w": "feel left out",
+        "zh": "覺得自己插不上話、跟大家不合群",
+        "own": true
+       },
+       {
+        "w": "make a conscious effort to + V",
+        "zh": "刻意努力去做…",
+        "src": "83年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0309"
+        ]
+       },
+       {
+        "w": "fit in",
+        "zh": "融入（群體）",
+        "own": true
+       },
+       {
+        "w": "be surrounded by + N",
+        "zh": "四周都是…、被…圍繞",
+        "src": "107年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0399"
+        ]
+       },
+       {
+        "w": "homesick",
+        "zh": "想家的",
+        "own": true
+       },
+       {
+        "w": "keep sb company",
+        "zh": "陪伴某人",
+        "own": true
+       },
+       {
+        "w": "curl up",
+        "zh": "蜷成一團",
+        "own": true
+       },
+       {
+        "w": "confide in sb",
+        "zh": "向某人吐露心事",
+        "own": true
+       },
+       {
+        "w": "relieve + N",
+        "zh": "減輕、緩解（壓力、疼痛等不舒服的感覺）",
+        "src": "107年學測 Q10、99年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0400",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0272"
+        ]
+       },
+       {
+        "w": "feel secure",
+        "zh": "覺得安心、有安全感",
+        "src": "104年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0071"
+        ]
+       },
+       {
+        "w": "remain + N／adj.",
+        "zh": "仍然是、一直是",
+        "src": "88年聯考 Q5、85年聯考 Q10、82年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0258",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0293",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0320"
+        ]
+       },
+       {
+        "w": "cheer sb up",
+        "zh": "讓某人打起精神",
+        "own": true
+       },
+       {
+        "w": "get sb through + N",
+        "zh": "陪某人熬過（一段時間）",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "我們家搬到台中以後，爸媽常工作到很晚，我放學後多半一個人在家。",
+        "en": "After my family moved to Taichung, my parents often worked late, so I was usually home alone after school.",
+        "hint": "home 在這裡是副詞，不加 at。",
+        "covers": [
+         "be home alone"
+        ],
+        "bold": [
+         "home alone"
+        ]
+       },
+       {
+        "zh": "搬家的第一個晚上，我坐在地板上，四周都是還沒拆的紙箱，突然好想念台北。",
+        "en": "On our first night in the new apartment, I sat on the floor, surrounded by unopened boxes, and felt homesick for Taipei.",
+        "covers": [
+         "be surrounded by + N",
+         "homesick"
+        ],
+        "bold": [
+         "surrounded by unopened boxes",
+         "homesick for Taipei"
+        ]
+       },
+       {
+        "zh": "新同學對我很友善，可是他們一聊起國中的老師，我就覺得自己插不上話。",
+        "en": "My new classmates were friendly, but whenever they joked about their junior high teachers, I felt left out.",
+        "covers": [
+         "feel left out"
+        ],
+        "bold": [
+         "felt left out"
+        ]
+       },
+       {
+        "zh": "我刻意努力想融入大家，午餐時總是第一個開口找話題。",
+        "en": "I made a conscious effort to fit in; at lunch I was always the first to start a conversation.",
+        "hint": "make an effort 後面接 to + 原形動詞。",
+        "covers": [
+         "make a conscious effort to + V",
+         "fit in"
+        ],
+        "bold": [
+         "made a conscious effort to fit in"
+        ]
+       },
+       {
+        "zh": "那段時間陪著我的，是一隻從收容所領養來的貓。",
+        "en": "What kept me company during those months was a cat we had adopted from an animal shelter.",
+        "hint": "keep sb company 的 company 不加冠詞，被陪的人放在 keep 和 company 中間。",
+        "covers": [
+         "keep sb company"
+        ],
+        "bold": [
+         "kept me company"
+        ]
+       },
+       {
+        "zh": "每天我一進門，她就在門口等我；我一坐下，她就蜷在我腿上。",
+        "en": "Every day she was waiting at the door, and as soon as I sat down, she curled up on my lap.",
+        "covers": [
+         "curl up"
+        ],
+        "bold": [
+         "curled up on my lap"
+        ]
+       },
+       {
+        "zh": "她一個字也聽不懂，但學校的事我還是全都告訴她，這比向人吐露心事容易多了。",
+        "en": "She could not understand a word, but I told her everything that happened at school; it was much easier than confiding in a person.",
+        "hint": "confide in 後面接人，指的是信得過對方才說出心事。",
+        "covers": [
+         "confide in sb"
+        ],
+        "bold": [
+         "confiding in a person"
+        ]
+       },
+       {
+        "zh": "摸著她溫暖的背，比什麼都更能減輕我的壓力。",
+        "en": "Stroking her warm back relieved my stress more than anything else.",
+        "hint": "relieve 後面直接接不舒服的感覺或狀況，例如 stress、anxiety、pain，不加介系詞。",
+        "covers": [
+         "relieve + N"
+        ],
+        "bold": [
+         "relieved my stress"
+        ]
+       },
+       {
+        "zh": "有她在，空蕩蕩的公寓也讓我覺得安心。",
+        "en": "With her around, even the empty apartment made me feel secure.",
+        "covers": [
+         "feel secure"
+        ],
+        "bold": [
+         "feel secure"
+        ]
+       },
+       {
+        "zh": "最難熬的那幾個晚上，是她讓我打起精神，陪我熬過了轉學後的第一個學期。",
+        "en": "On my worst nights she cheered me up, and she got me through that first semester at my new school.",
+        "covers": [
+         "cheer sb up",
+         "get sb through + N"
+        ],
+        "bold": [
+         "cheered me up",
+         "got me through"
+        ]
+       },
+       {
+        "zh": "現在我在新學校交到了朋友，她仍然是我最好的聽眾。",
+        "en": "I have made friends at my new school since then, but she remains my best listener.",
+        "hint": "remain 後面直接接名詞或形容詞，用法跟 be 動詞一樣。",
+        "covers": [
+         "remain + N／adj."
+        ],
+        "bold": [
+         "remains my best listener"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "relieve / break the monotony of + N",
+        "zh": "排解…的單調（講的是無聊，不是寂寞；這一題要分清楚兩者）",
+        "src": "106年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0056"
+        ]
+       },
+       {
+        "w": "sentimental",
+        "zh": "多愁善感的、容易感傷的",
+        "src": "93年指考 Q8、87年推薦甄選 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0200",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0066"
+        ]
+       },
+       {
+        "w": "emotionally dependent",
+        "zh": "在情感上依賴別人的",
+        "src": "88年推薦甄選 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0085"
+        ]
+       }
+      ]
      }
     ]
    }
