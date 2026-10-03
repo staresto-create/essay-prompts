@@ -12839,6 +12839,423 @@
       "t": "96 這一年的體例配分 2 分，這一份沒有說明看哪些地方；同時期的 97 學測表 1 寫明，體例看的是格式、標點與大小寫。故事裡有對話，標點最容易出錯：逗號、問號與驚嘆號放在引號裡面（begged, \"Mom, can I keep it? …\"；\"A pet is a lot of work,\" she said）。Mom 當稱呼用，第一個字母大寫；人名 Lily 與 Saturday 也要大寫。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "kitten",
+        "zh": "小貓",
+        "own": true
+       },
+       {
+        "w": "stray",
+        "zh": "流浪的（a stray cat 流浪貓）",
+        "own": true
+       },
+       {
+        "w": "wander",
+        "zh": "到處閒晃、遊蕩",
+        "src": "115年學測 Q6、103年學測 Q1、85年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0496",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0331",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0022"
+        ]
+       },
+       {
+        "w": "crouch down",
+        "zh": "蹲下",
+        "own": true
+       },
+       {
+        "w": "chase",
+        "zh": "追著…跑",
+        "own": true
+       },
+       {
+        "w": "abandon",
+        "zh": "遺棄、丟下",
+        "src": "102年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0316"
+        ]
+       },
+       {
+        "w": "can't bear to + V",
+        "zh": "不忍心做某事",
+        "own": true
+       },
+       {
+        "w": "follow close behind",
+        "zh": "緊跟在…後面（follow close behind sb）",
+        "own": true
+       },
+       {
+        "w": "adopt",
+        "zh": "領養",
+        "src": "97年學測 Q3、88年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0243",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079"
+        ]
+       },
+       {
+        "w": "beg",
+        "zh": "苦苦哀求（beg sb to V）",
+        "own": true
+       },
+       {
+        "w": "frown",
+        "zh": "皺眉",
+        "own": true
+       },
+       {
+        "w": "hesitate",
+        "zh": "猶豫",
+        "src": "99年學測 Q5、87年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0062"
+        ]
+       },
+       {
+        "w": "reluctant",
+        "zh": "不情願的（be reluctant to V）",
+        "src": "102年學測 Q5、99年學測 Q1、91年學測補考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0320",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0271",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0144"
+        ]
+       },
+       {
+        "w": "permission",
+        "zh": "許可、同意（give sb permission to V）",
+        "src": "96年學測 Q2、94年指考 Q6、81年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0227",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0188",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0330"
+        ]
+       },
+       {
+        "w": "condition",
+        "zh": "條件（on one condition 有一個條件）",
+        "src": "99年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0274"
+        ]
+       },
+       {
+        "w": "keep",
+        "zh": "養（寵物）",
+        "own": true
+       },
+       {
+        "w": "responsibility",
+        "zh": "責任（take responsibility for + N）",
+        "own": true
+       },
+       {
+        "w": "companion",
+        "zh": "同伴、陪伴自己的人或動物",
+        "src": "96年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0226"
+        ]
+       },
+       {
+        "w": "mischief",
+        "zh": "搗蛋、惡作劇（get into mischief 調皮搗蛋）",
+        "src": "97年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0248"
+        ]
+       },
+       {
+        "w": "mess",
+        "zh": "一團亂（make a mess 弄得一團亂）",
+        "own": true
+       },
+       {
+        "w": "knock over",
+        "zh": "撞倒、打翻",
+        "own": true
+       },
+       {
+        "w": "scratch",
+        "zh": "（用爪子）抓、抓花",
+        "own": true
+       },
+       {
+        "w": "paw print",
+        "zh": "（貓狗的）腳印",
+        "own": true
+       },
+       {
+        "w": "sneak",
+        "zh": "偷偷地走、溜",
+        "src": "109年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0432"
+        ]
+       },
+       {
+        "w": "scold",
+        "zh": "責罵",
+        "own": true
+       },
+       {
+        "w": "animal shelter",
+        "zh": "動物收容所",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "補習班下課走回家的路上，我聽到巷口的機車底下傳來小貓的叫聲。",
+        "en": "On my way home from cram school, I heard a kitten meowing under a scooter near the entrance to our alley.",
+        "covers": [
+         "kitten"
+        ],
+        "bold": [
+         "kitten"
+        ]
+       },
+       {
+        "zh": "那附近常常有幾隻流浪貓晃來晃去，可是這隻小貓身邊沒有大貓陪著。",
+        "en": "A few stray cats often wander around the area, but there was no mother cat with this kitten.",
+        "covers": [
+         "stray",
+         "wander"
+        ],
+        "bold": [
+         "stray cats",
+         "wander around"
+        ]
+       },
+       {
+        "zh": "我蹲下來伸出手，她就慢慢走過來，追著我書包上晃來晃去的吊飾玩。",
+        "en": "I crouched down and held out my hand. She slowly came over and started chasing the charm swinging from my backpack.",
+        "covers": [
+         "crouch down",
+         "chase"
+        ],
+        "bold": [
+         "crouched down",
+         "chasing"
+        ]
+       },
+       {
+        "zh": "她瘦得皮包骨，看起來像是有人把她丟在這裡。",
+        "en": "She was nothing but skin and bones, and it looked as if someone had abandoned her there.",
+        "covers": [
+         "abandon"
+        ],
+        "bold": [
+         "abandoned"
+        ]
+       },
+       {
+        "zh": "我實在不忍心把她留在原地，就把她抱回家了。",
+        "en": "I couldn't bear to leave her there, so I carried her home.",
+        "hint": "bear 當「忍受」時後面可以接 to V，也可以接 V-ing；「不忍心做某事」通常用否定的 can't bear to V。",
+        "covers": [
+         "can't bear to + V"
+        ],
+        "bold": [
+         "couldn't bear to leave"
+        ]
+       },
+       {
+        "zh": "我沒發現，巷子裡那兩隻流浪貓一路緊跟在我後面，跟到了我家樓下。",
+        "en": "I didn't notice that two of the stray cats were following close behind me all the way to my apartment building.",
+        "hint": "「緊跟在某人後面」說 follow close behind sb，也可以說 follow closely behind sb。",
+        "covers": [
+         "follow close behind"
+        ],
+        "bold": [
+         "following close behind me"
+        ]
+       },
+       {
+        "zh": "我一打開大門，那兩隻貓就想跟著溜進來，我趕緊把門關上。",
+        "en": "When I opened the front door, they tried to slip in after me, so I quickly shut it.",
+        "covers": [],
+        "bold": []
+       },
+       {
+        "zh": "一進家門，我就求媽媽讓我領養她。",
+        "en": "As soon as I got home, I begged Mom to let me adopt her.",
+        "hint": "beg 的用法是 beg sb to V，過去式要重複字尾的 g，寫成 begged。",
+        "covers": [
+         "beg",
+         "adopt"
+        ],
+        "bold": [
+         "begged Mom to",
+         "adopt"
+        ]
+       },
+       {
+        "zh": "媽媽皺起眉頭，猶豫了好一會兒。",
+        "en": "Mom frowned and hesitated for a long time.",
+        "covers": [
+         "frown",
+         "hesitate"
+        ],
+        "bold": [
+         "frowned",
+         "hesitated"
+        ]
+       },
+       {
+        "zh": "客廳的沙發才剛買，所以媽媽不太想讓貓住進家裡。",
+        "en": "The sofa in our living room was brand new, so Mom was reluctant to let a cat live with us.",
+        "covers": [
+         "reluctant"
+        ],
+        "bold": [
+         "was reluctant to"
+        ]
+       },
+       {
+        "zh": "最後媽媽同意讓我養，但有一個條件：貓砂盆要我自己每天清。",
+        "en": "In the end, Mom gave me permission to keep her on one condition: I had to clean the litter box myself every day.",
+        "hint": "on one condition 後面常接冒號，再把條件寫出來。",
+        "covers": [
+         "permission",
+         "condition",
+         "keep"
+        ],
+        "bold": [
+         "gave me permission to keep",
+         "on one condition"
+        ]
+       },
+       {
+        "zh": "我跟媽媽保證，照顧小貓的事情我會一個人負責到底。",
+        "en": "I promised Mom that I would take full responsibility for the kitten.",
+        "covers": [
+         "responsibility"
+        ],
+        "bold": [
+         "take full responsibility for"
+        ]
+       },
+       {
+        "zh": "我幫她取名叫芝麻，從那天起，芝麻就成了每天陪著我的好夥伴。",
+        "en": "I named her Sesame, and from that day on, she became my closest companion.",
+        "covers": [
+         "companion"
+        ],
+        "bold": [
+         "companion"
+        ]
+       },
+       {
+        "zh": "沒想到芝麻很調皮，三天兩頭就闖禍。",
+        "en": "Sesame, however, was always getting into mischief.",
+        "hint": "mischief 是不可數名詞，前面不加 a。",
+        "covers": [
+         "mischief"
+        ],
+        "bold": [
+         "getting into mischief"
+        ]
+       },
+       {
+        "zh": "有一天晚上我們出門吃飯，回到家一開門，發現芝麻把客廳弄得一團亂。",
+        "en": "One night, when we came home from dinner, we found that Sesame had made a huge mess in the living room.",
+        "covers": [
+         "mess"
+        ],
+        "bold": [
+         "made a huge mess"
+        ]
+       },
+       {
+        "zh": "芝麻把花瓶撞倒了，還把衛生紙拖得滿地都是。",
+        "en": "She had knocked over a vase and dragged toilet paper all over the floor.",
+        "covers": [
+         "knock over"
+        ],
+        "bold": [
+         "knocked over"
+        ]
+       },
+       {
+        "zh": "她還把媽媽的新沙發抓花了好幾處。",
+        "en": "She had also scratched Mom's new sofa in several places.",
+        "covers": [
+         "scratch"
+        ],
+        "bold": [
+         "scratched"
+        ]
+       },
+       {
+        "zh": "地板上到處都是小小的腳印。",
+        "en": "Tiny paw prints were everywhere on the floor.",
+        "covers": [
+         "paw print"
+        ],
+        "bold": [
+         "paw prints"
+        ]
+       },
+       {
+        "zh": "原來是我出門前忘了關房門，芝麻就從房間偷偷溜到客廳。",
+        "en": "It turned out that I had forgotten to close my bedroom door, so Sesame had sneaked out into the living room.",
+        "hint": "sneak 的過去式寫 sneaked 或 snuck 都可以。",
+        "covers": [
+         "sneak"
+        ],
+        "bold": [
+         "sneaked out"
+        ]
+       },
+       {
+        "zh": "媽媽氣得罵了我一頓，還說要把芝麻送去動物收容所。",
+        "en": "Mom scolded me and even said she would take Sesame to an animal shelter.",
+        "covers": [
+         "scold",
+         "animal shelter"
+        ],
+        "bold": [
+         "scolded",
+         "animal shelter"
+        ]
+       },
+       {
+        "zh": "我花了一整晚把客廳收拾乾淨，又答應媽媽出門一定關好房門，她才讓芝麻留下來。",
+        "en": "I spent the whole evening cleaning up the living room and promised Mom that I would always shut my door before going out. Only then did she let Sesame stay.",
+        "covers": [],
+        "bold": []
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "abuse",
+        "zh": "虐待（animal abuse 虐待動物）",
+        "src": "102年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0107"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -12902,6 +13319,458 @@
      {
       "k": "體例",
       "t": "這一份的表 1，體例看的是格式、標點、大小寫；「優」與「可」併成一格，裡面只有一句：格式、標點、大小寫幾無錯誤。本篇要留意的有：分號連接兩個完整的句子（… convenient; it keeps people alive）；溫度寫成 30°C；MRT 全部大寫，Taiwan 首字母大寫。扣分規則另有一條管分段：未分段扣 1 分，題目也要求寫兩段，本篇照寫兩段。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "power outage",
+        "zh": "停電",
+        "own": true
+       },
+       {
+        "w": "run on",
+        "zh": "靠…運轉（run on electricity 靠電運轉）",
+        "own": true
+       },
+       {
+        "w": "appliance",
+        "zh": "家電",
+        "src": "98年指考 Q6、97年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0148",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0246"
+        ]
+       },
+       {
+        "w": "cut off",
+        "zh": "切斷、中斷",
+        "src": "95年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0225"
+        ]
+       },
+       {
+        "w": "run out of + N",
+        "zh": "用完",
+        "own": true
+       },
+       {
+        "w": "charge",
+        "zh": "充電",
+        "own": true
+       },
+       {
+        "w": "by candlelight",
+        "zh": "點著蠟燭、在燭光下",
+        "own": true
+       },
+       {
+        "w": "interact with + sb",
+        "zh": "和某人互動",
+        "src": "104年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359"
+        ]
+       },
+       {
+        "w": "go bad",
+        "zh": "（食物）壞掉",
+        "own": true
+       },
+       {
+        "w": "heatstroke",
+        "zh": "中暑",
+        "own": true
+       },
+       {
+        "w": "transportation",
+        "zh": "交通、運輸",
+        "src": "95年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0221"
+        ]
+       },
+       {
+        "w": "paralyzed",
+        "zh": "癱瘓的、停擺的",
+        "src": "94年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0192"
+        ]
+       },
+       {
+        "w": "come to a standstill",
+        "zh": "完全停擺",
+        "own": true
+       },
+       {
+        "w": "temporarily",
+        "zh": "暫時地",
+        "src": "101年學測 Q8、97年指考 Q9、91年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0308",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0161",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0224"
+        ]
+       },
+       {
+        "w": "accustomed",
+        "zh": "習慣於…的（be accustomed to + N／V-ing）",
+        "src": "98年指考參考試卷（99 課綱適用） Q5、83年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0338",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0002"
+        ]
+       },
+       {
+        "w": "take sth for granted",
+        "zh": "把…視為理所當然",
+        "own": true
+       },
+       {
+        "w": "convenient",
+        "zh": "方便的",
+        "src": "98年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0259"
+        ]
+       },
+       {
+        "w": "vital",
+        "zh": "極其重要的（play a vital role in + N）",
+        "src": "90年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0112"
+        ]
+       },
+       {
+        "w": "essential",
+        "zh": "不可或缺的、必要的",
+        "src": "104年學測 Q7、96年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0352",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0236"
+        ]
+       },
+       {
+        "w": "indispensable",
+        "zh": "不可或缺的",
+        "src": "109年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0022"
+        ]
+       },
+       {
+        "w": "necessity",
+        "zh": "必需品",
+        "own": true
+       },
+       {
+        "w": "luxury",
+        "zh": "奢侈品、奢侈的享受",
+        "own": true
+       },
+       {
+        "w": "primitive",
+        "zh": "原始的",
+        "src": "105年學測 Q14、104年學測 Q1、103年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0374",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0346",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0343"
+        ]
+       },
+       {
+        "w": "shortage",
+        "zh": "短缺",
+        "src": "101年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0113"
+        ]
+       },
+       {
+        "w": "entertainment",
+        "zh": "娛樂",
+        "src": "82年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0316"
+        ]
+       },
+       {
+        "w": "energy conservation",
+        "zh": "節約能源",
+        "src": "103年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0089"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "去年夏天颱風過境，我們社區停電停了整整兩天。",
+        "en": "Last summer, a typhoon caused a power outage in our neighborhood that lasted two whole days.",
+        "covers": [
+         "power outage"
+        ],
+        "bold": [
+         "power outage"
+        ]
+       },
+       {
+        "zh": "那時我才發現，家裡幾乎每樣東西都要靠電才能動。",
+        "en": "That was when I realized that almost everything in our home runs on electricity.",
+        "hint": "run on 後面接能源，表示「靠…運轉」，例如 run on electricity、run on batteries。",
+        "covers": [
+         "run on"
+        ],
+        "bold": [
+         "runs on electricity"
+        ]
+       },
+       {
+        "zh": "冷氣、洗衣機、電鍋這些家電全都不能用了。",
+        "en": "Appliances such as the air conditioner, the washing machine, and the rice cooker all stopped working.",
+        "covers": [
+         "appliance"
+        ],
+        "bold": [
+         "Appliances"
+        ]
+       },
+       {
+        "zh": "網路斷了，我的手機沒多久也沒電了。",
+        "en": "The Internet was cut off, and my phone soon ran out of power.",
+        "covers": [
+         "cut off",
+         "run out of + N"
+        ],
+        "bold": [
+         "was cut off",
+         "ran out of power"
+        ]
+       },
+       {
+        "zh": "我只好跑到附近還有電的便利商店去充電。",
+        "en": "I had to go to a nearby convenience store that still had power to charge it.",
+        "covers": [
+         "charge"
+        ],
+        "bold": [
+         "charge it"
+        ]
+       },
+       {
+        "zh": "晚上全家人點著蠟燭吃晚餐。",
+        "en": "In the evening, my family ate dinner by candlelight.",
+        "covers": [
+         "by candlelight"
+        ],
+        "bold": [
+         "by candlelight"
+        ]
+       },
+       {
+        "zh": "沒有手機也沒有電視，我們一家人的互動反而比平常多。",
+        "en": "Without our phones or the TV, we actually interacted with each other more than usual.",
+        "covers": [
+         "interact with + sb"
+        ],
+        "bold": [
+         "interacted with each other"
+        ]
+       },
+       {
+        "zh": "可是到了第二天，冰箱裡的肉和牛奶都壞了。",
+        "en": "By the second day, however, the meat and milk in the fridge had gone bad.",
+        "covers": [
+         "go bad"
+        ],
+        "bold": [
+         "had gone bad"
+        ]
+       },
+       {
+        "zh": "隔壁的阿嬤熱得受不了，差一點中暑。",
+        "en": "Our elderly neighbor could hardly stand the heat and nearly got heatstroke.",
+        "covers": [
+         "heatstroke"
+        ],
+        "bold": [
+         "heatstroke"
+        ]
+       },
+       {
+        "zh": "如果全世界都沒有電，大城市的交通系統會完全癱瘓。",
+        "en": "If the whole world had no electricity, the transportation systems in big cities would be completely paralyzed.",
+        "covers": [
+         "transportation",
+         "paralyzed"
+        ],
+        "bold": [
+         "transportation systems",
+         "paralyzed"
+        ]
+       },
+       {
+        "zh": "工廠會停工，整個社會幾乎會在一夕之間停擺。",
+        "en": "Factories would shut down, and society would come to a standstill almost overnight.",
+        "covers": [
+         "come to a standstill"
+        ],
+        "bold": [
+         "come to a standstill"
+        ]
+       },
+       {
+        "zh": "停電只是暫時的，大家還忍得過去；永遠沒有電，那就完全是另一回事了。",
+        "en": "When the power is out only temporarily, we can put up with it. A world with no electricity at all would be a completely different story.",
+        "covers": [
+         "temporarily"
+        ],
+        "bold": [
+         "temporarily"
+        ]
+       },
+       {
+        "zh": "我們太習慣有電的生活，早就把它當成理所當然了。",
+        "en": "We are so accustomed to having electricity that we take it for granted.",
+        "hint": "accustomed to 的 to 是介系詞，後面接名詞或 V-ing；「把某事視為理所當然」說 take sth for granted，sth 放在 take 和 for 中間。",
+        "covers": [
+         "accustomed",
+         "take sth for granted"
+        ],
+        "bold": [
+         "accustomed to having",
+         "take it for granted"
+        ]
+       },
+       {
+        "zh": "電讓生活方便很多，在現代生活中扮演非常重要的角色。",
+        "en": "Electricity makes our lives much more convenient and plays a vital role in modern life.",
+        "covers": [
+         "convenient",
+         "vital"
+        ],
+        "bold": [
+         "convenient",
+         "plays a vital role in"
+        ]
+       },
+       {
+        "zh": "對住在高樓的人來說，穩定的電力是不可或缺的，因為沒有電，電梯就不能動了。",
+        "en": "For people who live on high floors, a steady power supply is essential, because elevators can't run without it.",
+        "covers": [
+         "essential"
+        ],
+        "bold": [
+         "essential"
+        ]
+       },
+       {
+        "zh": "對很多工作來說，電腦早就是少不了的工具。",
+        "en": "For many jobs, computers have become indispensable.",
+        "covers": [
+         "indispensable"
+        ],
+        "bold": [
+         "indispensable"
+        ]
+       },
+       {
+        "zh": "在沒有電的世界裡，一杯冰涼的飲料會變成難得的奢侈。",
+        "en": "In a world without electricity, a cold drink would become a luxury.",
+        "covers": [
+         "luxury"
+        ],
+        "bold": [
+         "a luxury"
+        ]
+       },
+       {
+        "zh": "對現在的高中生來說，手機和網路幾乎是生活必需品，查資料、交作業都少不了。",
+        "en": "For high school students today, phones and the Internet are almost a necessity. We need them to look things up and turn in assignments.",
+        "covers": [
+         "necessity"
+        ],
+        "bold": [
+         "a necessity"
+        ]
+       },
+       {
+        "zh": "沒有冰箱保存食物，很快就會出現糧食短缺。",
+        "en": "Without refrigerators to keep food fresh, there would soon be food shortages.",
+        "covers": [
+         "shortage"
+        ],
+        "bold": [
+         "food shortages"
+        ]
+       },
+       {
+        "zh": "我們熟悉的娛樂，像是看影片、打電動，也會全部消失。",
+        "en": "The kinds of entertainment we know, such as watching videos and playing video games, would all disappear.",
+        "covers": [
+         "entertainment"
+        ],
+        "bold": [
+         "entertainment"
+        ]
+       },
+       {
+        "zh": "沒有電，人類等於回到原始的生活方式。",
+        "en": "Without electricity, people would have to go back to a primitive way of life.",
+        "covers": [
+         "primitive"
+        ],
+        "bold": [
+         "primitive"
+        ]
+       },
+       {
+        "zh": "與其想像沒有電的世界，不如從節約能源做起，好好珍惜得來不易的電。",
+        "en": "Instead of imagining a world without electricity, we should start with energy conservation and value the electricity we have.",
+        "covers": [
+         "energy conservation"
+        ],
+        "bold": [
+         "energy conservation"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "generate",
+        "zh": "產生（generate electricity 發電）",
+        "src": "100年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0129"
+        ]
+       },
+       {
+        "w": "efficient",
+        "zh": "有效率的（energy-efficient 節能的）",
+        "src": "107年學測 Q15、101年學測 Q7、89年聯考 Q13、88年推薦甄選 Q9、88年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0405",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0307",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0252",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0084",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0256"
+        ]
+       }
+      ]
      }
     ]
    }
@@ -12976,6 +13845,422 @@
      {
       "k": "體例",
       "t": "95 這一年的體例配分 2 分，這一份沒有說明看哪些地方；同時期的 97 學測表 1 寫明，體例看的是格式、標點與大小寫。故事裡有對話，標點最容易出錯：逗號與驚嘆號放在引號裡面（\"Happy anniversary, honey!\" he said）；一句話拆成兩半時，後半句開頭用小寫（\"Next time,\" she said, \"just ring the doorbell.\"）。人名 Linda、Mark、Lucky，星期 Friday 與地名 Taipei Zoo 都要大寫；Linda's、Mark's 的所有格不要漏掉撇號。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "anniversary",
+        "zh": "週年紀念（wedding anniversary 結婚紀念日）",
+        "src": "88年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0261"
+        ]
+       },
+       {
+        "w": "footsteps",
+        "zh": "腳步聲",
+        "own": true
+       },
+       {
+        "w": "sneak",
+        "zh": "偷偷地走（sneak up on sb 偷偷靠近某人）",
+        "src": "109年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0432"
+        ]
+       },
+       {
+        "w": "scream",
+        "zh": "尖叫",
+        "own": true
+       },
+       {
+        "w": "terrified",
+        "zh": "嚇壞了的",
+        "own": true
+       },
+       {
+        "w": "shatter",
+        "zh": "摔得粉碎",
+        "src": "115年學測 Q8、108年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0498",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0038"
+        ]
+       },
+       {
+        "w": "tremble",
+        "zh": "發抖",
+        "own": true
+       },
+       {
+        "w": "call the police",
+        "zh": "報警",
+        "own": true
+       },
+       {
+        "w": "protective",
+        "zh": "保護的（be protective of sb）",
+        "src": "92年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0205"
+        ]
+       },
+       {
+        "w": "bark",
+        "zh": "（狗）叫",
+        "own": true
+       },
+       {
+        "w": "wag one's tail",
+        "zh": "搖尾巴",
+        "own": true
+       },
+       {
+        "w": "take off",
+        "zh": "脫下、拿下",
+        "own": true
+       },
+       {
+        "w": "costume",
+        "zh": "戲服、扮裝的服裝",
+        "own": true
+       },
+       {
+        "w": "disguise",
+        "zh": "喬裝（disguise oneself as + N）",
+        "src": "106年學測 Q13、98年指考參考試卷（99 課綱適用） Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0388",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0337"
+        ]
+       },
+       {
+        "w": "surprise",
+        "zh": "驚喜、意外的事",
+        "src": "101年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0301"
+        ]
+       },
+       {
+        "w": "play a joke on sb",
+        "zh": "捉弄某人、開某人玩笑",
+        "own": true
+       },
+       {
+        "w": "bouquet",
+        "zh": "花束",
+        "own": true
+       },
+       {
+        "w": "relief",
+        "zh": "鬆一口氣（breathe a sigh of relief）",
+        "src": "101年學測 Q6、88年推薦甄選 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0306",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0082"
+        ]
+       },
+       {
+        "w": "recognize",
+        "zh": "認出",
+        "src": "108年學測 Q6、95年學測 Q10、85年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0411",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0220",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0286"
+        ]
+       },
+       {
+        "w": "amazed",
+        "zh": "驚訝的",
+        "src": "109年學測 Q2、99年學測 Q3、96年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0422",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0273",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0240"
+        ]
+       },
+       {
+        "w": "false alarm",
+        "zh": "虛驚一場、誤報",
+        "own": true
+       },
+       {
+        "w": "apologize to sb for + N",
+        "zh": "為了…向某人道歉",
+        "src": "85年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0025"
+        ]
+       },
+       {
+        "w": "embarrassing",
+        "zh": "令人難為情的、丟臉的",
+        "src": "106年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0380"
+        ]
+       },
+       {
+        "w": "don't know whether to laugh or cry",
+        "zh": "哭笑不得",
+        "own": true
+       },
+       {
+        "w": "burst out laughing",
+        "zh": "忍不住笑出來",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "爸媽出門慶祝結婚二十週年紀念日，家裡只剩下我和狗狗豆豆。",
+        "en": "My parents went out to celebrate their twentieth wedding anniversary, so only our dog, Doudou, and I were at home.",
+        "covers": [
+         "anniversary"
+        ],
+        "bold": [
+         "wedding anniversary"
+        ]
+       },
+       {
+        "zh": "我在廚房煮泡麵，忽然聽到客廳傳來咚、咚、咚的腳步聲。",
+        "en": "I was cooking instant noodles in the kitchen when I suddenly heard heavy footsteps coming from the living room.",
+        "covers": [
+         "footsteps"
+        ],
+        "bold": [
+         "footsteps"
+        ]
+       },
+       {
+        "zh": "我還沒回過神，就感覺有人悄悄走到我背後。",
+        "en": "Before I knew it, someone had sneaked up on me.",
+        "hint": "sneak up on sb 是「偷偷靠近某人」；sneak 的過去式寫 sneaked 或 snuck 都可以。",
+        "covers": [
+         "sneak"
+        ],
+        "bold": [
+         "sneaked up on me"
+        ]
+       },
+       {
+        "zh": "我一轉身，看到一隻巨大的大猩猩，忍不住放聲尖叫，整個人嚇壞了。",
+        "en": "I turned around, saw a huge gorilla, and screamed. I was absolutely terrified.",
+        "covers": [
+         "scream",
+         "terrified"
+        ],
+        "bold": [
+         "screamed",
+         "terrified"
+        ]
+       },
+       {
+        "zh": "我手上的碗掉到地上，摔得粉碎。",
+        "en": "The bowl in my hands fell to the floor and shattered.",
+        "covers": [
+         "shatter"
+        ],
+        "bold": [
+         "shattered"
+        ]
+       },
+       {
+        "zh": "我全身發抖，抓起手機就打 110 報警。",
+        "en": "Trembling all over, I grabbed my phone and called the police.",
+        "covers": [
+         "tremble",
+         "call the police"
+        ],
+        "bold": [
+         "Trembling all over",
+         "called the police"
+        ]
+       },
+       {
+        "zh": "豆豆平常很會保護家人，看到陌生人一定會叫。",
+        "en": "Doudou is usually very protective of our family and always barks at strangers.",
+        "covers": [
+         "protective",
+         "bark"
+        ],
+        "bold": [
+         "protective of",
+         "barks at"
+        ]
+       },
+       {
+        "zh": "奇怪的是，豆豆這次一聲也沒叫，反而搖著尾巴跑了過去。",
+        "en": "Strangely, this time Doudou didn't bark at all. Instead, he ran over, wagging his tail.",
+        "covers": [
+         "wag one's tail"
+        ],
+        "bold": [
+         "wagging his tail"
+        ]
+       },
+       {
+        "zh": "這時大猩猩把頭套拿了下來，竟然是我哥哥！",
+        "en": "Then the gorilla took off its mask. It was my brother!",
+        "covers": [
+         "take off"
+        ],
+        "bold": [
+         "took off"
+        ]
+       },
+       {
+        "zh": "原來哥哥跟話劇社借了猩猩裝，打算喬裝成大猩猩，等爸媽回來給他們一個驚喜。",
+        "en": "It turned out that my brother had borrowed a gorilla costume from his drama club. He planned to disguise himself as a gorilla and give our parents a surprise when they got home.",
+        "hint": "「喬裝成…」說 disguise oneself as + N，也可以說 be disguised as + N。",
+        "covers": [
+         "costume",
+         "disguise",
+         "surprise"
+        ],
+        "bold": [
+         "costume",
+         "disguise himself as",
+         "a surprise"
+        ]
+       },
+       {
+        "zh": "他說他只是想先捉弄我一下，看看效果好不好。",
+        "en": "He said he just wanted to play a joke on me first to see if it worked.",
+        "hint": "「捉弄某人」說 play a joke on sb 或 play a trick on sb，介系詞用 on。",
+        "covers": [
+         "play a joke on sb"
+        ],
+        "bold": [
+         "play a joke on me"
+        ]
+       },
+       {
+        "zh": "他手上還捧著一束玫瑰花，要送給媽媽。",
+        "en": "He was also holding a bouquet of roses for Mom.",
+        "covers": [
+         "bouquet"
+        ],
+        "bold": [
+         "bouquet"
+        ]
+       },
+       {
+        "zh": "知道真相以後，我總算鬆了一大口氣。",
+        "en": "When I learned the truth, I finally breathed a huge sigh of relief.",
+        "covers": [
+         "relief"
+        ],
+        "bold": [
+         "breathed a huge sigh of relief"
+        ]
+       },
+       {
+        "zh": "原來豆豆一聽到腳步聲，就認出是哥哥了。",
+        "en": "Doudou had recognized my brother's footsteps right away.",
+        "covers": [
+         "recognize"
+        ],
+        "bold": [
+         "recognized"
+        ]
+       },
+       {
+        "zh": "我也很驚訝，那套猩猩裝看起來居然那麼逼真。",
+        "en": "I was also amazed at how real the costume looked.",
+        "covers": [
+         "amazed"
+        ],
+        "bold": [
+         "amazed at"
+        ]
+       },
+       {
+        "zh": "警察趕到以後，我只好跟他們解釋這是一場誤會。",
+        "en": "When the police arrived, I had to explain that it was a false alarm.",
+        "covers": [
+         "false alarm"
+        ],
+        "bold": [
+         "a false alarm"
+        ]
+       },
+       {
+        "zh": "哥哥也向警察道歉，說不好意思讓他們白跑一趟。",
+        "en": "My brother also apologized to the officers for wasting their time.",
+        "hint": "apologize to 後面接道歉的對象，for 後面接道歉的原因。",
+        "covers": [
+         "apologize to sb for + N"
+        ],
+        "bold": [
+         "apologized to the officers for"
+        ]
+       },
+       {
+        "zh": "那是我這輩子打過最丟臉的一通報警電話。",
+        "en": "It was the most embarrassing call to the police I have ever made.",
+        "covers": [
+         "embarrassing"
+        ],
+        "bold": [
+         "embarrassing"
+        ]
+       },
+       {
+        "zh": "爸媽回家聽完整件事，真是哭笑不得。",
+        "en": "When my parents came home and heard the whole story, they didn't know whether to laugh or cry.",
+        "covers": [
+         "don't know whether to laugh or cry"
+        ],
+        "bold": [
+         "didn't know whether to laugh or cry"
+        ]
+       },
+       {
+        "zh": "最後媽媽忍不住笑了出來，說這是她收過最難忘的紀念日禮物。",
+        "en": "In the end, Mom burst out laughing and said it was the most unforgettable anniversary gift she had ever received.",
+        "covers": [
+         "burst out laughing"
+        ],
+        "bold": [
+         "burst out laughing"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "obediently",
+        "zh": "順從地、聽話地",
+        "src": "110年學測 Q3、104年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0438",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0355"
+        ]
+       },
+       {
+        "w": "loyal",
+        "zh": "忠心的",
+        "src": "94年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0201"
+        ]
+       }
+      ]
      }
     ]
    }
