@@ -5634,6 +5634,315 @@
       "t": "表一「優」這一格要的是用字精確、得宜，且幾無拼字、大小寫錯誤。187 個不同詞形之中，四級以上 10 個，占 5.3%：application、chemistry、collector、cram、elementary、engineering、guarantee、lab、pension、recycle。其中 cram 是六級、wastewater 詞彙表沒有收錄，兩處都保留，理由見範文下方的說明。collector 出自官方自己給的英譯 waste collectors with a master's degree，不是另造的說法。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "earn / hold a master's degree",
+        "zh": "取得／擁有碩士學位",
+        "src": "107年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0396"
+        ]
+       },
+       {
+        "w": "a high school diploma",
+        "zh": "高中文憑",
+        "src": "103年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0339"
+        ]
+       },
+       {
+        "w": "a recession",
+        "zh": "經濟衰退、不景氣",
+        "src": "92年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0214"
+        ]
+       },
+       {
+        "w": "a job vacancy / a vacant position",
+        "zh": "職缺",
+        "src": "115年學測 Q3、106年學測 Q3、97年指考 Q1、94年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0493",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0378",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0153",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0201"
+        ]
+       },
+       {
+        "w": "an applicant",
+        "zh": "應徵者、報考者",
+        "own": true
+       },
+       {
+        "w": "be overqualified for + N",
+        "zh": "學經歷超出（某份工作）所需",
+        "own": true
+       },
+       {
+        "w": "job security",
+        "zh": "工作保障",
+        "own": true
+       },
+       {
+        "w": "a highly competitive society",
+        "zh": "競爭激烈的社會",
+        "src": "100年學測 Q12、99年學測 Q9、92年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0297",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0279",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0159"
+        ]
+       },
+       {
+        "w": "stand out from + N",
+        "zh": "從…之中脫穎而出",
+        "src": "90年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0232"
+        ]
+       },
+       {
+        "w": "a gap between A and B",
+        "zh": "A 與 B 之間的落差",
+        "own": true
+       },
+       {
+        "w": "qualifications",
+        "zh": "資格、條件（學歷、技能、經驗）",
+        "src": "110年指考 Q4、97年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0004",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0159"
+        ]
+       },
+       {
+        "w": "major in + N",
+        "zh": "主修…",
+        "own": true
+       },
+       {
+        "w": "pursue a career in + N",
+        "zh": "在…領域發展",
+        "src": "106年學測 Q2、106年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0377",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0051"
+        ]
+       },
+       {
+        "w": "do an internship",
+        "zh": "實習",
+        "own": true
+       },
+       {
+        "w": "gain practical experience",
+        "zh": "累積實務經驗",
+        "src": "101年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0307"
+        ]
+       },
+       {
+        "w": "be fluent in + N",
+        "zh": "（某種語言）說得流利",
+        "src": "98年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0144"
+        ]
+       },
+       {
+        "w": "a professional certificate / license",
+        "zh": "專業證照",
+        "src": "98年指考 Q1、95年學測 Q13、94年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0143",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0223",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0188"
+        ]
+       },
+       {
+        "w": "equip sb with + N",
+        "zh": "讓某人具備…",
+        "src": "110年學測 Q14、95年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0449",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0173"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "台灣的大學越開越多，大部分年輕人已經不滿足於高中文憑，很多人還繼續唸碩士。",
+        "en": "As more and more universities have opened in Taiwan, most young people are no longer satisfied with a high school diploma, and many go on to earn a master's degree.",
+        "covers": [
+         "a high school diploma",
+         "earn / hold a master's degree"
+        ],
+        "bold": [
+         "a high school diploma",
+         "earn a master's degree"
+        ]
+       },
+       {
+        "zh": "經濟不景氣的時候，公司很少開新的職位。",
+        "en": "During a recession, companies create very few new positions.",
+        "covers": [
+         "a recession"
+        ],
+        "bold": [
+         "During a recession"
+        ]
+       },
+       {
+        "zh": "一個公家職缺，往往吸引幾十個高學歷的人來報考。",
+        "en": "A single government job vacancy often attracts dozens of highly educated applicants.",
+        "covers": [
+         "a job vacancy / a vacant position",
+         "an applicant"
+        ],
+        "bold": [
+         "job vacancy",
+         "applicants"
+        ]
+       },
+       {
+        "zh": "其中很多人的學經歷其實超出這份工作所需，可是他們看重的是工作保障。",
+        "en": "Many of them are overqualified for the job, but what they value most is job security.",
+        "hint": "overqualified 後面接 for，帶出那份工作。",
+        "covers": [
+         "be overqualified for + N",
+         "job security"
+        ],
+        "bold": [
+         "overqualified for the job",
+         "job security"
+        ]
+       },
+       {
+        "zh": "在競爭這麼激烈的社會，光靠一張文憑，已經很難從其他應徵者當中脫穎而出。",
+        "en": "In such a highly competitive society, a degree alone can hardly make anyone stand out from other applicants.",
+        "covers": [
+         "a highly competitive society",
+         "stand out from + N"
+        ],
+        "bold": [
+         "highly competitive society",
+         "stand out from other applicants"
+        ]
+       },
+       {
+        "zh": "大學教的東西，和雇主真正需要的能力之間，常常有一段落差。",
+        "en": "There is often a gap between what universities teach and what employers actually need.",
+        "hint": "a gap between [A] and [B]：A、B 可以是名詞，也可以是 what 帶出的名詞子句，兩邊寫成相同的結構。",
+        "covers": [
+         "a gap between A and B"
+        ],
+        "bold": [
+         "a gap between what universities teach and what employers actually need"
+        ]
+       },
+       {
+        "zh": "雇主看的條件，除了學歷，還有技能和經驗。",
+        "en": "Besides education, the qualifications employers look for include skills and experience.",
+        "covers": [
+         "qualifications"
+        ],
+        "bold": [
+         "qualifications"
+        ]
+       },
+       {
+        "zh": "我打算主修餐旅管理，因為我想在飯店業發展。",
+        "en": "I plan to major in hospitality management because I want to pursue a career in the hotel industry.",
+        "hint": "major 在這裡當動詞，後面接 in；pursue 是及物動詞，直接接 a career。",
+        "covers": [
+         "major in + N",
+         "pursue a career in + N"
+        ],
+        "bold": [
+         "major in",
+         "pursue a career in"
+        ]
+       },
+       {
+        "zh": "大一開始，我會利用週末在飯店櫃檯打工，累積實務經驗。",
+        "en": "Starting from my first year, I will work part-time at a hotel front desk on weekends to gain practical experience.",
+        "covers": [
+         "gain practical experience"
+        ],
+        "bold": [
+         "gain practical experience"
+        ]
+       },
+       {
+        "zh": "大三那年，我打算申請到日本的度假村實習。",
+        "en": "In my third year, I plan to apply to do an internship at a resort in Japan.",
+        "covers": [
+         "do an internship"
+        ],
+        "bold": [
+         "do an internship"
+        ]
+       },
+       {
+        "zh": "畢業之前，我要把日文練到流利，也要考到導遊執照。",
+        "en": "Before I graduate, I want to be fluent in Japanese and earn a professional tour guide license.",
+        "hint": "fluent in 後面接語言；說人說得流利也可以寫 speak fluent Japanese。",
+        "covers": [
+         "be fluent in + N",
+         "a professional certificate / license"
+        ],
+        "bold": [
+         "fluent in Japanese",
+         "professional tour guide license"
+        ]
+       },
+       {
+        "zh": "這些經驗會讓我具備課本上學不到的能力。",
+        "en": "These experiences will equip me with skills that no textbook can teach.",
+        "hint": "equip 後面先接人，再用 with 帶出具備的能力。",
+        "covers": [
+         "equip sb with + N"
+        ],
+        "bold": [
+         "equip me with"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "preliminary screening",
+        "zh": "初選、初步篩選（講的是招考流程）",
+        "src": "102年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0109"
+        ]
+       },
+       {
+        "w": "an incentive",
+        "zh": "誘因（站上考的是大學用獎學金吸引學生）",
+        "src": "103年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0087"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5753,6 +6062,265 @@
       ]
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "Judging from the title, …",
+        "zh": "從書名看來，…",
+        "own": true
+       },
+       {
+        "w": "judge sb by their appearance",
+        "zh": "以貌取人",
+        "src": "98年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0260"
+        ]
+       },
+       {
+        "w": "peer pressure",
+        "zh": "同儕壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "accept sb as they are",
+        "zh": "接受某人原本的樣子",
+        "own": true
+       },
+       {
+        "w": "respect + N",
+        "zh": "尊重…",
+        "src": "82年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0320"
+        ]
+       },
+       {
+        "w": "pay sb a compliment",
+        "zh": "稱讚某人（compliment 是可數名詞，也可以說 give sb compliments）",
+        "src": "107年指考 Q4、93年學測 Q10、87年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0044",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0190",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0063"
+        ]
+       },
+       {
+        "w": "speak up",
+        "zh": "勇敢說出來、大聲說出意見",
+        "own": true
+       },
+       {
+        "w": "leadership",
+        "zh": "領導能力",
+        "src": "98年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0266"
+        ]
+       },
+       {
+        "w": "overcome one's fear of + N",
+        "zh": "克服對…的恐懼",
+        "src": "101年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0314"
+        ]
+       },
+       {
+        "w": "inspire sb to + V",
+        "zh": "激勵某人去做…",
+        "src": "104年學測 Q12、101年學測 Q3、92年指考 Q3、91年指考 Q8、87年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0357",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0303",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0207",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0222",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0266"
+        ]
+       },
+       {
+        "w": "take the initiative",
+        "zh": "主動、帶頭去做",
+        "src": "91年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0216"
+        ]
+       },
+       {
+        "w": "encouragement",
+        "zh": "鼓勵（regain one's confidence 重拾信心）",
+        "src": "91年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0215"
+        ]
+       },
+       {
+        "w": "courageous",
+        "zh": "勇敢的、有膽量的",
+        "src": "98年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0256"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "從書名看來，這本書談的大概是不要以貌取人。",
+        "en": "Judging from the title, the book is probably about not judging people by their appearance.",
+        "hint": "Judging from 放句首，意思是「從…判斷」，後面接名詞。",
+        "covers": [
+         "Judging from the title, …",
+         "judge sb by their appearance"
+        ],
+        "bold": [
+         "Judging from the title",
+         "judging people by their appearance"
+        ]
+       },
+       {
+        "zh": "作者可能會提到，同儕壓力讓很多青少年不敢做自己。",
+        "en": "The author may point out that peer pressure keeps many teenagers from being themselves.",
+        "hint": "keep sb from + V-ing：讓某人無法做某事。",
+        "covers": [
+         "peer pressure"
+        ],
+        "bold": [
+         "peer pressure"
+        ]
+       },
+       {
+        "zh": "尊重別人，就是接受每個人原本的樣子，也包括我們自己。",
+        "en": "Respecting others means accepting people as they are, including ourselves.",
+        "covers": [
+         "respect + N",
+         "accept sb as they are"
+        ],
+        "bold": [
+         "Respecting others",
+         "accepting people as they are"
+        ]
+       },
+       {
+        "zh": "與其笑新同學的口音，不如稱讚她在課堂上勇於發言。",
+        "en": "Instead of laughing at a new classmate's accent, we could pay her a compliment on how bravely she speaks up in class.",
+        "hint": "pay sb a compliment on + N：為了某件事稱讚某人。",
+        "covers": [
+         "pay sb a compliment",
+         "speak up"
+        ],
+        "bold": [
+         "pay her a compliment",
+         "speaks up"
+        ]
+       },
+       {
+        "zh": "作者大概會主張，領導能力是任何人都學得會的。",
+        "en": "The author will probably argue that leadership is something anyone can learn.",
+        "covers": [
+         "leadership"
+        ],
+        "bold": [
+         "leadership"
+        ]
+       },
+       {
+        "zh": "書的後半部，可能會教讀者怎麼克服對失敗的恐懼。",
+        "en": "The second half may teach readers how to overcome their fear of failure.",
+        "hint": "overcome 是及物動詞，後面直接接要克服的東西。",
+        "covers": [
+         "overcome one's fear of + N"
+        ],
+        "bold": [
+         "overcome their fear of failure"
+        ]
+       },
+       {
+        "zh": "我選這本書，是因為我當上了籃球隊長，卻不知道比分落後時怎麼激勵隊友不放棄。",
+        "en": "I chose this book because I have just become captain of our basketball team, yet I have no idea how to inspire my teammates to keep fighting when we are behind.",
+        "hint": "inspire sb to + 原形動詞：激勵某人去做某事。",
+        "covers": [
+         "inspire sb to + V"
+        ],
+        "bold": [
+         "inspire my teammates to keep fighting"
+        ]
+       },
+       {
+        "zh": "練球時，我總是等教練下指令，從來不主動帶頭。",
+        "en": "At practice, I always wait for the coach to tell us what to do instead of taking the initiative.",
+        "hint": "take the initiative 的 the 不能省略。",
+        "covers": [
+         "take the initiative"
+        ],
+        "bold": [
+         "taking the initiative"
+        ]
+       },
+       {
+        "zh": "上次輸球以後，是教練的鼓勵讓我重拾信心。",
+        "en": "After our last loss, it was the coach's encouragement that helped me regain my confidence.",
+        "covers": [
+         "encouragement"
+        ],
+        "bold": [
+         "encouragement"
+        ]
+       },
+       {
+        "zh": "我希望讀完這本書，能成為一個更有膽量的隊長，在球隊需要的時候站出來說話。",
+        "en": "I hope the book will help me become a more courageous captain, one who speaks up when the team needs it.",
+        "covers": [
+         "courageous",
+         "speak up"
+        ],
+        "bold": [
+         "courageous",
+         "speaks up"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "indifference",
+        "zh": "漠不關心、冷淡（站上考的是對同學漠不關心、不參加班上活動）",
+        "src": "103年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0082"
+        ]
+       },
+       {
+        "w": "conquer sb's heart",
+        "zh": "贏得某人的心（書名 Conquer Your Fears 的 conquer 是另一個意思：戰勝）",
+        "src": "105年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0372"
+        ]
+       },
+       {
+        "w": "differentiate between A and B",
+        "zh": "分辨 A 與 B",
+        "src": "93年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0196"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5820,6 +6388,307 @@
      {
       "k": "體例",
       "t": "104 指考這一份評分原則說明沒有給分項配分，也沒有附分項式評分指標表，正文寫到體例的地方只有一條：字數明顯不足或未依提示分二段的作文，扣總分 1 分。這一篇 306 個單詞、文分兩段，兩項都在規定之內。評分重點另列「拼字與標點符號是否正確得當」，這一篇用到分號兩處，分號前後各自都是完整的句子。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "clumsy",
+        "zh": "笨手笨腳的、不靈活的",
+        "src": "112年學測 Q1、101年指考 Q3、98年學測 Q6、97年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0461",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0115",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0245"
+        ]
+       },
+       {
+        "w": "under the guidance of sb",
+        "zh": "在某人的指導下",
+        "src": "96年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0231"
+        ]
+       },
+       {
+        "w": "demonstrate + N",
+        "zh": "示範…",
+        "src": "105年學測 Q7、94年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0367",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0205"
+        ]
+       },
+       {
+        "w": "follow the instructions",
+        "zh": "照著指示做",
+        "src": "87年推薦甄選 Q1、87年聯考 Q9、86年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0061",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0272",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0281"
+        ]
+       },
+       {
+        "w": "step by step",
+        "zh": "一步一步地",
+        "own": true
+       },
+       {
+        "w": "feel awkward",
+        "zh": "覺得不自在、彆扭",
+        "src": "92年學測補考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166"
+        ]
+       },
+       {
+        "w": "make progress",
+        "zh": "進步",
+        "src": "95年學測 Q5、85年聯考 Q8、81年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0215",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0291",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0326"
+        ]
+       },
+       {
+        "w": "get discouraged",
+        "zh": "灰心、氣餒",
+        "src": "96年學測 Q8、84年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0233",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0015"
+        ]
+       },
+       {
+        "w": "be patient with + N",
+        "zh": "對…有耐心",
+        "src": "92年指考 Q1、90年學測 Q4、83年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0205",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0109",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0307"
+        ]
+       },
+       {
+        "w": "persist in + V-ing",
+        "zh": "堅持做…",
+        "src": "101年指考 Q4、94年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+        ]
+       },
+       {
+        "w": "get the hang of + N",
+        "zh": "抓到…的訣竅",
+        "own": true
+       },
+       {
+        "w": "sharpen one's skills",
+        "zh": "磨練技巧",
+        "src": "81年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0326"
+        ]
+       },
+       {
+        "w": "put oneself in sb's shoes",
+        "zh": "站在某人的立場想",
+        "own": true
+       },
+       {
+        "w": "be grateful to sb for + N",
+        "zh": "因為…感謝某人",
+        "src": "98年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0144"
+        ]
+       },
+       {
+        "w": "show one's appreciation for + N",
+        "zh": "對…表達謝意",
+        "src": "98年指考 Q4、96年指考 Q3、93年敏督利颱風受災地區考生補救考試 Q1、87年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0146",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0165",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0091",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0270"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "高一加入吉他社的時候，我的手指笨到連一個和弦都按不好。",
+        "en": "When I joined the guitar club in tenth grade, my fingers were so clumsy that I could not even press a single chord properly.",
+        "covers": [
+         "clumsy"
+        ],
+        "bold": [
+         "clumsy"
+        ]
+       },
+       {
+        "zh": "在社團一位學長的指導下，我從最基本的和弦開始練。",
+        "en": "Under the guidance of a senior in the club, I started with the most basic chords.",
+        "covers": [
+         "under the guidance of sb"
+        ],
+        "bold": [
+         "Under the guidance of"
+        ]
+       },
+       {
+        "zh": "他每次都先示範一遍，再讓我自己彈。",
+        "en": "Each time, he would demonstrate a chord first and then let me try it on my own.",
+        "covers": [
+         "demonstrate + N"
+        ],
+        "bold": [
+         "demonstrate a chord"
+        ]
+       },
+       {
+        "zh": "我照著他的指示，一步一步地練。",
+        "en": "I followed his instructions and practiced step by step.",
+        "covers": [
+         "follow the instructions",
+         "step by step"
+        ],
+        "bold": [
+         "followed his instructions",
+         "step by step"
+        ]
+       },
+       {
+        "zh": "一開始，在其他社員面前彈琴讓我覺得很不自在。",
+        "en": "At first I felt awkward playing in front of other club members.",
+        "hint": "feel awkward 後面可以接 V-ing，說明做什麼事讓人不自在。",
+        "covers": [
+         "feel awkward"
+        ],
+        "bold": [
+         "felt awkward"
+        ]
+       },
+       {
+        "zh": "練了兩個星期還是沒什麼進步，我開始灰心。",
+        "en": "After two weeks of practice I had made little progress, and I began to get discouraged.",
+        "hint": "progress 不可數，不加 a，也不加 s。",
+        "covers": [
+         "make progress",
+         "get discouraged"
+        ],
+        "bold": [
+         "made little progress",
+         "get discouraged"
+        ]
+       },
+       {
+        "zh": "就算我同一個地方錯了一次又一次，學長對我還是很有耐心。",
+        "en": "He was always patient with me, even when I made the same mistake again and again.",
+        "covers": [
+         "be patient with + N"
+        ],
+        "bold": [
+         "patient with me"
+        ]
+       },
+       {
+        "zh": "即使指尖很痛，我還是堅持每天練半小時。",
+        "en": "I persisted in practicing for half an hour every day, even when my fingertips hurt.",
+        "hint": "persist in 後面接 V-ing。",
+        "covers": [
+         "persist in + V-ing"
+        ],
+        "bold": [
+         "persisted in practicing"
+        ]
+       },
+       {
+        "zh": "一個月以後，我終於抓到換和弦的訣竅。",
+        "en": "After a month, I finally got the hang of switching between chords.",
+        "hint": "get the hang of 後面接名詞或 V-ing，口語常說 get the hang of it。",
+        "covers": [
+         "get the hang of + N"
+        ],
+        "bold": [
+         "got the hang of"
+        ]
+       },
+       {
+        "zh": "這次經驗讓我明白，磨練技巧沒有捷徑。",
+        "en": "The experience taught me that there are no shortcuts to sharpening one's skills.",
+        "covers": [
+         "sharpen one's skills"
+        ],
+        "bold": [
+         "sharpening one's skills"
+        ]
+       },
+       {
+        "zh": "現在換我帶新社員，我會試著站在他們的立場想。",
+        "en": "Now that I help new members myself, I try to put myself in their shoes.",
+        "covers": [
+         "put oneself in sb's shoes"
+        ],
+        "bold": [
+         "put myself in their shoes"
+        ]
+       },
+       {
+        "zh": "我很感謝學長的耐心，也寫了一張卡片，謝謝他教我的一切。",
+        "en": "I am grateful to him for his patience, and I wrote him a card to show my appreciation for everything he taught me.",
+        "hint": "grateful to 後面接人，for 後面接感謝的事情。",
+        "covers": [
+         "be grateful to sb for + N",
+         "show one's appreciation for + N"
+        ],
+        "bold": [
+         "grateful to him for his patience",
+         "show my appreciation for"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "out of practice",
+        "zh": "久沒練習而生疏了（這一題寫的是學會的過程）",
+        "src": "91年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0135"
+        ]
+       },
+       {
+        "w": "intonation",
+        "zh": "語調（站上考的是想說英文不帶口音，就要學正確的語調）",
+        "src": "86年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0281"
+        ]
+       },
+       {
+        "w": "expect nothing but perfection",
+        "zh": "要求完美，不容一點差錯",
+        "src": "89年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0243"
+        ]
+       }
+      ]
      }
     ]
    }
