@@ -6821,7 +6821,45 @@
    "officialTitle": "Growing up is a/an _____ experience",
    "prompt": "以“Growing up is a/an _____ experience”為題寫一篇英文作文，描述你成長的經驗是令人興奮的(exciting)，令人困惑的(confusing)，快樂的(happy)或是痛苦的 (painful)。除了這些形容詞之外，你也可以用其他的形容詞來描述你成長的經驗。請務必提出具體的例子以描述你成長的經驗。(注意：如果你用的形容詞以子音起始，請選擇冠詞“a”，如“a confusing experience”；如果你用的形容詞以母音起始，請選擇冠詞“an”，如“an exciting experience”。)",
    "images": [],
-   "source": "大學入學考試中心 91 學年度學科能力測驗補考英文考科"
+   "source": "大學入學考試中心 91 學年度學科能力測驗補考英文考科",
+   "model": {
+    "essay": {
+     "words": 340,
+     "p1": "Growing up is a confusing experience, mostly because the adults around me cannot seem to decide how old I am. When I want to stay out with my friends until ten, my parents remind me that I am only sixteen. When I forget to fold my laundry, the same parents ask how someone my age can still act like a child. School sends mixed messages too. Our teachers keep telling us to think for ourselves, yet they also tell us exactly what to write on every test. Even my body has joined in: I have grown eleven centimeters in two years, so jeans that fit in September are too short by June. Some mornings I feel ready to take on the whole world; by dinnertime, I wish someone would make every decision for me.",
+     "p2": "Nothing confused me more than choosing between the science track and the humanities track near the end of my first year of senior high. Both of my parents said the decision was mine, and then each of them told me what to choose. My father, an engineer, said science would give me more choices later. My mother told me to pick whatever I enjoyed, which sounded easy until I realized I had no idea. Then my homeroom teacher pointed at my report card: my math scores were higher, but history was the only class I had never fallen asleep in. What finally helped me decide was a family trip to Kaohsiung over winter break. At the Pier-2 Art Center, a college student working part-time as a guide had told us that the old warehouses once stored sugar and fishmeal. I could picture myself leading a tour like that one day, but not solving physics problems in a lab. So I chose the humanities track. I am still not sure it was the right choice, but I know that nobody else, not even my parents, could have made it for me. Perhaps that is what growing up means: the confusion stays, and I learn to decide anyway.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，而這一年大考中心沒有公布評分說明，看不出多寫會不會扣分；本篇寫了 340 個單詞，篇幅與站上其他範文相近，是為了把成長的經驗和例子都寫具體。\n題目讓考生自己選形容詞，本篇選的是 confusing。第一段先說成長為什麼令人困惑：身邊的大人一下子把我當小孩、一下子又把我當大人，學校的要求也前後不一，連自己的身體都一直在變；第二段再用高一快結束時選組的經過當作具體的例子：爸媽都說由我決定，卻又各自告訴我該選哪一組，最後幫我做決定的，是寒假在高雄駁二聽導覽的經驗。\n形容詞前面的冠詞要配對：confusing 以子音開頭，所以寫 a confusing experience。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "zh": {
+      "p1": "成長是一段令人困惑的經驗，主要是因為身邊的大人一下子把我當小孩，一下子又把我當大人。我想跟朋友在外面待到十點，爸媽就提醒我，我才十六歲；我忘了把洗好的衣服摺起來，同樣是這對爸媽，又問我都這個年紀了，怎麼還像個小孩子。學校給的訊息也一樣前後不一。老師一直叫我們要自己思考，卻又告訴我們每一次考試該寫什麼答案。就連我的身體也是這樣：兩年之間我長高了十一公分，九月還合身的牛仔褲，到了六月就短了一截。有些早上，我覺得自己什麼都辦得到；到了晚餐時間，卻希望有人替我做所有的決定。",
+      "p2": "最讓我困惑的，是高一快結束時要在自然組和社會組之間做選擇。爸爸媽媽都說這件事由我自己決定，接著卻各自告訴我該選哪一組。爸爸是工程師，他說念自然組，以後的選擇比較多。媽媽叫我選自己喜歡的，聽起來很簡單，等到真的要選，我才發現自己根本不知道喜歡什麼。接著導師指著我的成績單：數學分數比較高，可是歷史卻是我唯一一堂從來沒打過瞌睡的課。最後幫我做決定的，是寒假全家去高雄的那一趟旅行。在駁二藝術特區，一位打工當導覽員的大學生告訴我們，這些老倉庫以前是用來存放砂糖和魚粉的。我想像得到自己有一天也像那位大學生一樣帶團導覽，卻想像不出自己在實驗室裡解物理題目的樣子。於是我選了社會組。我到現在還不確定這個選擇對不對，可是我知道，沒有別人能替我做這個決定，就連爸媽也不行。也許這就是長大的意思：困惑一直都在，我還是得學著做決定。"
+     }
+    },
+    "rubric": {
+     "intro": "91 學測補考的英文作文，大考中心只公布了試卷和選擇題答案，沒有公布評分說明，也沒有公布佳作，所以這一題沒有官方資料可以對照。題目本身的要求有四項：文長 120 個單詞左右；以 “Growing up is a/an _____ experience” 為題，空格自己選一個形容詞，冠詞 a／an 要配對；描述自己成長的經驗；務必提出具體的例子。\n下面的五項對照，借用大考中心從 95 學測起公布的評分項目，逐項說明範文怎麼寫；這五項不是 91 這一年公布的規定，所以這裡不寫配分。",
+     "keypoint": "這一題最容易失分的，是只寫感想、沒有例子。題目寫明「請務必提出具體的例子」，如果只寫「長大很令人困惑，因為有很多事情要自己決定」，讀者看不到究竟是哪些事情；要寫出某一次真的發生過的事，有時間、有人物、有經過，讀者才看得出這個形容詞從哪裡來。\n形容詞選好之後，全篇都要扣住它。本篇選 confusing，第一段的三種情況、第二段的選組經過，寫的都是讓人困惑的地方，最後一句的 the confusion stays 再回到這個字。冠詞也要看清楚：題目的注意事項說子音起始用 a、母音起始用 an，而判斷的依據是形容詞開頭的發音，不是字母，所以寫 an unforgettable experience，卻寫 a unique experience。\n時態跟著兩段的任務走：第一段講現在常常發生的情況，用現在式；兩年長高十一公分是到現在為止的變化，用現在完成式（have grown）；第二段講高一選組那一次，用過去式；在那之前一直沒發生過的事，以及比選組更早的寒假導覽，用過去完成式（had never fallen asleep、had told）；最後兩句說到現在的想法，再回到現在式。"
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "第一段先寫成長令人困惑的原因：身邊的大人一下子把我當小孩，一下子又把我當大人。想在外面待到十點，爸媽說我才十六歲；忘了摺衣服，同樣的爸媽又問我這個年紀怎麼還像小孩。學校也一樣，老師叫我們自己思考，卻又告訴我們每次考試該寫什麼；連身體也在變，兩年長高十一公分，九月合身的牛仔褲到六月就短了。第二段的例子有具體的時間、地點、人物和經過：高一快結束時要選自然組或社會組，爸媽都說由我決定，接著爸爸（工程師）說自然組以後的選擇比較多，媽媽叫我選喜歡的，導師則指著成績單：數學分數比較高，歷史卻是我唯一沒打過瞌睡的課。最後幫我決定的是寒假全家去高雄，在駁二藝術特區聽打工的大學生導覽，知道那些老倉庫以前存放砂糖和魚粉；想像得到自己有一天也帶團導覽，想像不出自己在實驗室解物理題，於是選了社會組。選組是高中生都會遇到的事，讀者一看就懂；駁二倉庫的用途照實寫，不是編出來的。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段第一句 Growing up is a confusing experience 直接用題目的句子回答，後半句 mostly because the adults around me cannot seem to decide how old I am 說出主要原因。接著兩個 When 句並排，寫爸媽前後說法不一；School sends mixed messages too 用 too 把學校接上，Even my body has joined in 再把身體接上，三種情況一種比一種貼近自己。最後一句用分號把同一天的早上和晚餐時間放在一起對比：有時覺得什麼都辦得到，到了晚上又希望有人替自己做決定。\n第二段第一句 Nothing confused me more than … 用 confused 接住第一段的 confusing，帶出例子。接著先寫爸媽（Both of my parents …、My father …、My mother …），再寫導師（Then my homeroom teacher …），三個人的意見各不相同，正好呼應第一段說的大人前後不一；接著用 What finally helped me decide 帶出寒假在駁二聽導覽的經驗，再用 So I chose the humanities track 交代結果。最後一句 Perhaps that is what growing up means 回到題目的 growing up，the confusion stays 回到第一段的 confusing。"
+     },
+     {
+      "k": "文法句構",
+      "t": "[cannot seem to] decide (how old I am)：can't seem to + 原形動詞，意思是「好像怎麼都沒辦法……」；how old I am 是名詞子句，用直述句的語序。年紀本來不是誰能決定的，這裡用的是誇張的說法：大人對待我的方式一下子像對小孩，一下子像對大人，好像還沒決定我幾歲。\npick whatever I enjoyed[, which] sounded easy：前面有逗號的 which 可以指前面整句話的意思，這裡指「選自己喜歡的」；that 不能這樣用。\nthe only class [I had never fallen asleep in]：關係子句省略了 that；fall asleep in class 的 in 留在子句的句尾，不能漏掉。\n[What finally helped me decide] was a family trip to Kaohsiung：what 子句當主詞，意思是「最後幫我做決定的，是……」，動詞用單數 was。\npicture myself (leading a tour like that) one day, but not (solving physics problems)：picture + 受詞 + V-ing，意思是「想像某人在做……」；but not 後面省略了 picture myself。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇對過大考中心《高中英文參考詞彙表》，四級以上詞形五個：confusion（困惑）、physics（物理）、lab（實驗室，詞彙表收 laboratory/lab）、humanities（人文學科，詞彙表收 humanity）四級，warehouses（倉庫，原形 warehouse）五級，占 196 個詞形的 2.6%；三級的有 confused、confusing（原形 confuse）、fold、laundry、mostly、remind、senior。詞彙表沒有收錄的有 homeroom（homeroom teacher 是導師）、dinnertime（晚餐時間）、fishmeal（魚粉），照樣使用；Pier-2 Art Center 是駁二藝術特區的英文名稱，屬於專有名稱。\n片語：cannot seem to（好像怎麼都沒辦法）、stay out（在外面待著，晚一點才回家）、act like（表現得像）、send mixed messages（說法前後不一）、think for oneself（自己思考）、join in（加入）、take on the world（面對任何挑戰）、fall asleep（睡著）、work part-time as（打工當……）、lead a tour（帶團導覽）、the science track／the humanities track（自然組／社會組）。這一篇容易拼錯的是 laundry、centimeters、humanities、physics、warehouses。"
+     },
+     {
+      "k": "體例",
+      "t": "91 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法，在空格填好形容詞、配好冠詞，把 Growing up is a confusing experience 寫在第一行；站上範文只列兩段正文。冠詞看的是形容詞開頭的發音，不是字母：an unforgettable experience，卻是 a unique experience，因為 unique 開頭唸起來是 you 的音，屬於子音。本篇要留意的有：插在句中的說明前後都加逗號（My father, an engineer, said …、nobody else, not even my parents, could …）；分號連接兩個完整的句子（… the whole world; by dinnertime, …）；冒號後面接一個完整的句子，第一個字小寫（Even my body has joined in: I have grown …），與站上其他範文一致；centimeters 是美式拼法，英式拼作 centimetres，站上英文一律用美式。"
+     }
+    ]
+   }
   },
   {
    "id": "E91_JCEE",
