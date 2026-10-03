@@ -15621,6 +15621,356 @@
       "t": "Ms. Lin 的 Ms. 在美式英文帶句點；日期寫成 Saturday, August 8，星期與月份首字母大寫、中間用逗號；Taiwan、Tokyo、Japanese 首字母大寫。放在名詞前面的複合形容詞要加連字號，all-you-can-eat barbecue restaurant、first-year students；21 到 99 的數字寫成英文時也加連字號，thirty-five。everyone's 這類所有格要加撇號。第二段第一句是問句，句尾用問號。扣分規則另有一條：未分段扣一分，題目也要求分兩段，本篇照寫兩段。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "get together",
+        "zh": "聚一聚",
+        "own": true
+       },
+       {
+        "w": "organize",
+        "zh": "籌辦、安排",
+        "src": "88年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0260"
+        ]
+       },
+       {
+        "w": "reunion",
+        "zh": "同學會（class reunion）",
+        "own": true
+       },
+       {
+        "w": "participate",
+        "zh": "參加（participate in + N）",
+        "src": "104年學測 Q14、92年指考 Q9、86年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0213",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0283"
+        ]
+       },
+       {
+        "w": "location",
+        "zh": "地點",
+        "src": "97年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0153"
+        ]
+       },
+       {
+        "w": "book",
+        "zh": "預訂",
+        "src": "102年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0318"
+        ]
+       },
+       {
+        "w": "budget",
+        "zh": "預算（on a tight budget 預算很緊）",
+        "src": "96年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0231"
+        ]
+       },
+       {
+        "w": "affordable",
+        "zh": "負擔得起的",
+        "src": "109年指考 Q2、104年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0022",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348"
+        ]
+       },
+       {
+        "w": "reservation",
+        "zh": "預訂（make a reservation 訂位）",
+        "src": "108年指考 Q1、88年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0031",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0259"
+        ]
+       },
+       {
+        "w": "homeroom teacher",
+        "zh": "班導師",
+        "own": true
+       },
+       {
+        "w": "atmosphere",
+        "zh": "氣氛",
+        "src": "113年學測 Q4、105年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0474",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0068"
+        ]
+       },
+       {
+        "w": "relaxed",
+        "zh": "輕鬆的",
+        "own": true
+       },
+       {
+        "w": "casual",
+        "zh": "輕鬆隨意的",
+        "src": "114年學測 Q6、87年推薦甄選 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0486",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0066"
+        ]
+       },
+       {
+        "w": "catch up with sb",
+        "zh": "和某人聊聊近況、敘舊",
+        "own": true
+       },
+       {
+        "w": "recall",
+        "zh": "回想起",
+        "src": "87年推薦甄選 Q9、83年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0069",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0308"
+        ]
+       },
+       {
+        "w": "memorable",
+        "zh": "難忘的",
+        "src": "93年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0183"
+        ]
+       },
+       {
+        "w": "graduation",
+        "zh": "畢業",
+        "src": "108年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0037"
+        ]
+       },
+       {
+        "w": "go one's separate ways",
+        "zh": "各奔東西",
+        "own": true
+       },
+       {
+        "w": "cherish",
+        "zh": "珍惜",
+        "own": true
+       },
+       {
+        "w": "contact",
+        "zh": "聯繫（keep in contact with sb 保持聯絡）",
+        "src": "108年學測 Q14、83年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0419",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0005"
+        ]
+       },
+       {
+        "w": "look back on + N",
+        "zh": "回顧、回想",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "分科測驗一結束，大家就說要趁上大學前聚一聚。",
+        "en": "As soon as our college entrance exams were over, everyone said we should get together before college started.",
+        "covers": [
+         "get together"
+        ],
+        "bold": [
+         "get together"
+        ]
+       },
+       {
+        "zh": "同學們推我當主辦人，籌辦畢業後的第一次同學會。",
+        "en": "My classmates chose me to organize our first class reunion after graduation.",
+        "covers": [
+         "organize",
+         "reunion",
+         "graduation"
+        ],
+        "bold": [
+         "organize",
+         "class reunion",
+         "graduation"
+        ]
+       },
+       {
+        "zh": "為了讓最多人能參加，我先在班級群組問大家哪一天方便。",
+        "en": "So that as many people as possible could participate, I first asked in our class group chat which day worked best.",
+        "covers": [
+         "participate"
+        ],
+        "bold": [
+         "participate"
+        ]
+       },
+       {
+        "zh": "地點選在大稻埕碼頭，搭捷運就到得了。",
+        "en": "The location is Dadaocheng Wharf, which is easy to reach by MRT.",
+        "covers": [
+         "location"
+        ],
+        "bold": [
+         "location"
+        ]
+       },
+       {
+        "zh": "我們會先沿著河濱自行車道騎腳踏車，腳踏車我已經上網預約了三十五台。",
+        "en": "We will start by riding bikes along the riverside path, and I have already booked thirty-five bikes online.",
+        "covers": [
+         "book"
+        ],
+        "bold": [
+         "booked"
+        ]
+       },
+       {
+        "zh": "有些同學預算很緊，所以野餐的食物每人帶一樣，大家分著吃，費用就負擔得起。",
+        "en": "Since some of us are on a tight budget, everyone will bring one dish to share at the picnic, which keeps the cost affordable.",
+        "covers": [
+         "budget",
+         "affordable"
+        ],
+        "bold": [
+         "on a tight budget",
+         "affordable"
+        ]
+       },
+       {
+        "zh": "傍晚要去附近的餐廳吃晚餐，我已經打電話訂位了。",
+        "en": "In the evening, we will have dinner at a nearby restaurant, and I have already made a reservation.",
+        "covers": [
+         "reservation"
+        ],
+        "bold": [
+         "made a reservation"
+        ]
+       },
+       {
+        "zh": "班導吳老師也答應會來。",
+        "en": "Our homeroom teacher, Mr. Wu, has also promised to come.",
+        "covers": [
+         "homeroom teacher"
+        ],
+        "bold": [
+         "homeroom teacher"
+        ]
+       },
+       {
+        "zh": "我選這樣的活動，是因為氣氛比較輕鬆，大家穿得隨意就好。",
+        "en": "I chose this kind of activity because the atmosphere is relaxed, and everyone can dress in casual clothes.",
+        "covers": [
+         "atmosphere",
+         "relaxed",
+         "casual"
+        ],
+        "bold": [
+         "atmosphere",
+         "relaxed",
+         "casual"
+        ]
+       },
+       {
+        "zh": "大家可以一邊騎車一邊聊近況，不用整個下午都坐在餐廳裡。",
+        "en": "We can catch up with each other while riding, instead of sitting in a restaurant all afternoon.",
+        "covers": [
+         "catch up with sb"
+        ],
+        "bold": [
+         "catch up with each other"
+        ]
+       },
+       {
+        "zh": "看著夕陽，我們一定會想起高中三年的點點滴滴。",
+        "en": "Watching the sunset, we will surely recall all the little moments of our three years together.",
+        "covers": [
+         "recall"
+        ],
+        "bold": [
+         "recall"
+        ]
+       },
+       {
+        "zh": "那會是一個難忘的下午。",
+        "en": "It will be a memorable afternoon.",
+        "covers": [
+         "memorable"
+        ],
+        "bold": [
+         "memorable"
+        ]
+       },
+       {
+        "zh": "上了大學，大家就要各奔東西，下次全班到齊不知道是什麼時候。",
+        "en": "Once college starts, we will go our separate ways, and no one knows when the whole class will be together again.",
+        "covers": [
+         "go one's separate ways"
+        ],
+        "bold": [
+         "go our separate ways"
+        ]
+       },
+       {
+        "zh": "希望這次聚會讓大家更珍惜這段友誼，以後也保持聯絡。",
+        "en": "I hope this reunion will help us cherish our friendship and keep in contact with each other.",
+        "covers": [
+         "cherish",
+         "contact"
+        ],
+        "bold": [
+         "cherish",
+         "keep in contact with"
+        ]
+       },
+       {
+        "zh": "多年以後回顧這一天，我們會很高興當時聚了這一次。",
+        "en": "Years from now, when we look back on this day, we will be glad that we got together.",
+        "covers": [
+         "look back on + N"
+        ],
+        "bold": [
+         "look back on"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "annual",
+        "zh": "每年的、一年一度的",
+        "src": "108年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0415"
+        ]
+       },
+       {
+        "w": "decline",
+        "zh": "婉拒（decline an invitation 婉拒邀請）",
+        "src": "95年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0217"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -15696,6 +16046,297 @@
       "t": "142 期的評分表中，體例占 2 分；樣例的得分說明常提到標點符號使用不當。本篇要留意的有：開頭照題目寫成 One evening, 並保留逗號；直接引語用雙引號，句末的驚嘆號、逗號與句號都放在引號內（shouted, \"Taxi!\"）；拆成兩半的引語，前半以逗號結束，後半接續同一句話，所以小寫起頭；ID 全部大寫。字數不足另扣一分，本篇字數足夠。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "wedding banquet",
+        "zh": "喜宴",
+        "own": true
+       },
+       {
+        "w": "toast",
+        "zh": "敬酒（propose a toast 舉杯敬酒）",
+        "own": true
+       },
+       {
+        "w": "drunk",
+        "zh": "喝醉的",
+        "own": true
+       },
+       {
+        "w": "dizzy",
+        "zh": "頭暈的",
+        "own": true
+       },
+       {
+        "w": "steady",
+        "zh": "穩的、不搖晃的",
+        "src": "105年學測 Q11、85年推薦甄選 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0371",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0030"
+        ]
+       },
+       {
+        "w": "drunk driving",
+        "zh": "酒駕",
+        "own": true
+       },
+       {
+        "w": "stagger",
+        "zh": "搖搖晃晃地走",
+        "own": true
+       },
+       {
+        "w": "hail a taxi",
+        "zh": "攔計程車",
+        "own": true
+       },
+       {
+        "w": "patrol car",
+        "zh": "巡邏車、警車",
+        "own": true
+       },
+       {
+        "w": "flash",
+        "zh": "（燈）閃爍",
+        "src": "113年學測 Q2、107年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0472",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0401"
+        ]
+       },
+       {
+        "w": "mistake A for B",
+        "zh": "把 A 誤認成 B",
+        "own": true
+       },
+       {
+        "w": "breath test",
+        "zh": "酒測",
+        "own": true
+       },
+       {
+        "w": "checkpoint",
+        "zh": "臨檢站",
+        "own": true
+       },
+       {
+        "w": "confused",
+        "zh": "糊里糊塗的、搞不清楚的",
+        "own": true
+       },
+       {
+        "w": "hangover",
+        "zh": "宿醉",
+        "own": true
+       },
+       {
+        "w": "sober",
+        "zh": "清醒的、沒有喝醉的",
+        "src": "109年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0434"
+        ]
+       },
+       {
+        "w": "escort",
+        "zh": "護送",
+        "src": "102年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0105"
+        ]
+       },
+       {
+        "w": "arrest",
+        "zh": "逮捕",
+        "src": "97年學測 Q1、94年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0205"
+        ]
+       },
+       {
+        "w": "fine",
+        "zh": "罰款",
+        "own": true
+       },
+       {
+        "w": "designated driver",
+        "zh": "代駕（call a designated driver 叫代駕）",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "隔壁的王伯伯到飯店參加姪子的喜宴，在席間一桌一桌地敬酒。",
+        "en": "Mr. Wang, our neighbor, went to his nephew's wedding banquet at a hotel and went from table to table to propose toasts.",
+        "covers": [
+         "wedding banquet",
+         "toast"
+        ],
+        "bold": [
+         "wedding banquet",
+         "propose toasts"
+        ]
+       },
+       {
+        "zh": "喜宴結束時，他已經喝醉了，頭暈得兩腿都站不穩。",
+        "en": "By the end of the banquet, he was drunk and so dizzy that he could not keep his legs steady.",
+        "covers": [
+         "drunk",
+         "dizzy",
+         "steady"
+        ],
+        "bold": [
+         "drunk",
+         "dizzy",
+         "steady"
+        ]
+       },
+       {
+        "zh": "他知道酒駕很危險，所以把車留在飯店的停車場。",
+        "en": "He knew that drunk driving was dangerous, so he left his car in the hotel parking lot.",
+        "covers": [
+         "drunk driving"
+        ],
+        "bold": [
+         "drunk driving"
+        ]
+       },
+       {
+        "zh": "他搖搖晃晃地走到路邊，想攔一輛計程車。",
+        "en": "He staggered to the side of the road to hail a taxi.",
+        "covers": [
+         "stagger",
+         "hail a taxi"
+        ],
+        "bold": [
+         "staggered",
+         "hail a taxi"
+        ]
+       },
+       {
+        "zh": "路邊停著一輛警車，車頂的燈一閃一閃的。",
+        "en": "A patrol car was parked by the road with its lights flashing.",
+        "covers": [
+         "patrol car",
+         "flash"
+        ],
+        "bold": [
+         "patrol car",
+         "flashing"
+        ]
+       },
+       {
+        "zh": "他把警車誤認成計程車，打開後座的門就坐了進去。",
+        "en": "He mistook the patrol car for a taxi, opened the back door, and got in.",
+        "hint": "「把 A 誤認成 B」說 mistake A for B，過去式是 mistook。",
+        "covers": [
+         "mistake A for B"
+        ],
+        "bold": [
+         "mistook the patrol car for a taxi"
+        ]
+       },
+       {
+        "zh": "原來警察正在那裡設臨檢站，替開車經過的人做酒測。",
+        "en": "It turned out that the police had set up a checkpoint there and were giving breath tests to passing drivers.",
+        "covers": [
+         "checkpoint",
+         "breath test"
+        ],
+        "bold": [
+         "checkpoint",
+         "breath tests"
+        ]
+       },
+       {
+        "zh": "王伯伯醉得糊里糊塗，連自己住哪裡都說不清楚。",
+        "en": "Mr. Wang was so drunk and confused that he could not even tell the officers where he lived.",
+        "covers": [
+         "confused"
+        ],
+        "bold": [
+         "confused"
+        ]
+       },
+       {
+        "zh": "隔天早上醒來，他宿醉得頭痛欲裂。",
+        "en": "The next morning, he woke up with a terrible hangover.",
+        "covers": [
+         "hangover"
+        ],
+        "bold": [
+         "hangover"
+        ]
+       },
+       {
+        "zh": "等他完全清醒了，警察才護送他回家。",
+        "en": "Once he was completely sober, an officer escorted him home.",
+        "covers": [
+         "sober",
+         "escort"
+        ],
+        "bold": [
+         "sober",
+         "escorted him home"
+        ]
+       },
+       {
+        "zh": "警察說，那天晚上的臨檢抓到兩個酒駕的駕駛。",
+        "en": "The officer said that two drunk drivers had been arrested at the checkpoint that night.",
+        "covers": [
+         "arrest"
+        ],
+        "bold": [
+         "arrested"
+        ]
+       },
+       {
+        "zh": "酒駕除了要繳一大筆罰款，還可能害死人。",
+        "en": "Drunk drivers have to pay a heavy fine, and they may even kill someone.",
+        "covers": [
+         "fine"
+        ],
+        "bold": [
+         "a heavy fine"
+        ]
+       },
+       {
+        "zh": "王伯伯說，下次喝了酒，他會直接叫代駕，把他和車子一起送回家。",
+        "en": "Mr. Wang said that the next time he drank, he would call a designated driver to take him and his car home.",
+        "covers": [
+         "designated driver"
+        ],
+        "bold": [
+         "call a designated driver"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "violate",
+        "zh": "違反（violate a traffic law 違反交通規則）",
+        "src": "100年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0292"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -15760,6 +16401,345 @@
      {
       "k": "體例",
       "t": "142 期的評分表中，體例占 2 分。本題題目給了標題，142 期指考 9 份樣例有 7 份在第一行寫上標題；站上範文只列兩段正文，考試時可以照題目的寫法把 Travel Is The Best Teacher 寫在第一行。本篇要留意的有：專有名詞大寫（Tainan、Chihkan Tower、Anping Old Fort、the Dutch）；年份用阿拉伯數字（1653）；句首的時間副詞或副詞片語後加逗號（Last summer, 、Suddenly, ）；however 插在句中時前後都加逗號（On the second day, however, things …）。字數不足另扣一分，本篇字數足夠。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "broaden",
+        "zh": "拓展（broaden one's horizons 開拓視野）",
+        "src": "103年學測 Q4、86年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0334",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0048"
+        ]
+       },
+       {
+        "w": "firsthand",
+        "zh": "親身的（firsthand experience 親身經歷）",
+        "own": true
+       },
+       {
+        "w": "unfamiliar",
+        "zh": "陌生的、不熟悉的",
+        "own": true
+       },
+       {
+        "w": "independent",
+        "zh": "獨立的",
+        "src": "86年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0276"
+        ]
+       },
+       {
+        "w": "flexible",
+        "zh": "有彈性的、懂得變通的",
+        "src": "110年指考 Q6、105年學測 Q11、104年學測 Q1、103年學測 Q6、98年學測 Q6、86年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0006",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0371",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0346",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0336",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0282"
+        ]
+       },
+       {
+        "w": "adapt",
+        "zh": "適應（adapt to + N）",
+        "src": "104年指考 Q10、88年推薦甄選 Q4、81年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0080",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0331"
+        ]
+       },
+       {
+        "w": "itinerary",
+        "zh": "行程",
+        "own": true
+       },
+       {
+        "w": "historic site",
+        "zh": "古蹟",
+        "own": true
+       },
+       {
+        "w": "explore",
+        "zh": "探索、到處逛逛",
+        "src": "110年指考 Q2、104年學測 Q14、101年學測 Q3、92年學測補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0002",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0303",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0172"
+        ]
+       },
+       {
+        "w": "local",
+        "zh": "當地的；locals 當地人",
+        "own": true
+       },
+       {
+        "w": "landmark",
+        "zh": "地標",
+        "src": "108年學測 Q4、93年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0409",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0185"
+        ]
+       },
+       {
+        "w": "breathtaking",
+        "zh": "美得令人屏息的",
+        "src": "93年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0200"
+        ]
+       },
+       {
+        "w": "adventure",
+        "zh": "冒險、奇遇",
+        "src": "106年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0384"
+        ]
+       },
+       {
+        "w": "cultural",
+        "zh": "文化的",
+        "src": "91年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0124"
+        ]
+       },
+       {
+        "w": "perspective",
+        "zh": "觀點、看事情的角度",
+        "own": true
+       },
+       {
+        "w": "open-minded",
+        "zh": "心胸開闊的",
+        "own": true
+       },
+       {
+        "w": "souvenir",
+        "zh": "紀念品",
+        "src": "109年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426"
+        ]
+       },
+       {
+        "w": "lasting",
+        "zh": "持久的（leave a lasting impression on sb 讓某人印象深刻）",
+        "src": "84年聯考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0294"
+        ]
+       },
+       {
+        "w": "destination",
+        "zh": "目的地",
+        "src": "109年指考補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0017"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "旅行能開拓我們的視野。",
+        "en": "Travel can broaden our horizons.",
+        "covers": [
+         "broaden"
+        ],
+        "bold": [
+         "broaden our horizons"
+        ]
+       },
+       {
+        "zh": "親身經歷教給我們的，往往比課本還多。",
+        "en": "Firsthand experience often teaches us more than any textbook.",
+        "covers": [
+         "firsthand"
+        ],
+        "bold": [
+         "Firsthand experience"
+        ]
+       },
+       {
+        "zh": "到了陌生的地方，我們得學著獨立，也要懂得變通。",
+        "en": "In an unfamiliar place, we have to learn to be independent and flexible.",
+        "covers": [
+         "unfamiliar",
+         "independent",
+         "flexible"
+        ],
+        "bold": [
+         "unfamiliar",
+         "independent",
+         "flexible"
+        ]
+       },
+       {
+        "zh": "我們也得適應不同的環境和習慣。",
+        "en": "We also have to adapt to different surroundings and customs.",
+        "covers": [
+         "adapt"
+        ],
+        "bold": [
+         "adapt to"
+        ]
+       },
+       {
+        "zh": "寒假時，我和爸媽到日本京都自助旅行，行程全是我排的。",
+        "en": "During winter vacation, my parents and I took a trip to Kyoto on our own, and I planned the whole itinerary.",
+        "covers": [
+         "itinerary"
+        ],
+        "bold": [
+         "itinerary"
+        ]
+       },
+       {
+        "zh": "我們白天參觀古蹟，晚上到當地的市場逛逛。",
+        "en": "We visited historic sites during the day and explored local markets in the evening.",
+        "covers": [
+         "historic site",
+         "explore",
+         "local"
+        ],
+        "bold": [
+         "historic sites",
+         "explored",
+         "local"
+        ]
+       },
+       {
+        "zh": "清水寺是京都最有名的地標之一。",
+        "en": "Kiyomizu-dera is one of the most famous landmarks in Kyoto.",
+        "covers": [
+         "landmark"
+        ],
+        "bold": [
+         "landmarks"
+        ]
+       },
+       {
+        "zh": "站在山坡上往下看，整座城市的景色美得令人屏息。",
+        "en": "From the hillside, we had a breathtaking view of the whole city.",
+        "covers": [
+         "breathtaking"
+        ],
+        "bold": [
+         "breathtaking"
+        ]
+       },
+       {
+        "zh": "有一天突然下大雪，我們臨時改去附近的小鎮，結果成了一場意想不到的冒險。",
+        "en": "One day, it suddenly snowed heavily, so we went to a small town nearby instead. It turned into an unexpected adventure.",
+        "covers": [
+         "adventure"
+        ],
+        "bold": [
+         "adventure"
+        ]
+       },
+       {
+        "zh": "在那裡，一位當地的老奶奶教我們做日式點心，讓我看到兩地的文化差異。",
+        "en": "There, an elderly local woman showed us how to make Japanese sweets, and I noticed the cultural differences between Japan and Taiwan.",
+        "covers": [
+         "cultural"
+        ],
+        "bold": [
+         "cultural differences"
+        ]
+       },
+       {
+        "zh": "我也開始用新的角度看自己的生活。",
+        "en": "I also began to see my own life from a new perspective.",
+        "covers": [
+         "perspective"
+        ],
+        "bold": [
+         "from a new perspective"
+        ]
+       },
+       {
+        "zh": "這趟旅行讓我變得更心胸開闊。",
+        "en": "The trip made me more open-minded.",
+        "covers": [
+         "open-minded"
+        ],
+        "bold": [
+         "open-minded"
+        ]
+       },
+       {
+        "zh": "回國前，我買了一些紀念品送給同學。",
+        "en": "Before flying home, I bought some souvenirs for my classmates.",
+        "covers": [
+         "souvenir"
+        ],
+        "bold": [
+         "souvenirs"
+        ]
+       },
+       {
+        "zh": "那趟旅行讓我印象非常深刻。",
+        "en": "That trip left a lasting impression on me.",
+        "covers": [
+         "lasting"
+        ],
+        "bold": [
+         "left a lasting impression on me"
+        ]
+       },
+       {
+        "zh": "我下一個旅行的目的地是台東，我想去看熱氣球。",
+        "en": "My next travel destination is Taitung, where I want to see the hot-air balloons.",
+        "covers": [
+         "destination"
+        ],
+        "bold": [
+         "destination"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "resort",
+        "zh": "度假勝地（a hot spring resort 溫泉度假村）",
+        "src": "101年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0119"
+        ]
+       },
+       {
+        "w": "alert",
+        "zh": "警示、警報（a travel alert 旅遊警示）",
+        "src": "110年學測 Q1、105年學測 Q11、103年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0436",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0371",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
+        ]
+       }
+      ]
      }
     ]
    }
