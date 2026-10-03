@@ -6774,6 +6774,328 @@
       "t": "這一年的體例占 2 分，看的是格式、標點、大小寫。這一篇分兩段，第一段 148 詞、第二段 187 詞，全篇 335 詞，題目的下限是 120 詞。標點上有兩處可以看：Only then could he hear what he had been missing 後面用冒號帶出三樣聽見的聲音，是列舉；最後一句用分號接兩個對照的分句——撞到樹跟撞到車，分號讓兩邊維持對稱，換成句號那個對比就散了。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "be engaged in + N／V-ing",
+        "zh": "正忙著做某事、專心在某件事上（站上考的是開車講電話：be engaged in phone conversations）",
+        "src": "108年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0033"
+        ]
+       },
+       {
+        "w": "keep one's eyes glued to + N",
+        "zh": "眼睛一直盯著…",
+        "own": true
+       },
+       {
+        "w": "be lost in the music",
+        "zh": "沉浸在音樂裡",
+        "own": true
+       },
+       {
+        "w": "be aware of + N",
+        "zh": "察覺、留意到…（站上考的正是玩手機遊戲出意外：be aware of possible dangers）",
+        "src": "106年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0389"
+        ]
+       },
+       {
+        "w": "alert",
+        "zh": "警覺的（stay alert 保持警覺）",
+        "src": "110年學測 Q1、105年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0436",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0371"
+        ]
+       },
+       {
+        "w": "embarrassing",
+        "zh": "令人難堪的（說人覺得難堪用 embarrassed）",
+        "src": "106年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0380"
+        ]
+       },
+       {
+        "w": "stumble",
+        "zh": "絆到、踉蹌（stumble over／on + N）",
+        "src": "108年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0414"
+        ]
+       },
+       {
+        "w": "recklessly",
+        "zh": "魯莽地、不顧後果地",
+        "src": "109年指考補考 Q9、98年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0019",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0147"
+        ]
+       },
+       {
+        "w": "honk at sb",
+        "zh": "對某人按喇叭",
+        "own": true
+       },
+       {
+        "w": "slam on the brakes",
+        "zh": "緊急煞車",
+        "own": true
+       },
+       {
+        "w": "violate a traffic law",
+        "zh": "違反交通規則",
+        "src": "100年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0292"
+        ]
+       },
+       {
+        "w": "narrowly escape + N／V-ing",
+        "zh": "差一點就…（escape 後面接動名詞，不接 to V）",
+        "src": "95年學測 Q9、91年學測補考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0219",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0139"
+        ]
+       },
+       {
+        "w": "injury",
+        "zh": "受傷（a minor／serious injury 輕傷／重傷）",
+        "src": "105年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0365"
+        ]
+       },
+       {
+        "w": "witness",
+        "zh": "目擊者（a witness to sth，介系詞用 to）",
+        "src": "99年學測 Q14、84年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0284",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0299"
+        ]
+       },
+       {
+        "w": "let out a sigh of relief",
+        "zh": "鬆了一口氣",
+        "src": "101年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0306"
+        ]
+       },
+       {
+        "w": "ignore",
+        "zh": "忽視、不理會",
+        "src": "94年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0197"
+        ]
+       },
+       {
+        "w": "shortly afterwards",
+        "zh": "不久之後",
+        "src": "92年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0153"
+        ]
+       },
+       {
+        "w": "cautiously",
+        "zh": "小心地",
+        "src": "98年指考 Q5、86年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0147",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0043"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "放學後，小美一路盯著手機往公車站走，邊走邊回訊息。",
+        "en": "After school, Mei walked toward the bus stop with her eyes glued to her phone, replying to messages as she went.",
+        "hint": "「眼睛一直盯著」用 with + 受詞 + 過去分詞：with her eyes glued to her phone。glued 後面的 to 接名詞。",
+        "covers": [
+         "keep one's eyes glued to + N"
+        ],
+        "bold": [
+         "with her eyes glued to her phone"
+        ]
+       },
+       {
+        "zh": "她正忙著跟朋友傳訊息，根本沒察覺前面有一根路燈。",
+        "en": "She was so engaged in texting her friends that she was not aware of the lamppost in front of her.",
+        "hint": "be aware of 的 of 不能省略；後面要接子句時改用 be aware that。",
+        "covers": [
+         "be engaged in + N／V-ing",
+         "be aware of + N"
+        ],
+        "bold": [
+         "engaged in texting her friends",
+         "aware of the lamppost"
+        ]
+       },
+       {
+        "zh": "她一頭撞上路燈，等公車的人全都轉過頭來看，真是太難堪了。",
+        "en": "She walked right into the lamppost, and everyone waiting for the bus turned to look. It was so embarrassing.",
+        "hint": "說「這件事令人難堪」用 embarrassing；說「人覺得難堪」用 embarrassed。",
+        "covers": [
+         "embarrassing"
+        ],
+        "bold": [
+         "embarrassing"
+        ]
+       },
+       {
+        "zh": "同一時間，她的表哥小豪戴著耳機沉浸在音樂裡，一點警覺也沒有。",
+        "en": "Meanwhile, her cousin Hao was lost in the music in his headphones and not alert at all.",
+        "covers": [
+         "be lost in the music",
+         "alert"
+        ],
+        "bold": [
+         "lost in the music",
+         "alert"
+        ]
+       },
+       {
+        "zh": "小豪平常就不理會媽媽的提醒，連過馬路都戴著耳機。",
+        "en": "Hao had always ignored his mother's warnings and kept his headphones on even when he crossed the street.",
+        "covers": [
+         "ignore"
+        ],
+        "bold": [
+         "ignored"
+        ]
+       },
+       {
+        "zh": "他在人行道邊緣絆了一下，踉踉蹌蹌地跌進車道。",
+        "en": "He stumbled over the edge of the curb and into the street.",
+        "hint": "curb 是人行道的邊緣（美式拼法，英式寫 kerb）。",
+        "covers": [
+         "stumble"
+        ],
+        "bold": [
+         "stumbled over"
+        ]
+       },
+       {
+        "zh": "一個魯莽闖紅燈的機車騎士對著他猛按喇叭，緊急煞車。",
+        "en": "A scooter rider who was recklessly running a red light honked at him and slammed on the brakes.",
+        "hint": "slam on the brakes 的 brakes 用複數，前面要有 the。",
+        "covers": [
+         "recklessly",
+         "honk at sb",
+         "slam on the brakes"
+        ],
+        "bold": [
+         "recklessly",
+         "honked at him",
+         "slammed on the brakes"
+        ]
+       },
+       {
+        "zh": "小豪差一點就讓機車撞上，嚇得一句話也說不出來。",
+        "en": "Hao narrowly escaped being hit and was too shocked to say a word.",
+        "hint": "「讓車撞到」英文要寫成被動式的動名詞 being hit，放在 escape 後面。",
+        "covers": [
+         "narrowly escape + N／V-ing"
+        ],
+        "bold": [
+         "narrowly escaped being hit"
+        ]
+       },
+       {
+        "zh": "幸好他只受了輕傷，膝蓋擦破一點皮而已。",
+        "en": "Luckily, he suffered only a minor injury, a scraped knee.",
+        "hint": "「受傷」英文習慣用名詞：suffer an injury。",
+        "covers": [
+         "injury"
+        ],
+        "bold": [
+         "suffered only a minor injury"
+        ]
+       },
+       {
+        "zh": "在一旁目睹全程的一位阿姨，看到他站起來，才鬆了一口氣。",
+        "en": "A woman who was a witness to the whole thing let out a sigh of relief when she saw him get up.",
+        "covers": [
+         "witness",
+         "let out a sigh of relief"
+        ],
+        "bold": [
+         "a witness to the whole thing",
+         "let out a sigh of relief"
+        ]
+       },
+       {
+        "zh": "騎士明明自己違反交通規則，卻還對小豪破口大罵。",
+        "en": "The rider had violated a traffic law himself, yet he yelled at Hao as if it were all Hao's fault.",
+        "hint": "as if 後面講與事實相反的情況，be 動詞一律用 were。",
+        "covers": [
+         "violate a traffic law"
+        ],
+        "bold": [
+         "violated a traffic law"
+        ]
+       },
+       {
+        "zh": "不久之後，兩個人都學乖了：走路時把手機收起來，過馬路也小心多了。",
+        "en": "Shortly afterwards, both of them learned their lesson: they put their phones away while walking and crossed the street much more cautiously.",
+        "hint": "shortly afterwards 的 shortly 講的是時間上很快，不是「簡短地」。",
+        "covers": [
+         "shortly afterwards",
+         "cautiously"
+        ],
+        "bold": [
+         "Shortly afterwards",
+         "cautiously"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "stay sober",
+        "zh": "保持清醒、不喝酒（站上考的是酒駕宣導，這一題沒有人喝酒）",
+        "src": "109年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0434"
+        ]
+       },
+       {
+        "w": "be envious of sb",
+        "zh": "羨慕、嫉妒某人（站上考的是同學羨慕他拿到新手機）",
+        "src": "92年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0211"
+        ]
+       },
+       {
+        "w": "filter calls",
+        "zh": "過濾來電（站上考的是不接陌生號碼）",
+        "src": "110年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0005"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6850,6 +7172,354 @@
      {
       "k": "體例",
       "t": "103 指考這一份評分原則說明沒有給分項配分，也沒有附分項式評分指標表，正文寫到體例的地方只有一條：字數明顯不足者扣總分 1 分。這一年沒有寫未分段扣分那一句，跟 104 指考不一樣——104 那一份寫的是「字數明顯不足或未依提示分二段者扣總分 1 分」。這一篇 328 個單詞、文分兩段，兩項都在規定之內。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "account for + 比例",
+        "zh": "佔（多少比例）",
+        "own": true
+       },
+       {
+        "w": "take up + 時間",
+        "zh": "佔去（時間）",
+        "own": true
+       },
+       {
+        "w": "percentage",
+        "zh": "百分比、比例（a small／large percentage of + N）",
+        "src": "108年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0409"
+        ]
+       },
+       {
+        "w": "average",
+        "zh": "平均（on average 平均來說）",
+        "src": "100年學測 Q15、83年聯考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0304"
+        ]
+       },
+       {
+        "w": "roughly／approximately",
+        "zh": "大約",
+        "src": "112年學測 Q10、96年學測 Q14、93年敏督利颱風受災地區考生補救考試 Q11、93年指考 Q10、91年指考 Q9、91年指考 Q10、89年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0239",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0101",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0202",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0223",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0224",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0094"
+        ]
+       },
+       {
+        "w": "considerably",
+        "zh": "相當多地（considerably + 比較級：…得多）",
+        "src": "108年學測 Q8、102年學測 Q15、101年學測 Q11、90年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0413",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0330",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0311",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0110"
+        ]
+       },
+       {
+        "w": "exceed",
+        "zh": "超過",
+        "src": "110年學測 Q11、97年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0446",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0162"
+        ]
+       },
+       {
+        "w": "while／whereas",
+        "zh": "而、然而（對比兩件事）",
+        "own": true
+       },
+       {
+        "w": "part-time job",
+        "zh": "打工",
+        "own": true
+       },
+       {
+        "w": "socialize with sb",
+        "zh": "與人交際、跟朋友相處",
+        "own": true
+       },
+       {
+        "w": "devote + 時間 + to + N／V-ing",
+        "zh": "把時間投入在…",
+        "own": true
+       },
+       {
+        "w": "volunteer",
+        "zh": "志工；自願（do volunteer work 當志工）",
+        "src": "98年學測 Q9、91年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0217"
+        ]
+       },
+       {
+        "w": "stay up",
+        "zh": "熬夜（stay up late 熬夜到很晚）",
+        "src": "90年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0118"
+        ]
+       },
+       {
+        "w": "drowsy",
+        "zh": "昏昏欲睡的",
+        "src": "105年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0362"
+        ]
+       },
+       {
+        "w": "keep oneself awake",
+        "zh": "讓自己保持清醒",
+        "src": "99年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0273"
+        ]
+       },
+       {
+        "w": "sufficient",
+        "zh": "足夠的",
+        "src": "94年學測 Q7、88年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0202",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0256"
+        ]
+       },
+       {
+        "w": "competitive",
+        "zh": "競爭激烈的",
+        "src": "100年學測 Q12、99年學測 Q9、92年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0297",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0279",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0159"
+        ]
+       },
+       {
+        "w": "be under pressure to + V",
+        "zh": "承受著要…的壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "priority",
+        "zh": "優先的事（the top priority 第一優先）",
+        "src": "94年學測 Q15、93年敏督利颱風受災地區考生補救考試 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0210",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0092"
+        ]
+       },
+       {
+        "w": "financially",
+        "zh": "經濟上（financially independent 經濟獨立）",
+        "src": "105年學測 Q15、96年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0375",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0166"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "社交與休閒一天佔去 3.8 小時，比花在運動上的時間多得多。",
+        "en": "Socializing and leisure take up 3.8 hours a day, considerably more than the time spent on sports.",
+        "hint": "considerably 修飾比較級，意思是「…得多」；very 不能修飾比較級。",
+        "covers": [
+         "take up + 時間",
+         "considerably"
+        ],
+        "bold": [
+         "take up 3.8 hours a day",
+         "considerably more"
+        ]
+       },
+       {
+        "zh": "社交與休閒大約佔一天的百分之十六。",
+        "en": "Socializing and leisure account for roughly sixteen percent of the day.",
+        "hint": "account for 後面接比例或數量，意思是「佔」。",
+        "covers": [
+         "account for + 比例",
+         "roughly／approximately"
+        ],
+        "bold": [
+         "account for roughly sixteen percent"
+        ]
+       },
+       {
+        "zh": "運動只佔一天的一小部分。",
+        "en": "Sports make up only a small percentage of the day.",
+        "covers": [
+         "percentage"
+        ],
+        "bold": [
+         "a small percentage of"
+        ]
+       },
+       {
+        "zh": "平均來說，這些學生花在打工上的時間，是宗教與義工活動的七倍以上。",
+        "en": "On average, these students spend more than seven times as much time on part-time jobs as on religious and volunteer activities.",
+        "hint": "倍數的寫法：倍數 + as much time + as…，兩個 as 都不能少。",
+        "covers": [
+         "average",
+         "part-time job"
+        ],
+        "bold": [
+         "On average",
+         "part-time jobs"
+        ]
+       },
+       {
+        "zh": "美國學生下課後跟朋友相處的時間不少，台灣學生的晚上卻大多留給了課業。",
+        "en": "American students spend plenty of time socializing with friends after school, while most Taiwanese students save their evenings for schoolwork.",
+        "hint": "while 放在兩個子句中間，表示對比，意思接近 whereas。",
+        "covers": [
+         "socialize with sb",
+         "while／whereas"
+        ],
+        "bold": [
+         "socializing with friends",
+         "while"
+        ]
+       },
+       {
+        "zh": "在我們班，上學日的空閒時間超過一小時的人少之又少。",
+        "en": "In my class, hardly anyone's free time exceeds an hour on a school day.",
+        "hint": "exceed 是及物動詞，後面直接接數量，不加 than。",
+        "covers": [
+         "exceed"
+        ],
+        "bold": [
+         "exceeds an hour"
+        ]
+       },
+       {
+        "zh": "段考週我常熬夜，隔天上課昏昏欲睡。",
+        "en": "During exam weeks, I often stay up late and feel drowsy in class the next day.",
+        "covers": [
+         "stay up",
+         "drowsy"
+        ],
+        "bold": [
+         "stay up late",
+         "drowsy"
+        ]
+       },
+       {
+        "zh": "為了讓自己保持清醒，我一早就灌下兩杯咖啡。",
+        "en": "To keep myself awake, I drink two cups of coffee first thing in the morning.",
+        "hint": "keep oneself + 形容詞：讓自己保持某種狀態。",
+        "covers": [
+         "keep oneself awake"
+        ],
+        "bold": [
+         "keep myself awake"
+        ]
+       },
+       {
+        "zh": "升大學的競爭很激烈，很多同學根本睡不夠。",
+        "en": "Getting into university is highly competitive, so many of my classmates simply do not get sufficient sleep.",
+        "covers": [
+         "competitive",
+         "sufficient"
+        ],
+        "bold": [
+         "highly competitive",
+         "sufficient sleep"
+        ]
+       },
+       {
+        "zh": "我們從國中開始，就承受著要考上好大學的壓力。",
+        "en": "Since junior high, we have been under pressure to get into a good university.",
+        "hint": "be under pressure to 後面接原形動詞。",
+        "covers": [
+         "be under pressure to + V"
+        ],
+        "bold": [
+         "under pressure to get into"
+        ]
+       },
+       {
+        "zh": "在我家，課業一直是第一優先，所以我的鋼琴課到國三就停了。",
+        "en": "In my family, schoolwork has always been the top priority, so my piano lessons stopped in ninth grade.",
+        "covers": [
+         "priority"
+        ],
+        "bold": [
+         "the top priority"
+        ]
+       },
+       {
+        "zh": "週六上午，我把時間花在社區圖書館當志工。",
+        "en": "I devote my Saturday mornings to volunteer work at the community library.",
+        "hint": "devote A to B 的 to 是介系詞，後面接名詞或動名詞。",
+        "covers": [
+         "devote + 時間 + to + N／V-ing",
+         "volunteer"
+        ],
+        "bold": [
+         "devote my Saturday mornings to volunteer work"
+        ]
+       },
+       {
+        "zh": "有些美國學生打工，可能是想早一點在經濟上獨立。",
+        "en": "Some American students may take part-time jobs to become financially independent earlier.",
+        "covers": [
+         "financially",
+         "part-time job"
+        ],
+        "bold": [
+         "financially independent",
+         "part-time jobs"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "financial aid",
+        "zh": "助學金、經濟補助（站上考的是政府補助學生的教育費用）",
+        "src": "82年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0319"
+        ]
+       },
+       {
+        "w": "punctually",
+        "zh": "準時地（站上考的是準時赴約，這一題比的是時間的分配）",
+        "src": "98年學測 Q12、91年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0267",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0223"
+        ]
+       }
+      ]
      }
     ]
    }
@@ -7322,6 +7992,334 @@
        {
         "k": "體例",
         "t": "102 指考兩份原件寫到體例的地方不一樣。張武昌那一份把體例列為五個項目之一，扣分只寫一條：字數明顯不足則扣總分 1 分。游春琪那一份的表一把體例列為一項、配分 2 分，看的是格式、標點、大小寫，扣分規則另寫三句：字數明顯不足扣 1 分，未分段扣 1 分，寫多段不扣分。這一篇 343 個單詞、文分兩段，兩項都在規定之內。大小寫上，Yangmingshan 照專有名詞寫；標點上，所有格的撇號兩處（each other's、neighbors'），其中 neighbors' 是複數名詞的所有格，撇號放在 s 後面。"
+       }
+      ]
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "invisible",
+        "zh": "看不見的、隱形的",
+        "src": "84年推薦甄選 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0020"
+        ]
+       },
+       {
+        "w": "protect sb from + N",
+        "zh": "保護某人不受…傷害",
+        "own": true
+       },
+       {
+        "w": "rescue",
+        "zh": "救出、營救",
+        "src": "104年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0357"
+        ]
+       },
+       {
+        "w": "detect",
+        "zh": "察覺、偵測到",
+        "src": "107年指考 Q3、91年指考 Q7、90年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0043",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0221",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0108"
+        ]
+       },
+       {
+        "w": "obstacle",
+        "zh": "障礙物、阻礙",
+        "src": "100年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0127"
+        ]
+       },
+       {
+        "w": "preserve",
+        "zh": "保存",
+        "src": "106年學測 Q11、99年學測 Q5、98年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0386",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
+        ]
+       },
+       {
+        "w": "recall + N",
+        "zh": "回想起…（後面直接接名詞或 what 子句）",
+        "src": "87年推薦甄選 Q9、83年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0069",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0308"
+        ]
+       },
+       {
+        "w": "be tempted to + V",
+        "zh": "忍不住想…",
+        "src": "82年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0317"
+        ]
+       },
+       {
+        "w": "morally wrong",
+        "zh": "道德上是錯的",
+        "src": "103年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0333"
+        ]
+       },
+       {
+        "w": "permission",
+        "zh": "許可（without sb's permission 未經某人同意）",
+        "src": "96年學測 Q2、94年指考 Q6、81年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0227",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0188",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0330"
+        ]
+       },
+       {
+        "w": "fall into the wrong hands",
+        "zh": "落入壞人手裡",
+        "own": true
+       },
+       {
+        "w": "criminal",
+        "zh": "罪犯",
+        "src": "91年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0124"
+        ]
+       },
+       {
+        "w": "disguise oneself as + N",
+        "zh": "假扮成…",
+        "src": "106年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0388"
+        ]
+       },
+       {
+        "w": "commit a crime",
+        "zh": "犯罪",
+        "own": true
+       },
+       {
+        "w": "privacy",
+        "zh": "隱私（invade sb's privacy 侵犯某人的隱私）",
+        "src": "108年學測 Q1、100年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0406",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0127"
+        ]
+       },
+       {
+        "w": "spy on sb",
+        "zh": "暗中監視某人",
+        "own": true
+       },
+       {
+        "w": "monitor",
+        "zh": "監視、監控",
+        "src": "107年學測 Q3、99年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0393",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0139"
+        ]
+       },
+       {
+        "w": "potential + N",
+        "zh": "潛在的、可能發生的",
+        "src": "99年學測 Q12、90年聯考 Q15、85年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0239",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0292"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "如果可以挑一項，我會選隱形披風，因為我想當消防員，它能保護我不受火的傷害。",
+        "en": "If I could have one, I would choose the invisibility cloak, because I want to be a firefighter and it would protect me from fire.",
+        "hint": "與現在事實相反的假設：If + 過去式，主要子句用 would + 原形動詞。",
+        "covers": [
+         "protect sb from + N"
+        ],
+        "bold": [
+         "protect me from fire"
+        ]
+       },
+       {
+        "zh": "穿上它，我就能走進失火的大樓，把困在裡面的人救出來。",
+        "en": "Wearing it, I could walk into a burning building and rescue the people trapped inside.",
+        "covers": [
+         "rescue"
+        ],
+        "bold": [
+         "rescue the people trapped inside"
+        ]
+       },
+       {
+        "zh": "至於智慧型眼鏡，地震過後，救難人員可以用它找出壓在瓦礫堆下的生還者。",
+        "en": "As for the smart glasses, rescue workers could use them to detect survivors under the rubble after an earthquake.",
+        "covers": [
+         "detect"
+        ],
+        "bold": [
+         "detect survivors"
+        ]
+       },
+       {
+        "zh": "有了這副眼鏡，再厚的牆也不再是障礙。",
+        "en": "With these glasses, even the thickest wall would no longer be an obstacle.",
+        "covers": [
+         "obstacle"
+        ],
+        "bold": [
+         "an obstacle"
+        ]
+       },
+       {
+        "zh": "眼鏡會把我經歷過的一切保存下來，畢業旅行的每一刻我都能隨時回想。",
+        "en": "The glasses would preserve everything I experience, so I could recall every moment of our graduation trip whenever I like.",
+        "covers": [
+         "preserve",
+         "recall + N"
+        ],
+        "bold": [
+         "preserve everything I experience",
+         "recall every moment"
+        ]
+       },
+       {
+        "zh": "不過，有些學生可能會忍不住披上它溜進教師辦公室，先偷看段考考卷。",
+        "en": "However, some students might be tempted to slip into the teachers' office in the cloak and look at the exam paper in advance.",
+        "covers": [
+         "be tempted to + V"
+        ],
+        "bold": [
+         "be tempted to slip into"
+        ]
+       },
+       {
+        "zh": "這麼做不只違反校規，在道德上也是錯的。",
+        "en": "Doing so would not only break the school rules but also be morally wrong.",
+        "hint": "not only A but also B 前後兩邊要對稱，這裡兩邊都是原形動詞。",
+        "covers": [
+         "morally wrong"
+        ],
+        "bold": [
+         "morally wrong"
+        ]
+       },
+       {
+        "zh": "戴著眼鏡的人，可以未經同意就錄下別人按提款卡密碼的樣子。",
+        "en": "A person wearing the glasses could record other people entering their PINs at an ATM without their permission.",
+        "hint": "without one's permission：未經某人同意。",
+        "covers": [
+         "permission"
+        ],
+        "bold": [
+         "without their permission"
+        ]
+       },
+       {
+        "zh": "要是披風落入壞人手裡，罪犯連假扮成警衛都不必，就能大搖大擺走進銀行。",
+        "en": "If the cloak fell into the wrong hands, a criminal would not even need to disguise himself as a guard to walk into a bank.",
+        "hint": "disguise oneself as 的受詞是反身代名詞，不能省略。",
+        "covers": [
+         "fall into the wrong hands",
+         "criminal",
+         "disguise oneself as + N"
+        ],
+        "bold": [
+         "fell into the wrong hands",
+         "a criminal",
+         "disguise himself as a guard"
+        ]
+       },
+       {
+        "zh": "隱形的人要犯罪實在太容易了，警察根本看不見他。",
+        "en": "It would be far too easy for an invisible person to commit a crime, since the police could not see him at all.",
+        "covers": [
+         "invisible",
+         "commit a crime"
+        ],
+        "bold": [
+         "an invisible person",
+         "commit a crime"
+        ]
+       },
+       {
+        "zh": "任何戴著這副眼鏡的人，隨時都可能侵犯我們的隱私。",
+        "en": "Anyone wearing these glasses could invade our privacy at any moment.",
+        "covers": [
+         "privacy"
+        ],
+        "bold": [
+         "invade our privacy"
+        ]
+       },
+       {
+        "zh": "公司甚至可能用它暗中監視員工，掌握他們的一舉一動。",
+        "en": "Companies might even use the glasses to spy on their employees and monitor their every move.",
+        "hint": "spy on sb 的 on 不能省略。",
+        "covers": [
+         "spy on sb",
+         "monitor"
+        ],
+        "bold": [
+         "spy on their employees",
+         "monitor their every move"
+        ]
+       },
+       {
+        "zh": "比起它帶來的方便，這些潛在的問題更讓人擔心。",
+        "en": "These potential problems are far more worrying than the convenience the glasses would bring.",
+        "covers": [
+         "potential + N"
+        ],
+        "bold": [
+         "potential problems"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "portable",
+        "zh": "可攜帶的、輕便的（站上考的是帶著走的電腦）",
+        "src": "108年指考 Q5、100年指考 Q8、98年學測 Q10、93年學測 Q3、84年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0035",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0130",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0265",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0183",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0300"
+        ]
+       },
+       {
+        "w": "be specifically designed for + N",
+        "zh": "專為…設計（站上考的是專為長者設計的手機）",
+        "src": "103年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0083"
+        ]
        }
       ]
      }
