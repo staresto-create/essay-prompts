@@ -11539,6 +11539,358 @@
       "t": "98 指考表一把體例列為一項、配分 2 分，看的是格式、標點、大小寫。表一在這一項只分三格：優是幾無錯誤，給 2 分；可是有錯誤，但不影響文意之表達，給 1 分；差是違背基本的寫作體例或格式，標點、大小寫等錯誤甚多，給 0 分；劣那一欄空白。這一年字數明顯不足或未分段，都要扣 1 分；範文 156 個單詞、文分兩段。標點上，直接引語 \"Just one more page.\" 的句點放在引號裡面，引號前面用逗號接 whisper；專有名詞 Osaka、Universal Studios Japan 每個字的首字母都要大寫。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "budget",
+        "zh": "預算",
+        "src": "96年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0231"
+        ]
+       },
+       {
+        "w": "raise",
+        "zh": "撫養、帶大",
+        "src": "85年推薦甄選 Q18",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0038"
+        ]
+       },
+       {
+        "w": "sacrifice",
+        "zh": "犧牲（sacrifice + N + to + V）",
+        "src": "105年學測 Q5、101年指考 Q4、92年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0365",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0209"
+        ]
+       },
+       {
+        "w": "considerate",
+        "zh": "體貼的、為人著想的",
+        "src": "103年指考 Q1、100年學測 Q15、92年學測補考 Q1、91年指考 Q5、90年聯考 Q13、85年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0237",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0287"
+        ]
+       },
+       {
+        "w": "neglect",
+        "zh": "忽略、沒有好好照顧",
+        "src": "105年學測 Q13、104年學測 Q2、96年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0373",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0347",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0228"
+        ]
+       },
+       {
+        "w": "keep sb company",
+        "zh": "陪伴某人",
+        "own": true
+       },
+       {
+        "w": "repay sb for + N",
+        "zh": "報答某人…",
+        "own": true
+       },
+       {
+        "w": "money is no object",
+        "zh": "錢不是問題",
+        "own": true
+       },
+       {
+        "w": "afford",
+        "zh": "負擔得起（can afford + N／can afford to + V）",
+        "src": "95年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0211"
+        ]
+       },
+       {
+        "w": "fulfill a dream",
+        "zh": "實現夢想",
+        "src": "107年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0393"
+        ]
+       },
+       {
+        "w": "breathtaking",
+        "zh": "美得令人屏息的",
+        "src": "93年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0200"
+        ]
+       },
+       {
+        "w": "spectacular",
+        "zh": "壯觀的",
+        "src": "90年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0231"
+        ]
+       },
+       {
+        "w": "explore",
+        "zh": "探索、到處走走看看",
+        "src": "110年指考 Q2、104年學測 Q14、101年學測 Q3、92年學測補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0002",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0303",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0172"
+        ]
+       },
+       {
+        "w": "accompany",
+        "zh": "陪同、陪著",
+        "own": true
+       },
+       {
+        "w": "treat sb to + N",
+        "zh": "請某人（吃、玩）",
+        "own": true
+       },
+       {
+        "w": "luxury",
+        "zh": "奢侈的享受",
+        "src": "95年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0223"
+        ]
+       },
+       {
+        "w": "relaxing",
+        "zh": "令人放鬆的",
+        "src": "106年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0380"
+        ]
+       },
+       {
+        "w": "once-in-a-lifetime",
+        "zh": "一生難得一次的",
+        "own": true
+       },
+       {
+        "w": "spend quality time with sb",
+        "zh": "和某人好好相處",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "如果不用擔心預算，我想邀阿嬤跟我一起過這一天。",
+        "en": "If I didn't have to worry about the budget, I would invite my grandma to spend the day with me.",
+        "hint": "與現在事實相反的假設，if 子句用過去式，主要子句用 would + 原形動詞。",
+        "covers": [
+         "budget"
+        ],
+        "bold": [
+         "budget"
+        ]
+       },
+       {
+        "zh": "爸媽工作很忙，我是阿嬤一手帶大的。",
+        "en": "My parents were always busy with work, so my grandma raised me.",
+        "covers": [
+         "raise"
+        ],
+        "bold": [
+         "raised me"
+        ]
+       },
+       {
+        "zh": "為了照顧我，她犧牲了很多自己的時間。",
+        "en": "She sacrificed a lot of her own time to take care of me.",
+        "covers": [
+         "sacrifice"
+        ],
+        "bold": [
+         "sacrificed a lot of her own time"
+        ]
+       },
+       {
+        "zh": "她一直很體貼，凡事都先替別人著想。",
+        "en": "She has always been considerate, thinking of others before herself.",
+        "covers": [
+         "considerate"
+        ],
+        "bold": [
+         "considerate"
+        ]
+       },
+       {
+        "zh": "上了高中以後，我忙著念書，常常忽略了她。",
+        "en": "Since I started high school, I have been so busy studying that I have often neglected her.",
+        "covers": [
+         "neglect"
+        ],
+        "bold": [
+         "neglected her"
+        ]
+       },
+       {
+        "zh": "我想用這一天好好陪她，報答她這些年為我做的一切。",
+        "en": "I want to use this day to keep her company and repay her for everything she has done for me.",
+        "hint": "keep sb company 的 company 是「陪伴」，不加冠詞。",
+        "covers": [
+         "keep sb company",
+         "repay sb for + N"
+        ],
+        "bold": [
+         "keep her company",
+         "repay her for"
+        ]
+       },
+       {
+        "zh": "那一天錢不是問題，平常負擔不起的東西，我們都可以好好享受。",
+        "en": "Money would be no object that day, so we could enjoy things we normally can't afford.",
+        "hint": "money is no object 是固定說法，意思是「花多少錢都沒關係」。",
+        "covers": [
+         "money is no object",
+         "afford"
+        ],
+        "bold": [
+         "Money would be no object",
+         "can't afford"
+        ]
+       },
+       {
+        "zh": "一早我們就飛到台東，去鹿野坐熱氣球。阿嬤膝蓋不好，一直沒辦法爬山，能從空中看看縱谷，也算實現了她的一個夢想。",
+        "en": "We would fly to Taitung in the morning for a hot-air balloon ride in Luye. My grandma has bad knees and has never been able to go hiking, so seeing the valley from the sky would fulfill one of her dreams.",
+        "covers": [
+         "fulfill a dream"
+        ],
+        "bold": [
+         "fulfill one of her dreams"
+        ]
+       },
+       {
+        "zh": "從熱氣球上往下看，稻田和群山一定美得令人屏息。",
+        "en": "From the balloon, the view of the rice fields and mountains would be breathtaking.",
+        "covers": [
+         "breathtaking"
+        ],
+        "bold": [
+         "breathtaking"
+        ]
+       },
+       {
+        "zh": "聽說那裡的日出非常壯觀。",
+        "en": "I have heard that the sunrise there is spectacular.",
+        "covers": [
+         "spectacular"
+        ],
+        "bold": [
+         "spectacular"
+        ]
+       },
+       {
+        "zh": "下午我們可以請司機載我們，到附近的小鎮到處走走。",
+        "en": "In the afternoon, we could hire a driver and explore the small towns nearby.",
+        "covers": [
+         "explore"
+        ],
+        "bold": [
+         "explore the small towns nearby"
+        ]
+       },
+       {
+        "zh": "一整天我都會陪在她身邊，幫她提包包、扶她上下車。",
+        "en": "I would accompany her all day, carrying her bag and helping her in and out of the car.",
+        "hint": "accompany 是及物動詞，後面直接接人，不加 with。",
+        "covers": [
+         "accompany"
+        ],
+        "bold": [
+         "accompany her"
+        ]
+       },
+       {
+        "zh": "晚餐我要請阿嬤吃一頓豐盛的海鮮大餐。",
+        "en": "For dinner, I would treat her to a big seafood feast.",
+        "hint": "treat sb to + 名詞，是「請某人吃、請某人玩」。",
+        "covers": [
+         "treat sb to + N"
+        ],
+        "bold": [
+         "treat her to a big seafood feast"
+        ]
+       },
+       {
+        "zh": "對她來說，這是她從來捨不得讓自己享受的奢侈。",
+        "en": "For her, it would be a luxury she has never allowed herself.",
+        "covers": [
+         "luxury"
+        ],
+        "bold": [
+         "a luxury"
+        ]
+       },
+       {
+        "zh": "這會是輕鬆又難得的一天，一輩子大概只有這一次。",
+        "en": "It would be a relaxing, once-in-a-lifetime day for both of us.",
+        "covers": [
+         "relaxing",
+         "once-in-a-lifetime"
+        ],
+        "bold": [
+         "relaxing",
+         "once-in-a-lifetime"
+        ]
+       },
+       {
+        "zh": "我最想要的，就是能和她好好相處一整天。",
+        "en": "More than anything, I want to spend a whole day of quality time with her.",
+        "covers": [
+         "spend quality time with sb"
+        ],
+        "bold": [
+         "quality time with her"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "affordable",
+        "zh": "價格實惠的",
+        "src": "109年指考 Q2、104年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0022",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348"
+        ]
+       },
+       {
+        "w": "bargain",
+        "zh": "便宜貨、划算的東西",
+        "src": "107年學測 Q13、93年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0403",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0195"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -11606,6 +11958,370 @@
       "t": "這一份把體例列為一項、配分 2 分，看的是格式、標點、大小寫；未分兩段，也在這一項扣 1 分。扣分規則另有一條管書信格式：未使用適當書信格式（如未書寫稱呼語及信末署名），扣 1 分。題目還規定信末只能用 George 或 Mary 署名，不得使用自己真實的中文或英文姓名。這一篇開頭寫 Dear Eve，稱呼語後面接逗號；信末 Your friend 後面同樣接逗號，下一行署名 Mary，兩個名字都是題目指定的。大小寫上，Eve、Mary、Saturday 照專有名詞寫，MRT 全部大寫；標點上，meet-and-greet 兩處連字號不能省，First、Second、Finally 後面各接逗號。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "lend",
+        "zh": "借出（lend sb + N／lend N to sb）",
+        "own": true
+       },
+       {
+        "w": "borrow",
+        "zh": "借入（borrow N from sb）",
+        "own": true
+       },
+       {
+        "w": "precious",
+        "zh": "珍貴的（對某人意義重大）",
+        "src": "95年學測 Q8、91年學測補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0218",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0142"
+        ]
+       },
+       {
+        "w": "valuable",
+        "zh": "貴重的、值錢的",
+        "src": "95年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0174"
+        ]
+       },
+       {
+        "w": "sentimental value",
+        "zh": "紀念價值",
+        "own": true
+       },
+       {
+        "w": "leave sth behind",
+        "zh": "把東西忘在某處",
+        "own": true
+       },
+       {
+        "w": "careless",
+        "zh": "粗心的（It was careless of me to + V）",
+        "own": true
+       },
+       {
+        "w": "contact",
+        "zh": "聯絡",
+        "src": "108年學測 Q14、83年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0419",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0005"
+        ]
+       },
+       {
+        "w": "search",
+        "zh": "搜尋、到處找（search + 地方 + for + N）",
+        "src": "81年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0325"
+        ]
+       },
+       {
+        "w": "nowhere to be found",
+        "zh": "到處都找不到",
+        "own": true
+       },
+       {
+        "w": "turn up",
+        "zh": "（遺失的東西）出現、找到",
+        "own": true
+       },
+       {
+        "w": "be discontinued",
+        "zh": "停產",
+        "own": true
+       },
+       {
+        "w": "available",
+        "zh": "買得到的、可取得的",
+        "src": "111年學測 Q7、94年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0457",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0202"
+        ]
+       },
+       {
+        "w": "secondhand",
+        "zh": "二手的",
+        "own": true
+       },
+       {
+        "w": "replace",
+        "zh": "換一個新的、取代",
+        "src": "109年學測 Q11、102年學測 Q2、98年指考參考試卷（99 課綱適用） Q7、94年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0431",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0317",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0339",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206"
+        ]
+       },
+       {
+        "w": "compensate",
+        "zh": "賠償（compensate sb for + N）",
+        "src": "86年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0283"
+        ]
+       },
+       {
+        "w": "take responsibility for + N",
+        "zh": "為…負起責任",
+        "own": true
+       },
+       {
+        "w": "apology",
+        "zh": "道歉（owe sb an apology 欠某人一個道歉）",
+        "src": "92年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0206"
+        ]
+       },
+       {
+        "w": "apologize to sb for + N",
+        "zh": "為了…向某人道歉",
+        "src": "85年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0025"
+        ]
+       },
+       {
+        "w": "let sb down",
+        "zh": "讓某人失望",
+        "own": true
+       },
+       {
+        "w": "forgive",
+        "zh": "原諒",
+        "own": true
+       },
+       {
+        "w": "make it up to sb",
+        "zh": "彌補某人",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "你借我去花蓮校外教學的那台底片相機，我弄丟了。",
+        "en": "I lost the film camera you lent me for our class trip to Hualien.",
+        "covers": [
+         "lend"
+        ],
+        "bold": [
+         "you lent me"
+        ]
+       },
+       {
+        "zh": "我知道那是你爺爺留給你的，對你來說非常珍貴。",
+        "en": "I know it was your grandfather's, so it is very precious to you.",
+        "covers": [
+         "precious"
+        ],
+        "bold": [
+         "precious to you"
+        ]
+       },
+       {
+        "zh": "那台相機本身就很值錢，更何況它的紀念價值是錢買不到的。",
+        "en": "The camera itself is valuable, and its sentimental value is something money can't buy.",
+        "hint": "valuable 講的是值錢；precious 講的是對某人意義重大。",
+        "covers": [
+         "valuable",
+         "sentimental value"
+        ],
+        "bold": [
+         "valuable",
+         "sentimental value"
+        ]
+       },
+       {
+        "zh": "回程坐火車時，我一路拍窗外的海，下車時太累，竟然把相機忘在座位上。",
+        "en": "On the train ride home, I kept taking pictures of the sea. When I got off, I was so tired that I left the camera behind on my seat.",
+        "covers": [
+         "leave sth behind"
+        ],
+        "bold": [
+         "left the camera behind"
+        ]
+       },
+       {
+        "zh": "我實在太粗心了。",
+        "en": "It was really careless of me.",
+        "hint": "careless 用來評論某人的行為時，說 It was careless of me (to + V)，of 後面接人。",
+        "covers": [
+         "careless"
+        ],
+        "bold": [
+         "careless of me"
+        ]
+       },
+       {
+        "zh": "一回到家，我就聯絡台鐵的失物招領中心。",
+        "en": "As soon as I got home, I contacted the railway company's lost-and-found office.",
+        "covers": [
+         "contact"
+        ],
+        "bold": [
+         "contacted"
+        ]
+       },
+       {
+        "zh": "他們隔天把那節車廂整個找了一遍，還是到處都找不到。",
+        "en": "The next day, they searched the whole car for it, but the camera was nowhere to be found.",
+        "hint": "search 後面直接接搜尋的地方；要說找什麼，用 search + 地方 + for + 東西。",
+        "covers": [
+         "search",
+         "nowhere to be found"
+        ],
+        "bold": [
+         "searched the whole car for it",
+         "nowhere to be found"
+        ]
+       },
+       {
+        "zh": "說不定過幾天，它還會出現在失物招領中心。",
+        "en": "Maybe it will still turn up at the lost-and-found office in a few days.",
+        "covers": [
+         "turn up"
+        ],
+        "bold": [
+         "turn up"
+        ]
+       },
+       {
+        "zh": "那個型號早就停產了，新的已經買不到。",
+        "en": "That model was discontinued years ago, so a new one is no longer available.",
+        "covers": [
+         "be discontinued",
+         "available"
+        ],
+        "bold": [
+         "was discontinued",
+         "no longer available"
+        ]
+       },
+       {
+        "zh": "要是找到同型號的二手相機，我會買下來還給你。",
+        "en": "If I can find a secondhand camera of the same model, I will buy it to replace yours.",
+        "covers": [
+         "secondhand",
+         "replace"
+        ],
+        "bold": [
+         "secondhand camera",
+         "replace yours"
+        ]
+       },
+       {
+        "zh": "如果真的找不到，我願意賠償你的損失。",
+        "en": "If it never turns up, I am willing to compensate you for the loss.",
+        "covers": [
+         "compensate"
+        ],
+        "bold": [
+         "compensate you for the loss"
+        ]
+       },
+       {
+        "zh": "這件事我會負起全部的責任。",
+        "en": "I will take full responsibility for this.",
+        "covers": [
+         "take responsibility for + N"
+        ],
+        "bold": [
+         "take full responsibility for"
+        ]
+       },
+       {
+        "zh": "我欠你一個道歉，真的很對不起。",
+        "en": "I owe you an apology, and I am truly sorry.",
+        "covers": [
+         "apology"
+        ],
+        "bold": [
+         "owe you an apology"
+        ]
+       },
+       {
+        "zh": "我也要為沒有馬上告訴你，向你說聲對不起。",
+        "en": "I also want to apologize to you for not telling you right away.",
+        "hint": "apologize to 後面接道歉的對象，for 後面接道歉的原因。",
+        "covers": [
+         "apologize to sb for + N"
+        ],
+        "bold": [
+         "apologize to you for"
+        ]
+       },
+       {
+        "zh": "我知道我讓你失望了，希望你能原諒我。",
+        "en": "I know I have let you down, and I hope you can forgive me.",
+        "covers": [
+         "let sb down",
+         "forgive"
+        ],
+        "bold": [
+         "let you down",
+         "forgive me"
+        ]
+       },
+       {
+        "zh": "不管要做什麼，我都會想辦法彌補你。",
+        "en": "Whatever it takes, I will find a way to make it up to you.",
+        "hint": "make it up to sb 是口語說法，寫給朋友的信可以用；比較正式的說法是 make up for + 事情。",
+        "covers": [
+         "make it up to sb"
+        ],
+        "bold": [
+         "make it up to you"
+        ]
+       },
+       {
+        "zh": "這段期間你要拍照的話，可以先借我的單眼相機去用。",
+        "en": "In the meantime, you can borrow my DSLR whenever you need one.",
+        "covers": [
+         "borrow"
+        ],
+        "bold": [
+         "borrow my DSLR"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "belongings",
+        "zh": "隨身物品、所有物",
+        "src": "107年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0042"
+        ]
+       },
+       {
+        "w": "deposit",
+        "zh": "押金、訂金",
+        "src": "101年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0113"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -11668,6 +12384,384 @@
      {
       "k": "體例",
       "t": "這一份把體例列為一項、配分 2 分，看的是格式、標點、大小寫；表一這一項「優」與「可」併成一格給 2 分，「差」給 1 分，「劣」給 0 分。扣分規則另寫未分段扣 1 分、寫多段不扣分；範文文分兩段。標點上，直接引語 \"At least everyone can see you,\" 的逗號放在引號裡面；大小寫上，PX Mart、Ghost Month 每個字的首字母大寫，TV 全部大寫，Taiwanese 首字母大寫。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-03",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "a TV commercial",
+        "zh": "電視廣告",
+        "own": true
+       },
+       {
+        "w": "advertisement",
+        "zh": "廣告",
+        "src": "82年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0316"
+        ]
+       },
+       {
+        "w": "impression",
+        "zh": "印象（leave a deep impression on sb 讓某人印象深刻）",
+        "src": "95年學測 Q12、92年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0222",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0152"
+        ]
+       },
+       {
+        "w": "impress",
+        "zh": "使印象深刻（be impressed by + N）",
+        "src": "107年學測 Q10、104年學測 Q11、84年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0400",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0015"
+        ]
+       },
+       {
+        "w": "feature",
+        "zh": "以…為主角、由…主演",
+        "src": "98年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0145"
+        ]
+       },
+       {
+        "w": "plot",
+        "zh": "情節",
+        "src": "114年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0485"
+        ]
+       },
+       {
+        "w": "scene",
+        "zh": "畫面、場景",
+        "own": true
+       },
+       {
+        "w": "background music",
+        "zh": "背景音樂",
+        "own": true
+       },
+       {
+        "w": "catchy",
+        "zh": "好記的、朗朗上口的",
+        "own": true
+       },
+       {
+        "w": "slogan",
+        "zh": "標語、廣告詞",
+        "own": true
+       },
+       {
+        "w": "promote",
+        "zh": "推銷、宣傳",
+        "src": "104年學測 Q11、99年指考 Q9、98年指考 Q10、97年學測 Q4、92年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0141",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0152",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0207"
+        ]
+       },
+       {
+        "w": "brand",
+        "zh": "品牌",
+        "src": "114年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0482"
+        ]
+       },
+       {
+        "w": "heartwarming",
+        "zh": "溫馨的、暖心的",
+        "own": true
+       },
+       {
+        "w": "humorous",
+        "zh": "幽默的、好笑的",
+        "src": "88年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0262"
+        ]
+       },
+       {
+        "w": "creative",
+        "zh": "有創意的",
+        "src": "109年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0435"
+        ]
+       },
+       {
+        "w": "persuasive",
+        "zh": "有說服力的",
+        "src": "110年學測 Q6、107年學測 Q7、102年指考 Q10、92年指考 Q1、88年聯考 Q10、87年推薦甄選 Q5、86年推薦甄選 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0441",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0397",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0112",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0205",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0263",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0065",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0046"
+        ]
+       },
+       {
+        "w": "vivid",
+        "zh": "生動的、逼真的",
+        "src": "98年學測 Q1、90年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0256",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0112"
+        ]
+       },
+       {
+        "w": "convey",
+        "zh": "傳達",
+        "src": "108年學測 Q3、105年學測 Q4、104年學測 Q12、99年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0408",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0364",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0357",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0134"
+        ]
+       },
+       {
+        "w": "message",
+        "zh": "要傳達的意思、寓意",
+        "src": "81年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0332"
+        ]
+       },
+       {
+        "w": "remind",
+        "zh": "讓人想起（remind sb of + N）",
+        "src": "98年學測 Q14、83年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0308"
+        ]
+       },
+       {
+        "w": "appeal",
+        "zh": "吸引（appeal to sb）",
+        "src": "99年指考 Q2、84年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0134",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0018"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "有一支電視廣告讓我印象很深，講的是一位爺爺學用手機。",
+        "en": "One TV commercial that left a deep impression on me is about an old man learning to use a smartphone.",
+        "covers": [
+         "a TV commercial",
+         "impression"
+        ],
+        "bold": [
+         "TV commercial",
+         "left a deep impression on me"
+        ]
+       },
+       {
+        "zh": "廣告的主角是一位七十多歲的爺爺，他的女兒在國外念書。",
+        "en": "The commercial features a man in his seventies whose daughter is studying abroad.",
+        "hint": "feature 當動詞是「以…為主角」，主詞是廣告、電影或節目。",
+        "covers": [
+         "feature"
+        ],
+        "bold": [
+         "features"
+        ]
+       },
+       {
+        "zh": "情節很簡單：他偷偷去上手機課，想學會怎麼視訊。",
+        "en": "The plot is simple: he secretly takes a class to learn how to make video calls.",
+        "covers": [
+         "plot"
+        ],
+        "bold": [
+         "plot"
+        ]
+       },
+       {
+        "zh": "其中一個畫面，是他戴上老花眼鏡，一個字一個字地打訊息。",
+        "en": "In one scene, he puts on his reading glasses and types a message one letter at a time.",
+        "covers": [
+         "scene"
+        ],
+        "bold": [
+         "In one scene"
+        ]
+       },
+       {
+        "zh": "背景音樂只有輕輕的鋼琴聲。",
+        "en": "The background music is just soft piano.",
+        "covers": [
+         "background music"
+        ],
+        "bold": [
+         "background music"
+        ]
+       },
+       {
+        "zh": "那段旋律很好記，我到現在上學路上還會哼。",
+        "en": "The melody is so catchy that I still hum it on my way to school.",
+        "covers": [
+         "catchy"
+        ],
+        "bold": [
+         "catchy"
+        ]
+       },
+       {
+        "zh": "最後，螢幕上出現一句標語：「距離再遠，愛都到得了。」",
+        "en": "At the end, a slogan appears on the screen: \"No distance is too far for love.\"",
+        "covers": [
+         "slogan"
+        ],
+        "bold": [
+         "slogan"
+        ]
+       },
+       {
+        "zh": "這則廣告其實是在推銷電信公司的上網方案。",
+        "en": "This advertisement is actually promoting a telecom company's mobile Internet plan.",
+        "covers": [
+         "advertisement",
+         "promote"
+        ],
+        "bold": [
+         "advertisement",
+         "promoting"
+        ]
+       },
+       {
+        "zh": "不過整支廣告裡，品牌名稱只在最後出現兩秒。",
+        "en": "Yet the brand name appears for only two seconds at the very end.",
+        "covers": [
+         "brand"
+        ],
+        "bold": [
+         "brand name"
+        ]
+       },
+       {
+        "zh": "我對這支廣告印象深刻，一個原因是它很溫馨，卻一點也不刻意。",
+        "en": "One reason I was impressed by the ad is that it is heartwarming without trying too hard.",
+        "covers": [
+         "impress",
+         "heartwarming"
+        ],
+        "bold": [
+         "impressed by",
+         "heartwarming"
+        ]
+       },
+       {
+        "zh": "爺爺打錯字的那幾段很好笑，我看了忍不住笑出來。",
+        "en": "The parts where he types the wrong words are humorous, and I couldn't help laughing.",
+        "hint": "couldn't help 後面接 V-ing，意思是「忍不住…」。",
+        "covers": [
+         "humorous"
+        ],
+        "bold": [
+         "humorous"
+        ]
+       },
+       {
+        "zh": "這樣的安排很有創意，比直接介紹網速有說服力多了。",
+        "en": "This creative approach is far more persuasive than simply listing Internet speeds.",
+        "covers": [
+         "creative",
+         "persuasive"
+        ],
+        "bold": [
+         "creative",
+         "far more persuasive"
+        ]
+       },
+       {
+        "zh": "畫面拍得很生動，我覺得好像在看自己的家人。",
+        "en": "The scenes are so vivid that I felt as if I were watching my own family.",
+        "covers": [
+         "vivid"
+        ],
+        "bold": [
+         "vivid"
+        ]
+       },
+       {
+        "zh": "它想傳達的意思很清楚：科技應該讓家人更親近。",
+        "en": "The message it wants to convey is clear: technology should bring families closer.",
+        "covers": [
+         "convey",
+         "message"
+        ],
+        "bold": [
+         "The message it wants to convey"
+        ]
+       },
+       {
+        "zh": "這支廣告讓我想起住在台南的爺爺奶奶。",
+        "en": "The ad reminded me of my grandparents in Tainan.",
+        "hint": "remind sb of + 名詞，是「讓某人想起」；remind sb to + V，是「提醒某人去做」。",
+        "covers": [
+         "remind"
+        ],
+        "bold": [
+         "reminded me of"
+        ]
+       },
+       {
+        "zh": "這支廣告對年輕人和長輩都很有吸引力。",
+        "en": "The ad appeals to both young people and older viewers.",
+        "covers": [
+         "appeal"
+        ],
+        "bold": [
+         "appeals to"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "advertising",
+        "zh": "廣告業、廣告宣傳（不可數）",
+        "src": "96年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0232"
+        ]
+       },
+       {
+        "w": "commercial",
+        "zh": "商業的（形容詞；名詞「電視廣告」說 a TV commercial）",
+        "src": "91年學測 Q4、91年學測補考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0124",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0144"
+        ]
+       }
+      ]
      }
     ]
    }
