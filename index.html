@@ -484,7 +484,8 @@ function matches(it){
   if(S.themes.length && !S.themes.some(t=>it.theme.includes(t))) return false;
   if(S.pic && !it.hasImage) return false;
   if(S.official && !it.isOfficial) return false;
-  if(S.wb && !wordBanksFor(it).length) return false;
+  // 參考試卷採用歷年考題者（sameAs），字詞搭配掛在原題；原題有，這一題也算在篩選結果裡，卡片上以連結指過去。
+  if(S.wb && !wordBanksFor(it).length && !(sameAsSrc(it)&&wordBanksFor(sameAsSrc(it)).length)) return false;
   return true;
 }
 
@@ -553,6 +554,9 @@ function themeBankKeysFor(it){
     return Array.isArray(tb.appliesTo)&&tb.appliesTo.indexOf(it.id)>=0;
   });
 }
+function sameAsSrc(it){
+  return it.sameAs?DATA.find(x=>x.id===it.sameAs):null;
+}
 function wordBanksFor(it){
   const banks=themeBankKeysFor(it).map(k=>THEMEBANKS[k]);
   if(it.wordBank&&it.wordBank.groups&&it.wordBank.groups.length)banks.push(it.wordBank);
@@ -587,12 +591,12 @@ function card(it){
   if(it.promptNote)d.appendChild(el('p','reuse',it.promptNote));
   if(it.reuseNote){
     const r=el('p','reuse',it.reuseNote);
-    // 參考試卷採用歷年考題者，資料以 sameAs 指向原題；原題有範文，就在這一句後面接一條連結跳過去。
-    const src=it.sameAs&&DATA.find(x=>x.id===it.sameAs);
+    // 參考試卷採用歷年考題者，資料以 sameAs 指向原題；原題有範文，就在這一句後面接一條連結跳過去，原題另有字詞搭配時連結文字一併寫明。
+    const src=sameAsSrc(it);
     if(src&&src.model){
       r.appendChild(document.createTextNode('　'));
       const a=document.createElement('a');
-      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文 ↓';
+      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文'+(wordBanksFor(src).length?'與字詞搭配':'')+' ↓';
       a.addEventListener('click',e=>{e.preventDefault();jumpTo(src.id)});
       r.appendChild(a);
     }
