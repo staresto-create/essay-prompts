@@ -104,16 +104,20 @@
        {
         "w": "an increasing tendency for sb to V",
         "zh": "越來越多人傾向……",
-        "src": "98年學測 Q5",
+        "src": "104年學測 Q5、98年學測 Q5",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0350",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0260"
         ]
        },
        {
         "w": "replace",
         "zh": "取代",
-        "src": "94年學測 Q11",
+        "src": "109年學測 Q11、102年學測 Q2、98年指考參考試卷（99 課綱適用） Q7、94年學測 Q11",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0431",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0317",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0339",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206"
         ]
        },
@@ -128,9 +132,11 @@
        {
         "w": "affection",
         "zh": "關愛",
-        "src": "98年指考 Q28",
+        "src": "106年指考 Q2、98年指考 Q28、84年聯考 Q5",
         "srcUrl": [
-         "https://staresto-create.github.io/passage-completion/#hard-Vz98_28"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0052",
+         "https://staresto-create.github.io/passage-completion/#hard-Vz98_28",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0298"
         ]
        },
        {
@@ -144,8 +150,9 @@
        {
         "w": "affordable",
         "zh": "負擔得起的、平價的",
-        "src": "104年學測 Q3",
+        "src": "109年指考 Q2、104年學測 Q3",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0022",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348"
         ]
        },
@@ -176,9 +183,12 @@
        {
         "w": "a long-term commitment",
         "zh": "長期的付出（96 年那一題考的是「承諾」那一個意思）",
-        "src": "96年指考 Q9",
+        "src": "96年指考 Q9、95年指考 Q6、92年學測 Q10、82年聯考 Q3",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0171"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0171",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0178",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0160",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0316"
         ]
        },
        {
@@ -280,9 +290,10 @@
        {
         "w": "isolated",
         "zh": "remain isolated from the society，講與社會脫節",
-        "src": "99年學測 Q36",
+        "src": "99年學測 Q36、89年聯考 Q8",
         "srcUrl": [
-         "https://staresto-create.github.io/passage-completion/#hard-Vy99_36"
+         "https://staresto-create.github.io/passage-completion/#hard-Vy99_36",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0247"
         ]
        },
        {
@@ -445,10 +456,11 @@
        {
         "w": "call off / cancel classes",
         "zh": "停課",
-        "src": "92年學測 Q1、100年學測 Q5",
+        "src": "100年學測 Q5、92年學測 Q1、85年推薦甄選 Q15",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0290",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0151",
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0290"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0035"
         ]
        },
        {
@@ -459,10 +471,7 @@
        {
         "w": "the weather bureau",
         "zh": "氣象局（現稱中央氣象署 Central Weather Administration）",
-        "src": "108年學測 Q3",
-        "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0408"
-        ]
+        "own": true
        },
        {
         "w": "predict the weather / a typhoon",
@@ -491,10 +500,10 @@
        {
         "w": "severe damage",
         "zh": "嚴重災損",
-        "src": "99年學測 Q12、107年學測中譯英第1題",
+        "src": "107年學測中譯英第1題、99年學測 Q12",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282",
-         "https://staresto-create.github.io/JCEE-vocab-questions/translate/#q-116"
+         "https://staresto-create.github.io/JCEE-vocab-questions/translate/#q-116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282"
         ]
        },
        {
@@ -516,9 +525,10 @@
        {
         "w": "collapse",
         "zh": "倒塌（路樹、招牌、房屋）",
-        "src": "102年學測 Q13",
+        "src": "99年學測 Q13、89年學測 Q5",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0328"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0283",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0095"
         ]
        },
        {
@@ -540,8 +550,9 @@
        {
         "w": "shelter sb from / take shelter",
         "zh": "讓某人免受…、找地方躲避",
-        "src": "102年指考 Q9",
+        "src": "108年指考 Q1、102年指考 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0031",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0111"
         ]
        },
@@ -679,8 +690,10 @@
        {
         "w": "be suspended from + N",
         "zh": "被停職、被勒令停學（與「停班停課」不同義）",
-        "src": "89年學測 Q5",
+        "src": "98年指考參考試卷（99 課綱適用） Q7、97年指考 Q8、89年學測 Q5",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0339",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0160",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0095"
         ]
        },
@@ -700,7 +713,11 @@
        {
         "w": "intensify",
         "zh": "（風暴）增強",
-        "own": true
+        "src": "105年學測 Q12、91年學測補考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0372",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0145"
+        ]
        }
       ],
       "note": "同一個主題考過，這一題用不到，但值得認識"
@@ -889,16 +906,18 @@
        {
         "w": "in order of priority",
         "zh": "按輕重緩急",
-        "src": "94年學測 Q15",
+        "src": "94年學測 Q15、93年敏督利颱風受災地區考生補救考試 Q2",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0210"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0210",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0092"
         ]
        },
        {
         "w": "reliable",
         "zh": "可靠的",
-        "src": "98年學測 Q6",
+        "src": "107年學測 Q15、98年學測 Q6",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0405",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261"
         ]
        },
@@ -921,24 +940,27 @@
        {
         "w": "automatically",
         "zh": "自動地",
-        "src": "98年學測 Q3",
+        "src": "105年學測 Q9、98年學測 Q3",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0369",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0258"
         ]
        },
        {
         "w": "capacity",
         "zh": "容量、能力",
-        "src": "101年學測 Q15",
+        "src": "108年指考 Q7、101年學測 Q15",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0037",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0315"
         ]
        },
        {
         "w": "get over",
         "zh": "克服、走出來",
-        "src": "89年學測 Q12",
+        "src": "92年學測補考 Q13、89年學測 Q12",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0178",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0102"
         ]
        },
@@ -953,8 +975,10 @@
        {
         "w": "manageable",
         "zh": "應付得來的",
-        "src": "91年學測 Q2",
+        "src": "97年學測 Q11、93年指考 Q7、91年學測 Q2",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0251",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0199",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0122"
         ]
        },
@@ -1064,9 +1088,11 @@
        {
         "w": "artificial",
         "zh": "站上考的是「人造的」（artificial flavors 人工香料）。artificial intelligence 是同一個意思的另一個搭配",
-        "src": "93年學測 Q8",
+        "src": "93年學測 Q8、87年推薦甄選 Q5、85年聯考 Q9",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0188"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0188",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0065",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0292"
         ]
        },
        {
@@ -1080,17 +1106,20 @@
        {
         "w": "alert",
         "zh": "站上考的是名詞 a travel alert「旅遊警示」，不是動詞的提醒",
-        "src": "103年學測 Q14",
+        "src": "110年學測 Q1、105年學測 Q11、103年學測 Q14",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0436",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0371",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
         ]
        },
        {
         "w": "give way to",
         "zh": "站上考的是製造業被資訊業取代。這一題談的是分工不是取代，方向不同",
-        "src": "91年學測 Q14",
+        "src": "91年學測 Q14、91年學測補考 Q15",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0134"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0134",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0150"
         ]
        }
       ],
@@ -1207,17 +1236,21 @@
        {
         "w": "clarify",
         "zh": "說清楚、澄清",
-        "src": "91年學測 Q9",
+        "src": "100年指考 Q2、91年學測 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0124",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0129"
         ]
        },
        {
         "w": "expressive",
         "zh": "有表達力的",
-        "src": "108年學測 Q7",
+        "src": "108年學測 Q7、104年學測 Q3、98年指考參考試卷（99 課綱適用） Q8、86年推薦甄選 Q6",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0412"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0412",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0340",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0046"
         ]
        },
        {
@@ -1247,8 +1280,9 @@
        {
         "w": "out of courtesy",
         "zh": "出於禮貌",
-        "src": "85年推薦甄選 Q4",
+        "src": "96年指考 Q2、85年推薦甄選 Q4",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024"
         ]
        },
@@ -1390,9 +1424,10 @@
        {
         "w": "regularly",
         "zh": "有規律地。同一個主題常見的副詞，本題用不到",
-        "src": "101年學測 Q2",
+        "src": "101年學測 Q2、86年聯考 Q6",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0302"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0302",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0279"
         ]
        }
       ],
@@ -1498,16 +1533,19 @@
        {
         "w": "shelter sb from the sun",
         "zh": "替人遮陽",
-        "src": "102年指考 Q9",
+        "src": "108年指考 Q1、102年指考 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0031",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0111"
         ]
        },
        {
         "w": "preserve",
         "zh": "保留、保存",
-        "src": "98年學測 Q9",
+        "src": "106年學測 Q11、99年學測 Q5、98年學測 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0386",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
         ]
        },
@@ -1816,22 +1854,27 @@
        {
         "w": "behave oneself",
         "zh": "守規矩、舉止合宜",
-        "src": "99年學測 Q37",
+        "src": "99年學測 Q37、92年學測補考 Q1",
         "srcUrl": [
-         "https://staresto-create.github.io/passage-completion/#hard-Vy99_37"
+         "https://staresto-create.github.io/passage-completion/#hard-Vy99_37",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166"
         ]
        },
        {
         "w": "attitude",
         "zh": "心態",
-        "own": true
+        "src": "95年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0215"
+        ]
        },
        {
         "w": "courtesy",
         "zh": "禮貌、為人著想",
-        "src": "96年指考 Q2",
+        "src": "96年指考 Q2、85年推薦甄選 Q4",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024"
         ]
        },
        {
@@ -1852,7 +1895,10 @@
        {
         "w": "trample",
         "zh": "踐踏",
-        "own": true
+        "src": "104年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0072"
+        ]
        },
        {
         "w": "wear paths through",
@@ -1862,10 +1908,14 @@
        {
         "w": "promote",
         "zh": "推廣、宣傳",
-        "src": "95年學測 Q34、104年學測 Q11",
+        "src": "104年學測 Q11、99年指考 Q9、98年指考 Q10、97年學測 Q4、95年學測 Q34、92年指考 Q3",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0141",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0152",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244",
          "https://staresto-create.github.io/passage-completion/#hard-Vy95_34",
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0207"
         ]
        },
        {
@@ -1971,10 +2021,11 @@
        {
         "w": "preserve",
         "zh": "保存（維持原樣。花田要講的是防止傷害，那是 protect；preserve 用在文化、傳統、野生動物）",
-        "src": "98年學測 Q9、99年學測 Q5",
+        "src": "106年學測 Q11、99年學測 Q5、98年學測 Q9",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264",
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0386",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
         ]
        },
        {
@@ -2004,16 +2055,20 @@
        {
         "w": "the fragrance of flowers",
         "zh": "花香（a sweet fragrance 淡淡的香氣。芳香療法是 aromatherapy，不是 fragrance therapy）",
-        "src": "97年學測 Q6",
+        "src": "98年學測 Q11、97年學測 Q6、94年指考 Q5、84年推薦甄選 Q9",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0246"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0266",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0246",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0187",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0019"
         ]
        },
        {
         "w": "a flock of tourists",
         "zh": "一群觀光客（flock 原指鳥群、羊群，用在人是另一個意思）",
-        "src": "84年聯考 Q2",
+        "src": "102年學測 Q9、84年聯考 Q2",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0324",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0295"
         ]
        }
@@ -2127,7 +2182,10 @@
        {
         "w": "crack",
         "zh": "龜裂（地面、牆面裂開）",
-        "own": true
+        "src": "105年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0373"
+        ]
        },
        {
         "w": "a water shortage",
@@ -2145,9 +2203,10 @@
        {
         "w": "a plastic container",
         "zh": "塑膠容器",
-        "src": "114年學測 Q1",
+        "src": "114年學測 Q1、100年學測 Q6",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0481"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0481",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0291"
         ]
        },
        {
@@ -2158,15 +2217,15 @@
        {
         "w": "leak",
         "zh": "漏水",
-        "own": true
+        "src": "102年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0327"
+        ]
        },
        {
         "w": "the water supply",
         "zh": "供水",
-        "src": "99年指考 Q7",
-        "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0139"
-        ]
+        "own": true
        },
        {
         "w": "reduce water consumption",
@@ -2284,9 +2343,10 @@
        {
         "w": "bring about landslides and flooding",
         "zh": "造成山崩與淹水",
-        "src": "93年學測 Q11",
+        "src": "93年學測 Q11、90年學測 Q11",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0191"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0191",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0116"
         ]
        },
        {
@@ -2387,18 +2447,17 @@
        {
         "w": "adapt to + N",
         "zh": "適應（環境、做法）",
-        "src": "88年推薦甄選 Q4",
+        "src": "104年指考 Q10、88年推薦甄選 Q4、81年聯考 Q8",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0080",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0331"
         ]
        },
        {
         "w": "adjust to + N",
         "zh": "調整自己去配合（強調調整的過程）",
-        "src": "96年學測 Q4",
-        "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0229"
-        ]
+        "own": true
        },
        {
         "w": "be fluent in + 語言",
@@ -2411,9 +2470,12 @@
        {
         "w": "be familiar with + N",
         "zh": "熟悉某件事物",
-        "src": "89年聯考 Q3",
+        "src": "101年學測 Q5、100年指考 Q10、89年聯考 Q3、83年聯考 Q8",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0242"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0305",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0132",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0242",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0311"
         ]
        },
        {
@@ -2565,9 +2627,13 @@
        {
         "w": "efficient",
         "zh": "有效率的",
-        "src": "88年推薦甄選 Q9",
+        "src": "107年學測 Q15、101年學測 Q7、89年聯考 Q13、88年推薦甄選 Q9、88年聯考 Q3",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0084"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0405",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0307",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0252",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0084",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0256"
         ]
        },
        {
@@ -2581,7 +2647,10 @@
        {
         "w": "a lecture",
         "zh": "課堂講授、演講",
-        "own": true
+        "src": "92年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0206"
+        ]
        },
        {
         "w": "a syllabus",
@@ -2705,7 +2774,10 @@
        {
         "w": "let go",
         "zh": "放手",
-        "own": true
+        "src": "93年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0193"
+        ]
        },
        {
         "w": "rush in",
@@ -2728,7 +2800,10 @@
        {
         "w": "seize",
         "zh": "搶下",
-        "own": true
+        "src": "93年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0182"
+        ]
        },
        {
         "w": "influence one's decision",
@@ -2746,7 +2821,11 @@
        {
         "w": "a moment's hesitation",
         "zh": "一遲疑",
-        "own": true
+        "src": "101年學測 Q6、91年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0306",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0128"
+        ]
        },
        {
         "w": "be willing to V",
@@ -2756,8 +2835,10 @@
        {
         "w": "ashamed",
         "zh": "感到羞愧的",
-        "src": "98年指考 Q23",
+        "src": "106年學測 Q14、104年學測 Q8、98年指考 Q23",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0389",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0353",
          "https://staresto-create.github.io/passage-completion/#hard-Vz98_23"
         ]
        },
@@ -2851,8 +2932,9 @@
        {
         "w": "a sales promotion / promote a product",
         "zh": "促銷活動／推廣產品（be promoted to + 職位 是升職，另一個意思）",
-        "src": "104年學測 Q11、89年學測 Q7",
+        "src": "105年學測 Q10、104年學測 Q11、89年學測 Q7",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0370",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0097"
         ]
@@ -2868,9 +2950,11 @@
        {
         "w": "resist the temptation",
         "zh": "抵擋誘惑",
-        "src": "94年學測 Q9",
+        "src": "99年學測 Q6、94年學測 Q9、83年聯考 Q7",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0276",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0310"
         ]
        },
        {
@@ -2884,8 +2968,9 @@
        {
         "w": "greed for + N",
         "zh": "對…的貪婪（介系詞用 for，不用 of）",
-        "src": "85年聯考 Q2",
+        "src": "86年聯考 Q2、85年聯考 Q2",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0285"
         ]
        },
@@ -2977,7 +3062,10 @@
        {
         "w": "campus safety",
         "zh": "校園安全",
-        "own": true
+        "src": "86年推薦甄選 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0042"
+        ]
        },
        {
         "w": "safety",
@@ -3027,7 +3115,10 @@
        {
         "w": "a fire drill",
         "zh": "消防演練",
-        "own": true
+        "src": "99年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0278"
+        ]
        },
        {
         "w": "take sth for granted",
@@ -3221,10 +3312,10 @@
        {
         "w": "blush with embarrassment",
         "zh": "尷尬得臉紅",
-        "src": "90年聯考 Q9、111年學測 Q10",
+        "src": "111年學測 Q10、90年聯考 Q9",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233",
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0460"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0460",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
         ]
        },
        {
@@ -3235,7 +3326,10 @@
        {
         "w": "on purpose",
         "zh": "故意",
-        "own": true
+        "src": "88年推薦甄選 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0089"
+        ]
        },
        {
         "w": "post a photo",
@@ -3258,15 +3352,19 @@
        {
         "w": "sincerely",
         "zh": "誠心地",
-        "src": "96年學測 Q10",
+        "src": "96年學測 Q10、95年學測 Q3",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0235"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0235",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0213"
         ]
        },
        {
         "w": "make up for + N",
         "zh": "彌補",
-        "own": true
+        "src": "91年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0133"
+        ]
        },
        {
         "w": "forgive sb for + V-ing",
@@ -3527,32 +3625,39 @@
        {
         "w": "affordable",
         "zh": "負擔得起的",
-        "src": "104年學測 Q3",
+        "src": "109年指考 Q2、104年學測 Q3",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0022",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0348"
         ]
        },
        {
         "w": "promote",
         "zh": "推廣、行銷",
-        "src": "104年學測 Q11",
+        "src": "104年學測 Q11、99年指考 Q9、98年指考 Q10、97年學測 Q4、92年指考 Q3",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0141",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0152",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0207"
         ]
        },
        {
         "w": "a monument",
         "zh": "古蹟；紀念碑、紀念館",
-        "src": "109年學測 Q6",
+        "src": "109年學測 Q6、103年學測 Q14",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
         ]
        },
        {
         "w": "equally",
         "zh": "同樣地、平等地",
-        "src": "97年學測 Q13",
+        "src": "98年指考參考試卷（99 課綱適用） Q1、97年學測 Q13",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0334",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0253"
         ]
        },
@@ -3651,8 +3756,9 @@
        {
         "w": "promotion",
         "zh": "推廣、宣傳",
-        "src": "89年學測 Q7",
+        "src": "105年學測 Q10、89年學測 Q7",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0370",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0097"
         ]
        },
@@ -3803,9 +3909,9 @@
        {
         "w": "international affairs",
         "zh": "國際事務（時事是 current affairs）",
-        "src": "95年指考 Q2、87年聯考 Q10",
+        "src": "107年指考 Q2、87年聯考 Q10",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0174",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0042",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0273"
         ]
        },
@@ -3832,7 +3938,11 @@
        {
         "w": "on the whole",
         "zh": "整體來說",
-        "own": true
+        "src": "91年學測 Q11、91年學測補考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0131",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0147"
+        ]
        }
       ],
       "sentences": [
@@ -3931,17 +4041,19 @@
        {
         "w": "decrease by + 幅度",
         "zh": "減少了多少（減至多少用 decrease to）",
-        "src": "109年學測 Q4",
+        "src": "109年學測 Q4、100年學測 Q11",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0296"
         ]
        },
        {
         "w": "supposedly",
         "zh": "號稱、據稱（the supposedly unbiased media）",
-        "src": "112年學測 Q10",
+        "src": "112年學測 Q10、93年指考 Q10",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0202"
         ]
        },
        {
@@ -4061,8 +4173,9 @@
        {
         "w": "impatient",
         "zh": "不耐煩的",
-        "src": "86年聯考 Q3",
+        "src": "93年敏督利颱風受災地區考生補救考試 Q8、86年聯考 Q3",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0098",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0276"
         ]
        },
@@ -4186,17 +4299,19 @@
        {
         "w": "supposedly",
         "zh": "號稱、據說（配的是「宣稱有、實際上未必」那一類形容詞）",
-        "src": "112年學測 Q10",
+        "src": "112年學測 Q10、93年指考 Q10",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0470",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0202"
         ]
        },
        {
         "w": "a legendary + N / become legendary",
         "zh": "傳奇的、傳為佳話的",
-        "src": "105年指考 Q9",
+        "src": "105年指考 Q9、99年指考 Q1",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0069"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0069",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0133"
         ]
        },
        {
@@ -4427,10 +4542,10 @@
        {
         "w": "interact with + N",
         "zh": "與…互動（名詞是 interaction）",
-        "src": "110年學測 Q7、104年學測 Q14",
+        "src": "104年學測 Q14、92年學測補考 Q3",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0442",
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0168"
         ]
        },
        {
@@ -5399,9 +5514,11 @@
        {
         "w": "be reluctant to V",
         "zh": "不情願做…（固定接不定詞。反義是 be willing to V）",
-        "src": "102年學測 Q5",
+        "src": "102年學測 Q5、99年學測 Q1、91年學測補考 Q9",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0320"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0320",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0271",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0144"
         ]
        },
        {
@@ -5460,9 +5577,14 @@
        {
         "w": "be considerate of / towards sb",
         "zh": "體貼某人（也可寫 It is considerate of sb to V）",
-        "src": "103年指考 Q1",
+        "src": "103年指考 Q1、100年學測 Q15、92年學測補考 Q1、91年指考 Q5、90年聯考 Q13、85年聯考 Q4",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0237",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0287"
         ]
        },
        {
@@ -5476,16 +5598,19 @@
        {
         "w": "distribute sth to sb",
         "zh": "把某物分發給某人（主題字庫用的是 divide A among B，這一個配的是 to）",
-        "src": "85年聯考 Q3",
+        "src": "107年學測 Q3、102年學測 Q2、85年聯考 Q3",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0393",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0317",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0286"
         ]
        },
        {
         "w": "be accustomed to + N / V-ing",
         "zh": "習慣於…（to 是介系詞，後面不接原形動詞）",
-        "src": "83年推薦甄選 Q2",
+        "src": "98年指考參考試卷（99 課綱適用） Q5、83年推薦甄選 Q2",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0338",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0002"
         ]
        }
@@ -7618,7 +7743,10 @@
        {
         "w": "stare at",
         "zh": "盯著看",
-        "own": true
+        "src": "83年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0310"
+        ]
        },
        {
         "w": "pretend not to V",
@@ -7628,9 +7756,10 @@
        {
         "w": "notice + O + V / V-ing / p.p.",
         "zh": "注意到某人（某物）做了某事／正在做某事／怎麼樣了",
-        "src": "108年學測 Q22",
+        "src": "108年學測 Q22、97年學測 Q1",
         "srcUrl": [
-         "https://staresto-create.github.io/grammar-cloze-test/q/g108-22-2/"
+         "https://staresto-create.github.io/grammar-cloze-test/q/g108-22-2/",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
         ]
        },
        {
@@ -7667,9 +7796,14 @@
        {
         "w": "considerate",
         "zh": "體貼的、替人著想的",
-        "src": "103年指考 Q1",
+        "src": "103年指考 Q1、100年學測 Q15、92年學測補考 Q1、91年指考 Q5、90年聯考 Q13、85年聯考 Q4",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0237",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0287"
         ]
        },
        {
@@ -7833,17 +7967,18 @@
        {
         "w": "a common courtesy / out of courtesy",
         "zh": "一種基本禮節／出於禮貌（out of 不用 from）",
-        "src": "85年推薦甄選 Q4、96年指考 Q2",
+        "src": "96年指考 Q2、85年推薦甄選 Q4",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024",
-         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0164",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0024"
         ]
        },
        {
         "w": "commute to school / work",
         "zh": "通勤上學、上班",
-        "src": "85年推薦甄選 Q2",
+        "src": "105年指考 Q2、85年推薦甄選 Q2",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0062",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0022"
         ]
        },
@@ -9389,8 +9524,9 @@
        {
         "w": "blush",
         "zh": "臉紅",
-        "src": "90年聯考 Q9",
+        "src": "111年學測 Q10、90年聯考 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0460",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
         ]
        },
@@ -10151,9 +10287,10 @@
        {
         "w": "notice + O + V / V-ing / p.p.",
         "zh": "注意到某人（某物）做了某事／正在做某事／怎麼樣了",
-        "src": "108年學測 Q22",
+        "src": "108年學測 Q22、97年學測 Q1",
         "srcUrl": [
-         "https://staresto-create.github.io/grammar-cloze-test/q/g108-22-2/"
+         "https://staresto-create.github.io/grammar-cloze-test/q/g108-22-2/",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
         ]
        },
        {
@@ -10169,9 +10306,11 @@
        {
         "w": "resist the temptation of + N",
         "zh": "抵擋…的誘惑",
-        "src": "94年學測 Q9",
+        "src": "99年學測 Q6、94年學測 Q9、83年聯考 Q7",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0276",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0310"
         ]
        },
        {
@@ -10187,9 +10326,11 @@
        {
         "w": "reward",
         "zh": "報酬、回報",
-        "src": "96年學測 Q38",
+        "src": "109年指考補考 Q6、96年學測 Q38、92年學測補考 Q4",
         "srcUrl": [
-         "https://staresto-create.github.io/passage-completion/#hard-Vy96_38"
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0016",
+         "https://staresto-create.github.io/passage-completion/#hard-Vy96_38",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0169"
         ]
        },
        {
@@ -10274,8 +10415,9 @@
        {
         "w": "integrity / professional integrity",
         "zh": "正直、操守／職業操守",
-        "src": "95年指考 Q5",
+        "src": "112年學測 Q5、95年指考 Q5",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0465",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0177"
         ]
        },
@@ -10314,8 +10456,9 @@
        {
         "w": "hesitate to + V",
         "zh": "猶豫著要不要做…（不接 V-ing）",
-        "src": "87年推薦甄選 Q2",
+        "src": "99年學測 Q5、87年推薦甄選 Q2",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0062"
         ]
        }
@@ -13376,9 +13519,10 @@
        {
         "w": "interact with + sb",
         "zh": "和某人互動",
-        "src": "104年學測 Q14",
+        "src": "104年學測 Q14、92年學測補考 Q3",
         "srcUrl": [
-         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359"
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0168"
         ]
        },
        {
@@ -14454,8 +14598,9 @@
        {
         "w": "blush",
         "zh": "臉紅",
-        "src": "90年聯考 Q9",
+        "src": "111年學測 Q10、90年聯考 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0460",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
         ]
        },
@@ -15314,8 +15459,9 @@
        {
         "w": "blush",
         "zh": "臉紅",
-        "src": "90年聯考 Q9",
+        "src": "111年學測 Q10、90年聯考 Q9",
         "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0460",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0233"
         ]
        },
@@ -21667,6 +21813,336 @@
       "t": "85 這一年原卷寫明，體例看的是格式、標點與大小寫，配 2 分。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：題目規定的開頭句照寫，句中的 time capsule 不必大寫，原卷的引號與刪節號是題目的寫法，寫進作文時直接接下去；兩個完整句子意思緊密相關、中間不用連接詞時，可以用分號連接，分號後面小寫（… nobody stays home; the riders simply …）；冒號後面接說明，前面的句子要完整（the other side of our life: how we take a break）；句首的片語或子句後面加逗號（Since the foundation sets no limit on size, 、When the light turns red, 、When it rains, 、For most families here, 、Because nothing in the capsule will spoil, 、Together, ）；獨立分詞構句與 cups in hand 前面加逗號；插在句中的 though 前後都加逗號；Taiwan 是專有名詞，要大寫。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "time capsule",
+        "zh": "時間膠囊",
+        "own": true
+       },
+       {
+        "w": "household",
+        "zh": "家庭、一戶人家（almost every household 幾乎家家戶戶）",
+        "own": true
+       },
+       {
+        "w": "typical",
+        "zh": "典型的、有代表性的",
+        "src": "97年學測 Q9、94年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0249",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0201"
+        ]
+       },
+       {
+        "w": "rely on + N",
+        "zh": "依靠、仰賴（rely on sth to + V 靠…來做某事）",
+        "own": true
+       },
+       {
+        "w": "durable",
+        "zh": "耐用的",
+        "src": "108年學測 Q15、105年學測 Q8、101年指考 Q3、100年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0420",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0368",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0115",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0132"
+        ]
+       },
+       {
+        "w": "essential",
+        "zh": "不可或缺的、必要的",
+        "src": "104年學測 Q7、96年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0352",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0236"
+        ]
+       },
+       {
+        "w": "appliance",
+        "zh": "家電",
+        "src": "98年指考 Q6、97年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0148",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0246"
+        ]
+       },
+       {
+        "w": "represent + N",
+        "zh": "代表",
+        "src": "92年指考 Q9、86年推薦甄選 Q17",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0213",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0057"
+        ]
+       },
+       {
+        "w": "lifestyle",
+        "zh": "生活方式",
+        "own": true
+       },
+       {
+        "w": "receipt",
+        "zh": "收據、發票",
+        "src": "98年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0143"
+        ]
+       },
+       {
+        "w": "lottery",
+        "zh": "樂透、抽獎（統一發票對獎 the uniform invoice lottery）",
+        "own": true
+       },
+       {
+        "w": "win a prize",
+        "zh": "中獎、得獎",
+        "own": true
+       },
+       {
+        "w": "donate",
+        "zh": "捐贈、捐款（donate + 錢／物 + to + N）",
+        "own": true
+       },
+       {
+        "w": "charity",
+        "zh": "慈善機構",
+        "src": "97年學測 Q7、91年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0247",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0216"
+        ]
+       },
+       {
+        "w": "reflect + N",
+        "zh": "反映",
+        "src": "81年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0331"
+        ]
+       },
+       {
+        "w": "sealed",
+        "zh": "密封的",
+        "src": "91年學測補考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0141"
+        ]
+       },
+       {
+        "w": "bury",
+        "zh": "掩埋（be buried under + N 埋在…底下）",
+        "src": "110年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0443"
+        ]
+       },
+       {
+        "w": "preserve",
+        "zh": "保存",
+        "src": "106年學測 Q11、99年學測 Q5、98年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0386",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0275",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
+        ]
+       },
+       {
+        "w": "future generations",
+        "zh": "後代、後世的人",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "我想放進時間膠囊的兩樣東西，是一個電鍋和一張統一發票。",
+        "en": "The two things I would like to put in the time capsule are an electric rice cooker and a uniform invoice.",
+        "hint": "統一發票的英文，財政部和中央社英文新聞都寫 uniform invoice；寫給外國讀者看，第一次出現時可以補一句 a kind of receipt。",
+        "covers": [
+         "time capsule"
+        ],
+        "bold": [
+         "time capsule"
+        ]
+       },
+       {
+        "zh": "在台灣，幾乎家家戶戶都有一個電鍋。",
+        "en": "In Taiwan, almost every household has a rice cooker.",
+        "covers": [
+         "household"
+        ],
+        "bold": [
+         "household"
+        ]
+       },
+       {
+        "zh": "在一般的台灣家庭裡，晚餐常常是從有人按下電鍋開關開始的。",
+        "en": "In a typical family in Taiwan, dinner often begins when someone presses the switch on the rice cooker.",
+        "covers": [
+         "typical"
+        ],
+        "bold": [
+         "typical"
+        ]
+       },
+       {
+        "zh": "電鍋除了煮飯，還可以蒸包子、熱剩菜，很多人每天都靠它張羅三餐。",
+        "en": "Besides cooking rice, it can steam buns and heat up leftovers, and many people rely on it to make their meals every day.",
+        "hint": "rely on sth to + V：靠某樣東西來做某事。",
+        "covers": [
+         "rely on + N"
+        ],
+        "bold": [
+         "rely on it"
+        ]
+       },
+       {
+        "zh": "電鍋很耐用，很多家庭的電鍋一用就是幾十年。",
+        "en": "Rice cookers are so durable that many families have used the same one for decades.",
+        "covers": [
+         "durable"
+        ],
+        "bold": [
+         "durable"
+        ]
+       },
+       {
+        "zh": "對很多台灣人來說，電鍋是廚房裡不可或缺的家電。",
+        "en": "For many people in Taiwan, the rice cooker is an essential kitchen appliance.",
+        "covers": [
+         "essential",
+         "appliance"
+        ],
+        "bold": [
+         "essential",
+         "appliance"
+        ]
+       },
+       {
+        "zh": "它代表的，是台灣人簡單又實際的生活方式。",
+        "en": "It represents the simple and practical lifestyle of people in Taiwan.",
+        "covers": [
+         "represent + N",
+         "lifestyle"
+        ],
+        "bold": [
+         "represents",
+         "lifestyle"
+        ]
+       },
+       {
+        "zh": "另一樣東西是統一發票，看起來只是一張普通的收據。",
+        "en": "The other item, a uniform invoice, looks like an ordinary receipt.",
+        "covers": [
+         "receipt"
+        ],
+        "bold": [
+         "receipt"
+        ]
+       },
+       {
+        "zh": "可是每一張發票都可以對獎，每兩個月開獎一次，特別獎有一千萬元。",
+        "en": "But every invoice is also a lottery ticket: the winning numbers are drawn every two months, and the special prize is NT$10 million.",
+        "hint": "財政部的統一發票對獎，中央社英文新聞寫 the uniform invoice lottery，每兩個月開獎一次，特別獎一千萬元。",
+        "covers": [
+         "lottery"
+        ],
+        "bold": [
+         "a lottery ticket"
+        ]
+       },
+       {
+        "zh": "很多人會把發票留下來，等開獎那天再對號碼，希望能中獎。",
+        "en": "Many people keep their receipts and check the numbers on the day of the draw, hoping to win a prize.",
+        "hint": "「中獎」說 win a prize，不說 get a prize；「中樂透」說 win the lottery。",
+        "covers": [
+         "win a prize"
+        ],
+        "bold": [
+         "win a prize"
+        ]
+       },
+       {
+        "zh": "也有人把發票投進便利商店的捐發票箱，捐給慈善機構。",
+        "en": "Others donate their receipts to charities by dropping them into boxes at convenience stores.",
+        "hint": "donate + 物 + to + N：to 後面接受贈的人或機構。",
+        "covers": [
+         "donate",
+         "charity"
+        ],
+        "bold": [
+         "donate",
+         "charities"
+        ]
+       },
+       {
+        "zh": "這兩樣東西都很平凡，卻最能反映我們每天的生活。",
+        "en": "Both items are ordinary, but they reflect our daily life better than anything else.",
+        "covers": [
+         "reflect + N"
+        ],
+        "bold": [
+         "reflect"
+        ]
+       },
+       {
+        "zh": "這個密封的膠囊會埋在地底下一千年。",
+        "en": "The sealed capsule will be buried underground for a thousand years.",
+        "covers": [
+         "sealed",
+         "bury"
+        ],
+        "bold": [
+         "sealed",
+         "buried"
+        ]
+       },
+       {
+        "zh": "膠囊能把這兩樣東西完好地保存下來。",
+        "en": "The capsule will preserve both items in perfect condition.",
+        "covers": [
+         "preserve"
+        ],
+        "bold": [
+         "preserve"
+        ]
+       },
+       {
+        "zh": "我希望後代的人看到電鍋和發票，就能想像我們過的是什麼樣的日子。",
+        "en": "I hope that when future generations see the rice cooker and the receipt, they will be able to imagine what our everyday lives were like.",
+        "covers": [
+         "future generations"
+        ],
+        "bold": [
+         "future generations"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "a monument",
+        "zh": "古蹟；紀念碑、紀念館",
+        "src": "109年學測 Q6、103年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0344"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -21736,6 +22212,317 @@
       "t": "84 這一年的原卷寫明，體例看的是格式、標點與大小寫，配 2 分；這一題是書信，格式尤其要照原卷。上下款照原卷的規定寫：日期寫在右上角，February 20, 1995 是月、日、逗號、年的美式寫法；稱呼寫 Dear George:，這一題原卷用的是冒號，照原卷寫（站上 97、101 學測的書信題，稱呼後面用的是逗號）；信末 Your friend, 後面加逗號，下一行才署名 Chih-ping，而且要用題目指定的名字。正文每段第一行內縮或段與段之間空一行，讓兩段分得清楚。標點方面，引號裡的逗號放在引號裡面（\"xiexie,\"、\"thank you,\"）；補充說明的 which 子句前後加逗號；分號後面小寫（…, either; we always …）；Welcome to Taiwan! 與 I can't wait to meet you! 用驚嘆號表現歡迎與期待，但全篇只用在頭尾兩句。大小寫方面，Taiwan、Chinese 這類專有名詞與它的形容詞要大寫，George、Chih-ping 也一樣。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "culture shock",
+        "zh": "文化衝擊",
+        "own": true
+       },
+       {
+        "w": "adapt to + N",
+        "zh": "適應（環境、做法）",
+        "src": "104年指考 Q10、88年推薦甄選 Q4、81年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0080",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0331"
+        ]
+       },
+       {
+        "w": "get used to + N / V-ing",
+        "zh": "習慣於…",
+        "own": true
+       },
+       {
+        "w": "humidity",
+        "zh": "濕度、潮濕（heat and humidity 又熱又潮濕）",
+        "src": "113年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0474"
+        ]
+       },
+       {
+        "w": "a typhoon day off",
+        "zh": "颱風假（不是 vacation，那是寒暑假或度假）",
+        "own": true
+       },
+       {
+        "w": "public transportation",
+        "zh": "大眾運輸",
+        "src": "95年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0221"
+        ]
+       },
+       {
+        "w": "be fined",
+        "zh": "罰款（fine 當動詞用；be fined 是受到罰款）",
+        "own": true
+       },
+       {
+        "w": "priority seat",
+        "zh": "博愛座",
+        "own": true
+       },
+       {
+        "w": "give up one's seat",
+        "zh": "讓座",
+        "own": true
+       },
+       {
+        "w": "garbage truck",
+        "zh": "垃圾車",
+        "own": true
+       },
+       {
+        "w": "sort the garbage",
+        "zh": "做垃圾分類（garbage 為美式，英式用 rubbish）",
+        "own": true
+       },
+       {
+        "w": "recycle",
+        "zh": "回收再利用",
+        "src": "94年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0198"
+        ]
+       },
+       {
+        "w": "superstition",
+        "zh": "迷信",
+        "src": "102年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0106"
+        ]
+       },
+       {
+        "w": "avoid + N / V-ing",
+        "zh": "避開、避免",
+        "src": "106年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0051"
+        ]
+       },
+       {
+        "w": "offensive",
+        "zh": "冒犯人的、失禮的",
+        "src": "114年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0484"
+        ]
+       },
+       {
+        "w": "show sb around + 地方",
+        "zh": "帶某人參觀（某地）",
+        "own": true
+       },
+       {
+        "w": "feel free to + V",
+        "zh": "儘管、隨時可以（做某事）",
+        "own": true
+       },
+       {
+        "w": "look forward to + V-ing",
+        "zh": "期待（做某事）",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "剛到一個新的國家，難免會有一點文化衝擊。",
+        "en": "When you first arrive in a new country, it's normal to experience some culture shock.",
+        "hint": "culture shock 指到了陌生的國家，面對不熟悉的習俗時感到的困惑（劍橋詞典）。",
+        "covers": [
+         "culture shock"
+        ],
+        "bold": [
+         "culture shock"
+        ]
+       },
+       {
+        "zh": "不過別擔心，你很快就會適應這裡的生活。",
+        "en": "Don't worry, though. You'll adapt to life here quickly.",
+        "covers": [
+         "adapt to + N"
+        ],
+        "bold": [
+         "adapt to life here"
+        ]
+       },
+       {
+        "zh": "台灣的夏天又熱又潮濕，一開始你可能不太習慣。",
+        "en": "At first, you may find it hard to get used to the heat and humidity of Taiwan's summers.",
+        "hint": "get used to 的 to 是介系詞，後面接名詞或 V-ing。",
+        "covers": [
+         "get used to + N / V-ing",
+         "humidity"
+        ],
+        "bold": [
+         "get used to",
+         "humidity"
+        ]
+       },
+       {
+        "zh": "颱風要來的時候，地方政府常常會宣布放颱風假，學校和公司都會停課停班。",
+        "en": "When a typhoon is coming, the local government often announces a typhoon day off, and schools and offices close.",
+        "covers": [
+         "a typhoon day off"
+        ],
+        "bold": [
+         "a typhoon day off"
+        ]
+       },
+       {
+        "zh": "這裡的大眾運輸很方便，在台北搭捷運幾乎哪裡都到得了。",
+        "en": "Public transportation here is very convenient. In Taipei, you can get almost anywhere by MRT.",
+        "covers": [
+         "public transportation"
+        ],
+        "bold": [
+         "Public transportation"
+        ]
+       },
+       {
+        "zh": "不過捷運上不准吃東西，連喝水也不行，不然可能要繳罰款。",
+        "en": "But eating and drinking are not allowed on the MRT, not even water, or you may be fined.",
+        "hint": "台北捷運公司說明，禁止飲食連喝水也包括在內，依《大眾捷運法》可處 1,500 元到 7,500 元罰鍰。",
+        "covers": [
+         "be fined"
+        ],
+        "bold": [
+         "be fined"
+        ]
+       },
+       {
+        "zh": "車廂裡有博愛座，看到老人家或孕婦上車，記得要讓座。",
+        "en": "Every car has priority seats. When an elderly person or a pregnant woman gets on, remember to give up your seat.",
+        "covers": [
+         "priority seat",
+         "give up one's seat"
+        ],
+        "bold": [
+         "priority seats",
+         "give up your seat"
+        ]
+       },
+       {
+        "zh": "垃圾車會放音樂，聽到〈給愛麗絲〉，就要提著垃圾下樓去倒。",
+        "en": "Garbage trucks play music, so when you hear \"Für Elise,\" it's time to take your garbage out to the truck.",
+        "hint": "「倒垃圾」說 take out the garbage；台灣的垃圾車大多放〈給愛麗絲〉或〈少女的祈禱〉。",
+        "covers": [
+         "garbage truck"
+        ],
+        "bold": [
+         "Garbage trucks"
+        ]
+       },
+       {
+        "zh": "倒垃圾之前要先做好分類，寶特瓶和紙類都要回收。",
+        "en": "Before taking it out, you have to sort the garbage, because plastic bottles and paper must be recycled.",
+        "covers": [
+         "sort the garbage",
+         "recycle"
+        ],
+        "bold": [
+         "sort the garbage",
+         "recycled"
+        ]
+       },
+       {
+        "zh": "另外，台灣人有一些迷信，你先知道比較好。",
+        "en": "Also, people in Taiwan have a few superstitions that are worth knowing about.",
+        "covers": [
+         "superstition"
+        ],
+        "bold": [
+         "superstitions"
+        ]
+       },
+       {
+        "zh": "很多人會避開數字「四」，因為它的發音和「死」很像。",
+        "en": "Many people avoid the number four because it sounds like the word for \"death.\"",
+        "covers": [
+         "avoid + N / V-ing"
+        ],
+        "bold": [
+         "avoid"
+        ]
+       },
+       {
+        "zh": "這些雖然不是法律規定，但你不注意的話，有些人可能會覺得很失禮。",
+        "en": "These aren't laws, but some people may find it offensive if you ignore them.",
+        "covers": [
+         "offensive"
+        ],
+        "bold": [
+         "offensive"
+        ]
+       },
+       {
+        "zh": "你來了以後，我帶你在我家附近到處逛逛。",
+        "en": "After you arrive, I'll show you around my neighborhood.",
+        "covers": [
+         "show sb around + 地方"
+        ],
+        "bold": [
+         "show you around"
+        ]
+       },
+       {
+        "zh": "有任何問題，隨時都可以問我。",
+        "en": "If you have any questions, feel free to ask me anytime.",
+        "covers": [
+         "feel free to + V"
+        ],
+        "bold": [
+         "feel free to ask"
+        ]
+       },
+       {
+        "zh": "我很期待下個月去機場接你。",
+        "en": "I'm really looking forward to picking you up at the airport next month.",
+        "hint": "look forward to 的 to 是介系詞，後面接 V-ing，不接原形動詞。",
+        "covers": [
+         "look forward to + V-ing"
+        ],
+        "bold": [
+         "looking forward to picking"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "gesture",
+        "zh": "手勢",
+        "src": "108年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0419"
+        ]
+       },
+       {
+        "w": "bargain",
+        "zh": "討價還價；便宜貨",
+        "src": "107年學測 Q13、93年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0403",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0195"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -21792,6 +22579,353 @@
      {
       "k": "體例",
       "t": "83 這一年的原卷寫明，體例看的是格式、標點與大小寫，配 2 分。原卷給了題目 Things Are Not As Difficult As They Appear，站上範文照體例只列正文。頭兩句照原卷寫，兩句各自以句號結束，大小寫也和原卷一樣。數字方面，句首的數字要用英文拼出來（Eight hundred meters is …），不寫成 800 meters；800-meter 放在名詞前面當形容詞時，中間加連字號，meter 用單數。P.E. 是縮寫，兩個字母後面都加句點。標點方面，冒號後面接約定的內容，前面的 she made me a promise 是完整的句子；分號連接兩個完整的句子，後面小寫；三個動詞片語並列時，最後一個 and 前面的逗號可加可不加，本篇有加；指前面一整件事的 which 前面要加逗號；句首的片語或子句後面加逗號（On my first practice run, 、For the first few days, 、By the third week, 、On the day of the test, 、Broken into small steps, ）。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "give a presentation",
+        "zh": "上台報告、做簡報（也可以說 make a presentation）",
+        "own": true
+       },
+       {
+        "w": "anxious",
+        "zh": "焦慮的、緊張不安的",
+        "src": "98年學測 Q10、95年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0265",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0216"
+        ]
+       },
+       {
+        "w": "stage fright",
+        "zh": "上台前的緊張、怯場",
+        "own": true
+       },
+       {
+        "w": "blank",
+        "zh": "空白的（one's mind goes blank 腦袋一片空白）",
+        "src": "112年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0464"
+        ]
+       },
+       {
+        "w": "discouraged",
+        "zh": "洩氣的、灰心的",
+        "src": "96年學測 Q8、84年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0233",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0015"
+        ]
+       },
+       {
+        "w": "be determined to + V",
+        "zh": "下定決心要…",
+        "src": "86年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0044"
+        ]
+       },
+       {
+        "w": "rehearse",
+        "zh": "預演、排練（rehearse for + 活動）",
+        "src": "108年指考 Q9、94年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0039",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0185"
+        ]
+       },
+       {
+        "w": "embarrassing",
+        "zh": "令人難為情的、丟臉的（說人覺得難堪用 embarrassed）",
+        "src": "106年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0380"
+        ]
+       },
+       {
+        "w": "mispronounce",
+        "zh": "念錯（音）",
+        "own": true
+       },
+       {
+        "w": "make eye contact with + sb",
+        "zh": "和某人有眼神接觸",
+        "own": true
+       },
+       {
+        "w": "gradually",
+        "zh": "漸漸地",
+        "src": "101年學測 Q2、100年學測 Q1、93年敏督利颱風受災地區考生補救考試 Q12、87年聯考 Q2、86年推薦甄選 Q16",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0302",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0286",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0102",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0265",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0056"
+        ]
+       },
+       {
+        "w": "make progress",
+        "zh": "進步",
+        "src": "95年學測 Q5、85年聯考 Q8、81年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0215",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0291",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0326"
+        ]
+       },
+       {
+        "w": "take a deep breath",
+        "zh": "深吸一口氣",
+        "src": "103年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0338"
+        ]
+       },
+       {
+        "w": "get through + N",
+        "zh": "熬過、順利完成（困難的事）",
+        "own": true
+       },
+       {
+        "w": "a round of applause",
+        "zh": "一陣掌聲",
+        "src": "99年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0138"
+        ]
+       },
+       {
+        "w": "accomplishment",
+        "zh": "成就（a sense of accomplishment 成就感）",
+        "src": "104年學測 Q4、93年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0349",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0194"
+        ]
+       },
+       {
+        "w": "overcome one's fear of + N",
+        "zh": "克服對…的恐懼",
+        "src": "101年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0314"
+        ]
+       },
+       {
+        "w": "persist in + V-ing",
+        "zh": "堅持做…",
+        "src": "101年指考 Q4、94年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "高一上學期，英文老師要我們每個人上台做三分鐘的英文報告。",
+        "en": "In the first semester of tenth grade, our English teacher asked each of us to give a three-minute presentation in English.",
+        "hint": "「上台報告」說 give a presentation，也可以說 make a presentation（劍橋詞典兩種例句都有）。",
+        "covers": [
+         "give a presentation"
+        ],
+        "bold": [
+         "give a three-minute presentation"
+        ]
+       },
+       {
+        "zh": "我從來沒有在全班面前說過英文，光是想到就很焦慮。",
+        "en": "I had never spoken English in front of the whole class, so just thinking about it made me anxious.",
+        "covers": [
+         "anxious"
+        ],
+        "bold": [
+         "anxious"
+        ]
+       },
+       {
+        "zh": "我一上台就會緊張，連手心都會冒汗。",
+        "en": "I have terrible stage fright, and my palms even get sweaty.",
+        "hint": "stage fright 指要上台表演，或要在一群人面前說話之前的緊張（劍橋詞典）。",
+        "covers": [
+         "stage fright"
+        ],
+        "bold": [
+         "stage fright"
+        ]
+       },
+       {
+        "zh": "第一次在家練習，我講不到一分鐘，腦袋就一片空白。",
+        "en": "The first time I practiced at home, my mind went blank before I had spoken for even a minute.",
+        "hint": "「腦袋一片空白」說 one's mind goes blank（劍橋詞典 go blank）。",
+        "covers": [
+         "blank"
+        ],
+        "bold": [
+         "my mind went blank"
+        ]
+       },
+       {
+        "zh": "我很洩氣，甚至想拜託老師讓我交書面報告就好。",
+        "en": "I felt so discouraged that I even thought about asking my teacher if I could hand in a written report instead.",
+        "covers": [
+         "discouraged"
+        ],
+        "bold": [
+         "discouraged"
+        ]
+       },
+       {
+        "zh": "可是我下定決心，不能就這樣放棄。",
+        "en": "But I was determined not to give up.",
+        "hint": "「下定決心不做某事」，not 放在 to 前面：be determined not to + V。",
+        "covers": [
+         "be determined to + V"
+        ],
+        "bold": [
+         "was determined not to"
+        ]
+       },
+       {
+        "zh": "我每天晚上都在家人面前排練一次，還用手機錄下來。",
+        "en": "Every night, I rehearsed once in front of my family and recorded myself on my phone.",
+        "covers": [
+         "rehearse"
+        ],
+        "bold": [
+         "rehearsed"
+        ]
+       },
+       {
+        "zh": "第一次聽自己的錄音，真的很難為情。",
+        "en": "Listening to my own recording for the first time was really embarrassing.",
+        "hint": "說事情讓人難堪用 embarrassing；說人覺得難堪用 embarrassed。",
+        "covers": [
+         "embarrassing"
+        ],
+        "bold": [
+         "embarrassing"
+        ]
+       },
+       {
+        "zh": "我發現自己講得太快，還有幾個字念錯。",
+        "en": "I realized that I spoke too fast and mispronounced a few words.",
+        "covers": [
+         "mispronounce"
+        ],
+        "bold": [
+         "mispronounced"
+        ]
+       },
+       {
+        "zh": "我也提醒自己要看著台下的同學，不要一直盯著講稿。",
+        "en": "I also reminded myself to make eye contact with my classmates instead of staring at my notes.",
+        "covers": [
+         "make eye contact with + sb"
+        ],
+        "bold": [
+         "make eye contact with"
+        ]
+       },
+       {
+        "zh": "慢慢地，我越講越順，也不再那麼害怕了。",
+        "en": "Gradually, I was able to speak more smoothly, and I was no longer so scared.",
+        "covers": [
+         "gradually"
+        ],
+        "bold": [
+         "Gradually"
+        ]
+       },
+       {
+        "zh": "每練一次，我都感覺得到自己有進步。",
+        "en": "Each time I practiced, I could feel that I was making progress.",
+        "covers": [
+         "make progress"
+        ],
+        "bold": [
+         "making progress"
+        ]
+       },
+       {
+        "zh": "報告那天，我上台前先深吸一口氣，告訴自己放慢速度。",
+        "en": "On the day of the presentation, I took a deep breath before I went up and told myself to slow down.",
+        "covers": [
+         "take a deep breath"
+        ],
+        "bold": [
+         "took a deep breath"
+        ]
+       },
+       {
+        "zh": "我順利講完了，同學還給了我一陣熱烈的掌聲。",
+        "en": "I got through the whole presentation, and my classmates gave me a big round of applause.",
+        "hint": "「給某人一陣掌聲」說 give sb a round of applause；要說「熱烈的」，在 round 前面加 big。",
+        "covers": [
+         "get through + N",
+         "a round of applause"
+        ],
+        "bold": [
+         "got through",
+         "a big round of applause"
+        ]
+       },
+       {
+        "zh": "走回座位的時候，我心裡滿是成就感。",
+        "en": "As I walked back to my seat, I felt a real sense of accomplishment.",
+        "covers": [
+         "accomplishment"
+        ],
+        "bold": [
+         "a real sense of accomplishment"
+        ]
+       },
+       {
+        "zh": "我終於克服了在大家面前說話的恐懼。",
+        "en": "I had finally overcome my fear of speaking in public.",
+        "covers": [
+         "overcome one's fear of + N"
+        ],
+        "bold": [
+         "overcome my fear of"
+        ]
+       },
+       {
+        "zh": "這次的經驗讓我相信，只要肯堅持練下去，看起來再難的事，做起來也沒有想像中那麼難。",
+        "en": "This experience taught me that if I persist in practicing, even a task that looks impossible is not as hard as it seems.",
+        "hint": "persist in 的 in 是介系詞，後面接動名詞。",
+        "covers": [
+         "persist in + V-ing"
+        ],
+        "bold": [
+         "persist in practicing"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "out of practice",
+        "zh": "久沒練習而生疏了（這一題寫的是學會的過程）",
+        "src": "91年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0135"
+        ]
+       }
+      ]
      }
     ]
    }
