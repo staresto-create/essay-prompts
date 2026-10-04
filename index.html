@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>歷屆作文題目索引｜學測、指考英文作文 83–115 學年度</title>
-<meta name="description" content="大學入學考試中心學測與指定科目考試英文作文題目索引，收錄 83 至 115 學年度共 63 題，每一題都附範文，可依年度、文體、主題篩選。另有作文練習：15 道題附字詞搭配與練習句，八個題組把動筆前的三件事拆開來練習。免費，免註冊。">
+<meta name="description" content="大學入學考試中心學測與指定科目考試英文作文題目索引，收錄 83 至 115 學年度共 63 題，每一題都附範文，也附上這一題用得到的單字、片語與字詞搭配，以及練習句，可依年度、文體、主題篩選。另有八個題組，把動筆前的三件事拆開來練習。免費，免註冊。">
 <link rel="canonical" href="https://staresto-create.github.io/essay-prompts/">
 <meta property="og:type" content="website">
 <meta property="og:locale" content="zh_TW">
 <meta property="og:site_name" content="歷屆作文題目索引">
 <meta property="og:title" content="歷屆作文題目索引｜學測、指考英文作文 83–115 學年度">
-<meta property="og:description" content="學測與指考英文作文題目 63 題全數收錄，每一題都附範文，可依年度、文體、主題篩選，圖片題附原卷圖片。另有作文練習：15 道題附字詞搭配與練習句，八個題組把動筆前的三件事拆開來練習。免費，免註冊。">
+<meta property="og:description" content="學測與指考英文作文題目 63 題全數收錄，每一題都附範文，也附上這一題用得到的單字、片語與字詞搭配，以及練習句，可依年度、文體、主題篩選，圖片題附原卷圖片。另有八個題組，把動筆前的三件事拆開來練習。免費，免註冊。">
 <meta property="og:url" content="https://staresto-create.github.io/essay-prompts/">
 <meta property="og:image" content="https://staresto-create.github.io/essay-prompts/images/E115_GSAT.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -389,7 +389,7 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
 
   <section class="togo" aria-labelledby="togoH">
     <h2 id="togoH">寫之前，先練習三件事</h2>
-    <p>這一頁有 15 道題目附了字詞搭配與練習句（學測 12 題、指考 3 題），可以直接照著練習；題號旁標著「附字詞搭配與練習句」，用下方的<b>只看附字詞搭配的題目</b>可以一次篩出來。另有一頁練習，不綁定特定題目，把動筆前的三件事拆開，各自單獨練習：寫出主題句、找出離題的句子、把兩段大綱搭起來，共八個題組。題組陸續增補中；情境取自七個歷屆學測作文題，頁面上的英文句子是本站自撰，不是歷屆試題，也不是考生佳作。</p>
+    <p>這一頁 63 道題目都附了單字、片語與字詞搭配，以及練習句，可以直接照著練習；其中 3 題參考試卷沿用歷屆考題，卡片上有連結可以跳到原題去看。另有一頁練習，不綁定特定題目，把動筆前的三件事拆開，各自單獨練習：寫出主題句、找出離題的句子、把兩段大綱搭起來，共八個題組。題組陸續增補中；情境取自七個歷屆學測作文題，頁面上的英文句子是本站自撰，不是歷屆試題，也不是考生佳作。</p>
     <p><a href="practice/">前往作文練習題型 →</a></p>
   </section>
 
@@ -438,7 +438,6 @@ footer a{color:var(--seal);font-weight:700;text-decoration:underline;text-underl
     <div class="toggles">
       <label><input type="checkbox" id="tPic">只看圖片題</label>
       <label><input type="checkbox" id="tOfficial">只看正式考題</label>
-      <label><input type="checkbox" id="tWb">只看附字詞搭配的題目</label>
     </div>
   </section>
 
@@ -572,7 +571,6 @@ function card(it){
   h.appendChild(el('div','iexam',it.exam));
   if(!it.isOfficial)h.appendChild(el('span','badge warn','非正式考題'));
   h.appendChild(el('span','badge',it.promptFormat));
-  if(wordBanksFor(it).length)h.appendChild(el('span','badge wb','附字詞搭配與練習句'));
   d.appendChild(h);
 
   const tags=el('div','itags');
@@ -596,7 +594,7 @@ function card(it){
     if(src&&src.model){
       r.appendChild(document.createTextNode('　'));
       const a=document.createElement('a');
-      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文'+(wordBanksFor(src).length?'與字詞搭配':'')+' ↓';
+      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文'+(wordBanksFor(src).length?'，以及單字、片語與字詞搭配':'')+' ↓';
       a.addEventListener('click',e=>{e.preventDefault();jumpTo(src.id)});
       r.appendChild(a);
     }
@@ -616,7 +614,7 @@ function card(it){
     // 標題跟著實際掛載走：掛了主題級字詞搭配就寫出是哪一個主題，只有題目級就說是這一題的。
     // 硬寫一個主題名會在沒有主題的卡片上騙人——六張卡裡只有一張真的有主題。
     const tks=themeBankKeysFor(it);
-    hd.appendChild(el('span','wbTitle',tks.length?'主題字詞搭配 · '+tks.join('、'):'這一題的字詞搭配'));
+    hd.appendChild(el('span','wbTitle',tks.length?'主題單字、片語與字詞搭配 · '+tks.join('、'):'這一題的單字、片語與字詞搭配'));
     const btn=document.createElement('button');
     btn.className='wbBtn';btn.type='button';btn.textContent='顯示出處';
     // 全部條目都是本站補足時，這顆鈕按下去畫面上不會有任何變化，看起來像壞掉。
@@ -986,7 +984,7 @@ function render(){
     b.setAttribute('aria-pressed',S.genres.includes(b.firstChild.textContent)));
   document.querySelectorAll('#fTheme .chip').forEach(b=>
     b.setAttribute('aria-pressed',S.themes.includes(b.firstChild.textContent)));
-  $('#tPic').checked=S.pic;$('#tOfficial').checked=S.official;$('#tWb').checked=S.wb;
+  $('#tPic').checked=S.pic;$('#tOfficial').checked=S.official;
 
   const hits=DATA.filter(matches);
   const yrsHit=new Set(hits.map(h=>h.year));
@@ -1211,7 +1209,6 @@ $('#reset').addEventListener('click',()=>{
 });
 $('#tPic').addEventListener('change',e=>{S.pic=e.target.checked;render()});
 $('#tOfficial').addEventListener('change',e=>{S.official=e.target.checked;render()});
-$('#tWb').addEventListener('change',e=>{S.wb=e.target.checked;render()});
 </script>
 </body>
 </html>
