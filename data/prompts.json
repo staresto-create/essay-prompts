@@ -17581,7 +17581,7 @@
        },
        {
         "zh": "我表哥非常熱愛音樂，所以大學選了音樂系。",
-        "en": "My cousin has a passion for music, so he chose to study music in college.",
+        "en": "My cousin has a passion for music, so he chose to major in music in college.",
         "covers": [
          "have a passion for + N"
         ],
@@ -18122,6 +18122,357 @@
       "t": "92 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，不必自己加。兩個指定句照題目寫；第二句句末的「…」是題目留給考生接下去寫的，不要把省略號抄進答案卷。本篇要留意的有：句首的片語或子句後面加逗號（Ten minutes into the test, 、Stressful as they are, 、Since then, ）；yesterday's 的撇號；分數 85 用阿拉伯數字。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "quiz",
+        "zh": "小考（a pop quiz 臨時小考）",
+        "src": "111年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0453"
+        ]
+       },
+       {
+        "w": "midterm",
+        "zh": "段考（midterm exams）",
+        "own": true
+       },
+       {
+        "w": "practice test",
+        "zh": "模擬考（英式說法是 mock exam）",
+        "own": true
+       },
+       {
+        "w": "review",
+        "zh": "複習（review for + 考試）",
+        "src": "88年聯考 Q5、84年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0258",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0299"
+        ]
+       },
+       {
+        "w": "prepare for + N",
+        "zh": "為…做準備",
+        "own": true
+       },
+       {
+        "w": "cram",
+        "zh": "臨時抱佛腳（cram for + 考試）",
+        "own": true
+       },
+       {
+        "w": "stay up",
+        "zh": "熬夜（stay up late 熬夜到很晚）",
+        "src": "90年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0118"
+        ]
+       },
+       {
+        "w": "be under pressure",
+        "zh": "承受壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "anxious",
+        "zh": "焦慮的、緊張不安的",
+        "src": "98年學測 Q10、95年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0265",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0216"
+        ]
+       },
+       {
+        "w": "panic",
+        "zh": "慌張、驚慌失措",
+        "own": true
+       },
+       {
+        "w": "blank",
+        "zh": "空白的（one's mind goes blank 腦袋一片空白）",
+        "src": "112年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0464"
+        ]
+       },
+       {
+        "w": "careless",
+        "zh": "粗心的（make a careless mistake 粗心犯錯）",
+        "own": true
+       },
+       {
+        "w": "answer sheet",
+        "zh": "答案卡",
+        "own": true
+       },
+       {
+        "w": "concentrate",
+        "zh": "專心（concentrate on + N）",
+        "src": "90年聯考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0236"
+        ]
+       },
+       {
+        "w": "make progress",
+        "zh": "進步",
+        "src": "95年學測 Q5、85年聯考 Q8、81年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0215",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0291",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0326"
+        ]
+       },
+       {
+        "w": "keep up with + N",
+        "zh": "跟得上（進度、同學）",
+        "own": true
+       },
+       {
+        "w": "fall behind",
+        "zh": "落後",
+        "own": true
+       },
+       {
+        "w": "motivate",
+        "zh": "激勵、讓人有動力",
+        "src": "103年學測 Q5、101年指考 Q4、98年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0335",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
+        ]
+       },
+       {
+        "w": "relief",
+        "zh": "鬆一口氣（breathe a sigh of relief）",
+        "src": "101年學測 Q6、88年推薦甄選 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0306",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0082"
+        ]
+       },
+       {
+        "w": "learn a lesson",
+        "zh": "學到教訓",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "我們英文老師每個禮拜一都會考單字小考。",
+        "en": "Our English teacher gives us a vocabulary quiz every Monday.",
+        "covers": [
+         "quiz"
+        ],
+        "bold": [
+         "a vocabulary quiz"
+        ]
+       },
+       {
+        "zh": "段考前一個禮拜，學校圖書館裡都是在複習的學生。",
+        "en": "The week before our midterm exams, the school library is always full of students reviewing their notes.",
+        "covers": [
+         "midterm",
+         "review"
+        ],
+        "bold": [
+         "midterm exams",
+         "reviewing"
+        ]
+       },
+       {
+        "zh": "高三每學期有三次模擬考，讓我們熟悉大考的題型。",
+        "en": "In senior year, we take three practice tests each semester to get used to the kinds of questions on the college entrance exams.",
+        "covers": [
+         "practice test"
+        ],
+        "bold": [
+         "take three practice tests"
+        ]
+       },
+       {
+        "zh": "為了準備英聽測驗，我每天聽二十分鐘的英文新聞。",
+        "en": "To prepare for the English listening test, I listen to English news for twenty minutes every day.",
+        "covers": [
+         "prepare for + N"
+        ],
+        "bold": [
+         "prepare for"
+        ]
+       },
+       {
+        "zh": "國中的時候我常常臨時抱佛腳，結果考完就全忘光了。",
+        "en": "In junior high, I often crammed for tests, and then I forgot everything as soon as they were over.",
+        "hint": "cram for + 考試：for 後面接要準備的那一次考試。",
+        "covers": [
+         "cram"
+        ],
+        "bold": [
+         "crammed for tests"
+        ]
+       },
+       {
+        "zh": "有一次歷史考試前我熬夜到兩點，結果考試的時候眼睛都快睜不開了。",
+        "en": "Once I stayed up until two before a history test, and I could hardly keep my eyes open during the exam.",
+        "covers": [
+         "stay up"
+        ],
+        "bold": [
+         "stayed up until two"
+        ]
+       },
+       {
+        "zh": "離大考只剩幾個月，班上每個人的壓力都很大。",
+        "en": "With the college entrance exams only a few months away, everyone in our class is under a lot of pressure.",
+        "covers": [
+         "be under pressure"
+        ],
+        "bold": [
+         "under a lot of pressure"
+        ]
+       },
+       {
+        "zh": "每次老師發考卷，我都緊張到手心冒汗。",
+        "en": "Every time the teacher hands out the test papers, I get so anxious that my palms start to sweat.",
+        "covers": [
+         "anxious"
+        ],
+        "bold": [
+         "anxious"
+        ]
+       },
+       {
+        "zh": "上學期的歷史段考考到一半，我突然發現答案卡全都劃錯格了。",
+        "en": "Halfway through a history midterm last semester, I suddenly realized that every answer on my answer sheet was in the wrong row.",
+        "covers": [
+         "answer sheet"
+        ],
+        "bold": [
+         "answer sheet"
+        ]
+       },
+       {
+        "zh": "那一刻我慌了，腦袋一片空白。",
+        "en": "At that moment, I panicked, and my mind went blank.",
+        "hint": "panic 的過去式要多加一個 k：panicked。",
+        "covers": [
+         "panic",
+         "blank"
+        ],
+        "bold": [
+         "panicked",
+         "my mind went blank"
+        ]
+       },
+       {
+        "zh": "我深呼吸，告訴自己要專心，再一題一題重新劃過。",
+        "en": "I took a deep breath, told myself to concentrate, and filled in the answers again one by one.",
+        "covers": [
+         "concentrate"
+        ],
+        "bold": [
+         "concentrate"
+        ]
+       },
+       {
+        "zh": "鐘響前一分鐘我終於劃完，大大地鬆了一口氣。",
+        "en": "I finished just one minute before the bell rang and breathed a big sigh of relief.",
+        "covers": [
+         "relief"
+        ],
+        "bold": [
+         "breathed a big sigh of relief"
+        ]
+       },
+       {
+        "zh": "那天我學到了教訓：粗心犯的錯，扣的分數和不會寫的題目一樣多。",
+        "en": "I learned a lesson that day: a careless mistake costs as many points as a question you can't answer.",
+        "covers": [
+         "learn a lesson",
+         "careless"
+        ],
+        "bold": [
+         "learned a lesson",
+         "a careless mistake"
+        ]
+       },
+       {
+        "zh": "數學課請了兩天假，我就完全跟不上全班的進度了。",
+        "en": "After missing two days of math class, I couldn't keep up with the rest of the class at all.",
+        "covers": [
+         "keep up with + N"
+        ],
+        "bold": [
+         "keep up with"
+        ]
+       },
+       {
+        "zh": "一科一旦落後，就得花加倍的時間才補得回來。",
+        "en": "Once you fall behind in a subject, it takes twice as much time to catch up.",
+        "covers": [
+         "fall behind"
+        ],
+        "bold": [
+         "fall behind"
+        ]
+       },
+       {
+        "zh": "看到自己的英文一次比一次進步，感覺真的很棒。",
+        "en": "It feels great to see that I have made progress in English from one test to the next.",
+        "covers": [
+         "make progress"
+        ],
+        "bold": [
+         "made progress"
+        ]
+       },
+       {
+        "zh": "老師在考卷上寫的鼓勵的話，讓我更有動力用功念書。",
+        "en": "The encouraging comments my teacher writes on my tests motivate me to study harder.",
+        "covers": [
+         "motivate"
+        ],
+        "bold": [
+         "motivate me"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "diploma",
+        "zh": "畢業證書",
+        "src": "103年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0339"
+        ]
+       },
+       {
+        "w": "orientation",
+        "zh": "新生訓練（orientation program）",
+        "src": "93年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0194"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -18181,6 +18532,332 @@
       "t": "91 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法把 The Most Precious Thing in My Room 寫在第一行；站上範文只列兩段正文。本篇要留意的有：句首的片語後面加逗號（Last spring, 、Every few weeks, 、For years, 、Then, this summer, ）；however 插在句中時前後都加逗號；too 放在句尾時前面通常不加逗號（will be gone too），《芝加哥格式手冊》6.56 的建議是預設不加，只有想強調時才加；neighborhood、realized 是美式拼法，英式拼作 neighbourhood、realised，站上英文一律用美式。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "precious",
+        "zh": "珍貴的（對某人意義重大）",
+        "src": "95年學測 Q8、91年學測補考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0218",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0142"
+        ]
+       },
+       {
+        "w": "possession",
+        "zh": "所有物（one's most prized possession 最珍視的東西）",
+        "src": "96年指考 Q3、92年學測 Q10、87年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0165",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0160",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0272"
+        ]
+       },
+       {
+        "w": "cherish",
+        "zh": "珍惜、珍藏",
+        "own": true
+       },
+       {
+        "w": "valuable",
+        "zh": "貴重的、值錢的",
+        "src": "95年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0174"
+        ]
+       },
+       {
+        "w": "sentimental value",
+        "zh": "紀念價值",
+        "own": true
+       },
+       {
+        "w": "mean a lot to sb",
+        "zh": "對某人來說很重要、很有意義",
+        "own": true
+       },
+       {
+        "w": "remind",
+        "zh": "讓人想起（remind sb of + N）",
+        "src": "98年學測 Q14、83年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0308"
+        ]
+       },
+       {
+        "w": "memory",
+        "zh": "回憶（bring back memories 勾起回憶）",
+        "src": "81年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0330"
+        ]
+       },
+       {
+        "w": "souvenir",
+        "zh": "紀念品",
+        "src": "109年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0426"
+        ]
+       },
+       {
+        "w": "companion",
+        "zh": "同伴、陪伴自己的人或東西",
+        "src": "96年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0226"
+        ]
+       },
+       {
+        "w": "comfort",
+        "zh": "安慰",
+        "own": true
+       },
+       {
+        "w": "fade",
+        "zh": "褪色",
+        "src": "109年指考補考 Q1、100年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0011",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0287"
+        ]
+       },
+       {
+        "w": "worn-out",
+        "zh": "破舊的、用到很舊的",
+        "own": true
+       },
+       {
+        "w": "handmade",
+        "zh": "親手做的、手工的",
+        "own": true
+       },
+       {
+        "w": "stuffed animal",
+        "zh": "絨毛娃娃",
+        "own": true
+       },
+       {
+        "w": "yearbook",
+        "zh": "畢業紀念冊",
+        "own": true
+       },
+       {
+        "w": "display + N",
+        "zh": "展出、陳列",
+        "src": "103年學測 Q7、100年學測 Q8、90年學測 Q10、84年推薦甄選 Q2、84年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0337",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0293",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0115",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0012",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0299"
+        ]
+       },
+       {
+        "w": "belong to",
+        "zh": "屬於",
+        "own": true
+       },
+       {
+        "w": "replace",
+        "zh": "取代",
+        "src": "109年學測 Q11、102年學測 Q2、98年指考參考試卷（99 課綱適用） Q7、94年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0431",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0317",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0339",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "我房間裡最珍貴的東西，是阿嬤在我五歲時送我的絨毛兔子。",
+        "en": "The most precious thing in my room is a stuffed rabbit that my grandma gave me when I was five.",
+        "hint": "stuffed animal 是統稱，寫到哪一種動物就換成那個字，例如 a stuffed rabbit。",
+        "covers": [
+         "precious",
+         "stuffed animal"
+        ],
+        "bold": [
+         "precious",
+         "stuffed rabbit"
+        ]
+       },
+       {
+        "zh": "它的毛已經褪色，一隻耳朵也快掉了，就是一隻破舊的老玩具。",
+        "en": "Its fur has faded, and one of its ears is coming off. It is just a worn-out old toy.",
+        "hint": "worn-out 放在名詞前面要加連字號；放在 be 動詞後面寫成 worn out。",
+        "covers": [
+         "fade",
+         "worn-out"
+        ],
+        "bold": [
+         "has faded",
+         "worn-out"
+        ]
+       },
+       {
+        "zh": "這隻兔子一點也不值錢，對我來說卻有很大的紀念價值。",
+        "en": "The rabbit isn't valuable at all, but to me, it has great sentimental value.",
+        "covers": [
+         "valuable",
+         "sentimental value"
+        ],
+        "bold": [
+         "valuable",
+         "great sentimental value"
+        ]
+       },
+       {
+        "zh": "小時候爸媽常常加班，很多個寂寞的晚上，都是它陪著我。",
+        "en": "When I was little, my parents often worked late, and it was my companion on many lonely nights.",
+        "covers": [
+         "companion"
+        ],
+        "bold": [
+         "my companion"
+        ]
+       },
+       {
+        "zh": "到現在心情不好的時候，我還是會抱著它，它總能安慰我。",
+        "en": "Even now, when I feel down, I hug it, and it always comforts me.",
+        "covers": [
+         "comfort"
+        ],
+        "bold": [
+         "comforts me"
+        ]
+       },
+       {
+        "zh": "阿嬤現在住在南部，每次看到這隻兔子，我就會想起她。",
+        "en": "My grandma lives in southern Taiwan now, and every time I see the rabbit, it reminds me of her.",
+        "covers": [
+         "remind"
+        ],
+        "bold": [
+         "reminds me of"
+        ]
+       },
+       {
+        "zh": "書包上的鑰匙圈，是國中畢業旅行時在九份買的紀念品。",
+        "en": "The key chain on my schoolbag is a souvenir I bought in Jiufen on my junior high graduation trip.",
+        "covers": [
+         "souvenir"
+        ],
+        "bold": [
+         "souvenir"
+        ]
+       },
+       {
+        "zh": "國中畢業紀念冊裡寫滿了同學的留言，每次翻開都勾起好多回憶。",
+        "en": "My junior high yearbook is full of messages from my classmates, and opening it always brings back so many memories.",
+        "covers": [
+         "yearbook",
+         "memory"
+        ],
+        "bold": [
+         "yearbook",
+         "brings back so many memories"
+        ]
+       },
+       {
+        "zh": "這張卡片是好朋友親手做的，上面畫了我們兩個人。",
+        "en": "This handmade card from my best friend has a drawing of the two of us on it.",
+        "covers": [
+         "handmade"
+        ],
+        "bold": [
+         "handmade card"
+        ]
+       },
+       {
+        "zh": "這把吉他是我最珍視的東西之一，以前是我舅舅的。",
+        "en": "This guitar, one of my most prized possessions, used to belong to my uncle.",
+        "covers": [
+         "possession",
+         "belong to"
+        ],
+        "bold": [
+         "most prized possessions",
+         "used to belong to"
+        ]
+       },
+       {
+        "zh": "這把吉他不貴，對我卻很有意義，因為是它讓我愛上音樂的。",
+        "en": "The guitar wasn't expensive, but it means a lot to me because it made me fall in love with music.",
+        "covers": [
+         "mean a lot to sb"
+        ],
+        "bold": [
+         "means a lot to me"
+        ]
+       },
+       {
+        "zh": "就算買一把全新的吉他，也取代不了它。",
+        "en": "Even a brand-new guitar could never replace it.",
+        "covers": [
+         "replace"
+        ],
+        "bold": [
+         "replace it"
+        ]
+       },
+       {
+        "zh": "我把校內接力賽得到的獎牌擺在書架上。",
+        "en": "I display the medal I won in the school relay race on my bookshelf.",
+        "covers": [
+         "display + N"
+        ],
+        "bold": [
+         "display"
+        ]
+       },
+       {
+        "zh": "這些東西我會一直好好珍惜，因為每一樣都留著我童年的一部分。",
+        "en": "I will always cherish these things, because each of them holds a piece of my childhood.",
+        "covers": [
+         "cherish"
+        ],
+        "bold": [
+         "cherish"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "decorate",
+        "zh": "裝飾",
+        "src": "89年聯考 Q8、86年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0247",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0280"
+        ]
+       },
+       {
+        "w": "ornament",
+        "zh": "裝飾品、擺飾",
+        "src": "103年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0087"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -18238,6 +18915,368 @@
      {
       "k": "體例",
       "t": "91 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法，在空格填好形容詞、配好冠詞，把 Growing up is a confusing experience 寫在第一行；站上範文只列兩段正文。冠詞看的是形容詞開頭的發音，不是字母：an unforgettable experience，卻是 a unique experience，因為 unique 開頭唸起來是 you 的音，屬於子音。本篇要留意的有：插在句中的說明前後都加逗號（My father, an engineer, said …、nobody else, not even my parents, could …）；分號連接兩個完整的句子（… the whole world; by dinnertime, …）；冒號後面接一個完整的句子，第一個字小寫（Even my body has joined in: I have grown …），與站上其他範文一致；centimeters 是美式拼法，英式拼作 centimetres，站上英文一律用美式。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "rewarding",
+        "zh": "有收穫的、值得的（a rewarding experience）",
+        "own": true
+       },
+       {
+        "w": "challenging",
+        "zh": "有挑戰性的",
+        "own": true
+       },
+       {
+        "w": "bittersweet",
+        "zh": "苦樂參半的",
+        "own": true
+       },
+       {
+        "w": "independent",
+        "zh": "獨立的",
+        "src": "86年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0276"
+        ]
+       },
+       {
+        "w": "be responsible for + N／V-ing",
+        "zh": "負責…",
+        "src": "85年推薦甄選 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0034"
+        ]
+       },
+       {
+        "w": "decision",
+        "zh": "決定（make a decision 做決定）",
+        "src": "107年學測 Q6、96年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0396",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0226"
+        ]
+       },
+       {
+        "w": "mature",
+        "zh": "成熟的",
+        "src": "107年學測 Q1、101年學測 Q5、96年指考 Q8、91年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0391",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0305",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0170",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219"
+        ]
+       },
+       {
+        "w": "teenager",
+        "zh": "青少年",
+        "own": true
+       },
+       {
+        "w": "rebellious",
+        "zh": "叛逆的",
+        "own": true
+       },
+       {
+        "w": "peer pressure",
+        "zh": "同儕壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "conflict",
+        "zh": "衝突、摩擦",
+        "src": "87年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0063"
+        ]
+       },
+       {
+        "w": "generation gap",
+        "zh": "代溝",
+        "own": true
+       },
+       {
+        "w": "privacy",
+        "zh": "隱私",
+        "src": "108年學測 Q1、100年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0406",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0127"
+        ]
+       },
+       {
+        "w": "freedom",
+        "zh": "自由",
+        "src": "81年聯考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0324"
+        ]
+       },
+       {
+        "w": "figure out",
+        "zh": "弄清楚、想通",
+        "own": true
+       },
+       {
+        "w": "step out of one's comfort zone",
+        "zh": "走出舒適圈",
+        "own": true
+       },
+       {
+        "w": "adapt to + N",
+        "zh": "適應（環境、做法）",
+        "src": "104年指考 Q10、88年推薦甄選 Q4、81年聯考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0080",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0079",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0331"
+        ]
+       },
+       {
+        "w": "curious",
+        "zh": "好奇的（be curious about + N）",
+        "src": "84年推薦甄選 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0011"
+        ]
+       },
+       {
+        "w": "learn from one's mistakes",
+        "zh": "從錯誤中學習",
+        "own": true
+       },
+       {
+        "w": "overprotective",
+        "zh": "過度保護的",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "對我來說，成長是一段苦樂參半的經驗。",
+        "en": "For me, growing up is a bittersweet experience.",
+        "hint": "a bittersweet experience：bittersweet 的開頭是子音，冠詞用 a。",
+        "covers": [
+         "bittersweet"
+        ],
+        "bold": [
+         "a bittersweet experience"
+        ]
+       },
+       {
+        "zh": "第一次打工雖然很累，卻是一段很有收穫的經驗。",
+        "en": "My first part-time job was tiring, but it was a rewarding experience.",
+        "covers": [
+         "rewarding"
+        ],
+        "bold": [
+         "a rewarding experience"
+        ]
+       },
+       {
+        "zh": "那個暑假在手搖飲料店打工，比我原本想的還要有挑戰性。",
+        "en": "Working at a bubble tea shop that summer was more challenging than I had expected.",
+        "covers": [
+         "challenging"
+        ],
+        "bold": [
+         "more challenging"
+        ]
+       },
+       {
+        "zh": "一開始我常常把客人點的飲料弄錯，不過我從錯誤中學到很多。",
+        "en": "At first, I often got customers' orders wrong, but I learned from my mistakes.",
+        "covers": [
+         "learn from one's mistakes"
+        ],
+        "bold": [
+         "learned from my mistakes"
+        ]
+       },
+       {
+        "zh": "上高中以後，我開始自己搭捷運上學，變得比較獨立。",
+        "en": "After I started high school, I began taking the MRT to school by myself and became more independent.",
+        "covers": [
+         "independent"
+        ],
+        "bold": [
+         "more independent"
+        ]
+       },
+       {
+        "zh": "現在各科作業什麼時候要交，都得我自己負責記好。",
+        "en": "Now I am responsible for keeping track of all my homework deadlines.",
+        "hint": "be responsible for + N／V-ing：for 後面接名詞或動名詞。",
+        "covers": [
+         "be responsible for + N／V-ing"
+        ],
+        "bold": [
+         "responsible for keeping track of"
+        ]
+       },
+       {
+        "zh": "高一加入熱舞社，是我第一次自己做的重大決定。",
+        "en": "Joining the dance club in my first year was the first big decision I made on my own.",
+        "covers": [
+         "decision"
+        ],
+        "bold": [
+         "the first big decision I made"
+        ]
+       },
+       {
+        "zh": "導師說我這學期當了班長以後，變得成熟多了。",
+        "en": "My homeroom teacher says I have become much more mature since I became class leader this semester.",
+        "covers": [
+         "mature"
+        ],
+        "bold": [
+         "much more mature"
+        ]
+       },
+       {
+        "zh": "很多青少年都會經歷一段叛逆期。",
+        "en": "Many teenagers go through a rebellious phase.",
+        "covers": [
+         "teenager",
+         "rebellious"
+        ],
+        "bold": [
+         "teenagers",
+         "a rebellious phase"
+        ]
+       },
+       {
+        "zh": "國中的時候，我禁不起同儕壓力，也跟著大家熬夜玩手遊。",
+        "en": "In junior high, I gave in to peer pressure and stayed up late playing mobile games like everyone else.",
+        "hint": "give in to peer pressure：to 是介系詞，後面接名詞。",
+        "covers": [
+         "peer pressure"
+        ],
+        "bold": [
+         "gave in to peer pressure"
+        ]
+       },
+       {
+        "zh": "那段時間，我常常為了手機跟爸媽起衝突。",
+        "en": "During that time, there was a lot of conflict between my parents and me over my phone.",
+        "covers": [
+         "conflict"
+        ],
+        "bold": [
+         "a lot of conflict"
+        ]
+       },
+       {
+        "zh": "我覺得我們之間有代溝，他們不懂手機對我們這個年紀的人有多重要。",
+        "en": "I felt there was a generation gap between us; they didn't understand how important phones are to people my age.",
+        "covers": [
+         "generation gap"
+        ],
+        "bold": [
+         "a generation gap"
+        ]
+       },
+       {
+        "zh": "我也希望爸媽尊重我的隱私，不要隨便看我的訊息。",
+        "en": "I also wished my parents would respect my privacy and stop reading my messages.",
+        "covers": [
+         "privacy"
+        ],
+        "bold": [
+         "respect my privacy"
+        ]
+       },
+       {
+        "zh": "我爸媽有點過度保護，連我騎腳踏車上學都不放心。",
+        "en": "My parents are a little overprotective; they even worry when I ride my bike to school.",
+        "covers": [
+         "overprotective"
+        ],
+        "bold": [
+         "overprotective"
+        ]
+       },
+       {
+        "zh": "長大以後，我有了更多自由，也要承擔更多責任。",
+        "en": "As I grow older, I get more freedom, but I also have to take on more responsibility.",
+        "covers": [
+         "freedom"
+        ],
+        "bold": [
+         "more freedom"
+        ]
+       },
+       {
+        "zh": "剛上高中時，我花了一個月才適應新的作息。",
+        "en": "When I first started high school, it took me a month to adapt to the new schedule.",
+        "covers": [
+         "adapt to + N"
+        ],
+        "bold": [
+         "adapt to"
+        ]
+       },
+       {
+        "zh": "我到現在還沒想清楚，上大學要念什麼科系。",
+        "en": "I still haven't figured out what I want to study in college.",
+        "covers": [
+         "figure out"
+        ],
+        "bold": [
+         "figured out"
+        ]
+       },
+       {
+        "zh": "我報名了英文演講比賽，逼自己走出舒適圈。",
+        "en": "I signed up for an English speech contest to force myself to step out of my comfort zone.",
+        "covers": [
+         "step out of one's comfort zone"
+        ],
+        "bold": [
+         "step out of my comfort zone"
+        ]
+       },
+       {
+        "zh": "上了高中以後，我開始對以前從來不在意的事情感到好奇，像是時事新聞。",
+        "en": "Since starting high school, I have become curious about things I never used to care about, like current events.",
+        "covers": [
+         "curious"
+        ],
+        "bold": [
+         "curious about"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "ambitious",
+        "zh": "有抱負的、企圖心強的",
+        "src": "95年學測 Q6、93年指考 Q9、86年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0216",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0201",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0044"
+        ]
+       }
+      ]
      }
     ]
    }
