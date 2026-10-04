@@ -10713,7 +10713,7 @@
        },
        {
         "zh": "我昨天把存了好幾個月的零用錢，捐進了政府開設的賑災專戶。",
-        "en": "I made a donation to the government's earthquake relief fund yesterday, using the pocket money I had saved for months.",
+        "en": "I made a donation to the government's earthquake relief fund yesterday, using the allowance I had saved for months.",
         "hint": "「捐款給…」說 make a donation to，to 後面接收款的單位。",
         "covers": [
          "donation"
@@ -16801,6 +16801,401 @@
       "t": "142 期評分表的五項之中有體例一項。本題題目給了標題，考試時可以照題目的寫法把 What Makes A Good Friend? 寫在第一行；站上範文只列兩段正文。本篇要留意的有：專有名詞大寫（Kai、English、LINE）；引號裡的問句，問號放在引號裡面（asked quietly, \"Are you sure you won't regret this tomorrow?\"）；分號連接兩個關係密切的完整句子（Anyone can click \"like\"; only a friend will tell you to stop），分號放在引號外面。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "loyal",
+        "zh": "講義氣的、忠實的",
+        "src": "94年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0201"
+        ]
+       },
+       {
+        "w": "sincere",
+        "zh": "真誠的",
+        "src": "101年學測 Q5、89年聯考 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0305",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0252"
+        ]
+       },
+       {
+        "w": "honest",
+        "zh": "誠實的（be honest with sb 對某人說實話）",
+        "own": true
+       },
+       {
+        "w": "trust",
+        "zh": "信任",
+        "own": true
+       },
+       {
+        "w": "mutual",
+        "zh": "相互的（mutual trust 互相信任）",
+        "src": "99年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0282"
+        ]
+       },
+       {
+        "w": "an intimate friend",
+        "zh": "知心好友",
+        "src": "111年學測 Q6、104年學測 Q8、97年學測 Q5、96年指考 Q8、87年推薦甄選 Q6、85年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0456",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0353",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0245",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0170",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0066",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0287"
+        ]
+       },
+       {
+        "w": "reliable",
+        "zh": "可靠的",
+        "src": "107年學測 Q15、98年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0405",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261"
+        ]
+       },
+       {
+        "w": "count on sb",
+        "zh": "依靠、指望某人",
+        "own": true
+       },
+       {
+        "w": "keep a secret",
+        "zh": "保守祕密",
+        "own": true
+       },
+       {
+        "w": "considerate",
+        "zh": "體貼的、替人著想的",
+        "src": "103年指考 Q1、100年學測 Q15、92年學測補考 Q1、91年指考 Q5、90年聯考 Q13、85年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0081",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0166",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0219",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0237",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0287"
+        ]
+       },
+       {
+        "w": "point out",
+        "zh": "指出（point it out 受詞是代名詞時放中間）",
+        "own": true
+       },
+       {
+        "w": "flatter",
+        "zh": "奉承、說好聽的話討好人",
+        "src": "109年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424"
+        ]
+       },
+       {
+        "w": "gossip",
+        "zh": "說閒話（gossip about sb behind one's back 在背後說人閒話）",
+        "src": "101年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0310"
+        ]
+       },
+       {
+        "w": "be envious of sb",
+        "zh": "羨慕某人",
+        "src": "92年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0211"
+        ]
+       },
+       {
+        "w": "stand by sb",
+        "zh": "在某人身邊支持他",
+        "src": "93年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0192"
+        ]
+       },
+       {
+        "w": "comfort",
+        "zh": "安慰",
+        "own": true
+       },
+       {
+        "w": "cheer sb up",
+        "zh": "讓某人打起精神",
+        "own": true
+       },
+       {
+        "w": "have a lot in common",
+        "zh": "有很多共同點",
+        "src": "87年推薦甄選 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0071"
+        ]
+       },
+       {
+        "w": "conflict",
+        "zh": "衝突、摩擦（resolve a conflict 化解衝突）",
+        "src": "87年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0063"
+        ]
+       },
+       {
+        "w": "make up with sb",
+        "zh": "和某人和好",
+        "src": "92年學測 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0165"
+        ]
+       },
+       {
+        "w": "apologize to sb for + N／V-ing",
+        "zh": "為某件事向某人道歉",
+        "src": "85年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0025"
+        ]
+       },
+       {
+        "w": "forgive",
+        "zh": "原諒",
+        "own": true
+       },
+       {
+        "w": "be grateful to sb for + N",
+        "zh": "因為…感謝某人",
+        "src": "98年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0144"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "真正的朋友很講義氣，不管發生什麼事，都會在你身邊支持你。",
+        "en": "A true friend is loyal and will stand by you no matter what happens.",
+        "covers": [
+         "loyal",
+         "stand by sb"
+        ],
+        "bold": [
+         "loyal",
+         "stand by you"
+        ]
+       },
+       {
+        "zh": "好朋友對你很真誠，也會對你說實話。",
+        "en": "A good friend is sincere and honest with you.",
+        "covers": [
+         "sincere",
+         "honest"
+        ],
+        "bold": [
+         "sincere",
+         "honest with you"
+        ]
+       },
+       {
+        "zh": "朋友之間最重要的，是互相信任。",
+        "en": "What matters most between friends is mutual trust.",
+        "covers": [
+         "mutual",
+         "trust"
+        ],
+        "bold": [
+         "mutual trust"
+        ]
+       },
+       {
+        "zh": "我和小安從國中就是無話不談的知心好友。",
+        "en": "Ann and I have been intimate friends since junior high.",
+        "hint": "說朋友要寫 an intimate friend；be intimate with sb 有時指男女之間的親密關係，寫作時要留意。",
+        "covers": [
+         "an intimate friend"
+        ],
+        "bold": [
+         "intimate friends"
+        ]
+       },
+       {
+        "zh": "小安是個可靠的人，我遇到困難的時候，一定可以靠她。",
+        "en": "Ann is a reliable person, and I can always count on her when I am in trouble.",
+        "covers": [
+         "reliable",
+         "count on sb"
+        ],
+        "bold": [
+         "reliable",
+         "count on her"
+        ]
+       },
+       {
+        "zh": "我跟她說的心事，她從來不會說出去，總是替我保守祕密。",
+        "en": "She never tells anyone what I share with her; she always keeps my secrets.",
+        "covers": [
+         "keep a secret"
+        ],
+        "bold": [
+         "keeps my secrets"
+        ]
+       },
+       {
+        "zh": "我感冒請假那幾天，她主動把筆記影印給我，真的很體貼。",
+        "en": "When I was out sick with a cold, she made copies of her notes for me. She is really considerate.",
+        "covers": [
+         "considerate"
+        ],
+        "bold": [
+         "considerate"
+        ]
+       },
+       {
+        "zh": "我做錯事的時候，她會直接指出來，不會只挑好聽的話說。",
+        "en": "When I do something wrong, she points it out instead of just flattering me.",
+        "hint": "point out 的受詞是代名詞時，要放在 point 和 out 中間：point it out，不寫 point out it。",
+        "covers": [
+         "point out",
+         "flatter"
+        ],
+        "bold": [
+         "points it out",
+         "flattering"
+        ]
+       },
+       {
+        "zh": "真正的朋友，不會在背後說你的閒話。",
+        "en": "A real friend never gossips about you behind your back.",
+        "covers": [
+         "gossip"
+        ],
+        "bold": [
+         "gossips about you behind your back"
+        ]
+       },
+       {
+        "zh": "班上同學都很羨慕我們兩個的感情。",
+        "en": "My classmates are envious of our friendship.",
+        "covers": [
+         "be envious of sb"
+        ],
+        "bold": [
+         "are envious of"
+        ]
+       },
+       {
+        "zh": "我心情不好的時候，她會安慰我，想辦法讓我打起精神。",
+        "en": "When I feel low, she comforts me and tries to cheer me up.",
+        "covers": [
+         "comfort",
+         "cheer sb up"
+        ],
+        "bold": [
+         "comforts",
+         "cheer me up"
+        ]
+       },
+       {
+        "zh": "我們有很多共同點，都愛打籃球，也都喜歡看推理小說。",
+        "en": "We have a lot in common: we both love playing basketball and reading mystery novels.",
+        "covers": [
+         "have a lot in common"
+        ],
+        "bold": [
+         "have a lot in common"
+        ]
+       },
+       {
+        "zh": "再好的朋友之間也會有摩擦，重要的是怎麼化解。",
+        "en": "Even close friends have conflicts; what matters is how they resolve them.",
+        "covers": [
+         "conflict"
+        ],
+        "bold": [
+         "conflicts",
+         "resolve them"
+        ]
+       },
+       {
+        "zh": "有一次，我把她借我的漫畫弄丟了，我們吵了一架，整整一個禮拜沒說話。",
+        "en": "Once I lost a comic book she had lent me. We had a fight and didn't speak to each other for a whole week.",
+        "covers": [],
+        "bold": []
+       },
+       {
+        "zh": "後來我跟她道歉，說我不該弄丟她的書，她也原諒了我。",
+        "en": "Later, I apologized to her for losing her book, and she forgave me.",
+        "hint": "apologize to sb for + N／V-ing：to 後面接人，for 後面接事情。",
+        "covers": [
+         "apologize to sb for + N／V-ing",
+         "forgive"
+        ],
+        "bold": [
+         "apologized to her for losing her book",
+         "forgave"
+        ]
+       },
+       {
+        "zh": "我們和好以後，感情反而比以前更好。",
+        "en": "After we made up with each other, we became even closer than before.",
+        "covers": [
+         "make up with sb"
+        ],
+        "bold": [
+         "made up with each other"
+        ]
+       },
+       {
+        "zh": "我很感謝她一直陪在我身邊。",
+        "en": "I am grateful to her for always being there for me.",
+        "covers": [
+         "be grateful to sb for + N"
+        ],
+        "bold": [
+         "grateful to her for"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "sociable",
+        "zh": "喜歡和人來往的、好交際的",
+        "src": "108年學測 Q7、99年指考 Q1、98年指考參考試卷（99 課綱適用） Q6、97年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0412",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0133",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0343",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0250"
+        ]
+       },
+       {
+        "w": "outgoing",
+        "zh": "外向的",
+        "src": "96年學測 Q9、96年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0234",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0172"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -16861,6 +17256,394 @@
       "t": "92 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題題目給了標題，考試時可以照題目的寫法把 Music Is An Important Part of Our Life 寫在第一行；站上範文只列兩段正文。本篇要留意的有：人名 Chopin 字首大寫；句首的片語後面加逗號（Among other people, 、On our own, 、The night before the competition, ）；after all 插在句中時前後都加逗號；favorite 是美式拼法，英式拼作 favourite，站上英文一律用美式。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "melody",
+        "zh": "旋律",
+        "own": true
+       },
+       {
+        "w": "lyrics",
+        "zh": "歌詞",
+        "own": true
+       },
+       {
+        "w": "rhythm",
+        "zh": "節奏（a sense of rhythm 節奏感）",
+        "own": true
+       },
+       {
+        "w": "instrument",
+        "zh": "樂器（play a musical instrument 演奏樂器）",
+        "src": "110年學測 Q2、98年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0437",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0260"
+        ]
+       },
+       {
+        "w": "rehearse",
+        "zh": "排練（rehearse for + 活動）",
+        "src": "108年指考 Q9、94年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0039",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0185"
+        ]
+       },
+       {
+        "w": "perform",
+        "zh": "表演、演出",
+        "src": "108年學測 Q5、97年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0410",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0254"
+        ]
+       },
+       {
+        "w": "concert",
+        "zh": "演唱會、音樂會",
+        "src": "105年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0361"
+        ]
+       },
+       {
+        "w": "a round of applause",
+        "zh": "一陣掌聲",
+        "src": "99年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0138"
+        ]
+       },
+       {
+        "w": "relax",
+        "zh": "放鬆",
+        "src": "92年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0155"
+        ]
+       },
+       {
+        "w": "relieve",
+        "zh": "減輕、紓解（relieve stress 紓解壓力）",
+        "src": "109年學測 Q4、107年學測 Q10、103年學測 Q12、102年學測 Q14、100年指考 Q9、99年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0400",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0342",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0131",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0272"
+        ]
+       },
+       {
+        "w": "calm sb down",
+        "zh": "讓某人平靜下來（calm oneself down 讓自己平靜下來）",
+        "own": true
+       },
+       {
+        "w": "put sb in a good mood",
+        "zh": "讓某人心情變好",
+        "src": "98年學測 Q13、87年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0268",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0068"
+        ]
+       },
+       {
+        "w": "concentrate",
+        "zh": "專心（concentrate on + N）",
+        "src": "90年聯考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0236"
+        ]
+       },
+       {
+        "w": "express",
+        "zh": "表達（express one's feelings 表達感受）",
+        "src": "87年聯考 Q6、85年推薦甄選 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0029"
+        ]
+       },
+       {
+        "w": "inspire sb to + V",
+        "zh": "激勵某人去做…",
+        "src": "104年學測 Q12、101年學測 Q3、92年指考 Q3、91年指考 Q8、87年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0357",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0303",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0207",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0222",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0266"
+        ]
+       },
+       {
+        "w": "motivate",
+        "zh": "激勵、讓人有動力",
+        "src": "103年學測 Q5、101年指考 Q4、98年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0335",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0116",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0264"
+        ]
+       },
+       {
+        "w": "have a passion for + N",
+        "zh": "熱愛…",
+        "src": "115年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0497"
+        ]
+       },
+       {
+        "w": "remind",
+        "zh": "讓人想起（remind sb of + N）",
+        "src": "98年學測 Q14、83年聯考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0308"
+        ]
+       },
+       {
+        "w": "universal",
+        "zh": "共通的、普遍的（a universal language 共通的語言）",
+        "src": "103年學測 Q13、101年學測 Q9、88年推薦甄選 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0343",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0309",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0076"
+        ]
+       },
+       {
+        "w": "barrier",
+        "zh": "隔閡、障礙（break down language barriers 打破語言隔閡）",
+        "src": "99年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0283"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "這首歌的旋律很好記，歌詞也寫得很動人。",
+        "en": "This song has a catchy melody, and its lyrics are touching.",
+        "covers": [
+         "melody",
+         "lyrics"
+        ],
+        "bold": [
+         "melody",
+         "lyrics"
+        ]
+       },
+       {
+        "zh": "在熱音社學打鼓，讓我的節奏感變好了。",
+        "en": "Learning to play the drums in the rock music club has given me a better sense of rhythm.",
+        "covers": [
+         "rhythm"
+        ],
+        "bold": [
+         "a better sense of rhythm"
+        ]
+       },
+       {
+        "zh": "學一種樂器，需要很多耐心。",
+        "en": "Learning to play a musical instrument takes a lot of patience.",
+        "covers": [
+         "instrument"
+        ],
+        "bold": [
+         "play a musical instrument"
+        ]
+       },
+       {
+        "zh": "為了校慶的表演，我們每天放學都留下來排練。",
+        "en": "We stayed after school every day to rehearse for our performance at the school anniversary celebration.",
+        "covers": [
+         "rehearse"
+        ],
+        "bold": [
+         "rehearse for"
+        ]
+       },
+       {
+        "zh": "校慶那天，我們在全校面前演出，結束時台下響起一陣掌聲。",
+        "en": "On the day of the celebration, we performed in front of the whole school and got a big round of applause at the end.",
+        "covers": [
+         "perform",
+         "a round of applause"
+        ],
+        "bold": [
+         "performed",
+         "a big round of applause"
+        ]
+       },
+       {
+        "zh": "我存了好幾個月的零用錢，就是為了去看偶像的演唱會。",
+        "en": "I saved my allowance for months just to go to my favorite singer's concert.",
+        "covers": [
+         "concert"
+        ],
+        "bold": [
+         "concert"
+        ]
+       },
+       {
+        "zh": "段考考完，我喜歡窩在沙發上聽音樂，好好放鬆一下。",
+        "en": "After our midterm exams, I like to curl up on the sofa and listen to music to relax.",
+        "covers": [
+         "relax"
+        ],
+        "bold": [
+         "relax"
+        ]
+       },
+       {
+        "zh": "對很多人來說，聽音樂是紓解壓力最簡單的方法。",
+        "en": "For many people, listening to music is the easiest way to relieve stress.",
+        "covers": [
+         "relieve"
+        ],
+        "bold": [
+         "relieve stress"
+        ]
+       },
+       {
+        "zh": "每次跟爸媽吵完架，我都會聽一首喜歡的歌，讓自己平靜下來。",
+        "en": "Whenever I argue with my parents, I listen to my favorite song to calm myself down.",
+        "covers": [
+         "calm sb down"
+        ],
+        "bold": [
+         "calm myself down"
+        ]
+       },
+       {
+        "zh": "搭公車上學時聽一首輕快的歌，我一整天心情都會很好。",
+        "en": "Listening to an upbeat song on the bus to school puts me in a good mood for the whole day.",
+        "covers": [
+         "put sb in a good mood"
+        ],
+        "bold": [
+         "puts me in a good mood"
+        ]
+       },
+       {
+        "zh": "有些同學說，寫功課時聽輕音樂能幫助他們專心。",
+        "en": "Some of my classmates say that listening to soft music helps them concentrate on their homework.",
+        "covers": [
+         "concentrate"
+        ],
+        "bold": [
+         "concentrate on"
+        ]
+       },
+       {
+        "zh": "音樂能幫我表達那些說不出口的感受。",
+        "en": "Music helps me express feelings that I cannot put into words.",
+        "covers": [
+         "express"
+        ],
+        "bold": [
+         "express feelings"
+        ]
+       },
+       {
+        "zh": "那位歌手的故事激勵了我，讓我繼續苦練吉他。",
+        "en": "That singer's story inspired me to keep practicing the guitar.",
+        "hint": "inspire sb to + V：to 後面接原形動詞。",
+        "covers": [
+         "inspire sb to + V"
+        ],
+        "bold": [
+         "inspired me to keep practicing"
+        ]
+       },
+       {
+        "zh": "跑步時聽節奏強的歌，會讓我更有動力，越跑越快。",
+        "en": "Songs with a strong beat motivate me to run faster.",
+        "covers": [
+         "motivate"
+        ],
+        "bold": [
+         "motivate me"
+        ]
+       },
+       {
+        "zh": "我表哥非常熱愛音樂，所以大學選了音樂系。",
+        "en": "My cousin has a passion for music, so he chose to study music in college.",
+        "covers": [
+         "have a passion for + N"
+        ],
+        "bold": [
+         "has a passion for music"
+        ]
+       },
+       {
+        "zh": "每次聽到這首歌，就會讓我想起國中的畢業旅行。",
+        "en": "Every time I hear this song, it reminds me of my junior high graduation trip.",
+        "covers": [
+         "remind"
+        ],
+        "bold": [
+         "reminds me of"
+        ]
+       },
+       {
+        "zh": "音樂是共通的語言，就算聽不懂歌詞，也感受得到歌裡的情緒。",
+        "en": "Music is a universal language; even if you don't understand the lyrics, you can still feel the emotions in a song.",
+        "covers": [
+         "universal"
+        ],
+        "bold": [
+         "a universal language"
+        ]
+       },
+       {
+        "zh": "我聽不懂韓文，卻很喜歡韓國偶像團體的歌，這讓我發現音樂能打破語言的隔閡。",
+        "en": "I can't understand Korean, but I love the songs of Korean idol groups. This has shown me that music can break down language barriers.",
+        "covers": [
+         "barrier"
+        ],
+        "bold": [
+         "break down language barriers"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "spotlight",
+        "zh": "聚光燈；眾人注目（in the spotlight 成為眾人焦點）",
+        "src": "99年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0138"
+        ]
+       },
+       {
+        "w": "volume",
+        "zh": "音量（turn down the volume 把音量轉小）",
+        "src": "103年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0341"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -16917,6 +17700,369 @@
      {
       "k": "體例",
       "t": "92 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：YouBike 是品牌名稱，照官方寫法 Y 和 B 都大寫；five o'clock 的撇號不要漏；thumbs-up 放在名詞 stickers 前面當形容詞用，中間加連字號；句首的片語後面加逗號（On a bike, 、Around five o'clock, 、Back home, ）；though 插在句中時前後都加逗號（Somewhere near the bridge, though, ）；冒號後面只接一個句子，照《芝加哥格式手冊》的寫法，第一個字小寫（My hands are busy too: with both of them …），美聯社（AP）的格式則會大寫，同一篇前後一致即可。pedaled 是美式拼法，英式拼作 pedalled，站上英文一律用美式。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "feel down",
+        "zh": "心情低落",
+        "own": true
+       },
+       {
+        "w": "be in a bad mood",
+        "zh": "心情不好",
+        "src": "98年學測 Q13、87年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0268",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0068"
+        ]
+       },
+       {
+        "w": "upset",
+        "zh": "難過的、心煩的",
+        "src": "105年學測 Q2、91年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0362",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0220"
+        ]
+       },
+       {
+        "w": "frustrated",
+        "zh": "沮喪的、懊惱的",
+        "src": "102年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329"
+        ]
+       },
+       {
+        "w": "discouraged",
+        "zh": "洩氣的、灰心的",
+        "src": "96年學測 Q8、84年推薦甄選 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0233",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0015"
+        ]
+       },
+       {
+        "w": "setback",
+        "zh": "挫折",
+        "own": true
+       },
+       {
+        "w": "be under pressure",
+        "zh": "承受壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "cope with + N",
+        "zh": "因應、應付",
+        "own": true
+       },
+       {
+        "w": "work up a sweat",
+        "zh": "流一身汗",
+        "own": true
+       },
+       {
+        "w": "temporarily",
+        "zh": "暫時地",
+        "src": "101年學測 Q8、97年指考 Q9、91年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0308",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0161",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0224"
+        ]
+       },
+       {
+        "w": "take one's mind off + N",
+        "zh": "讓人暫時不去想…",
+        "own": true
+       },
+       {
+        "w": "refresh",
+        "zh": "使恢復精神（feel refreshed 神清氣爽）",
+        "src": "98年學測 Q14、97年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0156"
+        ]
+       },
+       {
+        "w": "clear one's head",
+        "zh": "讓頭腦清醒",
+        "own": true
+       },
+       {
+        "w": "keep a diary",
+        "zh": "寫日記",
+        "own": true
+       },
+       {
+        "w": "relieve",
+        "zh": "減輕、紓解（relieve stress 紓解壓力）",
+        "src": "109年學測 Q4、107年學測 Q10、103年學測 Q12、102年學測 Q14、100年指考 Q9、99年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0400",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0342",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0131",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0272"
+        ]
+       },
+       {
+        "w": "anxiety",
+        "zh": "焦慮",
+        "src": "99年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0283"
+        ]
+       },
+       {
+        "w": "effective",
+        "zh": "有效的",
+        "src": "92年學測補考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0167"
+        ]
+       },
+       {
+        "w": "gradually",
+        "zh": "漸漸地",
+        "src": "101年學測 Q2、100年學測 Q1、93年敏督利颱風受災地區考生補救考試 Q12、87年聯考 Q2、86年推薦甄選 Q16",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0302",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0286",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0102",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0265",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0056"
+        ]
+       },
+       {
+        "w": "recover from + N",
+        "zh": "從…恢復過來、走出來",
+        "src": "107年學測 Q5、97年學測 Q4、94年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0395",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0185"
+        ]
+       },
+       {
+        "w": "overcome",
+        "zh": "克服",
+        "src": "101年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0314"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "模擬考成績出來那天，我心情很低落，什麼事都不想做。",
+        "en": "The day my practice test results came out, I felt down and didn't feel like doing anything.",
+        "covers": [
+         "feel down"
+        ],
+        "bold": [
+         "felt down"
+        ]
+       },
+       {
+        "zh": "心情不好的時候，我很容易對家人發脾氣。",
+        "en": "When I am in a bad mood, I easily lose my temper with my family.",
+        "covers": [
+         "be in a bad mood"
+        ],
+        "bold": [
+         "in a bad mood"
+        ]
+       },
+       {
+        "zh": "沒選上校隊，讓我又難過又沮喪。",
+        "en": "I was upset and frustrated when I didn't make the school team.",
+        "covers": [
+         "upset",
+         "frustrated"
+        ],
+        "bold": [
+         "upset",
+         "frustrated"
+        ]
+       },
+       {
+        "zh": "練了那麼久還是沒進步，難免會洩氣。",
+        "en": "It is easy to get discouraged when you have practiced so hard but still haven't improved.",
+        "covers": [
+         "discouraged"
+        ],
+        "bold": [
+         "get discouraged"
+        ]
+       },
+       {
+        "zh": "每個人遲早都會遇到挫折。",
+        "en": "Everyone faces setbacks sooner or later.",
+        "covers": [
+         "setback"
+        ],
+        "bold": [
+         "setbacks"
+        ]
+       },
+       {
+        "zh": "升上高三以後課業壓力很大，我得找個方法來因應。",
+        "en": "Since starting my senior year, I have been under a lot of pressure, so I need a way to cope with it.",
+        "covers": [
+         "be under pressure",
+         "cope with + N"
+        ],
+        "bold": [
+         "under a lot of pressure",
+         "cope with"
+        ]
+       },
+       {
+        "zh": "我最常用的方法，是到家附近的球場投籃，投到流一身汗，就能暫時忘掉煩惱。",
+        "en": "My favorite way is to shoot hoops at the court near my home. Once I work up a sweat, I can forget my worries temporarily.",
+        "covers": [
+         "work up a sweat",
+         "temporarily"
+        ],
+        "bold": [
+         "work up a sweat",
+         "temporarily"
+        ]
+       },
+       {
+        "zh": "把注意力放在籃框上，就不會一直去想讓我心煩的事。",
+        "en": "Focusing on the basket takes my mind off whatever is bothering me.",
+        "hint": "take one's mind off + N：off 後面接讓人心煩、想忘掉的事。",
+        "covers": [
+         "take one's mind off + N"
+        ],
+        "bold": [
+         "takes my mind off"
+        ]
+       },
+       {
+        "zh": "打完球再沖個澡，整個人就神清氣爽。",
+        "en": "After a quick shower, I feel completely refreshed.",
+        "covers": [
+         "refresh"
+        ],
+        "bold": [
+         "refreshed"
+        ]
+       },
+       {
+        "zh": "有時候我會到公園走一走，讓頭腦清醒一下。",
+        "en": "Sometimes I take a walk in the park to clear my head.",
+        "covers": [
+         "clear one's head"
+        ],
+        "bold": [
+         "clear my head"
+        ]
+       },
+       {
+        "zh": "我也有寫日記的習慣，把心裡想的事全部寫下來。",
+        "en": "I also keep a diary and write down everything on my mind.",
+        "covers": [
+         "keep a diary"
+        ],
+        "bold": [
+         "keep a diary"
+        ]
+       },
+       {
+        "zh": "全部寫下來以後，心裡的焦慮就減輕了不少。",
+        "en": "Writing it all down relieves a lot of my anxiety.",
+        "covers": [
+         "relieve",
+         "anxiety"
+        ],
+        "bold": [
+         "relieves",
+         "anxiety"
+        ]
+       },
+       {
+        "zh": "這個方法之所以有效，是因為寫下來以後，我能比較冷靜地看待自己的問題。",
+        "en": "This method is effective because writing things down helps me look at my problems more calmly.",
+        "covers": [
+         "effective"
+        ],
+        "bold": [
+         "effective"
+        ]
+       },
+       {
+        "zh": "幾天以後，我的心情漸漸平復，又開始每天練球。",
+        "en": "A few days later, I gradually felt better and started practicing every day again.",
+        "covers": [
+         "gradually"
+        ],
+        "bold": [
+         "gradually"
+        ]
+       },
+       {
+        "zh": "過了一個星期，我終於從落選的失望中走了出來。",
+        "en": "After a week, I finally recovered from the disappointment of not making the team.",
+        "covers": [
+         "recover from + N"
+        ],
+        "bold": [
+         "recovered from"
+        ]
+       },
+       {
+        "zh": "隔年我又去參加選拔，這次終於克服了緊張，順利入選。",
+        "en": "The next year, I tried out again, and this time I overcame my nervousness and made the team.",
+        "covers": [
+         "overcome"
+        ],
+        "bold": [
+         "overcame"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "depression",
+        "zh": "憂鬱、沮喪（也指憂鬱症）",
+        "src": "108年指考 Q7、84年推薦甄選 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0037",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0014"
+        ]
+       },
+       {
+        "w": "optimistic",
+        "zh": "樂觀的",
+        "src": "101年學測 Q7、95年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0307",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0216"
+        ]
+       }
+      ]
      }
     ]
    }
