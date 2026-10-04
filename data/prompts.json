@@ -20428,6 +20428,363 @@
       "t": "88 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：句首的片語或子句後面加逗號（Last spring, 、Going through the ad line by line, 、As for the duties, ）；非限定關係子句前面加逗號（a high school diploma, which …）；aggressive 是借用廣告上的字，所以加引號；錢數寫成 NT$3.5 billion；公司、學校、品牌與專有名詞開頭大寫：Southeastern Travel Services、EasyCard、MRT、LINE、Instagram；Ad A 的 A 是廣告的代號，也大寫。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "apply for + N",
+        "zh": "應徵、申請（apply for a job 應徵工作）",
+        "src": "94年學測 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206"
+        ]
+       },
+       {
+        "w": "qualifications",
+        "zh": "資格、條件（學歷、技能、經驗）",
+        "src": "110年指考 Q4、97年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0004",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0159"
+        ]
+       },
+       {
+        "w": "meet the requirements",
+        "zh": "符合（應徵的）條件",
+        "src": "107年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0392"
+        ]
+       },
+       {
+        "w": "a high school diploma",
+        "zh": "高中文憑",
+        "src": "103年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0339"
+        ]
+       },
+       {
+        "w": "be fluent in + N",
+        "zh": "（某種語言）說得流利",
+        "src": "98年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0144"
+        ]
+       },
+       {
+        "w": "outgoing",
+        "zh": "外向的",
+        "src": "96年學測 Q9、96年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0234",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0172"
+        ]
+       },
+       {
+        "w": "tour guide",
+        "zh": "導遊",
+        "src": "106年學測 Q7、99年學測 Q14、98年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0382",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0284",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0143"
+        ]
+       },
+       {
+        "w": "show sb around + 地方",
+        "zh": "帶某人參觀（某地）",
+        "own": true
+       },
+       {
+        "w": "reporter",
+        "zh": "記者",
+        "own": true
+       },
+       {
+        "w": "flexible",
+        "zh": "有彈性的（flexible hours 彈性工時）",
+        "src": "110年指考 Q6、105年學測 Q11、104年學測 Q1、103年學測 Q6、98年學測 Q6、86年聯考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0006",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0371",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0346",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0336",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0282"
+        ]
+       },
+       {
+        "w": "work irregular hours",
+        "zh": "工時不固定",
+        "own": true
+       },
+       {
+        "w": "salary",
+        "zh": "薪水",
+        "src": "93年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0195"
+        ]
+       },
+       {
+        "w": "well-paid",
+        "zh": "待遇好的、薪水高的",
+        "own": true
+       },
+       {
+        "w": "work on commission",
+        "zh": "領佣金（收入照業績算）",
+        "own": true
+       },
+       {
+        "w": "persuade sb to V",
+        "zh": "說服某人去做…",
+        "src": "97年學測 Q14、95年學測 Q4、94年學測 Q11、92年學測補考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0254",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0214",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0206",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0168"
+        ]
+       },
+       {
+        "w": "benefits",
+        "zh": "（薪水以外的）福利",
+        "src": "108年學測 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0419"
+        ]
+       },
+       {
+        "w": "a year-end bonus",
+        "zh": "年終獎金",
+        "own": true
+       },
+       {
+        "w": "be under pressure",
+        "zh": "承受壓力",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
+       },
+       {
+        "w": "pursue a career in + N",
+        "zh": "在…領域發展",
+        "src": "106年學測 Q2、106年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0377",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0051"
+        ]
+       },
+       {
+        "w": "challenging",
+        "zh": "有挑戰性的",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "要是四份工作只能挑一份，我會去應徵英文報社的記者。",
+        "en": "If I could pick only one of the four jobs, I would apply for the reporter position at the English newspaper.",
+        "hint": "apply for 後面接職位或工作，例如 apply for a job、apply for the position。",
+        "covers": [
+         "apply for + N",
+         "reporter"
+        ],
+        "bold": [
+         "apply for",
+         "reporter"
+        ]
+       },
+       {
+        "zh": "我知道自己現在還不符合所有的條件，因為這份工作要大學學歷。",
+        "en": "I know I don't meet all the requirements yet, because the job calls for a college degree.",
+        "hint": "「符合條件」的動詞用 meet（也可以用 fulfill），不說 reach。",
+        "covers": [
+         "meet the requirements"
+        ],
+        "bold": [
+         "meet all the requirements"
+        ]
+       },
+       {
+        "zh": "不過，等我大學畢業，我相信我會具備這份工作要的資格。",
+        "en": "Still, by the time I graduate from college, I believe I will have the qualifications the job asks for.",
+        "covers": [
+         "qualifications"
+        ],
+        "bold": [
+         "the qualifications"
+        ]
+       },
+       {
+        "zh": "我英文說得很流利，中文讀寫當然也沒有問題。",
+        "en": "I'm fluent in English, and of course I have no trouble reading and writing Chinese.",
+        "covers": [
+         "be fluent in + N"
+        ],
+        "bold": [
+         "fluent in English"
+        ]
+       },
+       {
+        "zh": "這份工作的工時有彈性，一週只要上三十個小時。",
+        "en": "The job offers flexible hours, and I would only need to work 30 hours a week.",
+        "covers": [
+         "flexible"
+        ],
+        "bold": [
+         "flexible hours"
+        ]
+       },
+       {
+        "zh": "記者為了跑突發新聞，工時常常不固定，可是我覺得這正是這份工作有挑戰性的地方。",
+        "en": "Reporters often work irregular hours to cover breaking news, but to me, that is exactly what makes the job challenging.",
+        "covers": [
+         "work irregular hours",
+         "challenging"
+        ],
+        "bold": [
+         "work irregular hours",
+         "challenging"
+        ]
+       },
+       {
+        "zh": "記者還得天天趕截稿時間，壓力一定很大。",
+        "en": "Reporters also have to race against deadlines every day, so they must be under a lot of pressure.",
+        "covers": [
+         "be under pressure"
+        ],
+        "bold": [
+         "under a lot of pressure"
+        ]
+       },
+       {
+        "zh": "遇到不想受訪的人，記者也得想辦法說服對方開口。",
+        "en": "When people do not want to be interviewed, reporters have to find ways to persuade them to talk.",
+        "covers": [
+         "persuade sb to V"
+        ],
+        "bold": [
+         "persuade them to talk"
+        ]
+       },
+       {
+        "zh": "除了薪水，報社每年還發年終獎金，也有員工旅遊之類的福利。",
+        "en": "Besides a salary, the newspaper pays a year-end bonus and offers benefits such as an annual company trip.",
+        "hint": "benefits 指薪水以外的福利，這個意思常用複數。",
+        "covers": [
+         "a year-end bonus",
+         "benefits"
+        ],
+        "bold": [
+         "a year-end bonus",
+         "benefits"
+        ]
+       },
+       {
+        "zh": "我希望將來能在新聞界發展。",
+        "en": "I hope to pursue a career in journalism someday.",
+        "hint": "journalism 是新聞業、新聞工作；新聞報導本身是 news。",
+        "covers": [
+         "pursue a career in + N"
+        ],
+        "bold": [
+         "pursue a career in journalism"
+        ]
+       },
+       {
+        "zh": "D 的導遊工作只要高中文憑，可是我的個性一點都不外向。",
+        "en": "The tour guide job in Ad D only requires a high school diploma, but I am not outgoing at all.",
+        "covers": [
+         "tour guide",
+         "a high school diploma",
+         "outgoing"
+        ],
+        "bold": [
+         "tour guide",
+         "a high school diploma",
+         "outgoing"
+        ]
+       },
+       {
+        "zh": "比起整天帶外國旅客參觀景點，我寧可坐在書桌前寫稿。",
+        "en": "I would rather write at my desk than show foreign visitors around tourist spots all day.",
+        "hint": "would rather A than B：A、B 都用原形動詞。",
+        "covers": [
+         "show sb around + 地方"
+        ],
+        "bold": [
+         "show foreign visitors around"
+        ]
+       },
+       {
+        "zh": "我表哥賣汽車，領的是佣金，有時候一個月賺很多，有時候幾乎沒收入。",
+        "en": "My cousin sells cars and works on commission, so some months he earns a lot, and some months he earns almost nothing.",
+        "hint": "work on commission：收入照業績算，介系詞用 on。",
+        "covers": [
+         "work on commission"
+        ],
+        "bold": [
+         "works on commission"
+        ]
+       },
+       {
+        "zh": "記者的薪水不算高，但對我來說，能做自己喜歡的事比較重要。",
+        "en": "A reporter's salary isn't very high, but to me, doing work I enjoy matters more.",
+        "covers": [
+         "salary"
+        ],
+        "bold": [
+         "salary"
+        ]
+       },
+       {
+        "zh": "B 的技術人員待遇也許不錯，可是我對電子產品完全不懂。",
+        "en": "The service technician job may be well-paid, but I know next to nothing about electronics.",
+        "covers": [
+         "well-paid"
+        ],
+        "bold": [
+         "well-paid"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "resign",
+        "zh": "辭職",
+        "src": "98年學測 Q14、97年指考 Q4、96年學測 Q12、89年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0156",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0237",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0098"
+        ]
+       },
+       {
+        "w": "retirement",
+        "zh": "退休",
+        "src": "105年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0370"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -20486,6 +20843,369 @@
       "t": "87 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：兩個完整句子意思緊密相關、中間不用連接詞時，可以用分號連接，分號後面小寫（Summer rain in Taipei rarely surprises anyone; an afternoon can …）；句首的片語或子句後面加逗號（Above the exit, 、With nowhere else to go, 、Until that afternoon, 、These days, 、Still, ）；插在句中的 though 前後都加逗號（Instead of looking at his knee, though, the rider …）；冒號後面接的是說明前一句的內容（it would not have helped me: I am not even old enough …；a nuisance to me: soaked shoes, …），冒號後面不必大寫；三項並列用 A, B, and C，最後一項前加逗號（soaked shoes, crowded buses, and umbrellas …）；MRT 全大寫；raingo 是品牌名稱，照品牌本身的寫法用小寫；someone’s 的所有格用撇號。"
      }
     ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "pour",
+        "zh": "（雨）下得很大（It is pouring. 正在下大雨）",
+        "own": true
+       },
+       {
+        "w": "drizzle",
+        "zh": "毛毛雨；下毛毛雨",
+        "src": "104年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0076"
+        ]
+       },
+       {
+        "w": "thunderstorm",
+        "zh": "雷陣雨",
+        "own": true
+       },
+       {
+        "w": "the plum rain season",
+        "zh": "梅雨季",
+        "own": true
+       },
+       {
+        "w": "forecast",
+        "zh": "預報、預測（the weather forecast 氣象預報）",
+        "src": "109年指考補考 Q4、105年指考 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0014",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0068"
+        ]
+       },
+       {
+        "w": "be caught in the rain",
+        "zh": "遇到下雨、淋到雨",
+        "own": true
+       },
+       {
+        "w": "be soaked to the skin",
+        "zh": "全身濕透",
+        "own": true
+       },
+       {
+        "w": "take shelter from + N",
+        "zh": "躲（雨）、找地方躲避",
+        "src": "102年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0111"
+        ]
+       },
+       {
+        "w": "puddle",
+        "zh": "水窪",
+        "own": true
+       },
+       {
+        "w": "slippery",
+        "zh": "濕滑的",
+        "src": "113年學測 Q1、103年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0471",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0332"
+        ]
+       },
+       {
+        "w": "postpone",
+        "zh": "延期、延後",
+        "src": "102年學測 Q1、97年學測 Q14、92年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0316",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0254",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0157"
+        ]
+       },
+       {
+        "w": "humid",
+        "zh": "潮濕悶熱的",
+        "own": true
+       },
+       {
+        "w": "damp",
+        "zh": "濕濕的、沒乾透的",
+        "own": true
+       },
+       {
+        "w": "gloomy",
+        "zh": "陰沉的；（心情）沉悶的",
+        "own": true
+       },
+       {
+        "w": "be in a bad mood",
+        "zh": "心情不好",
+        "src": "98年學測 Q13、87年推薦甄選 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0268",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0068"
+        ]
+       },
+       {
+        "w": "nuisance",
+        "zh": "麻煩事、討厭的事",
+        "src": "107年指考 Q6、105年指考 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0046",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0065"
+        ]
+       },
+       {
+        "w": "the patter of rain",
+        "zh": "滴滴答答的雨聲",
+        "own": true
+       },
+       {
+        "w": "cozy",
+        "zh": "舒適溫暖的",
+        "own": true
+       },
+       {
+        "w": "refresh",
+        "zh": "使恢復精神（feel refreshed 神清氣爽）",
+        "src": "98年學測 Q14、97年指考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0269",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0156"
+        ]
+       },
+       {
+        "w": "water shortage",
+        "zh": "缺水",
+        "src": "101年指考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0113"
+        ]
+       },
+       {
+        "w": "drought",
+        "zh": "乾旱",
+        "src": "107年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0046"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "每年五、六月是台灣的梅雨季，雨一下常常就是好幾天。",
+        "en": "Every May and June, Taiwan has its plum rain season, and the rain often goes on for days.",
+        "hint": "梅雨季的英文，中央社、Taipei Times 等台灣的英文媒體寫 the plum rain season；中央氣象署的英文新聞稿用的是氣象學的名稱 Mei-yu season。",
+        "covers": [
+         "the plum rain season"
+        ],
+        "bold": [
+         "plum rain season"
+        ]
+       },
+       {
+        "zh": "氣象預報說，運動會那天會有雷陣雨。",
+        "en": "The weather forecast said there would be thunderstorms on our school's sports day.",
+        "covers": [
+         "forecast",
+         "thunderstorm"
+        ],
+        "bold": [
+         "weather forecast",
+         "thunderstorms"
+        ]
+       },
+       {
+        "zh": "果然，學校把運動會延到下個禮拜。",
+        "en": "Sure enough, the school postponed the sports day until the following week.",
+        "hint": "postpone + N + until／to + 時間：把某事延到某個時候。",
+        "covers": [
+         "postpone"
+        ],
+        "bold": [
+         "postponed"
+        ]
+       },
+       {
+        "zh": "早上還只是毛毛雨，到了放學的時候，已經下起傾盆大雨。",
+        "en": "In the morning, it was only drizzling, but by the time school was over, it was pouring.",
+        "hint": "It is pouring. 就是「正在下大雨」，不必再加 rain。",
+        "covers": [
+         "drizzle",
+         "pour"
+        ],
+        "bold": [
+         "drizzling",
+         "pouring"
+        ]
+       },
+       {
+        "zh": "我忘了帶傘，在回家的路上遇到大雨。",
+        "en": "I had forgotten my umbrella, so I got caught in the rain on my way home.",
+        "hint": "「遇到下雨」說 be／get caught in the rain，caught 不能省，也不說 meet the rain。",
+        "covers": [
+         "be caught in the rain"
+        ],
+        "bold": [
+         "got caught in the rain"
+        ]
+       },
+       {
+        "zh": "我和同學跑到公車站躲雨。",
+        "en": "My classmate and I ran to a bus stop to take shelter from the rain.",
+        "covers": [
+         "take shelter from + N"
+        ],
+        "bold": [
+         "take shelter from the rain"
+        ]
+       },
+       {
+        "zh": "等到公車來，我們兩個已經全身濕透了。",
+        "en": "By the time the bus came, we were both soaked to the skin.",
+        "hint": "只是淋濕寫 get wet 就好；soaked to the skin 是連裡面的衣服都濕透。",
+        "covers": [
+         "be soaked to the skin"
+        ],
+        "bold": [
+         "soaked to the skin"
+        ]
+       },
+       {
+        "zh": "人行道上到處是水窪，磁磚又濕又滑，我差點跌倒。",
+        "en": "The sidewalk was full of puddles, and the tiles were so slippery that I almost fell.",
+        "covers": [
+         "puddle",
+         "slippery"
+        ],
+        "bold": [
+         "puddles",
+         "slippery"
+        ]
+       },
+       {
+        "zh": "空氣又濕又悶，制服都黏在背上。",
+        "en": "The air was hot and humid, and my uniform stuck to my back.",
+        "covers": [
+         "humid"
+        ],
+        "bold": [
+         "humid"
+        ]
+       },
+       {
+        "zh": "梅雨季的時候，衣服晾了兩天還是濕濕的。",
+        "en": "During the plum rain season, clothes can hang for two days and still feel damp.",
+        "covers": [
+         "damp"
+        ],
+        "bold": [
+         "damp"
+        ]
+       },
+       {
+        "zh": "天空灰濛濛的，我的心情也跟著沉悶起來。",
+        "en": "The sky was gray and gloomy, and so was my mood.",
+        "covers": [
+         "gloomy"
+        ],
+        "bold": [
+         "gloomy"
+        ]
+       },
+       {
+        "zh": "運動會延期，又淋了一身濕，我那天整個晚上心情都不好。",
+        "en": "With the sports day postponed and my clothes soaking wet, I was in a bad mood all evening.",
+        "covers": [
+         "be in a bad mood"
+        ],
+        "bold": [
+         "in a bad mood"
+        ]
+       },
+       {
+        "zh": "下雨天到哪裡都得帶傘，真的很麻煩。",
+        "en": "Having to carry an umbrella everywhere on rainy days is a real nuisance.",
+        "hint": "動名詞片語當主詞，動詞用單數 is。",
+        "covers": [
+         "nuisance"
+        ],
+        "bold": [
+         "a real nuisance"
+        ]
+       },
+       {
+        "zh": "洗完熱水澡，我窩在房間裡，聽著雨滴滴答答地打在窗戶上。",
+        "en": "After a hot shower, I curled up in my room and listened to the patter of rain on the window.",
+        "covers": [
+         "the patter of rain"
+        ],
+        "bold": [
+         "the patter of rain"
+        ]
+       },
+       {
+        "zh": "我捧著一杯熱可可，覺得房間裡暖暖的，好舒服。",
+        "en": "Holding a cup of hot cocoa, I felt warm and cozy in my room.",
+        "covers": [
+         "cozy"
+        ],
+        "bold": [
+         "cozy"
+        ]
+       },
+       {
+        "zh": "第二天早上雨停了，空氣很清新，我覺得神清氣爽。",
+        "en": "By the next morning, the rain had stopped, and the fresh air made me feel refreshed.",
+        "hint": "refresh 是「讓人恢復精神」；人當主詞要寫 feel refreshed。",
+        "covers": [
+         "refresh"
+        ],
+        "bold": [
+         "refreshed"
+        ]
+       },
+       {
+        "zh": "這讓我想起幾年前那場乾旱，水庫幾乎見底。",
+        "en": "It reminded me of the drought a few years ago, when the reservoirs almost ran dry.",
+        "covers": [
+         "drought"
+        ],
+        "bold": [
+         "drought"
+        ]
+       },
+       {
+        "zh": "那時候有些縣市缺水缺得很嚴重，還得分區輪流停水。",
+        "en": "At that time, some cities faced such a serious water shortage that they had to cut off the water supply to different areas on different days.",
+        "covers": [
+         "water shortage"
+        ],
+        "bold": [
+         "water shortage"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "moist",
+        "zh": "潮濕的、濕潤的",
+        "src": "110年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0439"
+        ]
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -20542,6 +21262,351 @@
      {
       "k": "體例",
       "t": "86 這一年大考中心沒有公布評分說明；97 學測表 1 寫明，體例看的是格式、標點與大小寫。本題沒有給標題，站上範文只列兩段正文。本篇要留意的有：兩個完整句子意思緊密相關、中間不用連接詞時，可以用分號連接，分號後面小寫（… bring down a high fever; only the right medicine …；… not better than medicine; it is the best partner …）；句首的片語或子句後面加逗號（Still, 、Watching from the doorway, 、Every day after school, 、Holding his nose, 、The next morning, ）；插在句中的 in other words 與 not my show 前後都加逗號；三項並列用 A, B, and C，最後一項前加逗號（pushed …, shut …, and refused …；tied …, put on …, and announced …）；Mom 當稱呼用，像名字一樣大寫；hero’s 的所有格用撇號；溫度寫成 39°C，也可以寫成 39 degrees Celsius。"
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-04",
+    "note": "條目取自本站題庫歷屆試題，缺口由本站補足；出處欄標示該搭配考過的年度與題號，練習句為本站依試題文體、針對本題情境所寫。先看中文自己寫寫看，想不出來再點提示，寫完再對照範文。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "sense of humor",
+        "zh": "幽默感（have a good sense of humor 很有幽默感）",
+        "own": true
+       },
+       {
+        "w": "hilarious",
+        "zh": "好笑極了、爆笑的",
+        "own": true
+       },
+       {
+        "w": "burst out laughing",
+        "zh": "忍不住笑出來",
+        "own": true
+       },
+       {
+        "w": "have a good laugh",
+        "zh": "好好笑一場",
+        "own": true
+       },
+       {
+        "w": "cheer sb up",
+        "zh": "讓某人打起精神",
+        "own": true
+       },
+       {
+        "w": "cheerful",
+        "zh": "開朗的、愉快的",
+        "src": "84年推薦甄選 Q1、83年聯考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0011",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0309"
+        ]
+       },
+       {
+        "w": "optimistic",
+        "zh": "樂觀的",
+        "src": "101年學測 Q7、95年學測 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0307",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0216"
+        ]
+       },
+       {
+        "w": "contagious",
+        "zh": "有感染力的；會傳染的",
+        "src": "109年指考 Q8、107年指考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0028",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0050"
+        ]
+       },
+       {
+        "w": "relieve + N",
+        "zh": "減輕、紓解（relieve stress 紓壓；relieve pain 止痛）",
+        "src": "109年學測 Q4、107年學測 Q10、103年學測 Q12、102年學測 Q14、100年指考 Q9、99年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0424",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0400",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0342",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0329",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0131",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0272"
+        ]
+       },
+       {
+        "w": "feel down",
+        "zh": "心情低落",
+        "own": true
+       },
+       {
+        "w": "patient",
+        "zh": "病人",
+        "src": "92年指考 Q1、90年學測 Q4、83年聯考 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0205",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0109",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0307"
+        ]
+       },
+       {
+        "w": "symptom",
+        "zh": "症狀",
+        "src": "97年指考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0159"
+        ]
+       },
+       {
+        "w": "take medicine",
+        "zh": "吃藥（不說 eat medicine）",
+        "own": true
+       },
+       {
+        "w": "a prescription / prescribe + N",
+        "zh": "處方／開（藥）",
+        "src": "96年指考 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0171"
+        ]
+       },
+       {
+        "w": "painkiller",
+        "zh": "止痛藥",
+        "own": true
+       },
+       {
+        "w": "side effects",
+        "zh": "副作用",
+        "own": true
+       },
+       {
+        "w": "recover from + N",
+        "zh": "從…恢復過來、康復",
+        "src": "107年學測 Q5、97年學測 Q4、94年指考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0395",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0244",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0185"
+        ]
+       },
+       {
+        "w": "boost the immune system",
+        "zh": "增強免疫力",
+        "own": true
+       },
+       {
+        "w": "therapy",
+        "zh": "治療、療法（physical therapy 復健）",
+        "src": "84年推薦甄選 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0019"
+        ]
+       },
+       {
+        "w": "cope with + N",
+        "zh": "因應、應付",
+        "own": true
+       },
+       {
+        "w": "cure",
+        "zh": "治好（疾病）",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "外婆膝蓋開刀以後，醫生開了止痛藥給她。",
+        "en": "After my grandma's knee surgery, her doctor prescribed painkillers for her.",
+        "hint": "prescribe + 藥 + for sb：開藥給某人。",
+        "covers": [
+         "a prescription / prescribe + N",
+         "painkiller"
+        ],
+        "bold": [
+         "prescribed painkillers"
+        ]
+       },
+       {
+        "zh": "可是她不喜歡吃藥，怕會有副作用。",
+        "en": "But she didn't like taking medicine because she was worried about side effects.",
+        "hint": "「吃藥」說 take medicine，不說 eat medicine。",
+        "covers": [
+         "take medicine",
+         "side effects"
+        ],
+        "bold": [
+         "taking medicine",
+         "side effects"
+        ]
+       },
+       {
+        "zh": "同病房的另一位病人，整天唉聲嘆氣。",
+        "en": "The other patient in her room sighed and complained all day.",
+        "covers": [
+         "patient"
+        ],
+        "bold": [
+         "patient"
+        ]
+       },
+       {
+        "zh": "外婆卻一直很開朗，還會跟護理師開玩笑。",
+        "en": "My grandma, however, stayed cheerful and even joked with the nurses.",
+        "covers": [
+         "cheerful"
+        ],
+        "bold": [
+         "cheerful"
+        ]
+       },
+       {
+        "zh": "她本來就很有幽默感。",
+        "en": "She has always had a good sense of humor.",
+        "covers": [
+         "sense of humor"
+        ],
+        "bold": [
+         "a good sense of humor"
+        ]
+       },
+       {
+        "zh": "她的笑聲很有感染力，整間病房的人都會跟著笑。",
+        "en": "Her laughter is so contagious that everyone in the room ends up laughing too.",
+        "hint": "contagious 原本指疾病會傳染，用在笑聲、熱情上是「有感染力」。",
+        "covers": [
+         "contagious"
+        ],
+        "bold": [
+         "contagious"
+        ]
+       },
+       {
+        "zh": "有一天，表弟在家族群組傳了一支爆笑影片，外婆看了忍不住笑出來。",
+        "en": "One day, my cousin posted a hilarious video in our family group chat, and Grandma burst out laughing.",
+        "covers": [
+         "hilarious",
+         "burst out laughing"
+        ],
+        "bold": [
+         "hilarious",
+         "burst out laughing"
+        ]
+       },
+       {
+        "zh": "大家好好笑了一場，外婆說膝蓋好像沒那麼痛了。",
+        "en": "After we all had a good laugh, she said her knee didn't seem to hurt as much.",
+        "covers": [
+         "have a good laugh"
+        ],
+        "bold": [
+         "had a good laugh"
+        ]
+       },
+       {
+        "zh": "復健很辛苦，有時候她也會心情低落。",
+        "en": "Physical therapy was hard, and sometimes she felt down.",
+        "hint": "「復健」美式說 physical therapy，英式說 physiotherapy。",
+        "covers": [
+         "therapy",
+         "feel down"
+        ],
+        "bold": [
+         "Physical therapy",
+         "felt down"
+        ]
+       },
+       {
+        "zh": "這時候，我們就會陪她聊天，讓她打起精神。",
+        "en": "At those times, we would sit and chat with her to cheer her up.",
+        "covers": [
+         "cheer sb up"
+        ],
+        "bold": [
+         "cheer her up"
+        ]
+       },
+       {
+        "zh": "看喜劇是紓解壓力的好方法。",
+        "en": "Watching a comedy is a good way to relieve stress.",
+        "covers": [
+         "relieve + N"
+        ],
+        "bold": [
+         "relieve stress"
+        ]
+       },
+       {
+        "zh": "醫生說，保持樂觀能幫助她更快從手術中恢復。",
+        "en": "Her doctor said that staying optimistic would help her recover from the surgery more quickly.",
+        "covers": [
+         "optimistic",
+         "recover from + N"
+        ],
+        "bold": [
+         "optimistic",
+         "recover from"
+        ]
+       },
+       {
+        "zh": "有些研究指出，笑也許有助於增強免疫力。",
+        "en": "Some studies suggest that laughter may help boost the immune system.",
+        "covers": [
+         "boost the immune system"
+        ],
+        "bold": [
+         "boost the immune system"
+        ]
+       },
+       {
+        "zh": "醫生也交代外婆，回家以後要是出現什麼不對勁的症狀，就要馬上回醫院。",
+        "en": "The doctor also told Grandma to come back right away if she had any unusual symptoms after going home.",
+        "covers": [
+         "symptom"
+        ],
+        "bold": [
+         "symptoms"
+        ]
+       },
+       {
+        "zh": "笑讓外婆比較能面對復健時的疼痛。",
+        "en": "Laughter helped Grandma cope with the pain of physical therapy.",
+        "covers": [
+         "cope with + N"
+        ],
+        "bold": [
+         "cope with"
+        ]
+       },
+       {
+        "zh": "笑治不好病，卻能讓難熬的日子好過一點。",
+        "en": "Laughter cannot cure a disease, but it can make hard days easier to get through.",
+        "covers": [
+         "cure"
+        ],
+        "bold": [
+         "cure a disease"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "note": "同一個主題考過，這一題用不到，但值得認識",
+      "entries": [
+       {
+        "w": "diagnosis",
+        "zh": "診斷",
+        "src": "89年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0093"
+        ]
+       }
+      ]
      }
     ]
    }
