@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-04",
+ "updated": "2026-10-08",
  "count": 63,
  "items": [
   {
@@ -16194,7 +16194,7 @@
     ]
    },
    "wordBank": {
-    "updated": "2026-10-04",
+    "updated": "2026-10-08",
     "note": "條目取自本題庫的歷屆試題，缺口由本題庫補足；出處欄標示這個條目考過的年度與題號，練習句是本題庫依試題文體、針對這一題的情境寫的。先看中文自己寫寫看，想不出來再點提示，寫完再看參考答案。",
     "groups": [
      {
@@ -16210,6 +16210,19 @@
         "w": "toast",
         "zh": "敬酒（propose a toast 舉杯敬酒）",
         "own": true
+       },
+       {
+        "w": "the norm",
+        "zh": "常態、一般都這麼做（it is the norm for sb to V）",
+        "own": true
+       },
+       {
+        "w": "pressure",
+        "zh": "壓力（feel pressure to V 覺得非做某事不可；be under pressure to V）",
+        "src": "86年聯考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0275"
+        ]
        },
        {
         "w": "drunk",
@@ -16322,6 +16335,17 @@
       ],
       "sentences": [
        {
+        "zh": "在台灣，新人在喜宴上逐桌向賓客敬酒是常態。",
+        "en": "In Taiwan, it is the norm for the bride and groom to toast every table at their wedding banquet.",
+        "hint": "「…是常態」可以說 it is the norm for sb to V，the norm 前面要加 the。",
+        "covers": [
+         "the norm"
+        ],
+        "bold": [
+         "it is the norm for the bride and groom to"
+        ]
+       },
+       {
         "zh": "隔壁的王伯伯到飯店參加姪子的喜宴，在席間一桌一桌地敬酒。",
         "en": "Mr. Wang, our neighbor, went to his nephew's wedding banquet at a hotel and went from table to table to propose toasts.",
         "covers": [
@@ -16331,6 +16355,16 @@
         "bold": [
          "wedding banquet",
          "propose toasts"
+        ]
+       },
+       {
+        "zh": "王伯伯的老同學一直幫他倒酒，他覺得不喝不行，不好意思說不。",
+        "en": "Mr. Wang's old classmates kept refilling his glass, and he felt so much pressure to drink that he could not say no.",
+        "covers": [
+         "pressure"
+        ],
+        "bold": [
+         "felt so much pressure to drink"
         ]
        },
        {
