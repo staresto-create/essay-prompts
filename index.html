@@ -86,6 +86,19 @@
   .mdMap{list-style:none;padding:0;margin:0;}
   .mdMap li{padding:6px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .mdK{font-weight:700;margin-right:6px;}
+  /* 基礎版：外框沿用 mdBox 一組（摺疊、按鈕、範文段落），只另加升級對照與實用句型的版面。 */
+  .bsIntro{font-size:12.5px;line-height:1.8;color:#5F594C;margin:0 0 10px;}
+  .bsLv{font-size:12px;line-height:1.8;color:#7A7263;margin:4px 0 0;}
+  .upList{list-style:none;padding:0;margin:0;}
+  .upList li{padding:7px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
+  .upT{font-weight:700;display:block;margin-bottom:2px;}
+  .upL{display:block;padding-left:1em;}
+  .upL b{font-weight:700;margin-right:4px;}
+  .upL.en{font-size:13px;}
+  .frGrp{margin:6px 0 4px;font-size:12.5px;font-weight:700;}
+  .frList{list-style:none;padding:0;margin:0 0 6px;}
+  .frList li{padding:5px 0 5px 1em;font-size:13px;line-height:1.8;}
+  .frEx{display:block;font-size:12.5px;color:#7A7263;}
   .smBox{margin-top:12px;border:1px solid #E3DCC9;border-radius:6px;background:#FDFBF5;padding:11px 13px;}
   .smHd{font-weight:700;font-size:13.5px;margin-bottom:6px;}
   .smLink a{font-size:12.5px;}
@@ -774,6 +787,63 @@ function card(it){
     });
     if(it.reading.note)b.appendChild(el('p','lsNote',it.reading.note));
     d.appendChild(b);
+  }
+
+  // 基礎版範文：給覺得範文太難的學生。方向與細節沿用範文，句子簡單、用字以一、二級為主。
+  // 擺在範文摺疊區上面：先讀寫得出來的這一篇，再往下看範文。資料欄 `basic` 是選配欄，沒有的題目畫面不變。
+  // 欄位：essay{words,p1,p2,zh}、note（選配）、levels、upgrade[{t,b,m,why}]、frames[{name,items[{f,ex}]}]。
+  if(it.basic && it.basic.essay){
+    const bs=it.basic, b=el('div','mdBox bsBox');
+    const shut='看基礎版範文、升級對照與實用句型 →';
+    const btn=document.createElement('button');
+    btn.className='mdBtn';btn.type='button';btn.textContent=shut;
+    btn.addEventListener('click',()=>{
+      const on=b.classList.toggle('open');
+      btn.textContent=on?'收起基礎版':shut;
+    });
+    b.appendChild(btn);
+    const body=el('div','mdBody');
+    body.appendChild(el('p','bsIntro','基礎版範文的方向和細節都跟下面的範文相同，只是句子寫得比較簡單，用字大多是大考中心詞彙表一、二級的字。範文讀起來吃力的話，先從這一篇開始，讀懂了再看升級對照，同一個意思範文是怎麼寫的。'+(bs.note?bs.note:'')));
+    body.appendChild(el('div','mdH','基礎版範文'));
+    const es=el('div','mdEssay'), zh=bs.essay.zh||{};
+    es.appendChild(el('p',null,bs.essay.p1));
+    if(zh.p1)es.appendChild(el('p','mdZh',zh.p1));
+    es.appendChild(el('p',null,bs.essay.p2));
+    if(zh.p2)es.appendChild(el('p','mdZh',zh.p2));
+    if(bs.essay.words)es.appendChild(el('div','mdWords','全文 '+bs.essay.words+' 詞'));
+    body.appendChild(es);
+    if(bs.levels)body.appendChild(el('p','bsLv',bs.levels));
+    if(bs.upgrade && bs.upgrade.length){
+      body.appendChild(el('div','mdH','升級對照：同一個意思，範文怎麼寫'));
+      const ul=document.createElement('ul');ul.className='upList';
+      bs.upgrade.forEach((x,i)=>{
+        const li=document.createElement('li');
+        li.appendChild(el('span','upT','['+(i+1)+'] '+x.t));
+        [['基礎版',x.b,true],['範文',x.m,true],['說明',x.why,false]].forEach(([k,v,en])=>{
+          const s=el('span','upL'+(en?' en':''));
+          s.appendChild(el('b',null,k+'：'));s.appendChild(document.createTextNode(v));
+          li.appendChild(s);
+        });
+        ul.appendChild(li);
+      });
+      body.appendChild(ul);
+    }
+    if(bs.frames && bs.frames.length){
+      body.appendChild(el('div','mdH','實用句型'));
+      body.appendChild(el('p','bsIntro','照這一題兩段的寫作任務整理，空格填入你自己的內容，括號裡寫的是要填什麼。每一句底下附一個填好的例句。'));
+      bs.frames.forEach(g=>{
+        body.appendChild(el('div','frGrp',g.name));
+        const ul=document.createElement('ul');ul.className='frList';
+        g.items.forEach((x,i)=>{
+          const li=document.createElement('li');
+          li.appendChild(document.createTextNode('['+(i+1)+'] '+x.f));
+          li.appendChild(el('span','frEx','例句：'+x.ex));
+          ul.appendChild(li);
+        });
+        body.appendChild(ul);
+      });
+    }
+    b.appendChild(body);d.appendChild(b);
   }
 
   if(it.model && it.model.essay){
