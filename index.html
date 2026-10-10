@@ -1088,6 +1088,14 @@ function buildSelfCheck(){
     (sa.caveat||[]).forEach((t,i)=>sb.appendChild(el('p','scCav','('+(i+1)+')\u3000'+t)));
     body.appendChild(sb);
   }
+  // 外部老師講解連結（teacherLink：{lead,label,url}）放在本區最後；文字一律讀資料檔，沒有這個鍵就不畫。
+  const tl=SELFCHECK.teacherLink;
+  if(tl&&tl.url&&tl.label){
+    const tp=el('div','scLink',tl.lead||'');
+    const ta=document.createElement('a');
+    ta.href=tl.url;ta.target='_blank';ta.rel='noopener';ta.textContent=tl.label+' \u2197';
+    tp.appendChild(ta);body.appendChild(tp);
+  }
   dt.appendChild(body);
   box.innerHTML='';
   box.appendChild(dt);
