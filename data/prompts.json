@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-08",
+ "updated": "2026-10-10",
  "count": 63,
  "items": [
   {
@@ -23430,6 +23430,39 @@
      },
      {
       "q": "兩段之間的關係清楚嗎？讀的人看得出第二段是接著第一段往下走的嗎？"
+     },
+     {
+      "q": "句子和句子之間，除了轉承語，你有沒有用代名詞、重複關鍵字，或是 this／such + 名詞這樣的片語，把後一句接回前一句？",
+      "note": "轉承語是最容易看得出來的接法，卻不是唯一的接法。後一句用 it、they、this 指回前一句提到的東西，或是把關鍵字再寫一次、換一個同義字，讀的人就知道兩句講的是同一件事。如果要把前一句整件事收起來再往下寫，可以用 this habit、such a change 這樣的片語，例如 Many students check their phones the moment they wake up. This habit makes it hard for them to focus in first period. 第二句的 This habit 指的就是第一句那件事；也可以換詞類重複關鍵字，例如前一句寫 decide，後一句用 decision 接上。也就是說，句子之間的關係已經清楚的時候，不必每一句都加 however、moreover。",
+      "ref": "美國喬治梅森大學（George Mason University）寫作中心公開資源",
+      "refLinks": [
+       {
+        "label": "Cohesion and Coherence",
+        "url": "https://writingcenter.gmu.edu/writing-resources/general-writing-practices/cohesion-and-coherence"
+       }
+      ]
+     },
+     {
+      "q": "一段裡的幾個要點，你是照什麼順序排的？",
+      "note": "常見的排法有三種：照事情發生的先後，適合敘述經驗、說明步驟；照空間位置，適合描述一個房間或一張圖片，例如從左到右、由近到遠；照重要程度，從次要的寫到最重要的，或是反過來。先選定一種，整段照那個順序寫；如果寫到一半換了排法，讀的人就得回頭重新理一次。",
+      "ref": "美國瑪麗埃塔學院（Marietta College）寫作中心公開資源",
+      "refLinks": [
+       {
+        "label": "Organizing Your Paper",
+        "url": "https://www.marietta.edu/sites/default/files/documents/mcwriting_resource-3_organizing_your_paper_-_organization_and_outlining_strategies.pdf"
+       }
+      ]
+     },
+     {
+      "q": "用 however、therefore 這類連接副詞接兩個完整的句子時，前面用的是分號或句號嗎？後面有沒有加逗號？",
+      "note": "and、but、so 是對等連接詞，可以用逗號接兩個完整的句子；however、therefore、moreover 是連接副詞，只靠逗號接不起來。同一個意思可以這樣寫：The new dress code sounded reasonable, but few students followed it.／The new dress code sounded reasonable; however, few students followed it.／The new dress code sounded reasonable. However, few students followed it. 如果寫成 The new dress code sounded reasonable, however, few students followed it.，兩個完整的句子之間就只剩一個逗號，和「文法句構」那一組問的逗號是同一種錯。",
+      "ref": "美國普渡大學線上寫作實驗室（Purdue OWL）公開資源",
+      "refLinks": [
+       {
+        "label": "Sentence Punctuation Patterns",
+        "url": "https://owl.purdue.edu/owl/general_writing/punctuation/sentence_punctuation_patterns.html"
+       }
+      ]
      }
     ]
    },
@@ -23461,6 +23494,130 @@
      {
       "q": "你用的那個字，詞性放對位置了嗎？",
       "note": "全民英檢 3 級分那一篇的評語舉的例子都是這一種：your responsible 拿形容詞當名詞、the way of encourage 拿動詞當名詞、good at behavior 用字不對，結果詞不達意。另外一件先說清楚：官方文件對這一項有幾種稱呼——「字彙拼字」、「詞彙拼字」，表 1 裡還寫成「字彙、拼字」——指的都是同一項。這一區跨年度通用，欄名一律用「字彙拼字」；各年度的題目底下照該年原件的用語寫，兩邊不一致不是本題庫寫錯。"
+     }
+    ]
+   },
+   {
+    "name": "中文思考帶進英文的錯誤",
+    "source": "依劍橋線上詞典文法說明（Cambridge Grammar）與美國大學寫作中心公開資源；例句為本題庫自撰",
+    "items": [
+     {
+      "q": "寫「結婚半世紀」「認識三年」這類一段時間時，你用的動詞是一下子就完成的動作，還是持續的狀態？",
+      "note": "中文的「結婚」「認識」「死」可以指那一刻，也可以指之後一直延續的狀態；英文把兩者分開：get married、meet、die 是一下子就完成的動作，be married、know、be dead 是動作完成以後的狀態。後面接 for half a century 這種一段時間，要用表示狀態的說法：寫 My grandparents have been married for half a century.，不寫成 My grandparents have married for half a century.；寫 I have known Amy for three years.，至於第一次見面的那一刻，要寫 I met Amy at a summer camp.，不寫成 I knew Amy at a summer camp.",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Part of speech: died or dead?",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/part-of-speech-died-or-dead"
+       }
+      ]
+     },
+     {
+      "q": "以 Because、Which 開頭的那一句，是不是只寫了半句？",
+      "note": "中文「因為……。」可以自己成為一句，英文 because、which 帶出的子句卻不能單獨成句，一定要和主要子句寫在一起：寫 Many teenagers struggle to fall asleep because they keep scrolling through social media long after midnight.，不寫成 Many teenagers struggle to fall asleep. Because they keep scrolling through social media long after midnight. 用 -ing 開頭的片語也一樣，Sitting by the window and listening to the rain. 只是半句，要補上主要子句，例如 Sitting by the window and listening to the rain, I felt completely relaxed.",
+      "ref": "美國普渡大學線上寫作實驗室（Purdue OWL）公開資源",
+      "refLinks": [
+       {
+        "label": "Sentence Fragments",
+        "url": "https://owl.purdue.edu/owl/general_writing/mechanics/sentence_fragments.html"
+       }
+      ]
+     },
+     {
+      "q": "中文拿動詞當主詞、或用一個名詞概括一件事的地方，英文是不是該寫成動名詞或名詞子句？",
+      "note": "中文可以直接說「作息規律對青少年很重要」，動詞不必變形就能當主詞；英文要把動詞改成動名詞：寫 Keeping a regular sleep schedule is essential for teenagers.，不寫成 Keep a regular sleep schedule is essential for teenagers. 另外，中文常用「他這個決定的原因」「看到的景象」這類名詞片語，英文如果硬找一個名詞來對，意思常常不準，改寫成名詞子句反而清楚：寫 Nobody could understand why he made that decision.，不寫成 Nobody could understand his decision's reason."
+     },
+     {
+      "q": "修飾一個名詞的內容很長時，你是全部放在名詞前面，還是寫成形容詞子句放在名詞後面？",
+      "note": "中文的修飾語不管多長，都放在名詞前面，例如「許多學生根本不理會的回收規定，其實是為了減少垃圾」；英文較長的修飾語要放到名詞後面，寫成形容詞子句：寫 The recycling rules that many students ignore are actually designed to reduce waste.，不寫成 Many students ignore the recycling rules are actually designed to reduce waste. 照中文的語序寫，一句裡就有兩個主要動詞，文法不通。",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Relative clauses: defining and non-defining",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/relative-clauses-defining-and-non-defining"
+       }
+      ]
+     },
+     {
+      "q": "句子一開頭就寫 According to、Based on、Regarding，是不是直接從中文「根據」「關於」翻過來的？",
+      "note": "According to 引的是別人的說法或資料，例如 according to the weather report；講自己的經驗或看法要用 In my experience、In my opinion，不寫成 According to my experience 或 According to my opinion。描述圖表時，Based on the chart, we can see that fewer young people are getting married. 也是照中文「根據這張圖，我們可以看出」翻過來的，直接寫 The chart shows that fewer young people are getting married. 就好。Regarding、Concerning 開頭的句子，如果後面又用 it 指回同一件事，例如 Regarding this problem, we should solve it soon.，這是中文「關於這個問題，我們……」的句型，英文直接寫 We should solve this problem soon.",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Word choice: according to",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/word-choice-according-to"
+       }
+      ]
+     },
+     {
+      "q": "用 -ing 或過去分詞開頭的分詞構句，後面主要子句的主詞，是不是做那個動作的人？",
+      "note": "分詞構句省略了主詞，讀的人會把主要子句的主詞當成做那個動作的人，所以兩邊的主詞要一致。寫成 Having missed the last MRT train, a taxi was the only way home.，意思就成了計程車錯過了末班車；要寫 Having missed the last MRT train, I had no choice but to take a taxi home.，或是 Because I had missed the last MRT train, a taxi was the only way home.",
+      "ref": "美國普渡大學線上寫作實驗室（Purdue OWL）公開資源",
+      "refLinks": [
+       {
+        "label": "Dangling Modifiers and How To Correct Them",
+        "url": "https://owl.purdue.edu/owl/general_writing/mechanics/dangling_modifiers_and_how_to_correct_them.html"
+       }
+      ]
+     },
+     {
+      "q": "中文句子常省略主詞，你寫的英文句子有沒有主詞？",
+      "note": "中文說「住在大城市，找工作的機會比較多」，誰有機會，讀的人自己補得出來；英文的每一個句子都要有主詞，沒有特定的人時，用 people、we、you 這類泛指的主詞：寫 People who live in a big city have more chances to find a job.，不寫成 Living in a big city has more chances to find a job.",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Subjects",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/subjects"
+       }
+      ]
+     },
+     {
+      "q": "「我覺得我做不到」「我們兩個都不知道」「他們都沒有回答」，你把 not 放在哪裡？",
+      "note": "中文「我覺得……不……」，英文通常把否定放在 think 上：寫 I don't think online classes can replace real classrooms.，不寫成 I think online classes can't replace real classrooms. 「兩個都不」用 neither：寫 Neither of the candidates answered the question directly.，不寫成 Both of the candidates didn't answer the question directly. 三個以上「都沒有」用 none：寫 None of the students answered the question.；如果寫成 All of the students didn't answer the question.，可能讀成「不是每個人都回答了」。",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Neither, neither … nor and not … either",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/neither-neither-nor-and-not-either_2"
+       },
+       {
+        "label": "No, none and none of",
+        "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/no-none-and-none-of"
+       }
+      ]
+     },
+     {
+      "q": "寫「這件事讓我……」「手機使我……」時，句子是不是繞了一大圈？主詞換成人，會不會比較清楚？",
+      "note": "中文常用「讓」「使」把原因放在主詞的位置，寫成英文就變成一連串 make 和 let。英文的 make 後面接人，再接原形動詞（make students feel anxious），不能接 can't 這類助動詞，用多了句子也會又長又繞。很多時候直接用人當主詞，句子會清楚得多：寫 Students who are glued to their phones can hardly focus on their studies.，不寫成 Smartphones make students can't focus on their studies.",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Word patterns: make sb do sth",
+        "url": "https://dictionary.cambridge.org/us/grammar/british-grammar/word-patterns-make-sb-do-sth"
+       }
+      ]
+     },
+     {
+      "q": "中文的「參加」和「花（時間、錢）」，你選的英文動詞對嗎？",
+      "note": "中文一個「參加」，英文要看參加的是什麼：成為社團或球隊的一員用 join（join the basketball team）；出席會議、典禮或講座用 attend，日常說 go to 比較多，所以寫 All parents are encouraged to attend the parent-teacher conference.，不寫成 join the parent-teacher conference；實際參與其中、和大家一起做事用 take part in 或 participate in（take part in the class discussion）。中文一個「花」，英文要看主詞：人花時間或錢用 spend（I spend two hours a day commuting.），事情花時間用 take，東西花錢用 cost（The concert ticket cost NT$1,500.）。所以「從桃園通勤到台北，每天要花我兩個小時」，寫 Commuting from Taoyuan to Taipei takes me two hours a day.，不寫成 Commuting from Taoyuan to Taipei spends me two hours a day.",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "Word choice: join or attend?",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/word-choice-join-or-attend"
+       }
+      ]
+     },
+     {
+      "q": "句子開頭的「有」，你是不是都寫成 There is、There are？",
+      "note": "中文「有越來越多年輕人選擇獨居」的「有」只是把話題帶出來，英文不必寫出來：寫 More and more young people are choosing to live alone.。如果寫成 There are more and more young people choose to live alone.，一句裡有 are 和 choose 兩個動詞，文法就錯了；改成 There are more and more young people who choose to live alone.，文法沒錯，但多繞了一圈。真的要說某個地方存在某樣東西時，才用 There is、There are，例如 There are thirty-five desks in our classroom.",
+      "ref": "劍橋線上詞典文法說明（Cambridge Grammar）",
+      "refLinks": [
+       {
+        "label": "There is, there’s and there are",
+        "url": "https://dictionary.cambridge.org/grammar/british-grammar/there-is-there-s-and-there-are"
+       }
+      ]
      }
     ]
    },
