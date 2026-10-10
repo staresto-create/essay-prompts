@@ -359,8 +359,8 @@
         "ex": "Instead of a baby, there is a cat in the car seat."
        },
        {
-        "f": "Some owners ___ their dogs ___, just like parents with small children.（飼主為狗做的事情／時間或場合）",
-        "ex": "Some owners dress their dogs in raincoats on rainy days, just like parents with small children."
+        "f": "Some owners ___ their dogs ___, just as parents do with small children.（飼主為狗做的事情／時間或場合）",
+        "ex": "Some owners dress their dogs in raincoats on rainy days, just as parents do with small children."
        },
        {
         "f": "The two pictures look almost the same, but in the second one, ___.（兩張圖唯一不同的地方）",
@@ -810,7 +810,7 @@
     "essay": {
      "words": 168,
      "p1": "A typhoon day off is not the same for everyone. In the first picture, the storm has not come yet. People suddenly have a free day, so many go to the movies. The theater is crowded, and people stand in long lines to buy tickets. The second picture shows a very different scene. Heavy rain is falling on a busy road, but some people still have to ride their scooters to work. For them, every trip in the wind and rain is dangerous.",
-     "p2": "I have had both kinds of typhoon days. Once our city called off classes, but nothing happened. My classmates joked online that the mayor was too careful. Two years later, classes were not canceled, and I walked home through water up to my knees. After that, I stopped judging the decision by the weather outside my window. A typhoon does not hit every area equally. When a wrong decision can cost lives, it is better for the government to be too careful than too brave.",
+     "p2": "I have had both kinds of typhoon days. Once, our city called off classes, but nothing happened. My classmates joked online that the mayor was too careful. Two years later, classes were not canceled, and I walked home through water up to my knees. After that, I stopped judging the decision by the weather outside my window. A typhoon does not hit every area equally. When a wrong decision can cost lives, it is better for the government to be too careful than too brave.",
      "zh": {
       "p1": "同樣是颱風假，每個人過起來並不一樣。第一張圖裡，颱風其實還沒來，大家突然多了一天假，很多人就跑去看電影，所以電影院裡擠滿了人，買票的人排成長長的隊伍。至於第二張圖，畫面就完全不同了：大雨打在車來車往的馬路上，可是還是有人得騎機車去上班。對這些人來說，每一次在風雨中出門都很危險。",
       "p2": "這兩種颱風假我都碰過。有一次我們市裡宣布停課，結果什麼事也沒發生，同學還在網路上開玩笑，說市長太小心了。兩年後那一次沒有停課，我是踩著淹到膝蓋的水走回家的。從那之後，我就不再拿自己窗外的天氣來評斷停課的決定，畢竟颱風對每個地區造成的影響並不一樣。既然判斷錯了可能賠上人命，政府太小心總比太大膽好。"
@@ -834,7 +834,7 @@
       "t": "After that 配過去式，Since then 配現在完成式",
       "b": "After that, I stopped judging the decision by the weather outside my window.",
       "m": "Since then I have stopped judging the decision by the weather outside my own window.",
-      "why": "兩句都對，差在時間的範圍。基礎版的 After that（在那之後）指的是過去某一個時間點，所以動詞用過去式 stopped，只說那時候改了。範文的 Since then（從那時候起）講的是從過去一路延續到現在的一段時間，所以配現在完成式 [I] + have stopped + [V-ing]，意思是那次之後就不再這樣，到現在都是如此。也就是說，寫了 Since then，就表示從那時候一直講到現在，所以動詞要用現在完成式；反過來說，After that 只指過去的一個時間點，就不能接 have stopped。另外，stop 後面接 V-ing 是「停止做某事」，要是接 to V，意思就變成「停下來去做另一件事」。"
+      "why": "兩句都對，差在時間的範圍。基礎版的 After that（在那之後）指的是過去某一個時間點，所以動詞用過去式 stopped，只說那時候改了。範文的 Since then（從那時候起）講的是從過去一路延續到現在的一段時間，所以配現在完成式 [I] + have stopped + [V-ing]，意思是那次之後就不再這樣，到現在都是如此。也就是說，寫了 Since then，就表示從那時候一直講到現在，所以動詞要用現在完成式；反過來說，After that 只指過去的一個時間點，一般不會配 have stopped 這種現在完成式。另外，stop 後面接 V-ing 是「停止做某事」，要是接 to V，意思就變成「停下來去做另一件事」。"
      },
      {
       "t": "用具體的人代替籠統的說法",
@@ -869,8 +869,8 @@
       "name": "第二段（自己對颱風假的看法與經驗）",
       "items": [
        {
-        "f": "In my opinion, a typhoon day off is ___（necessary／a waste of time 等看法） when ___（什麼情況）.",
-        "ex": "In my opinion, a typhoon day off is a waste of time when the sun is shining all day."
+        "f": "In my opinion, a typhoon day off is ___（necessary／unnecessary 等看法） when ___（什麼情況）.",
+        "ex": "In my opinion, a typhoon day off is unnecessary when the sun is shining all day."
        },
        {
         "f": "I still remember the typhoon that ___（造成了什麼事情）.",

@@ -803,7 +803,7 @@ function card(it){
     });
     b.appendChild(btn);
     const body=el('div','mdBody');
-    body.appendChild(el('p','bsIntro','基礎版範文的方向和細節都跟下面的範文相同，只是句子寫得比較簡單，用字大多是大考中心詞彙表一、二級的字。範文讀起來吃力的話，先從這一篇開始，讀懂了再看升級對照，同一個意思範文是怎麼寫的。'+(bs.note?bs.note:'')));
+    body.appendChild(el('p','bsIntro','基礎版範文的方向和細節都跟下面的範文相同，只是句子寫得比較簡單，用字大多是大考中心詞彙表一、二級的字。範文讀起來吃力的話，先從這一篇開始，讀懂了再看升級對照，看看同一個意思範文是怎麼寫的。'+(bs.note?bs.note:'')));
     body.appendChild(el('div','mdH','基礎版範文'));
     const es=el('div','mdEssay'), zh=bs.essay.zh||{};
     es.appendChild(el('p',null,bs.essay.p1));
