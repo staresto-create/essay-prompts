@@ -24100,6 +24100,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 134,
+     "p1": "Just as I left the MRT station after school, it started to rain hard. The rain on the metal roof above the exit was so loud that I could hardly hear the traffic. I ran to the umbrella stand, but it was empty. Then a delivery rider in a yellow raincoat fell when his scooter slid on the wet road. Instead of looking at his knee, he opened the box on the back to check the food.",
+     "p2": "To me, rain used to mean wet shoes and crowded buses. Now I know a rainy day is the busiest time for some workers. On rainy nights, I walk to the noodle shop instead of ordering dinner online. Whenever I hear rain on a roof, I remember that rider and appreciate people who work in the rain.",
+     "zh": {
+      "p1": "那天放學，我剛走出捷運站，雨就嘩啦嘩啦地下了起來。雨打在出口上方的鐵皮屋頂上，聲音大到我幾乎聽不到外面的車聲。我跑到傘架那裡，可是上面一把傘都沒有。就在這時候，有個穿黃色雨衣的外送員，機車在濕滑的馬路上打滑，整個人摔倒在地上。他沒有先看自己的膝蓋，反而先打開後座的箱子，看看餐點有沒有怎樣。",
+      "p2": "以前對我來說，下雨就代表鞋子會濕、公車會很擠。現在我才知道，對有些工作的人來說，下雨天反而是最忙的時候。遇到下雨的晚上，我會自己走去麵店買晚餐，不上網叫外送。每次只要聽到雨打在屋頂上，我就會想起那個外送員，也很感謝那些在雨中工作的人。"
+     }
+    },
+    "levels": "用字：沒有三級以上的字。rider 詞彙表沒有收，它是一級的 ride 加 -er，delivery rider 是外送員，網站範文也這樣寫。MRT（捷運）是專有名詞，網站範文也這樣寫。",
+    "upgrade": [
+     {
+      "t": "地點片語放句首，換用更生動的動詞 drum",
+      "b": "The rain on the metal roof above the exit was so loud that I could hardly hear the traffic.",
+      "m": "Above the exit, rain drummed on the metal roof so loudly that I could hardly hear the traffic.",
+      "why": "基礎版用 [The rain on the metal roof above the exit] 當主詞，主詞很長，讀到 was 才知道要說什麼。範文把地點 [Above the exit] 移到句首，主詞只剩 rain；把副詞性的片語移到句首，是為了先把焦點放在它上面。動詞也從 was 換成 drummed，寫出雨像打鼓一樣打在屋頂上的聲音，Cambridge 的例句 The rain drummed loudly on the roof 就是這個用法。動詞換成 drummed 以後，修飾它的要用副詞，所以寫 so loudly，不再用形容詞 so loud，句型是 [so + 形容詞／副詞] + that + [結果]。"
+     },
+     {
+      "t": "用分詞構句和 only to 寫出「沒想到卻……」",
+      "b": "I ran to the umbrella stand, but it was empty.",
+      "m": "Hoping to rent one of the raingo umbrellas, I hurried to the stand by the door, only to find it empty.",
+      "why": "範文把「想租傘」這個原因寫成分詞構句 [Hoping to rent …], [I] hurried …，放在句首；分詞 Hoping 的動作者必須是主要子句的主詞，這裡想租傘的人就是 I。句尾的 [only to + 原形動詞] 表示緊接著發生、出乎意料又令人失望的結果；find + [受詞] + [形容詞] 意思是「發現……是……」，形容詞前面一定要有受詞 it。這樣「本來想租傘」和「傘架是空的」放在同一句，期待落空的感覺比用 but 連接更明顯。"
+     },
+     {
+      "t": "用過去完成式和冒號，把以前的感覺講具體",
+      "b": "To me, rain used to mean wet shoes and crowded buses.",
+      "m": "Until that afternoon, rain had been nothing but a nuisance to me: soaked shoes, crowded buses, and umbrellas that were always gone when I needed one.",
+      "why": "基礎版的 [used to + 原形動詞] 說的是過去常常如此，通常帶有「現在已經不是這樣」的意思，可是沒有說從什麼時候開始改變。範文用 Until that afternoon 把時間點講清楚，到那天下午為止一直如此，所以用過去完成式 had been，也就是「到過去某個時間點為止」的時態。[nothing but] 等於 only，意思是「只不過是」；冒號後面再列出 (soaked shoes), (crowded buses), and (umbrellas …) 三項，說明是哪些麻煩。"
+     },
+     {
+      "t": "用 picture 寫出腦中的畫面，再加上對比",
+      "b": "Whenever I hear rain on a roof, I remember that rider and appreciate people who work in the rain.",
+      "m": "Still, whenever rain drums on a roof now, I picture the rider checking his soup before his knee, and I feel grateful to the people who keep working while the rest of us wait for the rain to stop.",
+      "why": "基礎版的 I remember that rider 只說想起那個人；範文用 [picture] + [受詞] + [V-ing]，讓讀者看到腦中浮現的是他先看湯、才看膝蓋的那一幕。後半的 [grateful to] + [人] 是「感謝某人」，[keep] + [V-ing] 是「持續做某事」，[while] + [子句] 是「在……的同時」，拿「我們在等雨停」和「他們還在工作」對比，比只寫 people who work in the rain 更有畫面。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（敘述某一個下雨天的經歷或看到的景象）",
+      "items": [
+       {
+        "f": "I still remember the rainy ___（早上／下午等時間） when ___（那天發生的事情）.",
+        "ex": "I still remember the rainy morning when our class trip was canceled."
+       },
+       {
+        "f": "The rain was so ___（形容詞） that I could not ___（做不到的事情）.",
+        "ex": "The rain was so heavy that I could not see the bus stop across the street."
+       },
+       {
+        "f": "When I ___（做了什麼）, I saw ___（什麼人） ___（V-ing，正在做什麼）.",
+        "ex": "When I got off the bus, I saw a little boy dancing in the rain with his father."
+       },
+       {
+        "f": "Instead of ___（V-ing，一般人會做的事情）, ___（什麼人） stopped to ___（停下來做的事情）.",
+        "ex": "Instead of running to the bus stop, my classmate stopped to help an older man pick up his oranges."
+       }
+      ]
+     },
+     {
+      "name": "第二段（根據這次經歷說出對雨的感覺）",
+      "items": [
+       {
+        "f": "Before that day, rain always made me feel ___（形容詞，以前的感覺）.",
+        "ex": "Before that day, rain always made me feel lazy."
+       },
+       {
+        "f": "After that day, I began to see rain as ___（名詞，雨對你的新意義）.",
+        "ex": "After that day, I began to see rain as a chance to slow down."
+       },
+       {
+        "f": "Now, whenever it rains, I ___（現在下雨時的做法）.",
+        "ex": "Now, whenever it rains, I keep an extra umbrella in my school bag for friends who forget theirs."
+       },
+       {
+        "f": "Rain still ___（雨帶來的麻煩）, but it also ___（雨帶來的好處）.",
+        "ex": "Rain still makes my shoes wet, but it also gives farmers the water they need."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -24503,6 +24585,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "Anyone who has taken bitter medicine would love to believe that laughter is better than medicine. There is some truth in the saying. A good laugh can make sick people feel better. Still, I cannot agree with the saying. Laughter cannot bring down a high fever; only medicine can. What laughter can do is make medicine easier to take.",
+     "p2": "My little brother taught me this when he caught the flu. He took one sip of his medicine and pushed the cup away. So I tied his blanket around my neck and talked like his favorite cartoon hero. When I tripped over the blanket, he laughed so hard that he forgot he was sick. Holding his nose, he drank the whole cup. The medicine brought his fever down, but the laughter got him to take it.",
+     "zh": {
+      "p1": "吃過苦藥的人，大概都很希望「笑比藥好」是真的。這句話確實有幾分道理，好好笑一場，可以讓生病的人覺得舒服一點。不過，我還是不同意這種說法。笑沒辦法讓高燒退下來，只有藥做得到；至於笑能做到的，是讓藥比較容易吃下去。",
+      "p2": "這一點，是我弟弟得流感的時候教會我的。他只喝了一口藥，就把杯子推開，於是我把他的毯子綁在脖子上，學他最喜歡的卡通主角說話。等我被毯子絆了一跤，他笑得連自己生病都忘了，然後捏著鼻子，把一整杯藥喝光。讓他退燒的是藥，可是讓他肯把藥喝下去的，是那一陣笑。"
+     }
+    },
+    "levels": "用字：三級有 bitter（苦的）、laughter（笑）、sip（一小口）三個，其中 laughter 是題目本身的字；沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "把籠統的動作寫成看得到的畫面",
+      "b": "Anyone who has taken bitter medicine would love to believe that laughter is better than medicine.",
+      "m": "Anyone who has swallowed a spoonful of bitter medicine would love to believe that laughter is better than medicine.",
+      "why": "兩句的骨架一樣：[Anyone] + who has + [過去分詞] 是關係子句，修飾 anyone，整串當主詞；現在完成式 has + 過去分詞說的是「有過這種經驗」，什麼時候吃的並不重要。差別在範文把 taken（吃）換成 swallowed（吞下去），再加上 a spoonful of（一匙），讀者馬上想得到把一匙苦藥吞下去的畫面，第一句就抓住了讀者。"
+     },
+     {
+      "t": "用 however 讓步子句開頭，先把話說滿再轉",
+      "b": "Laughter cannot bring down a high fever; only medicine can.",
+      "m": "However hard we laugh, laughter cannot kill a virus or bring down a high fever; only the right medicine can do that.",
+      "why": "範文在句首加了 [However + 形容詞或副詞] + [主詞 + 動詞]，意思是「不管多……」，這裡的 however 不是「然而」，所以 However hard 中間不加逗號。先說「不管我們笑得多厲害」，再說笑還是做不到，立場就比基礎版更堅定。兩句都用分號連接兩個意思緊密相關的完整句子；基礎版的 only medicine can 省略了前面說過的 bring down a high fever，範文則用 do that 代替。"
+     },
+     {
+      "t": "By the time 配過去進行式，寫出「那一刻正在笑」",
+      "b": "When I tripped over the blanket, he laughed so hard that he forgot he was sick.",
+      "m": "By the time I tripped over my own cape, he was laughing so hard that he forgot he was sick.",
+      "why": "基礎版用 when 加過去式 laughed，只說他笑了。範文改成 [By the time] + [過去式子句], [主詞] + was + [V-ing]：by the time 意思是「等到……的時候」，過去進行式用來說過去某個時間點正在進行的動作，所以 was laughing 表示我被披風絆到的那一刻，他已經在大笑，可見前面的表演早就逗得他很開心。兩句後半都是 so + [副詞] + that + [結果]，意思是「……到……的程度」。"
+     },
+     {
+      "t": "用分裂句強調是誰的功勞，再用 without 寫出另一種結果",
+      "b": "The medicine brought his fever down, but the laughter got him to take it.",
+      "m": "It was the medicine, not my show, that brought his fever down, but without the laughter, the medicine might have stayed in the cup.",
+      "why": "範文前半用分裂句 [It was] + (要強調的部分) + [that] + [其餘的句子]，把 the medicine 放在中間，再插入 not my show，清楚說出退燒是藥的功勞。後半的 [without + 名詞], [主詞] + might have + [過去分詞] 是沒有 if 的條件句：without the laughter 相當於 if it hadn't been for the laughter（要是沒有那一陣笑），Cambridge 詞典就是用 without 來解釋 if it wasn't/weren't for 這個片語。藥其實喝下去了，「藥留在杯子裡」是和過去事實相反的想像，所以主要子句照第三條件句的寫法用 might have + 過去分詞；用 might 而不用 would，是因為作者只說「可能」會這樣，口氣留了餘地。基礎版的 get + [人] + to + [原形動詞] 是「說服某人去做某事」，意思一樣，只是範文多了「要是沒有笑會怎樣」的推想。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（表明同不同意「笑比藥好」）",
+      "items": [
+       {
+        "f": "I agree that laughter is better than medicine because ___（同意的理由）.",
+        "ex": "I agree that laughter is better than medicine because people who laugh a lot worry less and sleep better."
+       },
+       {
+        "f": "There is some truth in the saying: ___（笑的好處）. Still, I cannot agree that laughter is better than medicine because ___（不同意的理由）.",
+        "ex": "There is some truth in the saying: a funny video can cheer me up after a bad day. Still, I cannot agree that laughter is better than medicine because a funny video cannot stop a bad cough."
+       },
+       {
+        "f": "Laughter can ___（笑做得到的事情）, but it cannot ___（只有藥或醫生做得到的事情）.",
+        "ex": "Laughter can help a patient relax, but it cannot heal a broken bone."
+       },
+       {
+        "f": "What laughter can do is ___（原形動詞，寫出笑真正的作用）.",
+        "ex": "What laughter can do is help a patient forget the pain for a while."
+       }
+      ]
+     },
+     {
+      "name": "第二段（用自己或親友的經驗舉例說明）",
+      "items": [
+       {
+        "f": "___（誰） taught me this when ___（生了什麼病或發生了什麼事情）.",
+        "ex": "My grandfather taught me this when he broke his leg and stayed in the hospital for two weeks."
+       },
+       {
+        "f": "___（誰） refused to ___（不肯做的事情） until ___（後來發生的事情）.",
+        "ex": "My grandmother refused to see a doctor until her cough kept her awake for three nights."
+       },
+       {
+        "f": "To make ___（誰） laugh, I ___（做了什麼好笑的事情）.",
+        "ex": "To make my sister laugh, I danced like a robot in the living room."
+       },
+       {
+        "f": "It was ___（藥或醫生） that ___（治好了什麼）, but laughter ___（笑幫上的忙）.",
+        "ex": "It was the doctor's medicine that cured her cough, but laughter made the long week much easier."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -24891,6 +25055,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "The two things I would like to put in the time capsule are a scooter and a cup of bubble tea. Many people in Taiwan ride scooters to work and school. When the light turns red, dozens of scooters wait in front of the cars. When it rains, riders put on raincoats and keep going. A scooter is the cheapest and fastest way to get around, so it shows how we live.",
+     "p2": "The cup of bubble tea would show how we take a break. Bubble tea was invented in Taiwan, and there is a bubble tea shop on almost every corner. Students buy a cup after an exam. Office workers order drinks for everyone in the afternoon. Together, the two things would show that people here work hard but always make time for something sweet.",
+     "zh": {
+      "p1": "我想放進時間膠囊的兩樣東西，是一輛機車和一杯珍珠奶茶。在台灣，很多人騎機車上班、上學。紅燈一亮，幾十輛機車就停在汽車前面等著。要是下雨，騎士就穿上雨衣，照樣上路。不管要去哪裡，騎機車都最便宜也最快，所以從機車就看得出我們是怎麼過生活的。",
+      "p2": "至於那杯珍珠奶茶，說的是我們怎麼休息一下。珍珠奶茶是台灣發明的，街上幾乎每個轉角都有一家飲料店。學生考完試，會買一杯來喝。上班族到了下午，也會幫大家訂飲料。把這兩樣東西放在一起，就能讓人知道，這裡的人工作很認真，但總會抽出時間來點甜的。"
+     }
+    },
+    "levels": "用字：三級只有 bubble（泡泡）、invent（發明）兩個，沒有四級以上的字。capsule（膠囊）是六級字，不過 time capsule 是題目給的詞，照樣使用。",
+    "upgrade": [
+     {
+      "t": "換更精確的動詞，再用 with 補上騎士的樣子",
+      "b": "When the light turns red, dozens of scooters wait in front of the cars.",
+      "m": "When the light turns red, dozens of scooters fill the space in front of the cars, and their riders wait with one foot on the ground.",
+      "why": "基礎版的 wait 只說機車停在那裡等。範文改用 fill the space，意思是汽車前面的空地全被機車占滿，畫面一下子就出來了；Merriam-Webster 對 fill 的解釋是 to occupy the whole of（占滿）。後半句用 and 再接一個子句，寫成 [their riders wait] + with + [one foot] + (on the ground)，with 後面先接名詞，再接說明位置的介系詞片語，交代騎士等紅燈時是什麼樣子，和 Oxford 的例句 Don't stand with your hands in your pockets 是同一個結構。"
+     },
+     {
+      "t": "用分號連接兩個意思緊密相連的句子",
+      "b": "When it rains, riders put on raincoats and keep going.",
+      "m": "When it rains, nobody stays home; the riders simply pull on their raincoats and keep going.",
+      "why": "範文先寫 (nobody stays home)，再接上騎士實際怎麼做 (the riders simply pull on their raincoats and keep going)。前後兩句都是完整的句子，意思又緊緊相連，所以中間用分號，不用句號，也不加連接詞；UNC 寫作中心說明，分號可以連接兩個獨立子句，表示兩句的關係比用句號隔開更緊密。另外，Cambridge 對 pull on 的解釋是 to put on clothes quickly，比 put on 多了「很快地」穿上的意思。"
+     },
+     {
+      "t": "用 that is why 帶出結果，再拿機車和照片比較",
+      "b": "A scooter is the cheapest and fastest way to get around, so it shows how we live.",
+      "m": "It is the cheapest and quickest way to get almost anywhere, and that is exactly why it tells more about our daily life than any photograph could.",
+      "why": "基礎版用 so 帶出結果。範文寫成 [原因], and that is (exactly) why + [結果]，that 指前面說的「最便宜、最快」，why 帶出因為這個原因而有的結果，exactly 加強語氣，意思是「正是因為這樣」；Oxford 對 why 的說明是 used to give or talk about a reason，例句是 That's why I left so early。後半句寫成 [比較級] + than any + [單數名詞] + could，拿機車和「任何一張照片」比，句尾的 could 後面省略了前面已經出現的 tell；Cambridge 文法說明，than 後面的子句通常是省略過的子句，例如 The house was bigger than we had imagined。"
+     },
+     {
+      "t": "加上 take turns，把辦公室的習慣寫得更具體",
+      "b": "Office workers order drinks for everyone in the afternoon.",
+      "m": "Office workers take turns ordering drinks for everyone in the afternoon.",
+      "why": "基礎版只說上班族幫大家訂飲料。範文多了 take turns（輪流），寫成 [主詞] + take turns + [V-ing]，意思是今天你訂、明天我訂，大家一個接一個做同一件事，辦公室裡的習慣就更具體了；Cambridge 的解釋是 When a number of people take turns, they do the same thing one after the other，例句有 We take turns cooking。Cambridge 的例句多半接 V-ing，也有接 to V 的（My parents would take turns to sit by my bed）。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（照規定的句子開頭，提出兩件物品，並說明第一件為什麼能代表我們的生活）",
+      "items": [
+       {
+        "f": "The two things I would like to put in the time capsule are ___（第一件物品） and ___（第二件物品）.",
+        "ex": "The two things I would like to put in the time capsule are a rice cooker and a box of pineapple cakes."
+       },
+       {
+        "f": "Almost every ___（家庭、學校等地方） in Taiwan has ___（物品）.",
+        "ex": "Almost every home in Taiwan has a rice cooker in the kitchen."
+       },
+       {
+        "f": "When ___（什麼情況）, ___（誰怎麼使用這件物品）.",
+        "ex": "When families get home late, they can still find warm rice in the rice cooker."
+       },
+       {
+        "f": "The ___（物品） shows how ___（我們生活的哪一面） because ___（原因）.",
+        "ex": "The rice cooker shows how important rice is in our lives because most families cook rice in it every day."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說明第二件物品代表我們什麼樣的生活，最後把兩件物品放在一起收尾）",
+      "items": [
+       {
+        "f": "The ___（第二件物品） would show how we ___（生活的另一面）.",
+        "ex": "The pineapple cakes would show how we welcome guests."
+       },
+       {
+        "f": "Because nothing in the capsule will spoil, ___（物品） can ___（放多久、保持什麼樣子）.",
+        "ex": "Because nothing in the capsule will spoil, the pineapple cakes can stay fresh for a thousand years."
+       },
+       {
+        "f": "Many ___（哪些人） buy ___（物品） before ___（什麼時候）.",
+        "ex": "Many visitors buy a few boxes of pineapple cakes before they leave Taiwan."
+       },
+       {
+        "f": "Together, the two things would show that people here ___（我們的生活方式）.",
+        "ex": "Together, the two things would show that people here love good food and enjoy sharing it with others."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -25267,6 +25513,91 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0403",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0195"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 130,
+     "date": "February 20, 1995",
+     "opening": "Dear George:",
+     "p1": "Welcome to Taiwan! I was happy to hear that your family is going to live here for two years. You asked what you should do, so here are two ideas. Learn some Chinese before you come. \"Xiexie\" means \"thank you.\" If you say it, people will smile and treat you like a friend. Then try the food at a night market. Stinky tofu smells bad, but it tastes great.",
+     "p2": "There are two things you should not do. Do not stick your chopsticks straight up in your rice. That is how we offer food to the dead. Do not wear your shoes in other people's homes, either. We always take them off at the door. Follow these tips, and you will soon feel at home. I can't wait to meet you!",
+     "closing": "Your friend,\nChih-ping",
+     "zh": {
+      "p1": "歡迎你來台灣！聽說你們全家要來這裡住兩年，我很高興。你問我該做些什麼，我有兩個建議。來之前先學一點中文吧。「謝謝」念作 xiexie，就是 thank you 的意思。只要你說一聲「謝謝」，大家就會對你笑，把你當朋友。接下來就去夜市嚐嚐那裡的小吃。臭豆腐聞起來很臭，吃起來卻很好吃。",
+      "p2": "至於不該做的事情，也有兩件。不要把筷子直直插在飯上，這是我們祭拜往生者的擺法。在別人家裡也不要穿著鞋子，我們都會在門口把鞋子脫掉。照著這幾點做，你很快就會覺得像在自己家一樣。真希望趕快見到你！"
+     }
+    },
+    "levels": "用字：全篇都是一、二級的字，沒有三級以上的字。stinky（臭的）詞彙表沒有收，它的字根 stink（發臭）是五級；臭豆腐的英文通行說法就是 stinky tofu，網站範文也這樣寫，所以照樣使用。xiexie 是「謝謝」的拼音。",
+    "upgrade": [
+     {
+      "t": "用未來進行式寫「未來會持續一段時間的事情」，並省略 that",
+      "b": "I was happy to hear that your family is going to live here for two years.",
+      "m": "I was so happy to hear your family will be living here for two years.",
+      "why": "兩句都對。基礎版用 [be going to] + [原形動詞]，說的是對方已經打算好的事情。範文用未來進行式 [will be] + [V-ing]，Cambridge 文法頁說這個時態用來講未來某個時間正在進行中的暫時性動作或事情；George 一家只住兩年，正好是這種暫時的情況。另外，hear 後面接 that 子句時，that 可以省略（hear (that) …）；so 加在 happy 前面，是「非常」的意思，也就是「好高興」。"
+     },
+     {
+      "t": "用 which 關係子句把兩句併成一句",
+      "b": "\"Xiexie\" means \"thank you.\" If you say it, people will smile and treat you like a friend.",
+      "m": "Even a simple \"xiexie,\" which means \"thank you,\" will make people smile and treat you like a friend.",
+      "why": "基礎版先用一句解釋 xiexie 的意思，再用 If 子句說結果。範文把解釋放進 [, which + 動詞 …,]，這是補充說明的關係子句，前後要加逗號，拿掉也不影響句子的主要意思；這樣一句就同時交代了意思和效果。後半句用 [make] + (people) + [原形動詞 smile / treat]，表示「讓人做……」，make 後面的動詞不加 to。句首的 Even 表示「就連……也」，強調只說一句簡單的謝謝就有效果。"
+     },
+     {
+      "t": "換更精確的動詞，並用 because 合併原因",
+      "b": "Do not stick your chopsticks straight up in your rice. That is how we offer food to the dead.",
+      "m": "Never leave your chopsticks standing straight up in a bowl of rice, because that is how we offer food to the dead.",
+      "why": "基礎版的 stick 寫的是「把筷子插進去」這個動作。範文改用 [leave] + (your chopsticks) + [V-ing]，Cambridge 字典說明這個用法是：人走開的時候，那樣東西仍然保持那個狀態，所以 leave … standing 講的是筷子插好之後一直立在飯上的樣子。句首用 Never 代替 Do not，Never 的意思是「任何時候都不」，提醒的語氣更強；後半句再用 because 把原因接上來，兩句就併成了一句。"
+     },
+     {
+      "t": "用 with + 受詞 + on 寫出附帶狀況，再用分號接原因",
+      "b": "Do not wear your shoes in other people's homes, either. We always take them off at the door.",
+      "m": "Do not walk into anyone's home with your shoes on, either; we always take them off at the door.",
+      "why": "範文用 [with] + (your shoes) + [on] 說明走進別人家時的附帶狀況，也就是「穿著鞋子」；on 在這裡是副詞，意思是穿戴在身上。walk into anyone's home 說的是「走進任何人家裡」這個動作，比基礎版的 wear your shoes in … 更清楚地寫出是在進門的時候。兩句的句尾都有 either，Cambridge 說明 either 用在否定句裡，代替 also 或 too，意思是「也（不）」。兩個意思緊密相關的完整句子，中間可以用分號連接，分號後面小寫，接著寫原因。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（歡迎對方，並建議該做的事情）",
+      "items": [
+       {
+        "f": "Welcome to ___（地方）! I was so happy to hear that ___（對方要來做什麼）.",
+        "ex": "Welcome to Taipei! I was so happy to hear that you will study at our school this fall."
+       },
+       {
+        "f": "Before you come, you should ___（事先準備的事情） because ___（原因）.",
+        "ex": "Before you come, you should buy an umbrella because it rains a lot in Taipei."
+       },
+       {
+        "f": "Don't miss ___（地方或活動）. It is the best place to ___（可以做什麼）.",
+        "ex": "Don't miss Jiufen. It is the best place to drink tea and enjoy the view of the sea."
+       },
+       {
+        "f": "If you ___（建議的做法）, ___（會有什麼好結果）.",
+        "ex": "If you hand things to older people with both hands, they will think you are polite."
+       }
+      ]
+     },
+     {
+      "name": "第二段（提醒不該做的事情，並期待見面）",
+      "items": [
+       {
+        "f": "Never ___（不該做的事情） because ___（台灣人怎麼看這件事情）.",
+        "ex": "Never give someone a clock as a gift because it makes people think of death."
+       },
+       {
+        "f": "Do not ___（不該做的事情）, or you will ___（會有什麼後果）.",
+        "ex": "Do not throw trash on the street, or you will have to pay a fine."
+       },
+       {
+        "f": "In Taiwan, it is rude to ___（失禮的舉動）.",
+        "ex": "In Taiwan, it is rude to write someone's name in red ink."
+       },
+       {
+        "f": "Keep these ___（建議） in mind, and you will ___（好結果）.",
+        "ex": "Keep these rules in mind, and you will get along well with your new classmates."
        }
       ]
      }
@@ -25672,6 +26003,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0135"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 170,
+     "p1": "Things are not as difficult as they appear. I have a personal experience to prove this. Our P.E. teacher said the girls in our class had to run 800 meters. That was only two laps, but it sounded like a long way. On my first try, I started too fast, and soon my legs felt tired. I walked the last two hundred meters, and my time was five minutes and forty seconds. That night, I told my mother I was not born to run.",
+     "p2": "My friend Ting changed my mind. She suggested we meet at the track every morning and add one lap each week. At first, I could not run one lap without stopping. By the third week, I could jog two laps, and by the sixth, I was running four. On the day of the test, my time was four minutes and fifty-two seconds. Now I know a task often looks hard because we see it all at once. Step by step, those two laps became easy.",
+     "zh": {
+      "p1": "事情往往沒有看起來那麼難，我有一個親身的經驗可以證明。體育老師說，班上女生都要跑 800 公尺。其實那只有兩圈，可是在我聽起來，卻是好長的一段路。第一次試跑，我一開始就跑得太快，沒多久兩條腿就累了。最後兩百公尺我是用走的，成績是五分四十秒。那天晚上，我跟媽媽說，我天生就不是跑步的料。",
+      "p2": "後來，我的朋友小婷讓我改變了想法。她提議我們每天早上在操場碰面，每個星期多跑一圈就好。剛開始的時候，我跑一圈都得停下來；到了第三個星期，我可以慢跑兩圈，到了第六個星期，我已經跑得動四圈了。測驗那天，我的成績是四分五十二秒。現在我知道，一件事看起來很難，常常是因為我們想一口氣把它全部完成。一步一步來，那兩圈也就變得輕鬆了。"
+     }
+    },
+    "levels": "用字：全篇沒有三級以上的字（題目規定的頭兩句也在內）。",
+    "upgrade": [
+     {
+      "t": "用更強烈的比喻寫出「聽起來好遠」",
+      "b": "That was only two laps, but it sounded like a long way.",
+      "m": "Eight hundred meters is only two laps of our school track, but to someone like me, it sounded like a marathon.",
+      "why": "兩句都用 [主詞] + sounded like + [名詞]，意思是「聽起來像……」。基礎版的 a long way 只說「距離很遠」；範文換成 a marathon，Cambridge 詞典說 marathon 除了馬拉松賽跑，也可以指「花很久時間、讓人很累的事情」，所以才八百公尺卻說成馬拉松，讀者馬上感覺到作者有多怕。範文又加了 to someone like me（對我這種人來說），like 在這裡是「像……一樣的」，先把作者自己不擅長跑步的形象點出來。"
+     },
+     {
+      "t": "加入具體細節，寫出身體的感覺",
+      "b": "On my first try, I started too fast, and soon my legs felt tired.",
+      "m": "On my first practice run, I set off far too fast, and by the middle of the second lap, my legs felt like stone and my chest was burning.",
+      "why": "範文在三個地方寫得更具體。第一，far 放在 too 前面，(far) too fast 是「快得太多了」，Cambridge 詞典的例句是 He loses his temper far too often。第二，基礎版的 soon（沒多久）換成 by the middle of the second lap（到了第二圈一半），讀者就知道作者跑到哪裡開始吃不消。第三，基礎版只說腿累了（tired），範文用 [my legs] + felt like + [名詞]，拿石頭來比喻腿有多沉重，後面再加一個過去進行式 my chest was burning，Cambridge 文法頁說明，過去進行式用來寫過去某個時間正在進行的動作或狀態，也就是跑到那裡時胸口正像火在燒。"
+     },
+     {
+      "t": "用 It was … who 分裂句強調是誰",
+      "b": "My friend Ting changed my mind.",
+      "m": "It was my friend Ting who changed my mind.",
+      "why": "兩句意思一樣，差在重點擺在哪裡。範文用分裂句 It was + [要強調的人] + who + [做了什麼]，把一句話拆成兩個部分，Cambridge 文法頁說明，分裂句用來把焦點放在新的資訊上；在這裡新的資訊就是「小婷」。第一段結尾作者才說自己天生不會跑步，第二段一開頭就用這個句型點出改變的關鍵人物，兩段之間的轉折也就更清楚。"
+     },
+     {
+      "t": "用過去分詞開頭的分詞構句寫出道理",
+      "b": "Step by step, those two laps became easy.",
+      "m": "Broken into small steps, even two laps that once seemed endless became something I could finish, one morning at a time.",
+      "why": "範文用 [過去分詞片語], + [主詞] + [動詞] 開頭。British Council 的文法頁說明，分詞構句的主詞要和主要子句相同，而且過去分詞通常帶有被動的意思；這句的主詞 two laps 是「被拆成小步驟」的對象，所以用 broken，不用 breaking。後面再用 that once seemed endless 這個關係子句，提醒讀者兩圈原本看起來沒有盡頭，最後的 one morning at a time（一個早上接著一個早上）又呼應了每天早上的練習。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（開始的時候覺得很難）",
+      "items": [
+       {
+        "f": "When ___（誰） told me that I had to ___（得做的難事）, I ___（當時的反應）.",
+        "ex": "When my piano teacher told me that I had to play at the school concert, I almost cried."
+       },
+       {
+        "f": "To someone like me, ___（那件事情） sounded like ___（很難做到的事情）.",
+        "ex": "To someone like me, giving a speech in front of the whole school sounded like an impossible task."
+       },
+       {
+        "f": "The first time I tried to ___（做那件事情）, I ___（出了什麼狀況）.",
+        "ex": "The first time I tried to swim, I swallowed a lot of water and had to stop."
+       },
+       {
+        "f": "At that time, I was sure that I could never ___（以為自己做不到的事情）.",
+        "ex": "At that time, I was sure that I could never cook a meal for my whole family."
+       }
+      ]
+     },
+     {
+      "name": "第二段（經過一番努力後不再覺得困難）",
+      "items": [
+       {
+        "f": "It was ___（誰） who ___（幫了我什麼忙）.",
+        "ex": "It was my grandmother who taught me to cook one simple dish each week."
+       },
+       {
+        "f": "Every day, I ___（練習什麼） for ___（多久）, even when ___（再忙也照樣練習的情況）.",
+        "ex": "Every day, I practiced the guitar for twenty minutes, even when I had a lot of homework."
+       },
+       {
+        "f": "By ___（某個時間點）, I could ___（進步到什麼程度）.",
+        "ex": "By the second month, I could swim one hundred meters without stopping."
+       },
+       {
+        "f": "Now I know that ___（那件事情） looks hard only because ___（原因）.",
+        "ex": "Now I know that cooking looks hard only because there are so many steps."
        }
       ]
      }
