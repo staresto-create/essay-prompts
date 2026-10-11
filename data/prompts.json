@@ -10096,6 +10096,90 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 178,
+     "opening": "Dear Ken,",
+     "p1": "I am worried about you. Since you started playing that online game last month, you have changed a lot. You fall asleep in first period, and you have handed in only half of our math homework. Yesterday you told me your parents yelled at you again because your light was still on at three in the morning. I know the game is fun, and it helps you relax after a long day of tests. But when it decides what time you go to bed, you are no longer in control.",
+     "p2": "Here are a few things you can try. Finish your homework before you play, and stop at eleven, even if you are about to win. Leave your phone in the living room at night. Talk to your parents, too. They are angry because they worry about you. If you have fallen behind in math, come to the library with me after school, and I will go over the lessons you missed. I miss the Ken who beat me at basketball every Friday. I believe he is still there.",
+     "closing": "Your friend,\nJack",
+     "zh": {
+      "p1": "我很擔心你。自從上個月你開始玩那款線上遊戲，你就變了很多。第一節課你會睡著，我們的數學作業你也只交了一半。昨天你還跟我說，你爸媽又罵你了，因為凌晨三點你房間的燈還亮著。我知道這款遊戲很好玩，考了一整天的試之後，也能讓你放鬆一下。可是要是連你幾點上床都由遊戲來決定，你就不再是自己作主了。",
+      "p2": "有幾件事情你可以試試看。先把作業寫完再玩，而且十一點一到就停，就算眼看就要贏了也一樣。晚上把手機留在客廳。也跟你爸媽好好談一談。他們會生氣，是因為擔心你。如果你數學跟不上了，放學後跟我一起去圖書館，我把你錯過的那幾課再講一遍給你聽。我很想念那個每個星期五打籃球都贏我的 Ken。我相信他還在。"
+     }
+    },
+    "levels": "用字：三級只有 relax（放鬆）、yell（吼叫）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "換成更貼切的說法：be hooked on 與 not seem like yourself",
+      "b": "Since you started playing that online game last month, you have changed a lot.",
+      "m": "Since you got hooked on that online game last month, you have not seemed like yourself.",
+      "why": "兩句的骨架一樣，都是 [Since + 過去式子句], + [現在完成式的主要子句]，因為 since 指出從過去某個時間點一路延續到現在的變化。差別在用字：started playing 只說開始玩，got hooked on 是「迷上了、停不下來」，正好就是題目說的「迷上電玩」。至於 have changed a lot 只說變了很多，範文的 have not seemed like yourself 用 seem like + [名詞]（看起來像…），意思是「你看起來不像你自己了」，讓朋友聽出你注意到他整個人不對勁。hook 是四級字，所以基礎版改用 started playing。"
+     },
+     {
+      "t": "用 however 帶出「不管多…」",
+      "b": "Finish your homework before you play, and stop at eleven, even if you are about to win.",
+      "m": "First, finish your homework before you log in, and stop at eleven, however close you are to winning.",
+      "why": "基礎版用 even if（就算）加上 be about to（就要…）。範文改用 [however] + [形容詞] + [主詞] + [動詞]，這裡的 however 不是「然而」，而是「不管多麼…」，however close you are to winning 就是「不管你離贏有多近」；close to + [V-ing] 表示「眼看就要…」。也就是說，不管差多少就贏了，十一點一到都要停。另外，範文把 play 換成 log in（登入），更貼近線上遊戲。"
+     },
+     {
+      "t": "用分號並排兩個完整的句子，把主客對調",
+      "b": "But when it decides what time you go to bed, you are no longer in control.",
+      "m": "When it starts deciding when you go to bed, it is no longer something you control; it is something that controls you.",
+      "why": "基礎版只說 you are no longer in control（你不再作主）。範文寫成 [it is no longer something you control]; [it is something that controls you]，分號前後各是一個完整的句子，兩句結構相同，只把 you control 和 controls you 對調，讓人一眼看出主控權換了手。something you control 省略了關係代名詞 that，因為它在子句裡是 control 的受詞；something that controls you 的 that 是子句的主詞，就不能省略。starts deciding 則是 start + [V-ing]，表示「開始…」。"
+     },
+     {
+      "t": "用 and 再接一個動作，加入具體細節",
+      "b": "I miss the Ken who beat me at basketball every Friday.",
+      "m": "I miss the Ken who beat me at basketball every Friday and still got the highest score on our physics tests.",
+      "why": "這裡在人名前加 the，寫成 the Ken who…，由後面的 who 子句說明是哪一個 Ken，也就是「從前那個 Ken」。範文在關係子句裡用 and 再接一個動詞片語：[who] + (beat me at basketball every Friday) and (still got the highest score on our physics tests)，兩個動作共用同一個主詞 who。多了物理考最高分這個細節，朋友就會想起自己從前打球、念書兩頭都顧得好，跟這封信勸他顧好課業的用意連在一起。physics 是四級字，所以基礎版沒有寫這一段。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說出朋友的改變，以及為什麼擔心）",
+      "items": [
+       {
+        "f": "Since you started ___（開始做的事情）, you have ___（現在完成式：有了什麼改變）.",
+        "ex": "Since you started watching that Korean drama, you have stopped coming to basketball practice."
+       },
+       {
+        "f": "You used to ___（以前常做的事情）, but now you ___（現在的情況）.",
+        "ex": "You used to be the first one in the classroom, but now you are often late for school."
+       },
+       {
+        "f": "Your parents are ___（爸媽的反應） because ___（原因）.",
+        "ex": "Your parents are upset because your grades have dropped."
+       },
+       {
+        "f": "I know ___（你能理解的地方）, but ___（點出問題在哪裡）.",
+        "ex": "I know the game helps you make new friends, but you should not play it until two in the morning."
+       }
+      ]
+     },
+     {
+      "name": "第二段（給具體的勸告，以及自己能幫的忙）",
+      "items": [
+       {
+        "f": "Why don't you ___（建議的做法） before ___（什麼時候）?",
+        "ex": "Why don't you put your phone in a drawer before you start your homework?"
+       },
+       {
+        "f": "Try to ___（要做到的事情） for no more than ___（多少時間） on school nights.",
+        "ex": "Try to play for no more than an hour on school nights."
+       },
+       {
+        "f": "If you ___（做到什麼）, your parents will ___（他們會有什麼改變）.",
+        "ex": "If you go to bed before midnight for a week, your parents will see that you are trying."
+       },
+       {
+        "f": "Let's ___（一起做的事情） together, and I can ___（我能幫的忙）.",
+        "ex": "Let's study for the English test together after school, and I can lend you my notes."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -10980,6 +11064,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 115,
+     "p1": "At a costume party, Tom wore a mask, so nobody knew who he was. He saw a girl in a small crown and fell in love with her at first sight. Before she left, she told him where she lived.",
+     "p2": "The next night, Tom stood outside her building with his guitar and sang a love song. Before he finished, a man upstairs opened his window and shouted, \"Stop that noise!\" Tom's face turned red. Then the front door opened, and the girl came out. She was laughing. \"My neighbors don't like music, but I do,\" she said. \"Let's go to the park.\" In the park, Tom sang the whole song, and this time nobody complained.",
+     "zh": {
+      "p1": "在一場化妝舞會上，湯姆戴著面具，所以沒有人知道他是誰。他看到一個戴著小皇冠的女孩，一眼就愛上了她。女孩離開之前，告訴他自己住在哪裡。",
+      "p2": "隔天晚上，湯姆帶著吉他站在她住的那棟樓外面，唱起一首情歌。他還沒唱完，樓上一個男人就打開窗戶大吼：「別吵了！」湯姆的臉一下子紅了。接著大門打開，女孩走了出來，一直笑著。她說：「我的鄰居不喜歡音樂，可是我喜歡。我們去公園吧。」到了公園，湯姆把整首歌唱完，這一次沒有人抱怨。"
+     }
+    },
+    "levels": "用字：三級只有 crown（皇冠）、complain（抱怨）兩個；四級以上只有 costume 一個。圖上寫的就是「化妝舞會」，英文叫 costume party，網站範文也這樣寫，沒有更簡單的說法，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 fall for 和句首的 There 讓句子更精簡、前後相接",
+      "b": "He saw a girl in a small crown and fell in love with her at first sight.",
+      "m": "There he saw a girl in a small crown and fell for her at first sight.",
+      "why": "[fall for] + [某人] 是比較口語的片語（字典標為 informal），意思是突然對某人動了心，和 [fall in love with] + [某人] 意思相同，只是字比較少。範文句首的 There 指的是「在那裡」，也就是前一句的化妝舞會，讀者不必再想地點在哪裡，兩句就自然接起來了。"
+     },
+     {
+      "t": "換成更精確的動詞 blush",
+      "b": "Tom's face turned red.",
+      "m": "Tom blushed.",
+      "why": "基礎版的 [主詞] + turned + [形容詞] 是「變成某種狀態」，face turned red 可以是氣紅了臉，也可以是羞紅了臉，要靠上下文判斷。blush 講的就是因為難為情、害羞而臉紅，一個字就把湯姆當下的心情說清楚。blush 是五級字，寫不出來的時候用 Tom's face turned red 也完全正確。"
+     },
+     {
+      "t": "用分詞把兩句併成一句",
+      "b": "Then the front door opened, and the girl came out. She was laughing.",
+      "m": "Just then, the front door opened, and the girl came out, laughing.",
+      "why": "基礎版用兩句話，先寫女孩走出來，再補一句她在笑。範文把後面那句改成現在分詞，寫成 [the girl came out], + [V-ing]，表示「走出來」和「笑」是同時發生的兩個動作。這樣寫的條件是兩個動作的主詞相同，這裡走出來的和笑的都是女孩，所以 laughing 前面不必再寫 she was。至於句首的 Just then，意思是「就在那時候」，比 Then 更能表現事情剛好接著發生。"
+     },
+     {
+      "t": "句首換成畫面感更強的片語",
+      "b": "In the park, Tom sang the whole song, and this time nobody complained.",
+      "m": "Under the moon, Tom sang the whole song, and this time nobody complained.",
+      "why": "兩句只差在句首。基礎版的 In the park 交代地點；範文的 Under the moon 把第二、三格就畫著的月亮帶回來，讀者看得出還是同一個夜晚，畫面也比較浪漫。兩句的結構相同，都是 [介系詞 + 名詞], + [主要子句]。後半句的 this time 是「這一次」，和前面鄰居大吼的那一次對照，故事因此有了收尾。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（第一格：化妝舞會上一見鍾情）",
+      "items": [
+       {
+        "f": "At ___（什麼場合）, ___（主角） wore ___（什麼裝扮）, so nobody knew who he was.",
+        "ex": "At a friend's birthday party, Jason wore a big bear mask, so nobody knew who he was."
+       },
+       {
+        "f": "He saw a girl who was ___（正在做什麼）, and he fell in love with her at first sight.",
+        "ex": "He saw a girl who was dancing near the window, and he fell in love with her at first sight."
+       },
+       {
+        "f": "He wanted to ___（想做的事情）, but he was too shy to ___（說不出口或做不到的事情）.",
+        "ex": "He wanted to ask her name, but he was too shy to talk to her."
+       },
+       {
+        "f": "Before ___（她離開或舞會結束）, she ___（留下什麼線索）.",
+        "ex": "Before the party ended, she gave him a card with her phone number on it."
+       }
+      ]
+     },
+     {
+      "name": "第二段（第二到四格：樓下唱情歌、遭鄰居抗議，以及自己想的結局）",
+      "items": [
+       {
+        "f": "The next night, ___（主角） stood outside her ___（住的地方） and ___（怎麼表白）.",
+        "ex": "The next night, Jason stood outside her house and played the violin for her."
+       },
+       {
+        "f": "Before he could finish, ___（誰） opened ___（窗戶或門） and shouted, \"___（說了什麼）!\"",
+        "ex": "Before he could finish, a woman next door opened her window and shouted, \"Go home, young man!\""
+       },
+       {
+        "f": "Just then, ___（誰出現了）, and ___（主角的反應）.",
+        "ex": "Just then, the girl's father came out, and Jason's face turned pale."
+       },
+       {
+        "f": "In the end, ___（結局）, and this time ___（跟前面不一樣的地方）.",
+        "ex": "In the end, her father invited Jason in for a cup of tea, and this time nobody shouted at him."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -11698,6 +11864,88 @@
       "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 180,
+     "p1": "It was a quiet Saturday afternoon at a noodle shop near the station. Ms. Lin was making noodles for her only two customers, a boy named Ming and a big man in glasses. Between them, a bag sat on a stool. The man finished quickly and hurried out to catch his train. Ming noticed the bag when he stood up to leave. As soon as he picked it up, it fell open, and it was full of thousand-dollar bills! Ms. Lin called the police.",
+     "p2": "By then, the man was at the ticket window in Hsinchu Station, and sweat was running down his face. He had left his bag behind! The money in it was his workers' pay, so he ran all the way back. A police officer was there, and Ming handed the man his bag. The man's hands were shaking as he counted the money. He took out some bills and tried to give them to Ming. Ming shook his head. \"It's not my money,\" he said. Ms. Lin smiled and cooked him another bowl of noodles for free.",
+     "zh": {
+      "p1": "星期六下午，車站附近的一家麵店很安靜。林小姐正在替店裡僅有的兩位客人煮麵，一位是叫阿明的男生，另一位是戴著眼鏡、塊頭很大的男人。在他們兩個中間的一張凳子上，放著一個袋子。那個男人很快就吃完了，急急忙忙地出去趕火車。阿明站起來要走的時候，注意到了那個袋子。他才把袋子拿起來，袋口就打開了，裡面全是千元大鈔！林小姐於是打電話報了警。",
+      "p2": "那時候，那個男人已經到了新竹火車站的售票口，汗水順著臉一直往下流。原來他把袋子忘在店裡了！袋子裡的錢是要發給工人的工資，所以他一路跑了回去。麵店裡有一位警察在場，阿明就把袋子交給那個男人。男人數錢的時候，雙手一直在發抖。接著他拿出幾張鈔票，想要送給阿明。阿明卻搖了搖頭，說：「這不是我的錢。」林小姐笑了笑，又煮了一碗麵請他吃，沒有收他的錢。"
+     }
+    },
+    "levels": "用字：三級只有 stool（凳子）、sweat（汗水）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 only when 點出「到那一刻才」注意到",
+      "b": "Ming noticed the bag when he stood up to leave.",
+      "m": "Ming noticed it only when he stood up to leave.",
+      "why": "兩句都在講阿明什麼時候注意到袋子。範文在 when 子句前面加上 only，寫成 [主詞] + [動詞] + only + when + [主詞 + 動詞]，only 限定的是後面整個 when 子句，意思是「只有在站起來要走的時候」，也就是說，在那之前他一直沒發現袋子就在旁邊。因為前一句已經提過袋子，範文就用 it 代替 the bag。"
+     },
+     {
+      "t": "地方片語放到句首，主詞與動詞倒裝",
+      "b": "Between them, a bag sat on a stool.",
+      "m": "Between them, on a low stool, sat a dark canvas bag.",
+      "why": "基礎版是一般的語序 [主詞 a bag] + [動詞 sat] + [地方 on a stool]。範文把兩個地方片語 (Between them) 和 (on a low stool) 都放到句首，寫成 [地方片語] + [動詞 sat] + [主詞 a dark canvas bag]；地方介系詞片語移到句首時，英文常常把主詞和動詞的順序對調。這樣一來，讀者先看到位置，最後才看到袋子，新出現的東西放在句尾，正好落在這一句的重點上。範文也順便多給了兩個細節：凳子是矮的，袋子是深色帆布做的。"
+     },
+     {
+      "t": "用獨立分詞構句加進失主找東西的動作",
+      "b": "By then, the man was at the ticket window in Hsinchu Station, and sweat was running down his face.",
+      "m": "By then the man was at the ticket window in Hsinchu Station, sweat running down his forehead as he slapped one pocket of his suit after another.",
+      "why": "基礎版用 and 接上第二個子句 (sweat was running down his face)。範文拿掉 and 和 was，寫成 [名詞 sweat] + [現在分詞 running …]，這就是獨立分詞構句：分詞片語有自己的主詞 sweat，用來補充說明整句的情況，現在分詞 running 表示主動、正在進行。後面再用 as（在⋯的同時）接上 he slapped one pocket of his suit after another，寫出他一個口袋一個口袋拍過去的動作，不必明說，讀者也知道他在找那個袋子。"
+     },
+     {
+      "t": "換更精確的動詞：press something on someone",
+      "b": "He took out some bills and tried to give them to Ming.",
+      "m": "Then he pulled out a thick stack and pressed it on the boy as a reward.",
+      "why": "基礎版用 tried to give them to Ming，只說他想把錢給阿明。範文改用 [press] + [東西] + on + [人]，字典的解釋是把東西給別人、而且不讓對方拒絕，也就是中文的「硬塞給」，一個動詞就寫出失主非給不可的樣子。a thick stack（厚厚一疊）也比 some bills 具體，as a reward 則說清楚這筆錢是謝禮。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（前兩格：麵店裡的人與被留下的袋子）",
+      "items": [
+       {
+        "f": "It was a ___（形容詞，如 quiet、busy） ___（星期幾與時段） at ___（地點）.",
+        "ex": "It was a busy Friday evening at the bus station near our school."
+       },
+       {
+        "f": "Between ___（兩個人或兩樣東西）, ___（被留下的東西） sat on ___（位置）.",
+        "ex": "Between the two passengers, a black umbrella sat on the empty seat."
+       },
+       {
+        "f": "___（人） noticed ___（東西） when ___（主詞 + 過去式動詞）.",
+        "ex": "Amy noticed the phone when she got off the bus."
+       },
+       {
+        "f": "As soon as ___（主詞 + 過去式動詞）, ___（發現了什麼）.",
+        "ex": "As soon as Amy opened the wallet, she found a lot of cash inside."
+       }
+      ]
+     },
+     {
+      "name": "第二段（第三格與第四格：失主發現東西不見、回來找與結局）",
+      "items": [
+       {
+        "f": "By then, ___（失主） was already ___（在哪裡）.",
+        "ex": "By then, the owner was already on another bus."
+       },
+       {
+        "f": "___（失主） suddenly realized that ___（東西） was not ___（原本應該在的地方）.",
+        "ex": "The young man suddenly realized that his phone was not in his pocket."
+       },
+       {
+        "f": "___（失主） tried to give ___（拾獲的人） ___（謝禮）, but ___（拾獲的人怎麼回應）.",
+        "ex": "The passenger tried to give the driver some money, but he just smiled and said no."
+       },
+       {
+        "f": "Although ___（沒有得到什麼）, ___（人） felt ___（感受） because ___（原因）.",
+        "ex": "Although Amy did not get any money, she felt happy because she had done the right thing."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -12149,6 +12397,90 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0408"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 177,
+     "opening": "Dear Kelly,",
+     "p1": "I have been watching the news ever since I heard about the earthquake that hit your city yesterday. Many buildings have fallen down, and some people may still be trapped inside. Thousands of people are spending the night in schools because their homes are not safe. When the news showed the hardest-hit areas, I got worried because your neighborhood was one of them. You have not read my messages yet, so I am writing you this letter.",
+     "p2": "News like this always reminds me that nature is much stronger than we are. I still remember the morning when a strong earthquake hit Hualien. Even in Taipei, our apartment shook so hard that books fell off my shelves, and I could only hide under my desk. I was scared even though I was far away, so it must have been much worse for you. Please know that you are not alone. Our class is collecting money and supplies for your city. If you need anything, just tell me. Let me know you are safe as soon as you can.",
+     "closing": "Thinking of you,\nSusan",
+     "zh": {
+      "p1": "自從聽說你們那裡昨天發生地震，我就一直在看新聞。很多大樓都倒了，也許還有人受困在裡面。好幾千人因為家裡已經不安全，只能在學校過夜。新聞秀出災情最嚴重的地區時，我擔心了起來，因為你住的那一帶就是其中之一。你到現在都還沒讀我傳的訊息，所以我寫了這封信給你。",
+      "p2": "這樣的新聞總讓我想到，大自然比我們人強大得多。我到現在還記得花蓮發生大地震的那天早上。就連在台北，我們家也搖得好厲害，書從架子上掉下來，我只能躲到書桌底下。我離得那麼遠都嚇壞了，你那裡一定更可怕。請記得，你不是一個人。我們班正在為你們那裡募款、募集物資。如果你需要什麼，儘管跟我說。一有機會就讓我知道你平安。"
+     }
+    },
+    "levels": "用字：三級只有 neighborhood（住家附近的地區）、remind（提醒、使想起）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用片語 be glued to 寫出「一直盯著」",
+      "b": "I have been watching the news ever since I heard about the earthquake that hit your city yesterday.",
+      "m": "I have been glued to the news ever since I heard about the earthquake that hit your city yesterday.",
+      "why": "兩句結構完全一樣，都是 [主詞] + have been + … + ever since + [過去式子句]，用現在完成式表示從聽到消息那一刻一直持續到現在；差別只在動詞。基礎版的 watching 只說「在看」，範文的 be glued to（像被膠水黏住一樣）表示眼睛離不開、停不下來，一個片語就寫出寫信的人有多著急。這是口語的說法，寫給朋友的信用起來正合適。"
+     },
+     {
+      "t": "換更精確的字，並加上具體細節",
+      "b": "Many buildings have fallen down, and some people may still be trapped inside.",
+      "m": "Whole buildings have collapsed, roads have cracked open, and rescue workers are still searching through the rubble for people who may be trapped.",
+      "why": "collapse 指建築物承受不住而突然整個塌下來，比 fall down 更貼近地震的畫面；Whole buildings 則強調整棟都塌了。範文用 (… have collapsed), (… have cracked open), and (rescue workers are still searching …) 三個並列子句，一句裡依序交代房子、道路和救人的情形；其中道路裂開、搜救人員在找人這兩個細節是基礎版沒有寫的，也就是這一組「加上具體細節」的地方。最後用 who 關係子句 people who may be trapped，把「可能受困的人」接在 searching … for 後面，讀者就看得到搜救人員在找誰。"
+     },
+     {
+      "t": "用 how 引導的間接問句寫出感受",
+      "b": "News like this always reminds me that nature is much stronger than we are.",
+      "m": "News like this always reminds me how small we are in the face of nature.",
+      "why": "兩句要說的是同一件事，只是觀點相反：基礎版說大自然有多強，範文說人有多渺小。基礎版用 remind + [人] + that + [子句]；範文用 remind + [人] + how + [形容詞] + [主詞] + [動詞]，how small we are 是間接問句，所以主詞 we 放在動詞 are 前面，不倒裝。how 帶出的是「渺小到什麼程度」，比單純陳述事實多了感嘆的語氣；in the face of 是「面對（困難或危險）」，讓 small 有了比較的對象。"
+     },
+     {
+      "t": "用 do nothing but 與更生動的動詞寫出當下的無助",
+      "b": "Even in Taipei, our apartment shook so hard that books fell off my shelves, and I could only hide under my desk.",
+      "m": "Even in Taipei, our apartment shook so hard that books flew off my shelves, and I could do nothing but crawl under my desk and wait for it to stop.",
+      "why": "前半句兩篇都用 so + [副詞] + that + [結果]，差在動詞：fell 只是掉下來，flew 是在空中飛出去，搖晃有多猛烈就看得出來。後半句的 could do nothing but + [原形動詞] 字面上是「除了……什麼也不能做」，意思和 could only 一樣，語氣卻更無奈；but 在這裡是「除了」，後面接原形動詞 crawl。crawl 是趴著、手腳並用地爬，加上 wait for it to stop，把躲進桌底的動作和等待的時間都寫出來。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（從新聞報導得知的災情）",
+      "items": [
+       {
+        "f": "I have been ___（擔心／看新聞等） since I heard about the ___（哪一種災害） in your ___（城市或地區）.",
+        "ex": "I have been worried about you since I heard about the flood in your town."
+       },
+       {
+        "f": "On TV, I saw ___（哪些人） ___（正在做什麼，用 V-ing）.",
+        "ex": "On TV, I saw families standing in the rain outside their damaged homes."
+       },
+       {
+        "f": "Many people have ___（受到什麼影響）, and some of them have to ___（不得不做的事情）.",
+        "ex": "Many people have lost their homes, and some of them have to sleep in their cars."
+       },
+       {
+        "f": "I am worried about you because ___（為什麼擔心對方）.",
+        "ex": "I am worried about you because your house is near the river."
+       }
+      ]
+     },
+     {
+      "name": "第二段（對天災的感受或經驗，並表達慰問）",
+      "items": [
+       {
+        "f": "News like this always makes me realize how ___（形容詞） ___（主詞＋動詞）.",
+        "ex": "News like this always makes me realize how important my family is."
+       },
+       {
+        "f": "I can understand how you feel because ___（自己類似的經驗）.",
+        "ex": "I can understand how you feel because our house was flooded during a typhoon when I was ten."
+       },
+       {
+        "f": "Please know that ___（誰） ___（正在為對方做的事情或心意）.",
+        "ex": "Please know that my family and I are praying for you."
+       },
+       {
+        "f": "If you need ___（需要的東西）, you are welcome to ___（可以來做什麼）.",
+        "ex": "If you need a quiet place to rest, you are welcome to come to Taiwan and stay with us."
        }
       ]
      }
@@ -12840,6 +13172,88 @@
         "w": "mudslide",
         "zh": "土石流（歷屆試題考的是颱風來襲前把山區居民撤離）",
         "own": true
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 126,
+     "p1": "A strong earthquake hit a small village in the middle of the night. The heavy roof of an old stone house fell in. Luckily, the family inside got out in time. Now only one white wall is still standing. Broken pieces of wood lie among the stones. A woman in a straw hat is walking past what is left of her home. She is carrying a basket and looking for anything she can still save.",
+     "p2": "No one can stop an earthquake, but we can be ready for the next one. Every family should put water, food, and a flashlight in a bag and keep it near the door. We should also know what to do when the ground starts to shake: drop, cover, and hold on.",
+     "zh": {
+      "p1": "半夜裡，一場強烈的地震侵襲了一個小村子。一間石頭砌的老房子，沉重的屋頂整個塌了下來，幸好屋裡的一家人及時逃了出來。現在只剩一面白牆還立著，斷掉的木頭散落在石塊之間。一位戴著草帽的婦人正從她家剩下的殘骸旁邊走過。她背著一個籃子，想找找看還有什麼東西救得回來。",
+      "p2": "沒有人能阻止地震，但我們可以為下一次地震做好準備。每個家庭都應該把水、食物和手電筒裝進一個袋子，放在門邊。另外，我們也要知道地面開始搖晃的時候該怎麼做：趴下、掩護、穩住。"
+     }
+    },
+    "levels": "用字：三級只有 flashlight（手電筒）、straw（稻草；straw hat 是草帽）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 while 子句交代背景，用 strike 寫地震來襲",
+      "b": "A strong earthquake hit a small village in the middle of the night.",
+      "m": "Last night, while the whole village was asleep, a strong earthquake struck without any warning.",
+      "why": "基礎版只說地震在半夜來了。範文用 [while] + [主詞] + [was asleep] 交代地震來的那段時間村民正在做什麼，while 指「在…的那段時間」，讀者就知道地震來的時候，全村的人都在睡覺。主要子句的 strike 是「（災害）突然來襲」，後面再加 without any warning（毫無預警地），把「突然」講得更清楚。基礎版的 hit 也是對的，壞事突然發生在某個地方，英文本來就可以用 hit。"
+     },
+     {
+      "t": "換更精確的字：beams、ruins 與 stick out",
+      "b": "Broken pieces of wood lie among the stones.",
+      "m": "Broken beams stick out of the ruins, and stones lie everywhere.",
+      "why": "基礎版說 broken pieces of wood（斷掉的木頭），範文用 beams（樑木），指的是撐住房屋重量的長木頭，圖上跟著屋頂一起塌下來的長木頭就是這種。ruins（廢墟）用複數，指房子毀壞以後留下來的殘骸。動詞也換了：[主詞] + stick out of + [地方] 是「從…裡突出來」，比 lie 更能寫出樑木斜插在廢墟裡的樣子；至於滿地的石塊，才用 lie everywhere。beam 是三級字，ruin 是四級字。"
+     },
+     {
+      "t": "用分詞片語接第二個動作，再用 such as 舉出具體的東西",
+      "b": "She is carrying a basket and looking for anything she can still save.",
+      "m": "She is carrying a basket, looking for anything she can still save, such as a pot, a blanket, or an old family photo.",
+      "why": "基礎版用 and 把兩個動作並列：is carrying … and (is) looking for …。範文把第二個動作改成分詞片語 [主要子句], + [V-ing …]，現在分詞片語可以表示跟主要子句同時發生的動作，也就是一邊背著籃子、一邊在找東西。最後用 such as 接 (a pot), (a blanket), or (an old family photo) 三個例子，讀者馬上知道她想救回來的是哪些東西，比只寫 anything 具體得多。"
+     },
+     {
+      "t": "用 much 加強比較級",
+      "b": "No one can stop an earthquake, but we can be ready for the next one.",
+      "m": "No one can stop an earthquake, but we can be much better prepared for the next one.",
+      "why": "基礎版的 be ready for 是「準備好面對」。範文改成 [be] + much better prepared + [for …]：be prepared for 是「準備好應付某種情況」，better 是比較級，表示比現在準備得更好，前面再加 much 讓比較更強烈，意思是「好很多」。基礎版的 be ready for 也對，ready 和 prepared 意思相近；範文多了 much better，強調的是要比現在準備得更周全。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明之前發生了什麼事情，並描述圖片裡現在的狀況）",
+      "items": [
+       {
+        "f": "A strong ___（哪一種災害） hit ___（地點） ___（什麼時候）.",
+        "ex": "A strong typhoon hit a small town in eastern Taiwan two days ago."
+       },
+       {
+        "f": "Luckily, ___（誰） got out of ___（哪裡） before ___（發生了什麼事情）.",
+        "ex": "Luckily, the old man got out of his house before the river flooded the street."
+       },
+       {
+        "f": "Now only ___（一樣東西） is still standing, and broken ___（複數名詞） lie all over ___（地點）.",
+        "ex": "Now only one tall tree is still standing, and broken branches lie all over the road."
+       },
+       {
+        "f": "___（誰） is ___（動作，V-ing） past what is left of ___（毀掉的地方）.",
+        "ex": "A young man is riding his bike slowly past what is left of the old market."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說明接下來可能會發生什麼事，或者未來該做些什麼）",
+      "items": [
+       {
+        "f": "In the next few days, ___（誰） will ___（會做的事情）.",
+        "ex": "In the next few days, soldiers will clear the roads and bring food to the town."
+       },
+       {
+        "f": "No one can stop ___（災害）, but we can ___（我們能做的事情）.",
+        "ex": "No one can stop a typhoon, but we can stay away from rivers and the beach during the storm."
+       },
+       {
+        "f": "Every family should ___（該做的準備） so that ___（這樣做的好處）.",
+        "ex": "Every family should keep a few power banks at home so that they can still use their phones when the lights go out."
+       },
+       {
+        "f": "We should also know what to do when ___（什麼狀況）: ___（動作一）, ___（動作二）, and ___（動作三）.",
+        "ex": "We should also know what to do when a fire alarm goes off: stay calm, walk to the nearest exit, and never take the elevator."
        }
       ]
      }
@@ -13693,6 +14107,90 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0113"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 132,
+     "opening": "Dear Eve,",
+     "p1": "I have some bad news. I lost the light stick you lent me for last Saturday's concert. After the show, I waited in line to get my album signed. Because I needed both hands to hold my album and my phone, I put the light stick in the side pocket of my backpack. At the MRT station, I noticed the pocket was empty. I hurried back, but I couldn't find it.",
+     "p2": "I'm really sorry. I know how much that light stick means to you. The official store is sold out. I have left my phone number with the lost and found and posted photos of it in our fan group. If it doesn't turn up, I will buy you a new one as soon as new ones come in. Please forgive me.",
+     "closing": "Your friend,\nMary",
+     "zh": {
+      "p1": "我有個壞消息要告訴你。你借我去看上星期六演唱會的那支應援棒，被我弄丟了。演唱會結束以後，我排隊等著請歌手在專輯上簽名。因為兩隻手要拿專輯和手機，我就把應援棒放進背包側邊的口袋。到了捷運站，我才發現那個口袋是空的。我趕緊回頭去找，可是怎麼找都找不到。",
+      "p2": "真的很對不起。我知道那支應援棒對你有多重要。官方商店已經賣完了。我已經在失物招領處留了電話，也在我們的粉絲群組貼了它的照片。要是一直找不到，等新貨一到，我就買一支新的給你。請你原諒我。"
+     }
+    },
+    "levels": "用字：三級只有 concert（演唱會）一個，沒有四級以上的字。light stick（應援棒）詞彙表沒有收這個組合，light 和 stick 都在一、二級，演唱會的應援棒英文就是這樣說，網站範文也這樣寫，所以照樣使用；MRT 是台灣捷運的英文名稱。",
+    "upgrade": [
+     {
+      "t": "書信開頭用 I wish I could 帶出遺憾",
+      "b": "I have some bad news.",
+      "m": "I'm writing with some bad news, and I wish I could tell you in person instead.",
+      "why": "基礎版開門見山，直接說有壞消息。範文前半句 I'm writing with some bad news 交代寫這封信的原因，後半句再用 [I wish] + [主詞] + could + [原形動詞]，表示和現在事實相反的願望：其實沒辦法當面說，只好寫信。wish 後面接子句，是遺憾事情不是另一個樣子，所以動詞往過去退一格，can 寫成 could。信一開頭就帶出這份遺憾，讀信的人比較感受得到寫信人的誠意。"
+     },
+     {
+      "t": "用 slip 寫出匆匆一塞的動作",
+      "b": "Because I needed both hands to hold my album and my phone, I put the light stick in the side pocket of my backpack.",
+      "m": "Since I needed both hands to hold my album and my phone, I slipped the light stick into the side pocket of my backpack.",
+      "why": "兩句都把原因放在句首，原因子句後面接逗號。差別在動詞：put 只是「放」，slip 是很快地把東西放進某個地方，常常不太引人注意，寫成 [slip] + [東西] + into + [地方]，讀者看得出當時是匆匆一塞。範文用 Since 開頭，since 和 because 一樣能帶出原因，只是比 because 正式一點。"
+     },
+     {
+      "t": "用 It wasn't until … that 強調發現得很晚",
+      "b": "At the MRT station, I noticed the pocket was empty.",
+      "m": "It wasn't until I reached the MRT station that I noticed the pocket was empty.",
+      "why": "基礎版只說在捷運站發現口袋空了。範文用強調句 It wasn't until [時間] that (句子其餘的部分)，把「一直到走到捷運站」搬到前面強調，讀者就知道發現得很晚。還原成一般的句子是 I didn't notice the pocket was empty until I reached the MRT station；not 跟著 until 一起搬到前面，所以 that 後面的 noticed 變回肯定句，不再寫成 didn't notice。"
+     },
+     {
+      "t": "列出找過的地方，再用 nowhere to be found 收尾",
+      "b": "I hurried back, but I couldn't find it.",
+      "m": "I rushed back and searched the line, the seats, and even the restrooms, but it was nowhere to be found.",
+      "why": "範文把「回去找」寫成具體的動作：[searched] + [地方]，後面列出三個找過的地方 (the line), (the seats), and even (the restrooms)，even 表示出乎意料，連平常不會想到的廁所都去找了。結尾的 nowhere to be found 是固定說法，意思是到處都找不到，比 couldn't find it 更能讓人感覺到真的找遍了。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明物品遺失的經過）",
+      "items": [
+       {
+        "f": "I'm sorry to say that I lost the ___（借來的東西） you lent me for ___（借去做什麼）.",
+        "ex": "I'm sorry to say that I lost the camera you lent me for our class trip."
+       },
+       {
+        "f": "While I was ___（當時正在做的事情）, I left your ___（借來的東西） ___（放在哪裡）.",
+        "ex": "While I was buying a drink at the station, I left your umbrella next to the door."
+       },
+       {
+        "f": "When I ___（到了哪裡或做了什麼）, I realized that ___（東西不見了或忘在哪裡）.",
+        "ex": "When I got off the bus, I realized that your jacket was still on the seat."
+       },
+       {
+        "f": "I searched ___（找過的地方） for it, but ___（結果）.",
+        "ex": "I searched the bus station and the park for it, but no one had seen it."
+       }
+      ]
+     },
+     {
+      "name": "第二段（表達歉意並提出解決方案）",
+      "items": [
+       {
+        "f": "I'm really sorry about ___（V-ing，自己做錯的事情）.",
+        "ex": "I'm really sorry about losing your camera."
+       },
+       {
+        "f": "Since ___（一時買不到的原因）, I will ___（暫時的辦法） until ___（什麼時候）.",
+        "ex": "Since the store has none left, I will lend you my own umbrella until new ones arrive."
+       },
+       {
+        "f": "If it doesn't turn up by ___（期限）, I will ___（補救的辦法）.",
+        "ex": "If it doesn't turn up by Friday, I will buy a used one online."
+       },
+       {
+        "f": "Please let me know if you would rather ___（對方可能比較想要的另一種補償）.",
+        "ex": "Please let me know if you would rather have the money."
        }
       ]
      }
