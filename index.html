@@ -607,7 +607,7 @@ function card(it){
     if(src&&src.model){
       r.appendChild(document.createTextNode('　'));
       const a=document.createElement('a');
-      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文'+(wordBanksFor(src).length?'，以及單字、片語與字詞搭配':'')+' ↓';
+      a.href='#';a.textContent='到 '+src.year+' '+src.exam+'那一題看範文'+(src.basic?'、基礎版範文':'')+(wordBanksFor(src).length?'，以及單字、片語與字詞搭配':'')+' ↓';
       a.addEventListener('click',e=>{e.preventDefault();jumpTo(src.id)});
       r.appendChild(a);
     }
