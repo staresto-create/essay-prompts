@@ -8470,7 +8470,7 @@
       "p2": "教祖母這件事，改變了我對學習的想法。我以前以為，一件事只要自己做得好，就能講得清楚。不過，耐心比知識更重要。有兩次，我差點把手機從她手上拿過來自己按。那樣雖然會比較快，她卻什麼也學不到。現在每當同學問我一個簡單的問題，我就會想起祖母，然後慢慢回答。"
      }
     },
-    "levels": "用字：三級只有 replace（取代、換掉）、patience（耐心）、learning（學習）三個。code 是四級字，可是 QR code（QR 碼）是大家天天在用的東西，也沒有別的說法，所以照樣使用；除此之外沒有四級以上的字。",
+    "levels": "用字：三級只有 replace（取代、換掉）、patience（耐心）、learning（學習）三個。code 是四級字，可是 QR code（QR 碼）是大家天天在用的東西，也沒有別的說法，所以照樣使用。除此之外沒有四級以上的字。",
     "upgrade": [
      {
       "t": "三個不定詞並列，把做法一次交代清楚",
@@ -12508,7 +12508,7 @@
       "p2": "一場簡單的典禮，就能給我們這個機會。與其請來賓發表冗長的演講，學校不如播放一段短片，放上這三年來的照片。這些照片會讓我們想起自己一路走了多遠。每一班也可以獻花給自己的導師，同時由一位同學念一封全班寫的信。老師們和學弟妹可以站在禮堂外面，跟我們說再見。這樣的典禮花不了多少錢，可是我們會永遠記得它。"
      }
     },
-    "levels": "用字：三級只有 remind（提醒、使想起）一個。graduation（四級）和 ceremony（五級）是題目「畢業典禮」的英文說法，所以照樣使用；除了這兩個字，沒有四級以上的字。",
+    "levels": "用字：三級只有 remind（提醒、使想起）一個。graduation（四級）和 ceremony（五級）是題目「畢業典禮」的英文說法，所以照樣使用。除此之外沒有四級以上的字。",
     "upgrade": [
      {
       "t": "用關係子句把兩個子句併成一句",
@@ -19582,7 +19582,7 @@
       "p2": "過了這個暑假，大家就要到不同的城市生活，所以下次再見面，可能要隔好一陣子。吃到飽的午餐大家都負擔得起，至於包廂，大家在裡面可以自在地聊天。那些信更是重要。現在唸這些信，就看得出我們一路走了多遠，也能趁這個機會謝謝林老師。聽聽每個人的打算，也會提醒我們，通往未來的路不只一條。"
      }
     },
-    "levels": "用字：三級只有 buffet（自助餐）、remind（提醒）兩個。reunion（同學會）是四級，但它就是題目「同學會」的英文說法，所以照樣使用；此外沒有四級以上的字。",
+    "levels": "用字：三級只有 buffet（自助餐）、remind（提醒）兩個。reunion（同學會）是四級，但它就是題目「同學會」的英文說法，所以照樣使用。除此之外沒有四級以上的字。",
     "upgrade": [
      {
       "t": "用 Now that 點出「現在情況不同了」",
@@ -20540,6 +20540,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 174,
+     "p1": "People often say that travel is the best teacher, and I agree. Books can tell us about a place, but travel lets us see it with our own eyes. Travel also teaches us to solve problems by ourselves. Away from home, we have to make our own decisions. Best of all, we get to meet people who live very different lives.",
+     "p2": "A three-day trip to Tainan with my classmates proved all of these points. In history class, Chihkan Tower was only a name to me. When I got there, I read on a sign that the tower once stood by the sea. Suddenly, the maps in my textbook made sense. On the second day, the next bus to Anping was an hour away, so we rented bikes instead. That evening, the owner of our guesthouse told us that he had left his job in Taipei and moved back to his hometown. His story made me think about what kind of life I really want. That is why I believe travel is the best teacher.",
+     "zh": {
+      "p1": "常聽人說旅行是最好的老師，這句話我同意。書本可以告訴我們一個地方是什麼樣子，可是旅行能讓我們親眼看見。旅行也教我們自己解決問題。離開了家，我們就得自己做決定。最棒的是，我們有機會認識生活方式和我們很不一樣的人。",
+      "p2": "我和同學去台南玩了三天，這趟旅行印證了上面說的每一點。在歷史課上，赤崁樓對我來說只是一個名字；到了那裡，我才從一塊解說牌上讀到，赤崁樓以前就在海邊。課本裡那幾張地圖，我一下子就看懂了。第二天，往安平的下一班公車還要等一個小時，我們就改租腳踏車。那天晚上，民宿老闆告訴我們，他辭掉了台北的工作，搬回家鄉。聽了他的故事，我開始思考自己真正想過什麼樣的生活。也正因為這樣，我相信旅行是最好的老師。"
+     }
+    },
+    "levels": "用字：三級只有 hometown（家鄉）、tower（塔、樓）兩個，沒有四級以上的字。guesthouse（民宿）詞彙表沒有收錄，不過 Merriam-Webster 對它的解釋就包括當作民宿經營的房子，網站範文也用了它，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "加上具體情況，說明「自己做決定」是在什麼時候",
+      "b": "Away from home, we have to make our own decisions.",
+      "m": "Away from home, no one plans every step for us, so when a bus does not come or it suddenly starts to rain, we have to think quickly and make our own decisions.",
+      "why": "基礎版只說要自己做決定，沒有說是在什麼時候。範文先用 [no one plans every step for us] 交代原因，再用 so（因此）接出結果；結果的前面先放一個 when 子句，舉出 (a bus does not come) or (it suddenly starts to rain) 兩個具體情況，最後才是 [we have to think quickly and make our own decisions]。讀者一看就知道自己做決定是在什麼情況下發生，第二段寫公車沒來的經驗也就有了呼應。"
+     },
+     {
+      "t": "用過去完成式交代旅行之前的事，並加上具體細節",
+      "b": "In history class, Chihkan Tower was only a name to me.",
+      "m": "In history class, I had read that the Dutch built Chihkan Tower in 1653, but it was only a name and a date to me.",
+      "why": "在歷史課讀到赤崁樓，是比這趟旅行更早的事，所以範文用 [I] + had + [過去分詞 read]，也就是過去完成式，指「到過去某個時間點為止」已經發生的事。讀到的內容 (the Dutch built Chihkan Tower in 1653) 寫出了荷蘭人和年份這兩個細節，後半句的 a name and a date，指的就是 Chihkan Tower 這個名字和 1653 這個年份。兩句的 to me 都是「對我來說」的意思。"
+     },
+     {
+      "t": "用分詞片語開頭，換一種句子開頭",
+      "b": "When I got there, I read on a sign that the tower once stood by the sea.",
+      "m": "Standing in front of its old brick walls, I learned from a sign that the sea once came right up to the tower.",
+      "why": "基礎版用 When I got there 這個 when 子句開頭。範文改用 [Standing in front of …], [I learned …]：站在牆前的人和從解說牌得知這件事的人都是 I，主詞相同，所以前半句可以省掉主詞，直接用 V-ing 開頭，這就是分詞構句。這樣一來，句子開頭有了變化，同時又帶出 old brick walls 這個看得到的畫面。要注意，句首分詞片語的動作是誰做的，主要子句的主詞就必須是誰；如果寫成 Standing in front of its old brick walls, a sign told me …，站在牆前的就變成了解說牌，這種錯誤叫做懸垂修飾語（dangling modifier）。"
+     },
+     {
+      "t": "用 What 子句當主詞，點出最看重的一點",
+      "b": "Best of all, we get to meet people who live very different lives.",
+      "m": "What I value most, though, is the chance to meet people whose lives are different from ours.",
+      "why": "範文的結構是 [What I value most] + is + [the chance to …]：what 子句當主詞，先交代「我最看重的是什麼」，is 後面的部分才是讀者要注意的新訊息，也就是遇見不同的人。people [whose lives are different from ours] 裡的 whose 表示所屬，whose lives 就是 those people's lives，ours 指 our lives。插在句中的 though 意思和 however 相近，表示和前面說的內容有轉折。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明旅行的優點）",
+      "items": [
+       {
+        "f": "Books can tell us about ___（某樣東西）, but travel lets us ___（親自做的事情）.",
+        "ex": "Books can tell us about Japanese food, but travel lets us taste it."
+       },
+       {
+        "f": "Travel also teaches us to ___（學會的能力或態度） because ___（原因）.",
+        "ex": "Travel also teaches us to be patient because buses and trains are not always on time."
+       },
+       {
+        "f": "Away from home, we have to ___（必須自己處理的事情）.",
+        "ex": "Away from home, we have to find our own way back to the hotel."
+       },
+       {
+        "f": "Best of all, travel gives us a chance to ___（最大的好處）.",
+        "ex": "Best of all, travel gives us a chance to make friends from other countries."
+       }
+      ]
+     },
+     {
+      "name": "第二段（舉自己的旅行經驗印證第一段）",
+      "items": [
+       {
+        "f": "My trip to ___（地點） proved that ___（第一段說過的哪一點）.",
+        "ex": "My trip to Hualien proved that we can learn a lot outside the classroom."
+       },
+       {
+        "f": "Before the trip, ___（某個地方） was only ___（只是什麼） to me.",
+        "ex": "Before the trip, Alishan was only a picture in a book to me."
+       },
+       {
+        "f": "When ___（出了什麼狀況）, we ___（自己怎麼解決）.",
+        "ex": "When we got on the wrong train, we got off at the next station and took another train back."
+       },
+       {
+        "f": "That experience made me realize that ___（學到了什麼）.",
+        "ex": "That experience made me realize that I could solve problems on my own."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -20990,6 +21072,88 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0234",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0172"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 175,
+     "p1": "It is easy to get hundreds of followers on Instagram, but true friends are hard to find. When you win a prize, a true friend is happy for you and does not feel jealous. When you are about to make a mistake, a true friend tells you the truth, even if you do not want to hear it. And when life is hard, a true friend stays by your side.",
+     "p2": "My classmate Kai has shown me all of this. We both gave English speeches at school, and when only I won a prize, Kai cheered louder than anyone else. Later, I got so angry at a classmate that I wrote an unkind message to post in our class LINE group. Kai took my phone away and asked, \"Are you sure you won't be sorry tomorrow?\" I never posted it. After I failed a math test, Kai stayed after school with me every day for two weeks until I could solve the problems by myself. One friend like Kai is worth more than hundreds of followers.",
+     "zh": {
+      "p1": "在 Instagram 上要有幾百個追蹤者很容易，真正的朋友卻很難找。你得獎的時候，真正的朋友會替你高興，不會嫉妒。你正要犯錯的時候，真正的朋友會跟你說實話，就算你不想聽也一樣。至於日子難過的時候，真正的朋友會陪在你身邊。",
+      "p2": "我的同學阿凱就讓我看到了這一切。我們兩個都在學校上台用英語演講，結果只有我得獎，那時候阿凱歡呼得比誰都大聲。後來，我氣一個同學氣到寫了一段刻薄的話，打算貼到班上的 LINE 群組。阿凱把我的手機拿走，問我：「你確定明天不會後悔嗎？」那段話我始終沒有貼出去。我數學考試不及格以後，阿凱連續兩個禮拜，每天放學都留下來陪我，直到我自己會解那些題目為止。一個像阿凱這樣的朋友，勝過幾百個追蹤者。"
+     }
+    },
+    "levels": "用字：三級只有 follower（追蹤者）、jealous（嫉妒的）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 instead of + V-ing 和 because 子句把道理說出來",
+      "b": "When you win a prize, a true friend is happy for you and does not feel jealous.",
+      "m": "When you win a prize, they are truly happy for you instead of feeling jealous, because your success does not make them feel smaller.",
+      "why": "基礎版用 and does not feel jealous 接在後面，只說了朋友不嫉妒。範文寫成 [they are truly happy for you] + instead of + [feeling jealous]，instead of 是「而不是……」，後面接名詞或 V-ing，所以用 feeling；truly 是「真心地」。句尾再用 because + [子句] 說出道理：你的成功不會讓他們覺得自己比較差。because 子句接在主要子句後面，一般不加逗號；這裡因為緊跟在 feeling jealous 後面，不加逗號容易被看成只在說明 feeling jealous，加了逗號，就清楚表示它說明的是前面一整句。"
+     },
+     {
+      "t": "用 care enough to 和 the last thing 把意思說得更深",
+      "b": "When you are about to make a mistake, a true friend tells you the truth, even if you do not want to hear it.",
+      "m": "When you are about to make a mistake, they care enough to tell you the truth, even if it is the last thing you want to hear.",
+      "why": "基礎版只說朋友會說實話。範文寫成 [they] + care enough + [to tell you the truth]，enough 放在動詞 care 後面，意思是「到足夠的程度」，後面的 to + 原形動詞說明到了什麼程度，也就是「在乎你，在乎到肯跟你說實話」，連朋友為什麼這麼做也交代了。後半句的 the last thing 是「最不想要的事情」，所以 the last thing you want to hear 就是「你最不想聽的話」，比 you do not want to hear it 多了「最」的意思。"
+     },
+     {
+      "t": "換更精確的字，用 was about to 寫出「正要」",
+      "b": "Later, I got so angry at a classmate that I wrote an unkind message to post in our class LINE group.",
+      "m": "A few months later, I got so angry at a classmate that I typed a long, nasty message and was about to post it in our class LINE group.",
+      "why": "兩句都用 [so + 形容詞] + that + [子句] 說明氣到什麼程度。範文的動詞用 typed（打字）；nasty（五級）有「刻薄、難聽」的意思，再加上 long，訊息的樣子就更具體。後半句用 [was about to] + [post it]，be about to + 原形動詞是「正要……」，寫成過去式就是「當時正要貼出去」，正好接上下一句阿凱把手機拿走。開頭的 A few months later 也比 Later 多交代了相隔多久。"
+     },
+     {
+      "t": "加副詞寫出說話的樣子，用 regret + 受詞說得更具體",
+      "b": "Kai took my phone away and asked, \"Are you sure you won't be sorry tomorrow?\"",
+      "m": "Kai took my phone away and asked quietly, \"Are you sure you won't regret this tomorrow?\"",
+      "why": "兩句都寫阿凱拿走手機、問我明天會不會後悔。範文在 asked 後面加上副詞 quietly（小聲地），修飾動詞 asked，交代他是怎麼問的。後半句把 be sorry 換成 regret（三級），[regret] + [受詞] 是「後悔某件事情」，受詞 this 指的就是貼出那段話這件事情，比 be sorry 多點出了後悔的對象。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明什麼樣的朋友才算是好朋友）",
+      "items": [
+       {
+        "f": "A good friend is someone who ___（好朋友會做的事情）.",
+        "ex": "A good friend is someone who keeps your secrets."
+       },
+       {
+        "f": "When you ___（遇到什麼情況）, a good friend will ___（會怎麼做）.",
+        "ex": "When you are sick at home, a good friend will bring you notes from class."
+       },
+       {
+        "f": "A true friend does not ___（不會做的事情）, even if ___（什麼情況）.",
+        "ex": "A true friend does not talk about you behind your back, even if the two of you have an argument."
+       },
+       {
+        "f": "It is easy to find people who ___（容易找到的那種人）, but it is hard to find people who ___（難找的那種人）.",
+        "ex": "It is easy to find people who laugh at your jokes, but it is hard to find people who help you when you are in trouble."
+       }
+      ]
+     },
+     {
+      "name": "第二段（舉自己的交友經驗印證第一段）",
+      "items": [
+       {
+        "f": "My ___（關係，例如 best friend）___（名字） has shown me that ___（第一段說過的哪一點）.",
+        "ex": "My neighbor Jason has shown me that a good friend always tells you the truth."
+       },
+       {
+        "f": "When I ___（遇到的事情）, ___（朋友的名字） ___（他怎麼做）.",
+        "ex": "When I broke my leg in a basketball game, Ben carried my schoolbag for me every day for a month."
+       },
+       {
+        "f": "Instead of ___（一般人會做的事情，用 V-ing）, ___（朋友的名字） ___（他實際上做的事情）.",
+        "ex": "Instead of laughing at my mistake, Lily helped me fix it."
+       },
+       {
+        "f": "Since then, ___（到現在的結果，用現在完成式）.",
+        "ex": "Since then, we have been best friends."
        }
       ]
      }
@@ -22435,6 +22599,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 130,
+     "p1": "Exams of all kinds have become a necessary part of my high school life. Almost every day, quizzes check if I understand yesterday's lesson. Midterms tell me which chapters I should review. Practice tests help me get ready for the college entrance exam. Exams are stressful, but they keep me studying a little every day.",
+     "p2": "The most unforgettable exam I have ever taken is my first math midterm in high school. Ten minutes into the test, an earthquake shook the classroom. We hid under our desks until it stopped. By then, my mind had gone blank. Our teacher calmed us down and gave us ten more minutes, so I finished every question and scored 85. Now, whenever I feel nervous during an exam, I remember that day and stay calm.",
+     "zh": {
+      "p1": "各種考試已經成為我高中生活中不可或缺的一部分。小考幾乎天天都有，檢查我懂不懂前一天上的課；段考會告訴我哪幾課應該複習；至於模擬考，則是幫我為大學入學考試做好準備。考試雖然讓人壓力很大，卻讓我每天都念一點書。",
+      "p2": "我考過最難忘的一次考試，是上高中以後的第一次數學段考。考試開始十分鐘，一場地震讓教室搖了起來。我們躲在桌子底下，一直等到地震停了；到了那時候，我的腦袋已經一片空白。老師先讓大家冷靜下來，又多給了我們十分鐘，所以我每一題都寫完了，考了 85 分。現在每當考試時覺得緊張，我就會想起那一天，讓自己保持冷靜。"
+     }
+    },
+    "levels": "用字：全篇都是一、二級的字，沒有三級以上的字。unforgettable（難忘的）詞彙表沒有收錄，它是題目本身給的字；midterm（段考）詞彙表也沒有收錄，不過段考是學生天天在講的考試，英文就是這個說法，網站範文也用了它，所以照樣使用；stressful（讓人壓力很大的）詞彙表也沒有收錄，它是二級字 stress 加上 -ful。",
+    "upgrade": [
+     {
+      "t": "兩個動詞共用一個主詞，並用現在完成式講學會了沒有",
+      "b": "Almost every day, quizzes check if I understand yesterday's lesson.",
+      "m": "Quizzes come almost every day and check whether I have learned yesterday's lesson.",
+      "why": "基礎版先用 Almost every day 開頭，再讓 quizzes 去 check。範文直接讓 Quizzes 當主詞，後面用 and 接上 (come almost every day) 和 (check …) 兩個動詞片語，兩個動作共用同一個主詞，一句就講完「多常考」和「考什麼」。check 後面接的是間接問句，要用直述句的語序 [whether] + [I] + [have learned]，問「是不是」的間接問句用 whether 或 if 都可以。have learned 是現在完成式，用來講過去的動作和現在的結果有關，也就是前一天學的東西，到考小考的時候學會了沒有。"
+     },
+     {
+      "t": "用「形容詞 + as + 主詞 + be 動詞」表示「雖然」",
+      "b": "Exams are stressful, but they keep me studying a little every day.",
+      "m": "Stressful as they are, exams keep me studying a little every day instead of cramming the night before.",
+      "why": "基礎版用 but 連接兩個子句：考試壓力大，但是有好處。範文寫成 [Stressful] + as + [they] + [are], [主要子句]，as 在這裡是連接詞，意思是「雖然」，形容詞要放在 as 的前面，整個片語和 Although they are stressful 意思相同；字典的例句 Angry as he was, he couldn't help smiling 就是這個句型。範文句尾還多了 (instead of cramming the night before)：instead of 是介系詞，後面的動詞要用動名詞，cram 是六級字，意思是考前臨時抱佛腳，拿來和「每天念一點」做對比。"
+     },
+     {
+      "t": "用 and 合併兩句，並寫出具體想不起什麼",
+      "b": "We hid under our desks until it stopped. By then, my mind had gone blank.",
+      "m": "We hid under our desks until the shaking stopped, and by then I could hardly remember a single formula.",
+      "why": "範文用逗號加 and 把兩個完整的子句連成一句：[We hid … until the shaking stopped], and [by then I could hardly remember …]，躲起來和想不起來一前一後，讀起來更連貫。hardly 的意思是「幾乎不」，本身就有否定的意思，所以不再加 not，後面也不接 no、never 這類否定字；(hardly … a single formula) 就是「幾乎連一個公式都想不起來」，比 my mind had gone blank 多說出想不起來的是什麼。formula（公式）是四級字。至於基礎版的 had gone，是過去完成式，表示到了地震停下來的時候，腦袋已經一片空白。"
+     },
+     {
+      "t": "換成 extra，再用 even 帶出意外的結果",
+      "b": "Our teacher calmed us down and gave us ten more minutes, so I finished every question and scored 85.",
+      "m": "Our teacher calmed us down and gave us ten extra minutes. I finished every question and even got an 85.",
+      "why": "ten more minutes 和 ten extra minutes 都是「多十分鐘」；extra 的字典解釋是「加在平常的份量之外」，所以 extra 點出這十分鐘是原本考試時間以外多給的。範文在動詞前面加了 even，even 用來表示讓人意外的事情，(even got an 85) 就是不但寫完了，竟然還考了 85 分。基礎版用 so 把多給時間和寫完考卷連成因果；範文沒有用 so，而是另起一句，再用 even 點出考了 85 分是意料之外的結果。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明各種考試為什麼是高中生活不可或缺的一部分）",
+      "items": [
+       {
+        "f": "___（哪一種考試） show(s) me which ___（哪些東西） I ___（還沒學好的情況）.",
+        "ex": "English quizzes show me which words I keep forgetting."
+       },
+       {
+        "f": "___（哪一種考試） help(s) me ___（原形動詞，帶來什麼好處）.",
+        "ex": "Speaking tests help me feel less afraid of talking in English."
+       },
+       {
+        "f": "Because of ___（哪一種考試）, I ___（養成了什麼習慣）.",
+        "ex": "Because of quizzes, I review my notes every night."
+       },
+       {
+        "f": "Exams are ___（缺點）, but they ___（好處）.",
+        "ex": "Exams are tiring, but they make me plan my time better."
+       }
+      ]
+     },
+     {
+      "name": "第二段（寫一次難忘的考試：發生了什麼事情、為什麼忘不了）",
+      "items": [
+       {
+        "f": "The most unforgettable exam I have ever taken is ___（哪一次考試）.",
+        "ex": "The most unforgettable exam I have ever taken is my first English listening test in high school."
+       },
+       {
+        "f": "___（一段時間） into the test, ___（發生了什麼事情）.",
+        "ex": "Twenty minutes into the test, the lights went out."
+       },
+       {
+        "f": "I was so ___（心情） that ___（結果）.",
+        "ex": "I was so nervous that I read the first question three times."
+       },
+       {
+        "f": "Now, whenever ___（遇到什麼情況）, I remember ___（那次考試） and ___（現在會怎麼做）.",
+        "ex": "Now, whenever a question looks too hard, I remember that test and read it again slowly."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -23733,6 +23979,88 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0106",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0270"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "If I won two million dollars in the lottery, I would help an organization that holds camps at small schools in remote areas. Last winter, I helped out at one of its camps. Small schools have few teachers, so these teachers often teach subjects they never studied, like music and art. If students never get a chance to try these subjects, they may never find out what they are good at. This means they will have fewer choices.",
+     "p2": "Our camp gave them that chance. We taught art, music, and PE as well as math and science. On the second day, a quiet boy picked up some drumsticks and did not want to put them down. With the money, the organization could hold more camps so that more students like him could discover what they love.",
+     "zh": {
+      "p1": "如果我買樂透中了兩百萬元，我會把錢拿去幫助一個組織，這個組織專門到偏遠地區的小學校辦營隊。去年寒假，我就在這個組織辦的一個營隊幫過忙。小學校的老師很少，所以這些老師常常教到自己沒學過的科目，像是音樂和美術。學生如果一直沒有機會試試這些科目，可能永遠不知道自己擅長什麼，這也就表示，他們能選的路會比較少。",
+      "p2": "我們的營隊就給了他們這個機會。除了數學和自然，我們也教美術、音樂和體育。第二天，一個很安靜的男生拿起鼓棒，就不想放下了。有了這筆錢，這個組織就能多辦幾個營隊，讓更多像他一樣的學生找到自己喜歡的事情。"
+     }
+    },
+    "levels": "用字：三級只有 remote（偏遠的）一個。lottery（樂透）是六級，但這是題目本身給的字，所以照樣使用；PE 是 physical education（體育課）的縮寫，physical 是四級，可是 PE 是學生天天講的說法，Merriam-Webster 也收了這個縮寫，所以照樣使用。除此之外沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 who 和 which 把兩句併成一句",
+      "b": "If students never get a chance to try these subjects, they may never find out what they are good at. This means they will have fewer choices.",
+      "m": "Students who never get a chance to try these subjects may never find out what they are good at, which leaves them with fewer choices later.",
+      "why": "基礎版先用 If 子句講條件，再另起一句，用 This 回指前面整件事。範文寫成 [Students] + who + [never get a chance to try these subjects]，who 代替 Students 當子句的主詞，同時又像連接詞一樣把「哪些學生」接進句子裡，所以不必再寫 if。句尾的 , which + [leaves them with fewer choices later] 指的不是前面某一個名詞，而是前面整件事；關係子句指整個句子或子句時，一律用 which 開頭，而且這是非限定子句，寫作時前面要加逗號。leave + [人] + with + [名詞] 表示某件事讓人落到某種處境，這裡就是「讓他們將來能選的路變少」。"
+     },
+     {
+      "t": "用 not only … but also 把兩組科目並排",
+      "b": "We taught art, music, and PE as well as math and science.",
+      "m": "We offered not only math and science but also art, music, and PE.",
+      "why": "兩句說的是同一件事：除了數學和自然，營隊還有美術、音樂和體育。基礎版寫成 [art, music, and PE] + as well as + [math and science]，as well as 的意思是「除了……之外，還有……」。範文用 not only (math and science) but also (art, music, and PE)，not only 和 but also 後面接的都是名詞，結構對稱。not only … but also 多用在比較正式的文字，很適合寫作文。"
+     },
+     {
+      "t": "would not 寫出「不肯」",
+      "b": "On the second day, a quiet boy picked up some drumsticks and did not want to put them down.",
+      "m": "On the second day, a quiet boy picked up a pair of drumsticks and would not put them down.",
+      "why": "基礎版的 did not want to 是「不想」。範文用 would not + [原形動詞]，would 在這裡是 will 的過去式，表示過去願不願意做某件事，would not 就是「不肯」；Cambridge 的例句 he said he wouldn't (= he refused) 就是這個意思。也就是說，基礎版只說男孩不想放下，範文的 would not 則帶有拒絕的意思。另外，put 的受詞是 them 這類代名詞時，一定要放在 put 和 down 中間：put (them) down，不寫 put down them。"
+     },
+     {
+      "t": "用 all that money 呼應開頭的兩百萬元",
+      "b": "With the money, the organization could hold more camps so that more students like him could discover what they love.",
+      "m": "With all that money, the organization could hold more camps like ours, so that more students like him could discover what they love.",
+      "why": "that 可以用來接著談前面已經提過的事情，這裡指的就是開頭那兩百萬元；all 是「全部」，(all) (that money) 合起來就是「這一整筆錢」，正好呼應題目說的全數金額。camps like ours 說明要多辦的是像我們這樣的營隊，把最後的假設和自己的經驗接了起來。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（要幫助的對象和原因）",
+      "items": [
+       {
+        "f": "If I won two million dollars in the lottery, I would help ___（要幫助的機構或團體） that ___（這個機構在做的事情）.",
+        "ex": "If I won two million dollars in the lottery, I would help a group that brings free meals to older people living alone."
+       },
+       {
+        "f": "Many ___（需要幫助的人） cannot ___（做不到的事情） because ___（原因）.",
+        "ex": "Many older people living alone cannot cook for themselves because they are too weak."
+       },
+       {
+        "f": "As a result, ___（造成的結果）.",
+        "ex": "As a result, some of them often skip meals."
+       },
+       {
+        "f": "Without help, ___（需要幫助的人） may never ___（沒有機會做的事情）.",
+        "ex": "Without help, these older people may never see a doctor when they get sick."
+       }
+      ]
+     },
+     {
+      "name": "第二段（親身經驗，以及這筆錢能帶來的改變）",
+      "items": [
+       {
+        "f": "I know this because I once ___（自己做過的事情）.",
+        "ex": "I know this because I once helped deliver meals to older people in my neighborhood."
+       },
+       {
+        "f": "I will never forget the ___（某個人） who ___（他做了什麼事情）.",
+        "ex": "I will never forget the grandmother who held my hand and thanked me again and again."
+       },
+       {
+        "f": "With all that money, ___（機構） could ___（能多做的事情） so that ___（受幫助的人能得到什麼）.",
+        "ex": "With all that money, the group could hire more drivers so that hot meals could reach more homes."
+       },
+       {
+        "f": "___（這筆錢能帶來的東西） would mean a lot to ___（受幫助的人） because ___（原因）.",
+        "ex": "A hot meal would mean a lot to these older people because it is often the only meal they eat all day."
        }
       ]
      }
@@ -26544,7 +26872,7 @@
       "p2": "至於那杯珍珠奶茶，說的是我們怎麼休息一下。珍珠奶茶是台灣發明的，街上幾乎每個轉角都有一家飲料店。學生考完試，會買一杯來喝。上班族到了下午，也會幫大家訂飲料。把這兩樣東西放在一起，就能讓人知道，這裡的人工作很認真，但總會抽出時間來點甜的。"
      }
     },
-    "levels": "用字：三級只有 bubble（泡泡）、invent（發明）兩個。capsule（膠囊）是六級字，不過 time capsule 是題目給的詞，所以照樣使用；除此之外沒有四級以上的字。",
+    "levels": "用字：三級只有 bubble（泡泡）、invent（發明）兩個。capsule（膠囊）是六級字，不過 time capsule 是題目給的詞，所以照樣使用。除此之外沒有四級以上的字。",
     "upgrade": [
      {
       "t": "換更精確的動詞，再用 with 補上騎士的樣子",
