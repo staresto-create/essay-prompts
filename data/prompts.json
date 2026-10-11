@@ -1681,6 +1681,88 @@
       "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 175,
+     "p1": "People love emojis because a text message shows only words. The reader cannot hear the writer's voice, so it is hard to tell if the writer is happy, angry, or just joking. If I reply \"Sure, no problem\" with the smiling face in the first picture, my friend knows I am glad to help. The angry face in the second picture does the opposite job: it shows that the writer is upset. In short, emojis show the feelings that words leave out.",
+     "p2": "An emoji can also cause trouble, though. One day, my class was arguing in our group chat about our class trip. When someone suggested the beach, I replied \"Anywhere works\" with the smiling face. I meant it, but two classmates thought I was laughing at them, and the argument started again. In a group chat, thirty people may read one face in thirty different ways. Now I use emojis only when my message is already clear without them. If I disagree, I write out my reason in full, so nobody has to guess.",
+     "zh": {
+      "p1": "大家喜歡用表情符號，是因為文字訊息只看得到字。讀的人聽不到寫的人的聲音，所以很難分辨對方是開心、生氣，還是只是在開玩笑。如果我回朋友一句「好啊，沒問題」，後面再加上第一張圖那個笑臉，朋友就知道我是樂意幫忙的。至於第二張圖那個生氣的臉，作用剛好相反：它讓人看出寫的人不高興了。簡單來說，文字沒說出來的感受，表情符號表達得出來。",
+      "p2": "不過，表情符號也可能惹出麻煩。有一天，我們班正在群組裡為了班遊的事情爭執。有人提議去海邊，我就回了一句「隨便」，後面加上那個笑臉。我是真心的，可是有兩個同學以為我在嘲笑他們，結果又吵了起來。在群組裡，同一張臉，三十個人可能有三十種解讀。所以我現在只有在訊息本身就夠清楚的時候，才會用表情符號。要是我不同意，就把理由完整寫出來，這樣誰都不必猜。"
+     }
+    },
+    "levels": "用字：三級只有 chat（聊天）、opposite（相反的）兩個，沒有四級以上的字。emoji 是題目本身給的字，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 but not 把訊息「有的」和「缺的」併成一句",
+      "b": "The reader cannot hear the writer's voice, so it is hard to tell if the writer is happy, angry, or just joking.",
+      "m": "A written message carries the words but not the voice behind them, so the reader cannot tell whether a sentence is warm, impatient, or simply a joke.",
+      "why": "基礎版從讀的人說起，只講「聽不到聲音」。範文從訊息本身說起，寫成 [A written message] + carries + (the words) + but not + (the voice behind them)，but not 後面省略了重複的 carries，所以一句話就把訊息傳得出來的和傳不出來的並排對照。後半句 whether 後面列出的三種可能（warm、impatient、simply a joke），也比 happy、angry 更貼近傳訊息時真正難分辨的語氣。"
+     },
+     {
+      "t": "用分詞片語開頭，取代 If 子句",
+      "b": "If I reply \"Sure, no problem\" with the smiling face in the first picture, my friend knows I am glad to help.",
+      "m": "Attached to a short reply such as \"Sure, no problem,\" it tells the reader that the writer is glad to help rather than answering out of duty.",
+      "why": "基礎版用 If 子句講「把笑臉加在回覆後面」。範文改用過去分詞片語開頭：[Attached to + 名詞], + [主詞] + [動詞]…。分詞片語沒有自己的主詞，它說的就是後面主要子句的主詞 it（那個笑臉）；笑臉是「被接上去」的，所以用過去分詞 attached。句尾再用 rather than answering out of duty 補一句「而不是出於義務在應付」，笑臉帶來的差別就更清楚了。"
+     },
+     {
+      "t": "用 read A as B 點出誤會從哪裡來",
+      "b": "I meant it, but two classmates thought I was laughing at them, and the argument started again.",
+      "m": "Two classmates read the cheerful face on top of a flat two-word answer as mocking them, and the argument started again, this time about me.",
+      "why": "基礎版的 thought I was laughing at them 只說同學怎麼想。範文用 [主詞] + read + [A] + as + [B]（把 A 解讀成 B），A 寫成 (the cheerful face on top of a flat two-word answer)，直接點出誤會的來源：開心的臉配上冷淡的兩個字。as 是介系詞，所以後面接動名詞 mocking；句尾的 this time about me 再補上「這次吵的是我」，讓讀者看到誤會的後果。"
+     },
+     {
+      "t": "用 What 名詞子句當主詞，把做法放在句尾",
+      "b": "Now I use emojis only when my message is already clear without them.",
+      "m": "What I do now is to reserve emojis for messages that are already clear without them.",
+      "why": "[What I do now] 是名詞子句，當整句的主詞，意思是「我現在做的事情」；is 後面才接 (to reserve…)，也就是先預告「我現在的做法是」，再把答案放在句尾，讀者的注意力就落在做法上。這種句型 is 後面的原形動詞可以加 to，也可以不加。reserve A for B 是「把 A 留給 B 用」，比 use…only when… 更精簡。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（人們為何喜歡用表情符號，並舉例說明它在溝通上的功能）",
+      "items": [
+       {
+        "f": "People like using emojis because ___（原因）.",
+        "ex": "People like using emojis because they make a short message sound friendly."
+       },
+       {
+        "f": "If I add the ___（哪一個表情符號） to a message like \"___（訊息內容）,\" the reader knows that ___（讀的人會明白什麼）.",
+        "ex": "If I add the heart-eyes face to a message like \"Here is my new puppy,\" the reader knows that I love her very much."
+       },
+       {
+        "f": "The ___（哪一張圖的表情符號） shows that the writer ___（寫的人的心情）.",
+        "ex": "The laughing face in the third picture shows that the writer finds the joke really funny."
+       },
+       {
+        "f": "With just one emoji, the writer does not need to ___（省下的麻煩）.",
+        "ex": "With just one emoji, the writer does not need to write a long message about how he feels."
+       }
+      ]
+     },
+     {
+      "name": "第二段（以自己或親友的經驗說明表情符號造成的誤會，並提出化解的方法）",
+      "items": [
+       {
+        "f": "When ___（誰） replied to my message with ___（哪個表情符號）, I thought ___（我以為的意思）, but actually ___（對方真正的意思）.",
+        "ex": "When my grandfather replied to my message with the laughing face, I thought he was laughing at me, but actually he just wanted to say he was happy."
+       },
+       {
+        "f": "The trouble started because ___（誤會的原因）.",
+        "ex": "The trouble started because my grandfather did not know what the laughing face really meant."
+       },
+       {
+        "f": "To avoid this kind of problem, I now ___（化解的方法） when ___（什麼情況）.",
+        "ex": "To avoid this kind of problem, I now call my friends when the topic is serious."
+       },
+       {
+        "f": "Before I send an emoji, I ___（傳之前會先做的事情） so that ___（這樣做的好處）.",
+        "ex": "Before I send an emoji, I read my message again so that my friends will not get the wrong idea."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -1962,6 +2044,88 @@
        }
       ],
       "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 178,
+     "p1": "The two parks in the pictures are for different visitors. Picture A is a playground. A double slide comes down from a tower with a round roof, and a jungle gym stands on the left. The ground is covered with soft rubber, so a child who falls will not get hurt. In picture B, tall trees stand on both sides of a wide lawn, and their shadows fall across the grass. Park A is full of action, while park B is calm and quiet.",
+     "p2": "My ideal park would have both. The park near my home has only exercise machines, and few people go there. A small playground would sit in one corner near the gate, because children who live in apartments have no other place to run. The rest of the park would stay open and green, like park B. The trees should be old and tall, since young trees are too small to block the sun. I would put the benches under the trees. That way, noisy kids and quiet older people can enjoy the same park.",
+     "zh": {
+      "p1": "兩張照片裡的公園，是給不同的人用的。圖 A 是一座遊樂場，一道雙滑梯從一座圓屋頂的塔上延伸下來，左邊則立著一座攀爬架。地面是軟橡膠鋪的，所以孩子就算跌倒也不會受傷。至於圖 B，高大的樹木立在一大片草地的兩側，樹影落在草地上。圖 A 的公園熱熱鬧鬧、充滿活動，圖 B 的公園則平靜又安靜。",
+      "p2": "我心目中的理想公園，兩者都要有。我家附近的那座公園只有運動器材，去的人很少。如果由我來設計，靠近大門的一角會有一座小小的遊樂場，因為住在公寓裡的孩子沒有別的地方可以跑。至於公園其他的地方，就像圖 B 那樣維持開闊、一片綠意。樹要老、要高，因為小樹太小，擋不住太陽。長椅我會放在樹下。這樣一來，愛吵鬧的孩子和喜歡安靜的老人家，就能一起享受同一座公園。"
+     }
+    },
+    "levels": "用字：三級只有 jungle（叢林；jungle gym 是攀爬架）、lawn（草坪）、shadow（影子）、tower（塔）四個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "句尾的比喻，從 like + 名詞升級成 the way + 子句",
+      "b": "The rest of the park would stay open and green, like park B.",
+      "m": "The rest of the ground would stay open and green, the way park B is.",
+      "why": "基礎版用 (like + [名詞]) 收尾，說「像圖 B 那樣」，完全正確。範文改用 (the way + [主詞] + [動詞])：the way 後面接的是一個子句，park B is 把「圖 B 現在就是這個樣子」說了出來，比單一個名詞多了一層「狀態」。另一個理由是範文前一句才用過 like the one in picture A，這裡換成 the way park B is，就不會兩句連著用 like。"
+     },
+     {
+      "t": "換更精確的動詞，再加上看得到的細節",
+      "b": "In picture B, tall trees stand on both sides of a wide lawn, and their shadows fall across the grass.",
+      "m": "Tall trees rise along both sides of an open lawn, their shadows fall across the grass in long stripes, and a path curves away toward a flower bed further back.",
+      "why": "stand 只說樹「立著」，rise 則有「往上長高」的感覺，正好配 tall trees。範文在 fall across the grass 後面加上 in long stripes，讀者看得出樹影是一條一條的；接著再用 a path curves away toward… 帶出步道往後彎過去，畫面就從近處的草地延伸到遠處。基礎版的兩個子句沒有錯，只是範文多寫了幾樣細節，閱卷老師比較看得到圖片裡的東西。"
+     },
+     {
+      "t": "用分號把兩個對比的句子並排",
+      "b": "Park A is full of action, while park B is calm and quiet.",
+      "m": "Park A offers action; park B offers space and silence.",
+      "why": "基礎版用 while 連接兩個子句，表示「A 這樣，B 卻那樣」，這樣寫完全正確。範文改用分號：[Park A] + offers + [名詞]; [park B] + offers + [名詞]，兩個子句意思緊密相關，所以不用連接詞，直接用分號並排。兩邊的句型和動詞都一樣，只換主詞和後面的名詞，讀者一眼就看出對比在哪裡；這種寫法一篇用一兩次就好，用多了反而會顯得刻意。"
+     },
+     {
+      "t": "用具體的數字說明理由",
+      "b": "The trees should be old and tall, since young trees are too small to block the sun.",
+      "m": "First, the trees should be old and tall, since a young tree gives almost no shade for its first twenty years.",
+      "why": "兩句都用 since 帶出理由，差在理由寫得多具體。基礎版說小樹 [too + 形容詞 + to + 原形動詞]，太小而擋不住太陽，這是一般的說法。範文寫的是一棵樹種下去的頭二十年 (for its first twenty years) 幾乎給不了樹蔭，有了數字，讀者就知道為什麼要留老樹，理由也比較有說服力。shade 是曬不到太陽的那片涼處，正好就是公園需要的東西。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述圖 A 和圖 B 公園的特色）",
+      "items": [
+       {
+        "f": "Picture A shows a park for ___（哪些人）, with ___（看得到的設施或景物）.",
+        "ex": "Picture A shows a park for families, with picnic tables and a small pond."
+       },
+       {
+        "f": "In picture B, ___（什麼東西） stand(s) ___（在哪裡）, and ___（另一個細節）.",
+        "ex": "In picture B, two long benches stand by a lake, and some ducks are swimming nearby."
+       },
+       {
+        "f": "The ground is covered with ___（地面鋪了什麼）, so ___（這樣有什麼好處）.",
+        "ex": "The ground is covered with sand, so children can dig holes and build castles."
+       },
+       {
+        "f": "Park A is good for ___（適合做的事情）, while park B is good for ___（適合做的另一件事情）.",
+        "ex": "Park A is good for playing ball games, while park B is good for reading a book under the trees."
+       }
+      ]
+     },
+     {
+      "name": "第二段（理想公園的樣貌、特色與理由）",
+      "items": [
+       {
+        "f": "My ideal park would have ___（設施或景觀） because ___（理由）.",
+        "ex": "My ideal park would have a basketball court because my friends and I love to play after school."
+       },
+       {
+        "f": "There should be ___（設施） near ___（地點） so that ___（誰） can ___（做什麼）.",
+        "ex": "There should be water fountains near the paths so that joggers can get a drink of water."
+       },
+       {
+        "f": "Unlike the park near my home, my ideal park would ___（不同的地方）.",
+        "ex": "Unlike the park near my home, my ideal park would have clean restrooms and bright lights at night."
+       },
+       {
+        "f": "That way, ___（哪些人） can ___（在公園裡做什麼）.",
+        "ex": "That way, dog owners and runners can both use the park at the same time."
+       }
+      ]
      }
     ]
    }
@@ -2323,6 +2487,88 @@
       "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 178,
+     "p1": "This news photo shows a flower farm on a spring weekend. Small white flowers cover the whole field, and a dozen people are standing among them instead of on the path. Two young women are at the front. One has a bag on her back, and the other is stepping through the flowers with her arms out. Behind them, some people are bending down to take pictures. A sign on the right asks visitors not to walk into the field, but nobody seems to care. A few narrow paths already run through the flowers.",
+     "p2": "I was there that morning, and I walked into the field too, so I am not blaming anyone in the picture. When I arrived, other visitors had already made paths, so I followed them. Most of us follow the rules when someone is watching, and that morning nobody was. Since that day, I have always stayed on the path at flower farms. It is a small way to thank the farmer who spent a whole year growing the flowers we all came to photograph.",
+     "zh": {
+      "p1": "這張新聞照片拍的是一座花田，時間是春天的一個週末。整片田開滿了白色的小花，十幾個人站在花叢裡，而不是站在步道上。走在最前面的是兩個年輕女生，一個背著包包，另一個雙手張開，從花叢中穿過去。在她們後面，有些人正彎下腰拍照。右邊有一塊牌子，請遊客不要走進花田，可是好像沒有人理會。花田裡也已經有幾條窄窄的小路穿過花叢。",
+      "p2": "那天早上我也在現場，自己也走進了花田，所以我並不是在責怪照片裡的任何人。我到的時候，其他遊客早就踩出了幾條路，我也就跟著走了進去。我們多數人在有人看著的時候會守規矩，偏偏那天早上沒有人在看。從那天起，我去花田一定都走在步道上。這麼做雖然只是小事，卻是向花農道謝的一種方式，畢竟我們大家專程來拍的這些花，是他花了整整一年種出來的。"
+     }
+    },
+    "levels": "用字：全篇都是一、二級的字，沒有三級以上的字。",
+    "upgrade": [
+     {
+      "t": "換更精確的動詞，寫出姿勢和目的",
+      "b": "Behind them, some people are bending down to take pictures.",
+      "m": "Further back, several people are crouching down or bending over for a better shot.",
+      "why": "基礎版的 bending down to take pictures 只說了「彎腰拍照」。範文把姿勢分成兩種：crouch down 是整個人蹲低，bend over 是站著把上半身彎下去，用 (crouching down) or (bending over) 並列，閱卷老師就看得出後面的人姿勢不一樣。後面的 for a better shot 用 [for] + [名詞] 說目的，shot 在這裡是「拍到的一張照片」，加上 better 就點出他們為什麼要這樣蹲、這樣彎。"
+     },
+     {
+      "t": "地方副詞放句首的倒裝，再用分詞片語補說明",
+      "b": "A sign on the right asks visitors not to walk into the field, but nobody seems to care.",
+      "m": "In the center of the field stands a sign, put there to remind visitors not to trample the flowers, but nobody seems to have read it before stepping inside.",
+      "why": "範文把表示地點的片語搬到句首，寫成 [In the center of the field] + stands + [a sign]，主詞和動詞對調。這種倒裝只用在 stand、lie、sit、be 這類表示「在哪裡」的不及物動詞，而且主詞要是名詞（a sign），不能是代名詞；先讓讀者看到地點，再把告示牌帶出來，多半出現在書面描述，很適合描述圖片。接著 (put there to remind visitors …) 是過去分詞片語，等於省略了 which was，用來補充牌子為什麼立在那裡；最後 seems to have read 用完成式不定詞 [seem] + to have + [過去分詞]，說的是踏進去「之前」有沒有讀過，時間比 seems 更早。"
+     },
+     {
+      "t": "用分詞片語加入具體細節",
+      "b": "A few narrow paths already run through the flowers.",
+      "m": "A few thin paths, worn through the field by earlier visitors, already run toward the middle, and the two women at the front walk right into the widest of them.",
+      "why": "基礎版只說有小路，沒說路是怎麼來的。範文在主詞後面插入 (worn through the field by earlier visitors)，這是過去分詞片語，等於 which were worn …，wear a path through 是「走的人多了把地面磨出一條路」，by earlier visitors 交代是誰踩出來的。後半句再用 and 接上 (the two women … walk right into the widest of them)，把小路和最前面的兩個人連起來，一句話就把第一段收在「有人照著別人踩出的路往裡走」。"
+     },
+     {
+      "t": "By the time 加冒號，把經過講成道理",
+      "b": "When I arrived, other visitors had already made paths, so I followed them.",
+      "m": "By the time I arrived, the paths were already there, and that was the trouble: once footprints lead the way in, a sign stops sounding like a rule and starts sounding like a suggestion.",
+      "why": "By the time 是「等到……的時候」，重點在後面主要子句的事情在那之前就已經發生了，所以主要子句常配 already 或完成式，像範文的 the paths were already there；也因為這樣，By the time 常帶有「來不及」的意味，很適合講「我到的時候路早就在了」。範文接著用 that was the trouble 點出問題所在，冒號後面再解釋：[once] + [子句], [主詞] + stops (V-ing) and starts (V-ing)，stop 後面接 V-ing 是「不再做某事」，用 stop 和 start 的對比說明告示牌的份量怎麼變輕。基礎版只交代自己做了什麼，範文多寫了一層「為什麼會這樣」，看法就有了說服力。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述圖片裡的人、事、物與發生的事情）",
+      "items": [
+       {
+        "f": "This news photo shows ___（什麼地方）, where ___（人正在做什麼）.",
+        "ex": "This news photo shows a famous old street, where hundreds of tourists are pushing past one another."
+       },
+       {
+        "f": "Instead of ___（應該待的地方或該做的事情）, the visitors are ___（實際上在做什麼）.",
+        "ex": "Instead of staying behind the rope, the visitors are climbing onto the old stone wall."
+       },
+       {
+        "f": "A sign ___（在哪裡） asks visitors not to ___（禁止的行為）, but ___（大家實際的反應）.",
+        "ex": "A sign next to the pond asks visitors not to feed the fish, but a little boy is throwing bread into the water."
+       },
+       {
+        "f": "Some people are ___（正在做的動作） so that they can ___（目的）.",
+        "ex": "Some people are standing on the benches so that they can get a better view of the parade."
+       }
+      ]
+     },
+     {
+      "name": "第二段（以遊客或場所主人的立場表達看法）",
+      "items": [
+       {
+        "f": "As the owner of ___（什麼場所）, I am happy that ___（遊客帶來的好處）, but ___（遊客帶來的困擾）.",
+        "ex": "As the owner of a small strawberry farm, I am happy that more people visit on weekends, but some of them leave their trash behind."
+       },
+       {
+        "f": "When visitors ___（不當的行為）, it takes ___（多久） for ___（受害的東西） to ___（恢復原狀）.",
+        "ex": "When visitors walk on the young plants, it takes weeks for the plants to grow back."
+       },
+       {
+        "f": "As a visitor, I always ___（自己會怎麼做）, because ___（原因）.",
+        "ex": "As a visitor, I always take my trash home, because the trash cans at popular spots are often full."
+       },
+       {
+        "f": "If I were the owner, I would ___（做法） so that ___（希望達到的結果）.",
+        "ex": "If I were the owner, I would put up a low fence so that visitors could enjoy the flowers without stepping on them."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -2600,6 +2846,88 @@
         "w": "irrigation",
         "zh": "灌溉",
         "own": true
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 179,
+     "p1": "The two pictures show what happens after months without rain. In the first picture, a huge dam stands on the right, but the lake behind it is almost empty. The dry mud near the water has broken into hundreds of pieces. In the second picture, a crowd has gathered around a water truck. Some people are bending over to fill big plastic bottles, and others are waiting their turn. When the lake is empty, the taps at home soon run dry.",
+     "p2": "The biggest cause is the weather. Taiwan needs typhoons and spring rain to fill the lakes behind its dams, so a year with few typhoons and little rain leaves them half empty. But people are part of the problem, too. Many of these lakes are filling up with mud, and old pipes leak a lot of tap water. We also waste water every day. To stop this from happening again, the government should clean out the mud and replace old pipes. As for us, we can take shorter showers and turn off the tap while brushing our teeth.",
+     "zh": {
+      "p1": "這兩張圖片呈現的是好幾個月不下雨之後會發生什麼事情。第一張圖裡，右邊有一座巨大的水壩，可是後面的水庫幾乎空了，水邊乾掉的泥地也已經裂成好幾百塊。至於第二張圖，一群人圍在一輛水車旁邊，有些人彎著腰把大塑膠桶裝滿，其他人則在等著輪到自己。水庫一旦空了，家裡的水龍頭很快也就沒水了。",
+      "p2": "最大的原因是天氣。台灣要靠颱風和春雨把水庫裝滿，所以要是哪一年颱風少、雨又不多，水庫就只剩半滿。不過，人也是問題的一部分。很多水庫裡的泥沙越積越多，老舊的管線又漏掉不少自來水，再加上我們每天也都在浪費水。要避免這種事情再度發生，政府應該清掉淤泥，並且汰換老舊的管線。至於我們自己，可以洗澡洗快一點，刷牙時把水龍頭關掉。"
+     }
+    },
+    "levels": "用字：三級只有 dam、leak、plastic、replace、tap 五個，沒有四級以上的字。水庫 reservoir 是五級字，所以基礎版改說 the lake behind the dam（水壩後面的湖），英文平常就這樣講水庫裡的那片水。",
+    "upgrade": [
+     {
+      "t": "用 where 子句和比喻把畫面寫具體",
+      "b": "The dry mud near the water has broken into hundreds of pieces.",
+      "m": "Where the lake used to be, the ground is now bare mud, cracked into hundreds of pieces like a broken puzzle.",
+      "why": "範文用 [Where] + (the lake used to be) 開頭，where 子句說的是「原本是湖的那個地方」，used to + [原形動詞] 表示以前如此、現在不是了，正好和後面的 now 對比，讀者一看就知道水退了多少。後半的 cracked into … 是過去分詞片語，補充說明泥地的樣子；再用 like + [名詞] 比成拆散的拼圖，龜裂的畫面就清楚多了。"
+     },
+     {
+      "t": "用 while 表示對比，再補上動作的細節",
+      "b": "Some people are bending over to fill big plastic bottles, and others are waiting their turn.",
+      "m": "Some are bending over to fill plastic jugs from the taps at the back of the truck, while others wait their turn with empty containers at their feet.",
+      "why": "兩句都用 [Some] …, [others] … 分出兩群人。基礎版用 and 只是把兩件事情並列，範文改用 while，這裡的 while 表示對比（一邊……，另一邊……），不是「當……的時候」。範文還加上 from the taps at the back of the truck 和 with empty containers at their feet 兩個介系詞片語，說出水從哪裡來、空水箱放在哪裡，畫面就更完整。"
+     },
+     {
+      "t": "用具體的比例代替籠統的 a lot of",
+      "b": "Many of these lakes are filling up with mud, and old pipes leak a lot of tap water.",
+      "m": "Many reservoirs are slowly filling up with mud, which leaves less room for water, and more than a tenth of our tap water leaks out of old pipes before it ever reaches our homes.",
+      "why": "範文先用 [, which] + (leaves less room for water) 補充淤泥造成的結果，which 代替前面整件事情，讓原因和後果連在一起。漏水的部分用 [more than a tenth of] + [名詞] 寫出比例，比 a lot of 更有說服力；這種「比例 + of + 名詞」當主詞時，動詞跟著 of 後面的名詞走，water 不可數，所以用單數 leaks。"
+     },
+     {
+      "t": "用 so that 說出措施的目的",
+      "b": "To stop this from happening again, the government should clean out the mud and replace old pipes.",
+      "m": "To keep such scenes from happening again, the government should remove the mud from reservoirs regularly and replace aging pipes, so that every drop of rain is put to use.",
+      "why": "兩句都用 [To keep／stop] + [受詞] + from + [V-ing] 開頭，對應題目的「以避免類似景象再度發生」。範文多了 regularly，說明清淤要定期做，措施就更具體；句尾再接 [so that] + (every drop of rain is put to use)，so that 引導表示目的的子句，交代這些措施要達到什麼效果，也和前面講的淤積、漏水兩個原因對上。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述兩張圖片中的人、事、物）",
+      "items": [
+       {
+        "f": "In the first picture, ___（看到的東西）, but ___（不對勁的地方）.",
+        "ex": "In the first picture, a river runs past a small village, but its water has turned black."
+       },
+       {
+        "f": "Where ___（原本有什麼） used to be, there is now only ___（現在剩下什麼）.",
+        "ex": "Where the rice fields used to be, there is now only dry, brown ground."
+       },
+       {
+        "f": "A crowd of ___（哪些人） has gathered around ___（什麼東西）.",
+        "ex": "A crowd of farmers has gathered around a well in the middle of the village."
+       },
+       {
+        "f": "Some people are ___（正在做什麼）, while others are ___（另一群人在做什麼）.",
+        "ex": "Some people are carrying buckets of water home, while others are washing clothes by the river."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說明可能的原因，並提出具體的因應措施）",
+      "items": [
+       {
+        "f": "One reason is that ___（原因一）. Another is that ___（原因二）.",
+        "ex": "One reason is that factories pour dirty water into the river. Another is that people throw trash along its banks."
+       },
+       {
+        "f": "Besides the weather, ___（人為的原因） also ___（造成什麼結果）.",
+        "ex": "Besides the weather, the new factories in the area also use up much of the water."
+       },
+       {
+        "f": "To keep this from happening again, ___（誰） should ___（具體做什麼）.",
+        "ex": "To keep this from happening again, the city government should check the water pipes every year."
+       },
+       {
+        "f": "___（誰） should ___（措施） so that ___（這樣做的好處）.",
+        "ex": "Schools should collect rainwater on their roofs so that students can use it to water the gardens."
        }
       ]
      }
@@ -3231,6 +3559,88 @@
        }
       ],
       "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 177,
+     "p1": "These news pictures show the first day of a department store's yearly sale. In the first picture, the glass doors have just opened, and a crowd is rushing in. Some shoppers are already running. The second picture shows the inside of the store. People are standing close together, and store workers in dark jackets are busy helping them. In the middle, a young woman in glasses is trying to get through the crowd.",
+     "p2": "What happened next was not on the news. The woman in glasses and an older woman in a red scarf reached a table of coats at the same time, and each took a sleeve of the same gray coat, the last one in that size. The older woman said it was for her daughter, who never spent money on herself. Holding on tighter, the young woman said she had seen it first. The people around them went quiet. After a moment, she let go. On the bus home, she did not miss the coat, but she felt bad about fighting so hard for it.",
+     "zh": {
+      "p1": "這幾張新聞照片拍的是一家百貨公司週年慶的第一天。第一張照片裡，玻璃門才剛打開，人群就衝了進來，有些客人已經跑了起來。第二張照片拍的是店裡的樣子：客人擠在一起，穿深色外套的店員忙著招呼他們。畫面正中間，有一位戴眼鏡的年輕女生正想穿過人群。",
+      "p2": "接下來發生的事情就沒上新聞了。那位戴眼鏡的女生和一位圍紅圍巾的阿姨同時走到擺大衣的桌子前，兩人各抓住同一件灰色大衣的一隻袖子，而且那個尺寸只剩這一件。阿姨說這件大衣是要買給女兒的，女兒從來捨不得為自己花錢。年輕女生把袖子抓得更緊，說是她先看到的。四周的人都安靜了下來。過了一會兒，她就鬆手了。坐公車回家的路上，她並不覺得少了那件大衣有什麼可惜，倒是為自己剛才搶得那麼兇覺得過意不去。"
+     }
+    },
+    "levels": "用字：三級只有 rush（衝）、scarf（圍巾）、sleeve（袖子）、tight（緊的）、yearly（每年的）五個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用分號和獨立分詞構句把幾個畫面併成一句",
+      "b": "In the first picture, the glass doors have just opened, and a crowd is rushing in. Some shoppers are already running.",
+      "m": "In the first one, the glass doors have just been pushed open, and the crowd is rushing in through the narrow gap; a caption across the bottom of the screen tells viewers the moment the doors gave way, and several shoppers are already running, coats flapping behind them.",
+      "why": "基礎版的 have just opened 只說門開了，範文改成被動 [the glass doors] + have just been pushed open，讀者就知道門是被人推開的，跟圖上的字幕「玻璃門一推開」對得上。分號把兩組關係密切的句子連成一句，前半講門和人群，後半講字幕和跑起來的人。句尾的 (coats flapping behind them) 是獨立分詞構句，它有自己的主詞 coats，等於 and their coats are flapping behind them 的省略，一句話就多了一個畫面。"
+     },
+     {
+      "t": "換成更精確的說法，並加入看得到的細節",
+      "b": "People are standing close together, and store workers in dark jackets are busy helping them.",
+      "m": "Shoppers stand three deep around a counter, holding paper bags above their heads, while the staff in dark uniforms hand goods across as fast as they can.",
+      "why": "standing close together 只說人很擠，範文的 stand three deep 是「站了三層」：[數字] + deep 是固定說法，表示人或東西排成幾排、幾層（字典例句：People were standing four deep at the bar.），數字一出來，擠的程度就看得見。(holding paper bags above their heads) 是分詞片語，主詞和前面的 Shoppers 相同，所以省去主詞、動詞改成 V-ing，補上手上的動作。while 連接兩件同時發生的事情：[客人在做什麼] + while + [店員在做什麼]；店員具體在做的是 hand goods across（把商品遞過去），比 busy helping them 更清楚。"
+     },
+     {
+      "t": "用「動詞 + one's way」寫出前進的方式",
+      "b": "In the middle, a young woman in glasses is trying to get through the crowd.",
+      "m": "In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her a queue stretches all the way back to the entrance.",
+      "why": "get through 只說她要穿過人群，範文的 [主詞] + elbow + one's way + through… 把「怎麼穿過去」也寫出來：用手肘推開別人往前擠。這個結構裡，動詞說的是前進的方式，one's way 是固定的受詞，後面再接 through、toward 這類表示方向的介系詞。toward a table of coats 說出她要去哪裡，順便替第二段的大衣埋下伏筆；後半句用 and 再接一個子句，把她身後一路排到門口的隊伍也帶進畫面。"
+     },
+     {
+      "t": "用 Only after 開頭的倒裝句強調「這時才」",
+      "b": "On the bus home, she did not miss the coat, but she felt bad about fighting so hard for it.",
+      "m": "Only after she sat down on the bus home did she feel ashamed, not of losing a coat, but of how loudly she had wanted it.",
+      "why": "基礎版照時間順序直接說她在公車上的感受。範文把 Only after 子句放到句首，強調「一直到坐上公車，她才…」；Only 帶的時間副詞放句首時，後面的主要子句要倒裝，寫成 [Only after + 子句] + did + [主詞] + [原形動詞]。要注意倒裝的是後面的主要子句 did she feel，Only after 帶的 she sat down 照一般語序。ashamed 是四級字，後面接 of 說明為什麼感到羞愧。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述兩張圖片的場景與正在發生的狀況）",
+      "items": [
+       {
+        "f": "These pictures were taken at ___（地點） on ___（什麼日子）.",
+        "ex": "These pictures were taken at a shopping mall on the first morning of its New Year sale."
+       },
+       {
+        "f": "As soon as the doors open, ___（人群做什麼）.",
+        "ex": "As soon as the doors open, dozens of shoppers run toward the escalator."
+       },
+       {
+        "f": "Many people are crowding around ___（哪個櫃位或地方）, hoping to ___（想買到什麼）.",
+        "ex": "Many people are crowding around the shoe counter, hoping to get a pair of sneakers at half price."
+       },
+       {
+        "f": "Among the crowd, ___（某個人） is ___（正在做什麼）, and he/she looks ___（看起來怎樣）.",
+        "ex": "Among the crowd, a little boy is holding his mother's hand, and he looks scared."
+       }
+      ]
+     },
+     {
+      "name": "第二段（敘述事件接下來的發展和結果）",
+      "items": [
+       {
+        "f": "Just as ___（某人正要做什麼）, ___（突然發生的事情）.",
+        "ex": "Just as I reached for the last pair of shoes, a man in a black cap grabbed them."
+       },
+       {
+        "f": "When ___（某人） saw ___（看到什麼）, he/she decided to ___（決定怎麼做）.",
+        "ex": "When the manager saw the long line, she decided to open two more counters."
+       },
+       {
+        "f": "By the time ___（某人做完什麼）, ___（已經是什麼情況）.",
+        "ex": "By the time we got to the second floor, all the cheap rice cookers were already gone."
+       },
+       {
+        "f": "In the end, ___（事情的結果）, and ___（某人的反應）.",
+        "ex": "In the end, the boy found his mother at the information desk, and both of them laughed."
+       }
+      ]
      }
     ]
    }
@@ -4018,6 +4428,88 @@
         "w": "a migrant worker",
         "zh": "移工",
         "own": true
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 178,
+     "p1": "I am proudest of two everyday things in Taiwan. One is the health insurance card in my wallet. Everyone here has one, so a grandmother in a small town and a manager in Taipei pay about the same price to see a doctor. When my grandmother had an operation, my family talked about her health, not the bill. The other is the garbage truck. Most evenings, a truck comes down our lane playing piano music, and my neighbors bring out separate bags for kitchen waste, plastic, and paper. Nobody is watching, but they all sort their garbage. A habit like this says a lot about Taiwan.",
+     "p2": "Neither of these is a beautiful view, so a poster cannot show them well. To introduce them, I would ask for help from people who already live here. Exchange students and foreign workers talk to their families every week. A school or a city could give them a camera and let them make videos. People would believe these videos more than words from the government. The truck can tell its own story.",
+     "zh": {
+      "p1": "台灣最讓我驕傲的，是兩件很日常的事情。一件是我皮夾裡的那張健保卡。這裡每個人都有一張，所以一個住在小鎮的阿嬤和一個在台北上班的主管，看醫生付的錢都差不多。我阿嬤開刀的時候，家裡討論的是她的身體，不是帳單。另一件是垃圾車。大部分的晚上，都會有一輛垃圾車放著鋼琴曲開進我們那條巷子，鄰居們就把廚餘、塑膠和紙類分裝在不同的袋子裡提出來。旁邊沒有人盯著，可是大家都會做垃圾分類。這樣的習慣，很能說明台灣是個什麼樣的地方。",
+      "p2": "這兩件事都不是漂亮的風景，所以海報沒辦法把它們好好呈現出來。如果要介紹這兩件事，我會請已經住在這裡的人幫忙。交換學生和移工，每個星期都會跟家人聊天。學校或城市可以給他們一台相機，讓他們拍影片；比起政府說的話，大家會更相信這些影片。至於垃圾車，它自己就能說出自己的故事。"
+     }
+    },
+    "levels": "用字：三級只有 exchange、operation、plastic、poster 四個。insurance 是四級，但健保卡在英文裡就叫 health insurance card，別無其他說法，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 it means + 名詞子句說出健保卡代表的意義",
+      "b": "Everyone here has one, so a grandmother in a small town and a manager in Taipei pay about the same price to see a doctor.",
+      "m": "Everyone here carries one, and it means a grandmother in a small town and a manager in Taipei pay something close to the same price to see a doctor.",
+      "why": "基礎版用 so 接結果，意思是「因為人人都有，所以付的錢差不多」。範文改成 [it] + means + [名詞子句]，it 指的是人人都帶著一張健保卡這件事，means 後面省略了 that，整個子句說明這件事代表什麼，所以讀起來是在解釋制度的意義，而不只是講因果。carries 也比 has 具體，寫出健保卡是隨身帶著的東西。"
+     },
+     {
+      "t": "用 what 引導的名詞子句當主詞，把重點放在句尾",
+      "b": "When my grandmother had an operation, my family talked about her health, not the bill.",
+      "m": "My grandmother had an operation two years ago, and what my family talked about afterwards was her recovery, not the bill.",
+      "why": "範文後半句的主詞是 [what my family talked about afterwards]（家人事後談的事情），what 同時代替「談的內容」又帶出子句，動詞用 was。這樣寫，句子最後落在 her recovery, not the bill，讀者的注意力就停在作者想強調的對比上。recovery（康復）也比 health 更精確，指的是開刀之後慢慢好起來的過程。"
+     },
+     {
+      "t": "加入具體細節，讓分類的畫面更清楚",
+      "b": "Most evenings, a truck comes down our lane playing piano music, and my neighbors bring out separate bags for kitchen waste, plastic, and paper.",
+      "m": "Most evenings a truck comes down our lane playing a piece of classical piano music, and my neighbors come out holding sorted bags, kitchen waste in one, plastic in another, paper flattened.",
+      "why": "範文先用 holding sorted bags 寫出鄰居手上提著分好的袋子，後面再接三個簡短的補充：(kitchen waste in one), (plastic in another), (paper flattened)，每一個都是 [名詞] + [介系詞片語或過去分詞]，意思等於 with kitchen waste in one bag。這種寫法不用再加動詞，就把袋子裡裝什麼、紙類還壓平了都交代清楚，畫面比 separate bags for… 更具體。"
+     },
+     {
+      "t": "換更精確的動詞，並把結論放在前面",
+      "b": "Neither of these is a beautiful view, so a poster cannot show them well.",
+      "m": "Neither of these belongs on a poster, because neither is a view.",
+      "why": "基礎版先講原因、再用 so 帶出結果；範文倒過來，先下結論，再用 because 補理由，段落一開頭就讓讀者知道作者的立場。belong on + [地方] 是「適合放在某處」，比 cannot show them well 更直接。neither 當主詞時，動詞一般用單數，所以寫 belongs 和 is。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述兩個讓你引以為榮的台灣特色，並說明原因）",
+      "items": [
+       {
+        "f": "I am proudest of two things about Taiwan: ___（第一個特色） and ___（第二個特色）.",
+        "ex": "I am proudest of two things about Taiwan: our convenience stores and our temple festivals."
+       },
+       {
+        "f": "___（第一個特色） makes me proud because ___（原因）.",
+        "ex": "Our MRT system makes me proud because it is clean, safe, and almost always on time."
+       },
+       {
+        "f": "In Taiwan, even ___（某種人） can ___（做得到的事情）.",
+        "ex": "In Taiwan, even a young girl can take the bus home alone late at night."
+       },
+       {
+        "f": "This shows that people in Taiwan ___（特質或習慣）.",
+        "ex": "This shows that people in Taiwan care about one another."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說明可以用什麼方式介紹或行銷這些台灣特色）",
+      "items": [
+       {
+        "f": "To introduce ___（台灣特色） to the world, I would ___（做法）.",
+        "ex": "To introduce our temple festivals to the world, I would invite foreign students to join one."
+       },
+       {
+        "f": "We could ask ___（哪些人） to ___（做什麼） because ___（理由）.",
+        "ex": "We could ask popular YouTubers to visit our night markets because millions of people watch their videos."
+       },
+       {
+        "f": "A short video about ___（主題） would show visitors ___（讓人看到什麼）.",
+        "ex": "A short video about the MRT would show visitors how easy it is to travel around Taipei."
+       },
+       {
+        "f": "If foreigners ___（親身經歷什麼）, they will ___（結果）.",
+        "ex": "If foreigners try bubble tea in Taiwan, they will want to come back."
        }
       ]
      }
