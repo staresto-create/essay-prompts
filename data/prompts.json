@@ -5065,6 +5065,88 @@
       "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 179,
+     "p1": "A dessert shop opened near my school, and a TV show called its cheese tarts the best in the city. On its first Saturday, my cousin and I walked by at nine in the morning, and there was already a long line outside. Neither of us planned to buy anything, but ten minutes later we were standing in that line too. At first, the people around us were cheerful. An hour later, they kept checking their phones. After almost two hours, we finally got our tarts, and they tasted just like the ones from the bakery next to my house.",
+     "p2": "Now I do not think we were really waiting for the tarts. The longer the line got, the more everyone believed that the food at the front must be special. What kept us there was the fear of missing out. Of course, some shops are worth the wait. These days, though, before I join a line, I ask myself one question: would I still want this if nobody else were here? If the answer is no, I keep walking.",
+     "zh": {
+      "p1": "我們學校附近開了一家甜點店，電視節目說他們的起司塔是全市最好吃的。開幕後的第一個星期六早上九點，我和表哥經過那裡，外面已經排了長長的隊伍。我們兩個本來都沒打算買什麼，可是十分鐘後，我們也站進那條隊伍裡了。一開始，周圍的人心情都還不錯；過了一個小時，大家就一直在看手機。將近兩個小時之後，我們終於買到起司塔，吃起來卻跟我家隔壁麵包店賣的一模一樣。",
+      "p2": "現在想想，我覺得我們那時候其實並不是在等起司塔。隊伍排得愈長，大家就愈相信排在最前面的食物一定很特別。也就是說，讓我們一直待在那裡的，是怕錯過的心理。當然，有些店確實值得排。不過現在要加入一條隊伍之前，我會先問自己一個問題：如果這裡沒有別人，我還會想要這個東西嗎？如果答案是不會，我就繼續往前走。"
+     }
+    },
+    "levels": "用字：三級只有 dessert（甜點）、cheerful（開心的）兩個，沒有四級以上的字。tart（塔）不在詞彙表裡，可是起司塔就叫 cheese tart，網站範文也這樣寫，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用過去完成式交代「本來」，用 yet 帶出轉折",
+      "b": "Neither of us planned to buy anything, but ten minutes later we were standing in that line too.",
+      "m": "Neither of us had planned to buy anything, yet ten minutes later we were standing in that line too.",
+      "why": "「本來沒打算買」發生在「站進隊伍」之前，範文用過去完成式 [主詞] + had + [過去分詞] 把這個先後關係標出來，讀者一看就知道是「原本的打算」。基礎版用過去式 planned 也是對的，只是先後要靠上下文去理解。至於 yet，意思和 but 一樣是「可是」，不過多了一點「出乎意料」的味道，正好配合「本來不想買，結果還是排了」這個轉折。"
+     },
+     {
+      "t": "用 only to V 把「等很久」和「結果失望」合成一句",
+      "b": "After almost two hours, we finally got our tarts, and they tasted just like the ones from the bakery next to my house.",
+      "m": "We waited for almost two hours, only to find that the tarts were no different from the ones sold at the bakery beside my house.",
+      "why": "基礎版用 and 把兩件事接起來，讀者要自己去體會「失望」。範文寫成 [前面做的事], only to + [原形動詞]，only to V 放在句尾，表示「結果卻……」，專門用來帶出出乎意料、通常令人失望的結果，所以一句話就寫出了「等了那麼久，換來的卻是這樣」。後面的 be no different from（跟……沒什麼兩樣）也比 just like 更直接說出「不值得」的意思。"
+     },
+     {
+      "t": "用 Looking back 開頭，用 not … at all 加強語氣",
+      "b": "Now I do not think we were really waiting for the tarts.",
+      "m": "Looking back, I do not think we were standing there for the tarts at all.",
+      "why": "Looking back（回頭想想）是分詞片語，省掉的主詞就是後面的 I；放在句首，讀者馬上知道接下來是事後的想法，也把第二段和第一段的經驗接起來。兩句都把否定放在 think 前面，寫成 I do not think + [肯定的子句]：英文說「我認為……不是……」時通常這樣寫，不說 I think + [否定的子句]。範文再用 not … at all（根本不是）取代基礎版的 not really，語氣更肯定。"
+     },
+     {
+      "t": "Since that Saturday 配現在完成式",
+      "b": "These days, though, before I join a line, I ask myself one question: would I still want this if nobody else were here?",
+      "m": "Since that Saturday, though, I have learned to ask myself one question before I join a line: would I still want this if nobody else were here?",
+      "why": "基礎版的 These days（現在）配現在式 ask，只說現在的習慣。範文用 Since that Saturday（從那個星期六起）講的是從過去延續到現在的一段時間，所以要配現在完成式 [主詞] + have + [過去分詞]，寫成 I have learned to + [原形動詞]，意思是「從那次之後學會了，到現在都這樣做」，同時交代了這個習慣是從排隊那件事來的。兩句冒號後面的問題都用 if + 過去式 were，因為「這裡沒有別人」是和眼前事實相反的假設，所以主句用 would。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（舉例描述大排長龍的情形）",
+      "items": [
+       {
+        "f": "After ___（媒體介紹了什麼）, a long line formed outside ___（地點） every day.",
+        "ex": "After a TV show talked about the beef noodles at a small shop near the station, a long line formed outside the shop every day."
+       },
+       {
+        "f": "When ___（新開的景點或店） first opened, people ___（怎麼湧進去）.",
+        "ex": "When the new night market first opened, people came from all over the city to try the food."
+       },
+       {
+        "f": "We waited for ___（等了多久）, and ___（排隊時發生的情形）.",
+        "ex": "We waited for over an hour in the sun, and the kids behind us started to cry."
+       },
+       {
+        "f": "When we finally ___（終於輪到或拿到）, ___（令人失望的地方）.",
+        "ex": "When we finally got into the flower show, it was so crowded that we could hardly see any flowers."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說明對排隊現象的心得或感想）",
+      "items": [
+       {
+        "f": "I think many people join a long line because ___（原因）.",
+        "ex": "I think many people join a long line because they want to post photos online."
+       },
+       {
+        "f": "The longer ___（排得多久或隊伍多長）, the more ___（結果）.",
+        "ex": "The longer people wait, the more they expect from the food."
+       },
+       {
+        "f": "A long line does not always mean that ___（不一定代表的事情）.",
+        "ex": "A long line does not always mean that the food is good."
+       },
+       {
+        "f": "Before I join a line, I ___（先做什麼） so that ___（目的）.",
+        "ex": "Before I join a line, I read reviews online so that I don't waste my time."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -5873,6 +5955,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 177,
+     "p1": "On the first morning of our summer vacation, my father was in a good mood and whistled as he put our bags into the trunk. We were going to the science museum, and my little sister could not wait. Soon after we left home, the traffic got heavier, and then nothing moved at all. For two hours, we sat between a truck and a van. My father stopped whistling. My sister asked how far it was, but nobody could answer her.",
+     "p2": "It was after eleven when we finally got to the museum. A huge crowd stood in front of the entrance, and a guard told us that the wait was three hours. We were so shocked that none of us said a word. Then my mother pointed at a river nearby and reminded us that the trip was about being together. We bought noodles from a food stand, ate them by the water, and walked along the river until dark. We never got inside the museum, but my sister still talks about that day with a smile.",
+     "zh": {
+      "p1": "暑假第一天早上，爸爸心情很好，一邊把我們的行李放進後車廂，一邊吹著口哨。我們要去科學博物館，妹妹早就等不及了。出門沒多久，路上的車子就越來越多，到後來乾脆完全不動了。整整兩個小時，我們就卡在一台卡車和一台廂型車中間。爸爸不再吹口哨了。妹妹問還有多遠，可是沒有人答得出來。",
+      "p2": "我們終於到博物館的時候，已經十一點多了。入口前面站著一大群人，警衛跟我們說要排三個小時。我們嚇呆了，誰也說不出話來。這時候媽媽指了指附近的一條河，提醒我們這趟出門，為的就是一家人在一起。於是我們跟路邊攤買了麵，在水邊吃完，再沿著河邊一路散步到天黑。那天我們始終沒進博物館，不過妹妹現在講起那一天，臉上還是帶著笑。"
+     }
+    },
+    "levels": "用字：三級只有 trunk（後車廂）、van（廂型車）、whistle（吹口哨）、remind（提醒）四個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 such … that 把兩件事合成一句因果",
+      "b": "On the first morning of our summer vacation, my father was in a good mood and whistled as he put our bags into the trunk.",
+      "m": "On the first morning of our summer holiday, my father was in such a good mood that he whistled while he lifted our suitcase into the trunk.",
+      "why": "基礎版用 and 把「心情好」和「吹口哨」並排，兩件事看起來一樣重。範文寫成 [主詞] + was in such a + [形容詞] + [名詞] + that + [結果子句]，such 先把「心情好」推到某個程度，that 後面再說出好到什麼地步，讀者就看得出吹口哨是心情好的結果。such 後面接的是名詞片語（a good mood），如果後面只有形容詞，就改用 so，例如 so happy that…。"
+     },
+     {
+      "t": "用過去完成進行式寫出事前的期待",
+      "b": "We were going to the science museum, and my little sister could not wait.",
+      "m": "We were going to the science museum in the city, and my sister had been counting the days all week.",
+      "why": "could not wait 本身就是道地的說法，只是它只說妹妹很期待；範文改寫成看得見的動作：整個星期都在數日子。故事主線用過去式，數日子是在出發之前就一直在做的事，所以用 [主詞] + had been + [V-ing]，把時間往前推，表示「到那天早上為止，已經持續做了一段時間」。count the days 是英文的慣用說法，意思就是迫不及待地等著某件事到來。"
+     },
+     {
+      "t": "用 farther 和 because 把問答寫得更清楚",
+      "b": "My sister asked how far it was, but nobody could answer her.",
+      "m": "My sister asked how much farther it was, and nobody answered her, because nobody knew.",
+      "why": "how far 只問「有多遠」，範文的 how much farther 問的是「還要再多遠」，多了「已經走了一段」的意思，比較符合在車上坐了很久的情境；much 在這裡用來修飾比較級 farther（講距離時 farther 和 further 都可以用）。後面再加上 because nobody knew，把沒人回答的原因交代出來，讀者就知道大人不是不理她，而是自己也不知道還要塞多久。"
+     },
+     {
+      "t": "換成更精確的字",
+      "b": "We bought noodles from a food stand, ate them by the water, and walked along the river until dark.",
+      "m": "We bought noodles from a vendor, ate them in the shade by the water, and strolled along the bank until dusk.",
+      "why": "兩句的骨架一樣，都是 (bought …), (ate …), and (walked／strolled …) 三個動作並列，差別在用字。vendor 是擺攤賣東西的人；in the shade 補上「在樹蔭下」這個畫面；stroll 是悠閒地慢慢走，比 walk 更能表現一家人放鬆的心情；bank 指河岸，dusk 指傍晚天快黑的時候。結構不用變，把幾個字換得精確一點，畫面就清楚多了。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（出門時的心情與路上塞車的情形）",
+      "items": [
+       {
+        "f": "On the morning of ___（出遊的日子）, we were ready to go to ___（目的地）.",
+        "ex": "On the morning of my brother's birthday, we were ready to go to the zoo."
+       },
+       {
+        "f": "___（家人） was so excited that ___（興奮得做了什麼事情）.",
+        "ex": "My grandmother was so excited that she got up at five and made sandwiches for everyone."
+       },
+       {
+        "f": "We were stuck in traffic for ___（多久）, and ___（車上的情形）.",
+        "ex": "We were stuck in traffic for an hour, and my little brother fell asleep in the back seat."
+       },
+       {
+        "f": "Every few minutes, ___（某人） asked ___（問了什麼）.",
+        "ex": "Every few minutes, my cousin asked when we would get to the beach."
+       }
+      ]
+     },
+     {
+      "name": "第二段（到了目的地的情形與最後的決定）",
+      "items": [
+       {
+        "f": "When we got to ___（目的地）, we saw ___（看到的情形）.",
+        "ex": "When we got to the zoo, we saw hundreds of people waiting in line for tickets."
+       },
+       {
+        "f": "Instead of ___（原本要做的事情，用 V-ing）, we decided to ___（改做的事情）.",
+        "ex": "Instead of waiting in line, we decided to have a picnic in the park across the street."
+       },
+       {
+        "f": "It turned out to be ___（結果是怎樣的一天） because ___（原因）.",
+        "ex": "It turned out to be a wonderful day because we found a quiet park with a small lake."
+       },
+       {
+        "f": "Although we never ___（沒做成的事情）, we ___（得到的收穫）.",
+        "ex": "Although we never saw the pandas, we learned how to fly a kite from a kind man in the park."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6429,7 +6593,89 @@
     "label": "作文佳作",
     "note": "大考中心 105 年 3 月 29 日公布英文作文佳作十五篇，附原卷影像檔與簡要評分說明——十五篇是本題庫這十二題裡最多的一年。十五篇的第一段理由相當集中，大致分成三組：家裡的環境要靠全家一起維持（第 1、4、5、7、10、15 篇）、家事不是媽媽或婦女一個人的事（第 3、6、12、13 篇）、孩子做家事是在學負責與獨立（第 2、11 篇）。第二段則幾乎都在寫自家成員各自負責哪些家事。想寫得不一樣的，有幾篇值得看：第 6 篇把家事切成私領域各自負責、公領域大家分擔，是十五篇裡分法最清楚的一篇；第 13 篇不寫理想分工，寫的是家裡只有爸爸在外工作、媽媽幾乎做所有家事的實況；第 7 篇從獨子的角度寫，沒有兄弟姊妹可以分擔；第 2 篇整段寫清掃廁所馬桶的辛勞；第 12 篇寫全家排班輪流，再從洗碗寫到凡事不能視為理所當然。官方結語另外寫明，這十五篇在詞彙、文法、句子結構與拼字、體例的掌握上仍有些許缺失，但仍屬佳作。另外，官方頁面的前言寫的是國文考科十篇，與這一頁不符；英文佳作的篇數寫在下一段，實際為十五篇。"
    },
-   "source": "大學入學考試中心 105 學年度學科能力測驗英文考科"
+   "source": "大學入學考試中心 105 學年度學科能力測驗英文考科",
+   "basic": {
+    "essay": {
+     "words": 166,
+     "p1": "Keeping a home clean should not be one person's job. A family is a team, and everyone should do their share. Some people still think that cooking and cleaning are a mother's job, but that idea makes little sense today, because many mothers work outside the home, too. Sharing the work does not mean that everyone does the same amount. Family members can divide the work by age, time, and ability, so no one has to do it all alone.",
+     "p2": "In my family, we decide who does what every Sunday evening. My father cooks on weekends, and my mother does the laundry. My sister and I take turns washing the dishes and taking out the trash. At first, I complained because I had homework to do. Later on, I noticed how tired my mother looked after work, and I realized how much she did for us. Now I clean my own room without being told, and I feel more like a real member of the team.",
+     "zh": {
+      "p1": "把家裡維持乾淨，不應該只是一個人的工作。一個家庭就是一個團隊，每個人都該做自己的那一份。有些人到現在還認為煮飯、打掃是媽媽的事，可是這種想法在今天已經沒什麼道理，因為現在很多媽媽也要出門上班。至於分擔工作，並不是說每個人做的量都要一樣，而是家人可以照年紀、時間和能力來分配，這樣就沒有人得一個人做完全部。",
+      "p2": "我家每個星期天晚上會決定誰做什麼。爸爸週末煮飯，媽媽洗衣服，我和妹妹則輪流洗碗和倒垃圾。起初我會抱怨，因為我還有功課要寫。後來我注意到媽媽下班回來看起來有多累，才發現她為我們做了多少事情。現在不用別人提醒，我就會自己打掃房間，也覺得自己更像這個團隊真正的一分子。"
+     }
+    },
+    "levels": "用字：三級只有 complain（抱怨）、laundry（要洗的衣服）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "換更精確的字，並把理由改寫成 especially when 子句",
+      "b": "Some people still think that cooking and cleaning are a mother's job, but that idea makes little sense today, because many mothers work outside the home, too.",
+      "m": "Some people still believe that housework belongs to mothers, but I think gender roles at home make little sense today, especially when both parents work.",
+      "why": "基礎版用 cooking and cleaning 一樣一樣列出家事，範文用一個字 housework 就全部包進來，再寫成 [housework] + belongs to + [mothers]，意思是「家事歸媽媽管」，比 is a mother's job 更像在描述一種觀念。後半句的 gender roles（性別角色）直接點出問題的名字；理由也不用 because 子句，而是放在句尾的 especially when + [子句]：because 是交代一般的理由，especially when 則是指出這個看法在哪一種情況下最說得通，所以讀起來更有重點。"
+     },
+     {
+      "t": "用被動語態與 so that 寫出分工的原則",
+      "b": "Family members can divide the work by age, time, and ability, so no one has to do it all alone.",
+      "m": "It means the work is divided according to age, time, and ability, so that no one is left with all of it.",
+      "why": "基礎版以 Family members 當主詞，講的是「誰來分」；範文寫成 [the work] + is divided + according to + [依據]，用被動語態把焦點放在「工作怎麼分」，因為這一段在談原則，誰動手分並不重要。後面的 so that 表示「好讓、以便」，說的是這樣分的目的，而單用 so 通常只表示結果（所以）；be left with + [某物] 是「最後剩下某物要自己承擔」，正好寫出沒人分擔時那個人的處境。"
+     },
+     {
+      "t": "用 remember + V-ing 和 while 子句加入具體細節",
+      "b": "At first, I complained because I had homework to do.",
+      "m": "I still remember complaining that I had homework to do while my sister was watching television.",
+      "why": "remember + [V-ing] 是「記得做過某事」，指的是過去真的發生過的事情；要是寫成 remember to V，意思就變成「記得要去做某事」。基礎版寫 complained because + [理由]，範文改成 complaining that + [抱怨的內容]，抱怨的話本身就是理由，所以不需要再用 because；接著用 while + [過去進行式] 交代抱怨的當下妹妹正在看電視，一忙一閒兩件事同時發生，讀者自然明白為什麼會不甘心。"
+     },
+     {
+      "t": "用過去完成式與 take ... for granted 寫出反省",
+      "b": "Later on, I noticed how tired my mother looked after work, and I realized how much she did for us.",
+      "m": "Later on, however, I noticed how tired my mother looked after a full day at work, and I realized that I had taken her efforts for granted.",
+      "why": "realized 是過去式，而「把媽媽的付出當成理所當然」發生在更早之前、一直持續到發現的那一刻，所以範文用過去完成式 [I] + had taken + [某事] + for granted，表示「比過去某一刻更早」。take [某事] + for granted 是「把某事視為理所當然」，比 how much she did for us 多了一層自我反省。範文也把 after work 寫成 after a full day at work，加上「一整天」，媽媽的累就更具體；句中的 however 則標出前後的轉折。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（對家事分工的看法及理由）",
+      "items": [
+       {
+        "f": "In my opinion, keeping a home clean is ___（誰的責任） because ___（理由）.",
+        "ex": "In my opinion, keeping a home clean is everyone's job because everyone uses the kitchen and the bathroom."
+       },
+       {
+        "f": "Many people think that ___（某種舊觀念）, but ___（你的反駁）.",
+        "ex": "Many older people think that cooking is a woman's job, but men can cook just as well."
+       },
+       {
+        "f": "Children should also help at home because ___（理由）.",
+        "ex": "Children should also help at home because they will have to live on their own someday."
+       },
+       {
+        "f": "Family members can divide the work by ___（分工的依據）, so that ___（這樣分的好處）.",
+        "ex": "Family members can divide the work by what each person is good at, so that every job gets done well."
+       }
+      ]
+     },
+     {
+      "name": "第二段（家中分工情形及自己做家事的經驗與感想）",
+      "items": [
+       {
+        "f": "In my family, ___（某人） is in charge of ___（某項家事）, and ___（某人） ___（做什麼、什麼時候做）.",
+        "ex": "In my family, my grandmother is in charge of cooking, and my brother and I clean the bathroom on Saturdays."
+       },
+       {
+        "f": "My job at home is to ___（你負責的家事）.",
+        "ex": "My job at home is to feed our dog and walk her every evening."
+       },
+       {
+        "f": "At first, I ___（起初的感受或做法）, but later on I ___（後來的改變）.",
+        "ex": "At first, I hated washing the dishes, but later on I found that it helped me relax after studying."
+       },
+       {
+        "f": "___（做哪些家事） has taught me that ___（學到的道理）.",
+        "ex": "Helping at home has taught me that a clean home does not stay clean by itself."
+       }
+      ]
+     }
+    ]
+   }
   },
   {
    "id": "E105_JCEE",
@@ -7181,6 +7427,89 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0196"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 177,
+     "p1": "I would choose EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself. From the title, I do not think this book teaches people how to look better. It is probably about why we judge others by their looks and how much that hurts. The book may start with ordinary scenes. A girl deletes a photo because her arms look too big in it. A boy never takes off his jacket in summer. A whole class laughs at someone's new haircut. I guess the last chapter is about accepting the face in the mirror, because that is the hardest part.",
+     "p2": "I want to read this book because the problem in its title shows up in my class every day. Some of my friends spend twenty minutes on one photo before they post it, and they keep it only if it gets enough likes. I do the same thing. What I need is to stop comparing myself to the faces on my phone. The book cannot change my face. Still, it may make me kinder to my classmates and to myself.",
+     "zh": {
+      "p1": "我會選 EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself 這一本。從書名看，我不認為這本書是教人怎麼變好看。它談的大概是我們為什麼會以貌取人，以及這樣做有多傷人。這本書可能會從一些平常的場景寫起：有個女生因為照片裡的手臂看起來太粗，就把照片刪掉；有個男生大熱天也從來不脫外套；還有全班同學一起取笑某個人剛剪的新髮型。我猜最後一章談的是怎麼接受鏡子裡的那張臉，因為那是最難的部分。",
+      "p2": "我想讀這本書，是因為書名說的問題，每天都出現在我們班上。我有些朋友一張照片要弄上二十分鐘才發出去；發出去以後，還要有夠多的讚才會留著。我自己也一樣。我需要的，是不再拿自己跟手機上那些臉比。這本書改變不了我的長相；儘管如此，它也許能讓我對同學、也對自己好一點。"
+     }
+    },
+    "note": "這一題的範文有兩篇，基礎版對照的是選 EVERYONE IS BEAUTIFUL 的那一篇。",
+    "levels": "用字：全篇都是一、二級的字，沒有三級以上的字。delete（刪除）詞彙表沒有收錄，但刪掉照片英文就說 delete a photo，學生每天在手機上也看得到這個字，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用冒號把幾個場景收進一句",
+      "b": "The book may start with ordinary scenes. A girl deletes a photo because her arms look too big in it. A boy never takes off his jacket in summer. A whole class laughs at someone's new haircut.",
+      "m": "The author may open with ordinary scenes: a girl deleting a photo because her arms look too big in it, a boy who never takes off his jacket in summer, a class laughing at someone's new haircut.",
+      "why": "基礎版用了四個句子：先說書會從哪些場景寫起，再一個一個寫出來。範文寫成 [The author may open with ordinary scenes] + 冒號（open with 就是 start with，書「以……開頭」） + (a girl deleting …), (a boy who …), (a class laughing …)，冒號表示後面要列出前面說的 scenes，三個名詞片語並列，讀者一眼就看得出這是同一件事的三個例子。a girl deleting a photo 的 V-ing 直接修飾前面的名詞，意思和 a girl who is deleting a photo 一樣；中間那個例子則用 who 關係子句，所以三個例子都是「名詞＋修飾語」的形式。"
+     },
+     {
+      "t": "用 that habit 說清楚傷人的是什麼",
+      "b": "It is probably about why we judge others by their looks and how much that hurts.",
+      "m": "It is probably about why we judge people by their faces so quickly, and how much that habit hurts.",
+      "why": "基礎版的 that 指前面整件事，讀者要回頭想一下 that 是什麼。範文寫成 how much + (that habit) + hurts，用 habit（習慣）把「以貌取人」說成一種習慣，傷人的是什麼就很清楚；前半句再加上 so quickly，點出問題在於太快下判斷。至於 judge others by their looks 和 judge people by their faces，兩種說法都是「以貌取人」；looks 用複數當名詞時指的是長相、外貌，Longman 的例句就是 You should never judge a person by their looks."
+     },
+     {
+      "t": "spend + 時間 + V-ing，再用 worth + V-ing 說出值不值得",
+      "b": "Some of my friends spend twenty minutes on one photo before they post it, and they keep it only if it gets enough likes.",
+      "m": "Some of my friends spend twenty minutes editing one photo before they post it, and the photo still has to get enough likes to feel worth keeping.",
+      "why": "基礎版的 spend twenty minutes on one photo 用 on 接名詞，只說時間花在照片上；範文寫成 [spend] + [時間] + [V-ing]，也就是 spend twenty minutes editing one photo，直接說出花時間在做什麼。後半句 [the photo] + still has to + [get enough likes] + to feel worth keeping，worth 後面接 V-ing，表示「值得（被）怎麼樣」，這裡是照片值得留下來。still 加進來，意思就多了一層：修了二十分鐘還不夠，還得等讚數夠多。"
+     },
+     {
+      "t": "先加條件，再用 both … and 讓結尾呼應前文",
+      "b": "The book cannot change my face. Still, it may make me kinder to my classmates and to myself.",
+      "m": "If it works, I will not become more beautiful, but I will probably be kinder, both to my classmates and to the person in my own photos.",
+      "why": "基礎版寫成兩句，用 Still（儘管如此）轉折。範文先用 If it works 加一個條件，口氣比較保留，符合還沒讀過這本書的情況。後面寫成 both (to my classmates) and (to the person in my own photos)，both … and 前後兩部分結構相同，都是 to + 名詞。the person in my own photos 指的就是自己，但這樣說會讓讀者想起前面修照片的事情，結尾就和前文接上了。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（選哪一本書，以及推想書的內容）",
+      "items": [
+       {
+        "f": "Judging from the title, the book is probably about ___（從書名推想到的主題）.",
+        "ex": "Judging from the title, the book is probably about how we can stop being afraid of making mistakes in front of others."
+       },
+       {
+        "f": "The book may start with stories about ___（什麼樣的人） who ___（遇到什麼事情）.",
+        "ex": "The book may start with stories about students who are too shy to share their ideas in group work."
+       },
+       {
+        "f": "In the middle of the book, the author probably shows how ___（書中的人學會做什麼）.",
+        "ex": "In the middle of the book, the author probably shows how a quiet boy learns to lead his basketball team."
+       },
+       {
+        "f": "I guess the last chapter is about ___（最後一章的主題）, because ___（原因）.",
+        "ex": "I guess the last chapter is about helping others become leaders, because a good leader does not work alone."
+       }
+      ]
+     },
+     {
+      "name": "第二段（選擇這本書的理由）",
+      "items": [
+       {
+        "f": "I chose this book because ___（書名提到的問題） is something I see in my own life.",
+        "ex": "I chose this book because the fear of speaking up is something I see in my own life."
+       },
+       {
+        "f": "When ___（跟書名有關的情況）, I ___（自己當時的反應）.",
+        "ex": "When my group needed someone to give the report, I kept looking at the floor."
+       },
+       {
+        "f": "What I need is to learn how to ___（想從這本書學會的事情）.",
+        "ex": "What I need is to learn how to give my opinion even when others disagree."
+       },
+       {
+        "f": "This book may not make me ___（不會有的改變）, but it may help me ___（可能會有的改變）.",
+        "ex": "This book may not make me a class leader, but it may help me speak up in group work."
        }
       ]
      }
@@ -7956,6 +8285,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0005"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 176,
+     "p1": "After school, Amy and her classmate Ben walked home through the park. Amy was looking down at her phone, and Ben was wearing big headphones, smiling with his eyes closed. Then Amy walked right into a tree. A mother and her little girl stopped to look at her, but Ben heard nothing and kept walking. A few steps later, he walked out into the road. A car stopped right in front of him, and its horn sounded again and again. Ben still heard only his music.",
+     "p2": "Just then, Amy looked up and saw him in the road. She shouted his name, but he did not turn around, so she ran over and pulled him back by the arm. The car went past very close to him. It was a narrow escape. When Ben pulled off his headphones, he saw the red mark on Amy's head. They both started to laugh, though neither thought it was funny. For the rest of the way home, Amy kept her phone in her bag, and Ben kept his music off.",
+     "zh": {
+      "p1": "放學後，Amy 和同班的 Ben 一起穿過公園走路回家。Amy 一路低著頭看手機，Ben 則戴著一副大耳機，閉著眼睛在笑。接著 Amy 就直直撞上了一棵樹。有一對母女停下來看她，可是 Ben 什麼都沒聽到，還是繼續往前走。再走幾步，他就走進了馬路。一輛車停在他正前方，喇叭響了一次又一次。Ben 耳朵裡還是只有自己的音樂。",
+      "p2": "就在這時候，Amy 抬起頭，看到他在馬路上。她大聲喊他的名字，他卻沒有回頭，所以她跑過去，抓住他的手臂把他拉回來。車子從他身邊開過去，離他非常近。真的是好險。Ben 把耳機拿下來以後，才看到 Amy 頭上那塊紅印。兩個人都笑了出來，雖然誰也不覺得這件事好笑。回家剩下的那段路，Amy 一直把手機收在包包裡，Ben 的音樂也一直關著。"
+     }
+    },
+    "levels": "用字：三級只有 horn（喇叭）一個；四級以上只有 headphones（耳機）一個，是六級，可是圖片裡畫的就是耳機，學生天天在講，也沒有別的說法，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 when 子句代替 but … so …，再把動作寫得更具體",
+      "b": "She shouted his name, but he did not turn around, so she ran over and pulled him back by the arm.",
+      "m": "She shouted his name, and when he did not turn, she ran three steps and pulled him back by the arm.",
+      "why": "基礎版用 but 和 so 把三件事一路接下去，意思清楚，只是連接詞一個接一個。範文改成 (She shouted his name), and + when + [他沒回頭], + [她的動作]，when 子句交代「在什麼情況下」，主要子句接著說她怎麼做，前因後果一看就懂。另外 ran three steps（衝了三步）比 ran over 多了一個數字，讀者馬上感覺到距離很近、時間很趕。"
+     },
+     {
+      "t": "用獨立分詞構句把兩句併成一句",
+      "b": "A few steps later, he walked out into the road. A car stopped right in front of him, and its horn sounded again and again.",
+      "m": "A few steps later he stepped off the sidewalk into the road, and a car stopped right in front of him, its horn sounding again and again.",
+      "why": "範文句尾的 its horn sounding again and again 是 [名詞] + [V-ing] 的獨立分詞構句：its horn 是 sounding 自己的主詞，跟前面主要子句的主詞 a car 不同，sounding 表示「正在響」，整個片語附在句尾，補充車子停下來的同時發生的事情，所以不必像基礎版那樣再用 and 接一個完整子句 (its horn sounded again and again)。前面再用 stepped off the sidewalk into the road（從人行道踏進馬路）寫出他是從哪裡走到哪裡，比 walked out into the road 更有畫面。這種構句比較常見於書面敘事，基礎版用 and 接兩個子句，同樣正確。"
+     },
+     {
+      "t": "用 close enough to + 原形動詞寫出有多近",
+      "b": "The car went past very close to him.",
+      "m": "The car went past close enough to move his hair.",
+      "why": "very close 只告訴讀者「很近」，到底多近要讀者自己想像。範文寫成 [形容詞] + enough + to + [原形動詞]，意思是「近到足以……」，enough 放在形容詞後面，to 後面接的就是近到什麼程度的結果。車子開過去連他的頭髮都被吹動，讀者自然就感覺到差一點就撞上了。"
+     },
+     {
+      "t": "用 with + 名詞 + 補語，把兩個動作併成一個畫面",
+      "b": "For the rest of the way home, Amy kept her phone in her bag, and Ben kept his music off.",
+      "m": "They walked the rest of the way home with her phone in her bag and his music off.",
+      "why": "基礎版用兩個子句分別說兩個人做了什麼。範文用 They walked … with + [名詞] + [補語] 的句型：(her phone) (in her bag) and (his music) (off)，with 後面的名詞接上介系詞片語或副詞，描寫兩個人走路回家時的狀態。主要動詞只剩 walked 一個，句子更簡潔，兩個並列的 with 片語結構相同，讀起來也比較整齊。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（寫出前三格：兩個人分心、撞上樹、走進馬路）",
+      "items": [
+       {
+        "f": "___（人名） was so busy ___（V-ing，分心在做的事情） that he/she did not notice ___（沒注意到的東西）.",
+        "ex": "On the way to the bus stop, Kevin was so busy playing a game on his phone that he did not notice the red light."
+       },
+       {
+        "f": "___（人名） was wearing headphones, so he/she did not hear ___（沒聽到的聲音）.",
+        "ex": "My brother was wearing headphones, so he did not hear the doorbell."
+       },
+       {
+        "f": "Suddenly, ___（人名） walked right into ___（撞上的東西）, and ___（旁邊的人有什麼反應）.",
+        "ex": "Suddenly, Lisa walked right into a glass door, and everyone in the store turned to look at her."
+       },
+       {
+        "f": "A ___（車子） stopped right in front of ___（某人）, but he/she still ___（仍然在做的事情）.",
+        "ex": "A bus stopped right in front of Tom, but he still kept his eyes on his phone."
+       }
+      ]
+     },
+     {
+      "name": "第二段（想像第四格，寫出完整的結局）",
+      "items": [
+       {
+        "f": "Just in time, ___（誰） ___（怎麼把人拉住） and pulled him/her back.",
+        "ex": "Just in time, a police officer took the boy by the arm and pulled him back."
+       },
+       {
+        "f": "It was a narrow escape. ___（事後的反應或畫面）.",
+        "ex": "It was a narrow escape. The woman sat down on the sidewalk, and her hands were shaking."
+       },
+       {
+        "f": "When ___（某人） finally ___（回過神的動作）, he/she ___（看到或聽到的事情）.",
+        "ex": "When Tom finally looked up from his phone, he saw the bus driver shaking his head."
+       },
+       {
+        "f": "From that day on, ___（某人） never ___（不再做的事情） when ___（在什麼時候）.",
+        "ex": "From that day on, Kevin never played games on his phone when he crossed the street."
        }
       ]
      }
@@ -8747,6 +9158,88 @@
        }
       ],
       "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 176,
+     "p1": "On the bus home from school, I always sat in a priority seat by the door. One Tuesday, an older man with a walking stick got on and stopped in front of me. I saw him. Still, I kept my eyes on my phone and pretended not to. Soon the passengers behind him began to stare at me. Two hours later, I was playing basketball when I landed on another player's foot and hurt my ankle. As I sat on the ground in pain, my teammate could only stand over me.",
+     "p2": "The next morning, I got on the bus with a crutch. Both priority seats were taken. A girl was reading a book, and an older man had his eyes closed. For nine stops, I stood in everyone's way and felt terrible. Then a woman with a sleeping child on her shoulder stood up and gave me her seat. At that moment, I finally understood what the sign above those seats meant. These days, when someone needs my seat, I give it up before anyone asks.",
+     "zh": {
+      "p1": "放學搭公車回家的時候，我總是坐在門邊的博愛座。有一個星期二，一位拄著拐杖的老先生上了車，就停在我面前。我看到他了，可是我還是盯著手機，假裝沒看到。沒多久，他身後的乘客開始盯著我看。兩個小時後，我在打籃球，落地時踩到另一個球員的腳，扭傷了腳踝。我痛得坐在地上，隊友也只能站在我旁邊。",
+      "p2": "隔天早上，我拄著拐杖上了公車，兩個博愛座卻都有人坐了：一個是正在看書的女生，另一個是閉著眼睛的老先生。整整九站，我就站在那裡擋著大家的路，心裡很不好受。後來，一位肩上趴著熟睡孩子的女士站起來，把位子讓給了我。就在那一刻，我終於懂了那兩個位子上方的牌子是什麼意思。現在只要有人需要我的位子，不等對方開口，我就會讓出去。"
+     }
+    },
+    "levels": "用字：三級只有 passenger（乘客）、pretend（假裝）、stare（盯著看）三個；四級以上只有 priority 和 crutch 兩個。priority seat（博愛座）是圖片標示牌上就寫著的字，crutch（拐杖）是第三格主角腋下夾著的那支拐杖，別無說法，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用助動詞 did 加強語氣",
+      "b": "I saw him.",
+      "m": "I did notice him.",
+      "why": "兩句都是「我看到他了」。範文寫成 [I] + did + [原形動詞 notice] + [him]，在肯定句裡加上 do／does／did、動詞改回原形，意思就變成「確實、的確」。接下來主角明明看見卻假裝沒看見，這個 did 先把「我是知道的」講清楚，後面的反差就更明顯；另外 notice 是「注意到」，比 saw 更貼近「意識到眼前有人需要位子」。"
+     },
+     {
+      "t": "用三個並列的動詞寫出受傷的過程",
+      "b": "Two hours later, I was playing basketball when I landed on another player's foot and hurt my ankle.",
+      "m": "Two hours later I went up for a rebound on the court, came down on somebody's foot, and felt my ankle fold under me.",
+      "why": "基礎版用 [I was + V-ing] + when + [過去式]，交代「正在打球時突然出事」，這樣寫完全正確。範文則把一連串動作拆成 (went up for a rebound), (came down on somebody's foot), and (felt my ankle fold under me) 三個過去式動詞片語，照發生的順序排好，讀者就像看到慢動作重播。went up for a rebound 是跳起來搶籃板；最後的 [feel] + [受詞] + [原形動詞] 表示感覺到整個動作發生，fold under me 字面是「在我身下折了過去」，寫的是腳踝一下子翻過去、撐不住，比 hurt 具體得多。"
+     },
+     {
+      "t": "句尾加上獨立分詞構句，補出當時的樣子",
+      "b": "The next morning, I got on the bus with a crutch.",
+      "m": "The next morning I got onto the bus on a crutch, my ankle strapped and my bag pulling at my shoulder.",
+      "why": "兩句都在說「隔天拄著拐杖上公車」，範文在逗號後面多加了兩個獨立分詞構句：[my ankle] + [strapped] 和 [my bag] + [pulling at my shoulder]。這種結構是名詞後面直接接分詞，自己不需要動詞，附在主要子句後面描寫當時的狀態。腳踝是被纏上繃帶的，所以用過去分詞 strapped；背包是自己往下拉著肩膀，所以用現在分詞 pulling。這樣一句就把腳傷和背包的重量都寫出來，讓讀者看到主角有多不方便。"
+     },
+     {
+      "t": "Not until 放句首，後面要倒裝",
+      "b": "At that moment, I finally understood what the sign above those seats meant.",
+      "m": "Not until that moment did I understand what the sign above those seats had been asking of me.",
+      "why": "基礎版的 At that moment … finally understood 是「那一刻終於懂了」。範文寫成 Not until + [時間] + did + [主詞] + [原形動詞]：否定的字眼放在句首時，後面的主要子句要倒裝，把助動詞 did 移到主詞前面，動詞改回原形，強調「一直到那時候才懂，之前都不懂」。後半的 what the sign … had been asking of me 用過去完成進行式，表示那塊牌子在那之前一直在要求，只是自己沒看見；ask something of someone 是「要求某人做到某事」。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（第一、二格：占著博愛座不讓，後來打球受傷）",
+      "items": [
+       {
+        "f": "When ___（誰） got on the ___（交通工具）, I ___（假裝在做什麼）.",
+        "ex": "When a woman with a heavy bag got on the MRT, I closed my eyes and pretended to be asleep."
+       },
+       {
+        "f": "The other passengers ___（他們的反應）, but I ___（自己怎麼做）.",
+        "ex": "The other passengers shook their heads at me, but I just turned up my music."
+       },
+       {
+        "f": "That afternoon, I was ___（正在做什麼） when ___（突然發生的意外）.",
+        "ex": "That afternoon, I was running down the stairs when I missed a step and fell."
+       },
+       {
+        "f": "As I ___（受傷後的樣子）, my ___（身邊的人） could only ___（他們能做的事情）.",
+        "ex": "As I lay on the floor holding my knee, my classmates could only call the school nurse."
+       }
+      ]
+     },
+     {
+      "name": "第二段（第三格與自己想的結局：受傷後沒人讓座，最後的改變）",
+      "items": [
+       {
+        "f": "The next day, I got on the ___（交通工具） with my ___（受傷的部位） still hurting, but ___（車上的情況）.",
+        "ex": "The next day, I got on the MRT with my knee still hurting, but every seat was taken."
+       },
+       {
+        "f": "Just then, ___（誰） stood up and ___（怎麼幫我）.",
+        "ex": "Just then, a high school girl stood up and helped me to her seat."
+       },
+       {
+        "f": "At that moment, I finally understood how ___（誰） had felt ___（什麼時候）.",
+        "ex": "At that moment, I finally understood how the woman with the heavy bag had felt the day before."
+       },
+       {
+        "f": "From then on, I ___（改變後的做法） whenever ___（什麼情況）.",
+        "ex": "From then on, I took the stairs whenever older people were waiting for the elevator at the MRT station."
+       }
+      ]
      }
     ]
    }
