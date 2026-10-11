@@ -15129,6 +15129,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "Lily was walking in the park one Saturday afternoon when she saw a kitten chasing a ball among the flowers. She rolled the ball back to it, and soon they were playing like old friends. When the sun began to set, the kitten would not leave her. It looked so thin that Lily carried it home. She did not notice that three other cats were following her.",
+     "p2": "At home, Lily begged her mother, \"Mom, can I keep it?\" Her mother agreed, but Lily had to take care of it herself. In her excitement, she left the door open and ran to her room. When she came back, cats were everywhere! They had torn the sofa, and a fish bone was lying on the floor. That evening, Lily and her mother cleaned up the mess together.",
+     "zh": {
+      "p1": "某個星期六下午，莉莉在公園裡散步，看到一隻小貓在花叢間追著一顆球。她把球滾回去給小貓，沒多久，一人一貓就像老朋友一樣玩了起來。太陽開始下山的時候，小貓卻黏著她不肯走。看小貓那麼瘦，莉莉就把她抱回家了。可是莉莉沒注意到，另外還有三隻貓一路跟在她後面。",
+      "p2": "一到家，莉莉就求媽媽：「媽，我可以養她嗎？」媽媽答應了，可是莉莉得自己照顧小貓。莉莉一興奮，門也沒關就跑回房間。等她回來一看，到處都是貓！這些貓把沙發抓破了，地上還躺著一根魚骨頭。那天晚上，莉莉和媽媽一起把這一團亂收拾乾淨。"
+     }
+    },
+    "levels": "用字：三級只有 mess（一團亂）一個，沒有四級以上的字。kitten（小貓）詞彙表沒有收，可是圖片裡畫的就是一隻小貓，英文就是這樣說，網站範文也這樣寫，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 so … that 加上 could not bear to，寫出她為什麼把小貓帶走",
+      "b": "It looked so thin that Lily carried it home.",
+      "m": "It looked so thin that she could not bear to leave it alone, so she picked it up and carried it home in her arms.",
+      "why": "兩句都用 [so + 形容詞] + that + [結果]：小貓瘦到一個程度，於是有了後面的結果。基礎版直接跳到「抱回家」；範文先寫出莉莉心裡的感受 [主詞] + could not bear to + [原形動詞]（不忍心做某事），再用 so 接上她的動作，picked it up and carried it home in her arms 把「抱起來、抱著走回家」一步一步寫出來。讀者先看到她捨不得，再看到她的行動，帶回家這件事就顯得順理成章。"
+     },
+     {
+      "t": "用 What 名詞子句當主詞，把伏筆放到句子最後",
+      "b": "She did not notice that three other cats were following her.",
+      "m": "What she did not notice was that three stray cats were following close behind her.",
+      "why": "基礎版是一般語序：[主詞] + did not notice + (that 子句)。範文改成 [What she did not notice] + was + (that 子句)：what 子句先交代「她沒注意到某件事情」，was 後面才說出那件事情是什麼，也就是句子要強調的新訊息，所以「三隻流浪貓緊跟在後」被留到句子最後，讀起來像是一個伏筆。另外，stray 指沒有家或走失的動物，比 other 更清楚交代這三隻貓的來歷；close behind 是「緊跟在後」，比單用 following 更有畫面。"
+     },
+     {
+      "t": "用 as long as 寫出媽媽答應的條件",
+      "b": "Her mother agreed, but Lily had to take care of it herself.",
+      "m": "After a long pause, she finally agreed, as long as Lily promised to feed the kitten and clean up after it herself.",
+      "why": "基礎版用 but 接上「莉莉得自己照顧」，意思是對的，可是「自己照顧」和「答應」之間的關係要讀者自己去推。範文用 [答應] + as long as + [條件]，as long as 的意思是「只要」，一看就知道媽媽是有條件地答應。條件也寫得具體：feed the kitten（餵小貓）和 clean up after it（替她收拾弄髒的地方），句尾的 herself 強調一定要莉莉自己來。句首的 After a long pause（停了好一會兒）再加上 finally，讀者就看得出媽媽是猶豫了很久才答應的。"
+     },
+     {
+      "t": "一個 had 帶三個動作，句尾再用分詞片語補上結果",
+      "b": "They had torn the sofa, and a fish bone was lying on the floor.",
+      "m": "They had torn the sofa, knocked over the broom, and dragged fish bones out of the trash can, leaving paw prints all over the floor.",
+      "why": "莉莉回到客廳之前，貓已經把東西弄亂了，所以兩句都用過去完成式 had + [過去分詞]，表示比「她回來」更早發生的事情。範文讓一個 had 帶出三個動作：had (torn …), (knocked over …), and (dragged …)，三個動詞都用過去分詞，排在一起很整齊。句尾的 leaving paw prints all over the floor 是分詞片語，補上這些動作造成的結果（滿地腳印），不必再另寫一句。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（在公園遇到小貓，把小貓帶回家）",
+      "items": [
+       {
+        "f": "___（主角） was ___（當時正在做什麼） when ___（看到或聽到什麼）.",
+        "ex": "Kevin was riding his bike to school when a small dog ran out in front of him."
+       },
+       {
+        "f": "The ___（動物） looked so ___（形容詞） that ___（主角做了什麼）.",
+        "ex": "The puppy looked so hungry that Amy gave it half of her sandwich."
+       },
+       {
+        "f": "Every time ___（主角做什麼）, the ___（動物） ___（動物的反應）.",
+        "ex": "Every time Ben tried to walk away, the puppy followed him."
+       },
+       {
+        "f": "___（主角） did not notice that ___（當時沒察覺到的事情）.",
+        "ex": "Tom did not notice that his wallet had fallen out of his pocket."
+       }
+      ]
+     },
+     {
+      "name": "第二段（求家人讓她養，回家後發現一團亂）",
+      "items": [
+       {
+        "f": "___（主角） begged ___（求誰）, \"___（請求的話）?\"",
+        "ex": "Kevin begged his father, \"Dad, can we keep the puppy?\""
+       },
+       {
+        "f": "___（家人） agreed as long as ___（主角要做到的條件）.",
+        "ex": "My father agreed as long as I walked the dog every morning."
+       },
+       {
+        "f": "When ___（主角） got home, the ___（動物） had already ___（已經做了什麼）.",
+        "ex": "When Mike got home, the puppy had already knocked over the trash can."
+       },
+       {
+        "f": "From then on, ___（主角） always ___（之後養成的習慣）.",
+        "ex": "From then on, Mike always closed his bedroom door before he went out."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -16140,6 +16222,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 115,
+     "p1": "It was a quiet Friday evening. Linda was cooking dinner, and her dog, Lucky, sat by the refrigerator. While she was carrying a plate of food, she heard a noise behind her. She turned around and saw a huge gorilla! Linda screamed and dropped the plate. Strangely, Lucky did not bark at all. He was busy eating the food on the floor.",
+     "p2": "Then the gorilla took off its mask. It was Linda's husband, Mark, with a bunch of flowers! On their first date, they had watched the gorillas at the zoo, so he dressed up as one to surprise her. Now Linda understood why Lucky had not barked. He had recognized Mark by his smell.",
+     "zh": {
+      "p1": "那是一個安靜的星期五晚上。琳達正在煮晚餐，她養的狗 Lucky 坐在冰箱旁邊。琳達端著一盤菜的時候，聽到身後有聲音。她轉過身，竟然看到一隻巨大的大猩猩！琳達尖叫一聲，手上的盤子也掉了下去。奇怪的是，Lucky 一聲也沒叫。他只顧著吃地上的菜。",
+      "p2": "接著，大猩猩拿下了頭套。原來是琳達的先生馬克，手上還拿著一束花！兩個人第一次約會的時候，在動物園看過大猩猩，所以馬克就扮成大猩猩，想給她一個驚喜。這時琳達才明白 Lucky 為什麼沒有叫。原來他早就從氣味認出馬克了。"
+     }
+    },
+    "levels": "用字：三級只有 bunch（一束）、recognize（認出）、scream（尖叫）三個；四級以上只有 gorilla（大猩猩），是六級，可是這是題目本身給的字，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 when 帶出突然發生的事情，並換成更精確的 footsteps",
+      "b": "While she was carrying a plate of food, she heard a noise behind her.",
+      "m": "She was carrying a plate of food to the table when she heard heavy footsteps behind her.",
+      "why": "兩句都用過去進行式寫「正在端菜」這個背景，用過去簡單式寫「聽到聲音」這件事情。基礎版把 While 子句放在前面；範文寫成 [主詞] + was + [V-ing] … when + [主詞] + [過去式]，先把她正在做的事情交代完，再用 when 帶出打斷她的那件事情，故事的轉折就落在句子後半。範文還多了 to the table，交代她端著菜要走去哪裡。另外 noise 只是「聲音」，heavy footsteps 是「沉重的腳步聲」，讀者馬上知道有個很重的東西走過來，也替下一句的大猩猩做了鋪陳。"
+     },
+     {
+      "t": "用 which 補充盤子摔碎的結果",
+      "b": "Linda screamed and dropped the plate.",
+      "m": "Linda screamed and dropped the plate, which smashed on the floor.",
+      "why": "範文在 the plate 後面加逗號，再接 [which] + (smashed on the floor)。which 一方面代替前面的 the plate 當子句的主詞，一方面又把後半句接上來，所以不必另起一句 The plate smashed on the floor。這種補充說明的關係子句前後要用逗號隔開，也不用 that 帶出。smash 是「摔得粉碎、發出很大的聲響」，比只寫 dropped 多了盤子碎掉的畫面，第三張圖地上的碎片也有了交代。"
+     },
+     {
+      "t": "用 Instead of 對照小狗該做和實際在做的事情",
+      "b": "He was busy eating the food on the floor.",
+      "m": "Instead of protecting his owner, he was busy eating the food that had spilled everywhere.",
+      "why": "範文在句首加上 [Instead of] + (V-ing)，先說小狗照理該做的事情（保護主人），再說他實際在做什麼，兩相對照，讀者就看得出這隻狗的反應很奇怪，也為結尾埋下伏筆。instead of 是介系詞，所以後面的動詞要用 V-ing。後半句的 the food that had spilled everywhere 用過去完成式 had spilled，因為菜灑出來在先，小狗吃菜在後，過去完成式用來表示哪一件事情先發生。"
+     },
+     {
+      "t": "用 To Linda's amazement 開頭，一句交代驚訝和真相",
+      "b": "It was Linda's husband, Mark, with a bunch of flowers!",
+      "m": "To Linda's amazement, the face underneath belonged to her husband, Mark, who was grinning from ear to ear and holding a big bunch of lilies.",
+      "why": "範文把琳達有多驚訝放在句首：[To] + [所有格] + amazement，意思是「讓某人驚訝的是」，後面再接完整的句子。主要子句寫成 [東西] + belonged to + [人]，意思是「是某人的」；underneath 是「在底下」，the face underneath 就是頭套底下的那張臉。最後用 who 子句補上馬克的表情和手上的百合花，grin from ear to ear 是「咧著嘴笑得很開心」。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（大猩猩突然出現，女子和小狗的反應）",
+      "items": [
+       {
+        "f": "___（人物） was ___（V-ing，當時正在做的事情） when ___（突然發生的事情）.",
+        "ex": "Mom was washing the dishes when the lights suddenly went out."
+       },
+       {
+        "f": "___（人物） was so scared that ___（嚇到做出的動作）.",
+        "ex": "Amy was so scared that she dropped her phone on the floor."
+       },
+       {
+        "f": "Strangely, ___（人或動物） did not ___（照理會做的事情） at all.",
+        "ex": "Strangely, my little sister did not cry at all during the scary movie."
+       },
+       {
+        "f": "Instead of ___（V-ing，照理該做的事情）, ___（人或動物） was busy ___（V-ing，實際在做的事情）.",
+        "ex": "Instead of barking at the stranger, our dog was busy chasing his own tail."
+       }
+      ]
+     },
+     {
+      "name": "第二段（揭開真相，交代事情的來龍去脈）",
+      "items": [
+       {
+        "f": "Then ___（嚇人的人或東西） took off ___（面具、頭套等）, and it was ___（真正的身分）!",
+        "ex": "Then the ghost took off its mask, and it was my little brother!"
+       },
+       {
+        "f": "It turned out that ___（主詞） had ___（過去分詞，事先做好的事情）.",
+        "ex": "It turned out that my brother had planned the whole thing for April Fools' Day."
+       },
+       {
+        "f": "___（人物） did not know whether to laugh or cry when ___（發生的事情）.",
+        "ex": "Dad did not know whether to laugh or cry when he found his new shoes in the dog's bed."
+       },
+       {
+        "f": "Now ___（人物） understood why ___（先前覺得奇怪的事情）: ___（原因）.",
+        "ex": "Now I understood why the house was so quiet: everyone was hiding behind the sofa with a birthday cake."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -16566,6 +16730,88 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0453",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0045"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 115,
+     "p1": "Amy wanted to study at home for a math test, but Ben got her to go to the library. \"It's quieter there,\" he said on the phone. In the library, they sat side by side, but they soon started chatting about everything except math. They laughed loudly, and everyone in the reading room could hear them.",
+     "p2": "One by one, the other students looked at them angrily. Then the librarian walked over with a smile and took Amy to an empty seat at another table. Ben was left alone with his hand on his head, and both of them turned red. After that, they did not say a word. They had never studied so quietly before.",
+     "zh": {
+      "p1": "艾咪本來想在家準備數學考試，可是班恩說動她改去圖書館。他在電話裡說：「那裡比較安靜。」到了圖書館，兩個人並排坐著，可是沒多久就聊了起來，什麼都聊，就是不聊數學。他們笑得很大聲，閱覽室裡每個人都聽得到。",
+      "p2": "其他同學一個接一個生氣地看著他們。這時圖書館管理員笑著走過來，把艾咪帶到另一張桌子的空位上。班恩一個人留在原位，手放在頭上，兩個人的臉都紅了。從那之後，他們一句話也沒說。他們念書從來沒有這麼安靜過。"
+     }
+    },
+    "levels": "用字：三級只有 chat（聊天，文中是 chatting）一個；四級以上只有 librarian（圖書館管理員）一個。第三、四張圖裡走過來處理的就是圖書館管理員，英文就叫 librarian，網站範文也這樣寫，沒有更簡單的說法，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 talk + 人 + into 寫出「說服」",
+      "b": "Amy wanted to study at home for a math test, but Ben got her to go to the library.",
+      "m": "Amy wanted to study at home for a math test, but Ben talked her into going to the library.",
+      "why": "兩句都是「說服某人去做某事」。基礎版用 [get] + [人] + to + [原形動詞]，get 在這裡就是 persuade 的意思，只說班恩讓她去了。範文用 [talk] + [人] + into + [V-ing]，字面上是「用講的把人講進某件事裡」，點出班恩是靠講話說動她的，正好對上第一張圖兩個人在講電話。into 是介系詞，所以後面的動詞要用 going 這樣的 V-ing。"
+     },
+     {
+      "t": "用 As soon as 改變句子開頭，用 but 表示「除了」",
+      "b": "In the library, they sat side by side, but they soon started chatting about everything except math.",
+      "m": "As soon as they sat down side by side, however, they began chatting about everything but math.",
+      "why": "基礎版先交代地點，再用 soon（沒多久）說他們聊了起來。範文用 As soon as + [子句] 開頭，意思是「一……就……」，把坐下和開始聊天兩個動作緊緊接在一起，讀者更看得出兩個人根本沒打算念書。至於 everything (but) math，but 接在 everything、nothing、everyone 這類字後面時等於 except，意思是「什麼都聊，就是不聊數學」。"
+     },
+     {
+      "t": "用 so…that 寫出「大聲到什麼程度」",
+      "b": "They laughed loudly, and everyone in the reading room could hear them.",
+      "m": "They laughed so loudly that the whole reading room could hear them.",
+      "why": "基礎版用 and 把兩件事並排，只說他們笑得大聲、別人都聽得到。範文寫成 [主詞] + [動詞] + so + [副詞] + that + [結果子句]，把「笑得多大聲」和「整間閱覽室都聽得到」接成程度與結果，讀者一看就知道笑聲大到什麼地步。要注意這個結構裡的 so 不換成 very，不寫 very loudly that。"
+     },
+     {
+      "t": "用 It was the first time 配過去完成式",
+      "b": "They had never studied so quietly before.",
+      "m": "It was the first time they had studied so quietly.",
+      "why": "兩句講的都是「到那天下午為止，從來沒有這麼安靜地念過書」。基礎版用 [主詞] + had never + [過去分詞] + before，過去完成式表示到過去某個時間點為止的經驗。範文換個角度，用 [It was the first time] + (that) + [主詞] + had + [過去分詞]，直接說「這是第一次」：故事用過去式在講，第一次之前的經驗算到那時候為止，所以後面通常接過去完成式；如果講的是現在的事情，一般說 It is the first time + 現在完成式。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（兩人到圖書館卻聊開了）",
+      "items": [
+       {
+        "f": "___（人） wanted to ___（原本想做的事情）, but ___（另一個人） talked him/her into ___（V-ing，被說服去做的事情）.",
+        "ex": "Tom wanted to stay home on Sunday, but his sister talked him into going to the night market."
+       },
+       {
+        "f": "As soon as ___（某個動作發生）, ___（主詞） began ___（V-ing，接著做的事情）.",
+        "ex": "As soon as the teacher left the classroom, the boys began playing cards."
+       },
+       {
+        "f": "Instead of ___（V-ing，本來該做的事情）, they ___（實際上做的事情）.",
+        "ex": "Instead of doing their homework, they spent the whole evening watching videos on their phones."
+       },
+       {
+        "f": "They ___（動詞） so ___（副詞） that ___（造成的結果）.",
+        "ex": "They talked so loudly that the people at the next table moved away."
+       }
+      ]
+     },
+     {
+      "name": "第二段（旁人的反應、管理員出面與兩人的尷尬）",
+      "items": [
+       {
+        "f": "One by one, ___（周圍的人） ___（做出什麼反應）.",
+        "ex": "One by one, the people in line turned around and looked at them."
+       },
+       {
+        "f": "Then ___（出面處理的人） walked over and ___（做了什麼）.",
+        "ex": "Then the waiter walked over and asked them to keep their voices down."
+       },
+       {
+        "f": "Both of them ___（尷尬的反應，如 turned red） and ___（另一個動作）.",
+        "ex": "Both of them turned red and looked away."
+       },
+       {
+        "f": "For the rest of ___（那段時間）, neither of them dared to ___（不敢做的事情）.",
+        "ex": "For the rest of the meal, neither of them dared to look at the waiter."
        }
       ]
      }
@@ -17432,6 +17678,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "In the English class last week, Mr. Chen was teaching Lesson 30. I had stayed up late playing an online game. I was very sleepy, and soon I fell asleep at my desk. In my dream, I was an English teacher in a shirt and tie. The date on the blackboard showed that twenty years had passed. I pointed at the board and started teaching. When I turned around, I was shocked. Every student was asleep. I got angry and shouted, \"Wake up!\"",
+     "p2": "At that moment, someone else shouted the same words. I opened my eyes. Mr. Chen was standing by my desk, and he looked angry. My classmate was trying hard not to laugh. I said sorry and stayed awake for the rest of the class. Since then, I have gone to bed earlier.",
+     "zh": {
+      "p1": "上星期的英文課，陳老師正在上第三十課。我前一天熬夜打線上遊戲，這時候睏得不得了，沒多久就在座位上睡著了。在夢裡，我成了一位穿著襯衫、打著領帶的英文老師，黑板上的日期也顯示時間已經過了二十年。我指著黑板開始上課，等我一轉過身，卻嚇了一大跳：每個學生都睡著了。我生起氣來，大喊：「醒醒！」",
+      "p2": "就在那一刻，另一個人也喊出了同一句話。我睜開眼睛，只見陳老師就站在我的桌子旁邊，看起來很生氣，同學則拚命忍著不笑出來。我說了聲對不起，那堂課剩下的時間都保持清醒。從那以後，我晚上都比較早上床睡覺。"
+     }
+    },
+    "levels": "用字：三級只有 awake（醒著的）一個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用「比較級 and 比較級」和 with 寫出睡著的過程",
+      "b": "I was very sleepy, and soon I fell asleep at my desk.",
+      "m": "My eyelids grew heavier and heavier, and soon I fell asleep with my head on my textbook.",
+      "why": "基礎版直接說 very sleepy（很想睡）。範文改寫眼皮的變化：[主詞] + grew + [比較級] and [比較級]，兩個同樣的比較級用 and 連起來，表示越來越……，grow 在這裡是「漸漸變得」，所以讀者看得到睏意一點一點加重。後半句的 [with] + (my head) + (on my textbook) 是 with 加受詞再加介系詞片語，交代睡著時頭擱在課本上的樣子，正好是第一張圖裡主角趴在桌上的姿勢。eyelid 是六級字。"
+     },
+     {
+      "t": "用成語 could not believe my eyes 代替 shocked",
+      "b": "When I turned around, I was shocked.",
+      "m": "However, when I turned around, I could not believe my eyes.",
+      "why": "兩句都在說轉身之後嚇了一跳。基礎版用形容詞 shocked 直接說出感受；範文用 [主詞] + could not believe + [one's eyes]，意思是看到的事情太意外，意外到以為自己看錯了，這比只說 shocked 更能帶出畫面。句首的 However（然而）也點出前面興沖沖上課、後面卻發現全班睡著，前後是相反的兩件事。"
+     },
+     {
+      "t": "用 very 和 another voice 強調兩聲重疊",
+      "b": "At that moment, someone else shouted the same words.",
+      "m": "At that very moment, another voice shouted the same words, and it was not mine.",
+      "why": "very 放在名詞前面當形容詞，意思是「正是那個」，At that very moment 就是「就在那一刻」，強調兩聲 Wake up 是同時喊出來的。範文把主詞從 someone else 換成 another voice（另一個聲音），再用 and 接上 it was not mine，mine 代替 my voice。主角這時還沒睜開眼睛，只聽得到聲音，所以先寫聲音、再說那不是自己的，讀者就跟著主角一起發現喊的人換了。"
+     },
+     {
+      "t": "換更精確的字：right beside 與 flush with anger",
+      "b": "Mr. Chen was standing by my desk, and he looked angry.",
+      "m": "Mr. Chen was standing right beside my desk, and his face flushed with anger.",
+      "why": "by 和 beside 都可以指「在……旁邊」；範文在 beside 前面加上副詞 right（正好、就在），表示老師就站在主角身邊。後半句 looked angry 只說看起來在生氣，範文寫 [his face] + flushed + with + [anger]：flush 是臉漲紅，with 在這裡表示原因，也就是「氣得滿臉通紅」，讀者可以看到老師的臉色。flush 是四級字。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（上課睡著，夢見自己當老師）",
+      "items": [
+       {
+        "f": "I had stayed up late ___（前一晚在做什麼）, so I ___（上課時怎麼了）.",
+        "ex": "I had stayed up late watching videos on my phone, so I fell asleep in math class."
+       },
+       {
+        "f": "In my dream, I was ___（夢裡變成什麼人）, and ___（夢裡發生了什麼事情）.",
+        "ex": "In my dream, I was a famous singer, and thousands of fans were waiting to see me."
+       },
+       {
+        "f": "When I ___（做了什麼動作）, I was shocked to see that ___（看到的意外情況）.",
+        "ex": "When I looked at the test, I was shocked to see that every question was in French."
+       },
+       {
+        "f": "I was ___（心情） and ___（心情）, so I ___（因此做了什麼）.",
+        "ex": "I was scared and nervous, so I asked my teacher for help."
+       }
+      ]
+     },
+     {
+      "name": "第二段（醒來之後發生的事與結果）",
+      "items": [
+       {
+        "f": "At that moment, ___（同一時間發生的事情）, and I ___（我的反應）.",
+        "ex": "At that moment, the bell rang, and I jumped."
+       },
+       {
+        "f": "When I opened my eyes, ___（看到的人） was/were ___（正在做什麼）.",
+        "ex": "When I opened my eyes, the whole class was looking at me."
+       },
+       {
+        "f": "I said sorry and ___（之後怎麼補救） for the rest of the class.",
+        "ex": "I said sorry and listened carefully for the rest of the class."
+       },
+       {
+        "f": "Since then, I have ___（從那時起養成的習慣）.",
+        "ex": "Since then, I have kept my phone in the living room at night."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -18243,6 +18571,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0292"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 136,
+     "p1": "One evening, at my cousin's wedding, guests kept coming over to toast my uncle, and he emptied glass after glass. After the wedding, he could not walk straight. He knew he should not drive, so he decided to take a taxi. Outside, the police were giving drivers breath tests, and a police car was parked nearby with its light flashing. In the dark, my uncle thought it was a taxi. He waved and shouted, \"Taxi!\" Two officers walked over, but he could not tell them his address. They had to take him to the police station.",
+     "p2": "The next morning, he woke up on a sofa there and had no idea where he was. \"You waved down the wrong car,\" an officer said, \"but at least you didn't drive.\" Soon my aunt came to take him home.",
+     "zh": {
+      "p1": "某天晚上，表哥結婚，喜宴上賓客不停過來向舅舅敬酒，他也一杯接著一杯喝光。喜宴結束後，他連路都走不直。他知道自己不該開車，所以決定搭計程車。外面警察正在對駕駛人做酒測，一輛警車就停在附近，車頂的燈一閃一閃的。天色昏暗，舅舅以為那是一輛計程車，就揮著手大喊：「計程車！」兩名員警走了過來，可是他連自己家的地址都說不出來，員警只好帶他到警察局。",
+      "p2": "第二天早上，他在警察局的沙發上醒來，完全不知道自己身在何處。「你攔錯車了，」一名員警說，「不過至少你沒有開車。」沒多久，舅媽就來接他回家了。"
+     }
+    },
+    "levels": "用字：三級只有 breath（呼吸；breath test 即酒測）、flash（閃爍）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 mistake A for B 寫出他把什麼誤認成什麼",
+      "b": "In the dark, my uncle thought it was a taxi.",
+      "m": "In the dark, my uncle mistook the light for a taxi sign.",
+      "why": "基礎版用 thought it was a taxi，只說他以為那是計程車。範文用 mistake [A] for [B]，意思是「把 A 誤認成 B」，而且 A 寫的是 (the light)，B 寫的是 (a taxi sign)，讀者一看就明白他為什麼會認錯：天黑了，車頂有一盞燈在亮，喝醉的人就把它當成計程車的車頂燈。mistake 當動詞時，過去式是 mistook。"
+     },
+     {
+      "t": "用 By the time 帶出時間點，並加上看得見的細節",
+      "b": "After the wedding, he could not walk straight.",
+      "m": "By the time the banquet ended, his face was red, and he could hardly walk in a straight line.",
+      "why": "By the time + [子句] 是「到……的時候」，重點放在到了那個時間點，狀況已經是什麼樣子。範文接著用 and 連接兩個子句：(his face was red), and (he could hardly walk in a straight line)，比基礎版多了臉紅這個看得見的細節。hardly 是「幾乎不」，could hardly walk in a straight line 就是幾乎走不成直線。"
+     },
+     {
+      "t": "用 found that 帶出員警走近後發現的情況",
+      "b": "Two officers walked over, but he could not tell them his address.",
+      "m": "Two officers walked over and found that he could not stand steadily or even tell them where he lived.",
+      "why": "基礎版用 but 把「員警走過來」和「他說不出地址」接在一起。範文寫成 [主詞] + walked over and found that + [子句]，found that 帶出員警走近之後才發現的情況，事情的先後就很清楚。子句裡 could not 後面接兩個動詞片語 (stand steadily) or (even tell them where he lived)，在否定句裡用 or，表示兩件事都做不到。where he lived 是間接問句，要用直述句的語序 [主詞] + [動詞]，不寫成 where did he live。"
+     },
+     {
+      "t": "換成更精確的字，並說清楚員警肯定的是哪一點",
+      "b": "\"You waved down the wrong car,\" an officer said, \"but at least you didn't drive.\"",
+      "m": "\"You hailed the wrong car,\" the officer said with a smile, \"but at least you made the right choice not to drive.\"",
+      "why": "wave down 是揮手讓車子停下來；範文換成 hail，意思是呼叫某人來引起注意，hail a taxi 就是叫計程車，用在這裡正好點出他是把警車當成計程車來叫。後半句的 made the right choice not to drive 把「沒開車」說成「做了正確的選擇」；not 放在 to 前面，寫成 [not] + to + [原形動詞]，否定的是「開車」這個動作。中間插入的 the officer said with a smile 交代員警說話時的表情，後半句接續同一句話，所以 but 用小寫。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（前兩張圖：喜宴上喝醉，把警車當成計程車）",
+      "items": [
+       {
+        "f": "One evening, ___（主角）went to ___（什麼場合）, and ___（在那裡發生了什麼事情）.",
+        "ex": "One evening, my father went to a friend's birthday party, and everyone kept asking him to sing."
+       },
+       {
+        "f": "By the time ___（某件事情結束）, ___（主角）could hardly ___（幾乎做不到的事情）.",
+        "ex": "By the time the party ended, my father could hardly talk."
+       },
+       {
+        "f": "In the dark, ___（主角）mistook ___（真正的東西）for ___（誤以為的東西）.",
+        "ex": "In the dark, my brother mistook a big black trash bag for a sleeping dog."
+       },
+       {
+        "f": "There were many ___（什麼人）nearby because ___（他們出現在那裡的原因）.",
+        "ex": "There were many police officers nearby because a famous singer was giving a concert."
+       }
+      ]
+     },
+     {
+      "name": "第二段（第三張圖：交代解釋與結局）",
+      "items": [
+       {
+        "f": "The next morning, ___（主角）woke up ___（在哪裡）and had no idea ___（how／where 等帶出的事情）.",
+        "ex": "The next morning, my brother woke up on the living room floor and had no idea how he got there."
+       },
+       {
+        "f": "___（某人）explained that ___（過去完成式，更早之前發生的事情）.",
+        "ex": "The nurse explained that my grandfather had fallen asleep in the waiting room."
+       },
+       {
+        "f": "\"You ___（做錯的事情）,\" ___（某人）said with a smile, \"but at least you ___（做對的事情）.\"",
+        "ex": "\"You took the wrong umbrella,\" my classmate said with a smile, \"but at least you didn't get wet.\""
+       },
+       {
+        "f": "Since then, ___（某人）has always ___（從那時候起一直保持的做法）.",
+        "ex": "Since then, my sister has always set the alarm on her phone before she takes a nap on the bus."
        }
       ]
      }
@@ -19550,6 +19960,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0341"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "Music is an important part of our life. We hear pop songs in stores, classical music at weddings, and rock music at basketball games. Music brings people together. At a concert, thousands of strangers sing the same song. Music also changes how we feel. A slow piano piece can calm us down when we are nervous. Years later, a song can still take us back.",
+     "p2": "I learned this when my class practiced a song to compete against other classes. At first, most of us hardly talked to one another. After three weeks, we became friends. The night before we sang, I was so nervous that I could not sleep. A slow piano piece by Chopin calmed me down. My grandmother still sings the song her class sang sixty years ago, and it takes her back.",
+     "zh": {
+      "p1": "音樂是我們生活中很重要的一部分。我們在商店裡聽到流行歌曲，在婚禮上聽到古典音樂，在籃球比賽聽到搖滾樂。音樂能把人凝聚在一起，例如在演唱會上，好幾千個素不相識的人會唱著同一首歌。音樂也能改變我們的心情，緊張的時候，一首緩慢的鋼琴曲就能讓我們冷靜下來。就算過了好多年，一首歌還是能把我們帶回從前。",
+      "p2": "我是在班上練一首歌、準備和其他班比賽的時候，才明白這些道理的。剛開始，我們大多數人彼此幾乎不說話；過了三個星期，大家就成了朋友。我們上台唱的前一晚，我緊張得睡不著，後來是一首蕭邦的慢板鋼琴曲讓我平靜下來。至於奶奶，她到現在還會唱六十年前全班一起唱的那首歌，那首歌也會把她帶回當年。"
+     }
+    },
+    "levels": "用字：三級只有 compete（競爭、比賽）、concert（演唱會）兩個，沒有四級以上的字。Chopin（蕭邦）是人名，網站範文也這樣寫。",
+    "upgrade": [
+     {
+      "t": "句首加上情境片語，讓讀者知道換了一個面向",
+      "b": "Music also changes how we feel.",
+      "m": "On our own, music changes how we feel.",
+      "why": "基礎版用 also 表示「再多一個好處」，意思清楚，但讀者看不出這個好處跟前一個有什麼不同。範文把 [On our own]（自己一個人的時候）放在句首，再接主要子句 [music] + changes + [how we feel]，前一個好處講的是「和別人在一起」，這一句講的是「自己一個人」，讀者一看句首就知道換了一個情境。on one's own 意思和 alone 一樣；放在句首的片語後面加了逗號，再接主要子句。"
+     },
+     {
+      "t": "用過去完成式交代比練唱更早的狀態",
+      "b": "At first, most of us hardly talked to one another.",
+      "m": "When we started practicing, most of us had hardly spoken to one another, and our first practice was a mess.",
+      "why": "基礎版用 At first 加過去式，只說「一開始」的情況。範文先用 [When we started practicing] 定出過去的一個時間點，再用過去完成式 [had] + (hardly) + [spoken] 表示「到開始練唱的那時候為止」，大家幾乎沒說過話，這是比練唱更早就存在的狀態，所以要比過去式再往前推一格。hardly 放在助動詞 had 和過去分詞中間；後面再用 and 接上第一次練習唱得一團亂，讓讀者看到改變之前的樣子。"
+     },
+     {
+      "t": "用動名詞片語當主詞，說出「做什麼事」會帶來效果",
+      "b": "Years later, a song can still take us back.",
+      "m": "Hearing a song from that day can take us back there, even years later.",
+      "why": "基礎版的主詞是 a song，沒有交代是哪一首歌。範文用動名詞片語 [Hearing a song from that day] 當主詞，動詞加 -ing 就能當名詞用，所以「聽到那天的一首歌」這整件事情可以放在主詞的位置，後面接 can take us back there。take + [人] + back 意思是「讓人想起過去的一段時間或一件事情」；句尾的 even years later 用 even 強調「就算過了好多年」也一樣，比放在句首的 Years later 多了一點出乎意料的語氣。"
+     },
+     {
+      "t": "寫出具體動作，讓讀者看到心情怎麼平靜下來",
+      "b": "A slow piano piece by Chopin calmed me down.",
+      "m": "I put on my earphones and played a slow piano piece by Chopin, and within ten minutes, my heart stopped pounding.",
+      "why": "基礎版直接說鋼琴曲讓我冷靜下來，讀者只知道結果。範文先寫兩個動作 (put on my earphones) and (played a slow piano piece)，再用 [within ten minutes]（不到十分鐘）交代花了多久，最後用 [my heart] + stopped + [pounding] 寫出身體的感覺。pound 用在心臟，指心跳得很用力；stop 後面接 V-ing 表示那個動作不再繼續，也就是說心不再怦怦狂跳了。讀者看得到動作、時間和身體的變化，比一個 calmed me down 更有畫面。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明音樂在生活中的重要性）",
+      "items": [
+       {
+        "f": "We hear ___（哪一種音樂） in ___（地方） and ___（另一種音樂） at ___（另一個地方或場合）.",
+        "ex": "We hear soft music in coffee shops and loud dance music at the gym."
+       },
+       {
+        "f": "When we feel ___（心情）, ___（哪一種歌或音樂） can ___（帶來什麼改變）.",
+        "ex": "When we feel sad, a happy song can cheer us up."
+       },
+       {
+        "f": "Music helps ___（哪些人） ___（做到什麼事情） because ___（原因）.",
+        "ex": "Music helps many people exercise longer because a fast song makes them forget how tired they are."
+       },
+       {
+        "f": "Without music, ___（哪一種場合或活動） would ___（會變成怎樣）.",
+        "ex": "Without music, a birthday party would not be much fun."
+       }
+      ]
+     },
+     {
+      "name": "第二段（以自己或他人的經驗，敘述音樂帶來的好處）",
+      "items": [
+       {
+        "f": "I learned how much music can help people when ___（什麼時候、發生了什麼事情）.",
+        "ex": "I learned how much music can help people when my grandfather was sick."
+       },
+       {
+        "f": "At first, I ___（原本的樣子）, but after ___（多久的什麼活動）, I could ___（後來做得到的事情）.",
+        "ex": "At first, I was too shy to speak in class, but after a year in the guitar club, I could play in front of people."
+       },
+       {
+        "f": "Whenever I ___（什麼情況）, I listen to ___（什麼音樂）, and ___（帶來的改變）.",
+        "ex": "Whenever I feel tired after school, I listen to my favorite band, and I feel better."
+       },
+       {
+        "f": "The song ___（什麼時候唱過或聽過的） still reminds me of ___（人或事情）.",
+        "ex": "The song we sang on our school trip still reminds me of my junior high friends."
        }
       ]
      }
