@@ -3257,6 +3257,88 @@
       "checked": "2026 年 9 月"
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 176,
+     "p1": "I agree that universities should teach courses in English. Most of the important books in science and business are written in English, and many are never put into Chinese. Students who read only Chinese will miss a lot. Courses in English also bring in students from other countries, so class discussions become more interesting. However, using English only on the slides is not enough. If students are afraid to ask questions, the course will do more harm than good.",
+     "p2": "If my required courses are taught in English, I will use English as a tool every day. Before the semester starts, I will read the first two chapters of each textbook so that the important words will not be new to me in the first class. During the semester, I will ask the professor for permission to record the classes and listen to them again on my way home. I will also find two classmates and talk about each week's topic in English for twenty minutes. The first month will be hard, but it will get easier.",
+     "zh": {
+      "p1": "我認同大學用英語開課。在理工和商管領域，大部分重要的書都是用英文寫的，而且很多一直沒有翻成中文；也就是說，只讀中文的學生會錯過很多東西。用英語上的課也能吸引其他國家的學生來念，所以課堂討論會變得更有意思。不過，如果只有投影片上用英文，那是不夠的。要是學生不敢發問，這樣的課反而弊大於利。",
+      "p2": "如果我的必修課是用英語上，我每天都會把英文當成工具來用。開學之前，我會先把每一本課本的前兩章讀過，這樣到了第一堂課，那些重要的詞彙對我來說就不是生字了。學期當中，我會請教授同意讓我把課錄下來，在回家的路上再聽一次。另外，我還會找兩個同學，每個星期用英文討論那一週的主題二十分鐘。第一個月會很辛苦，不過之後就會越來越輕鬆。"
+     }
+    },
+    "levels": "用字：三級只有 harm（傷害）、permission（許可）、professor（教授）、semester（學期）四個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 so 把原因和結果併成一句，並換上更精確的動詞",
+      "b": "Most of the important books in science and business are written in English, and many are never put into Chinese. Students who read only Chinese will miss a lot.",
+      "m": "Most of the research a student reads in a science or business course is published in English and never translated, so a student who reads only Chinese is limited to whatever someone else has chosen to pass on.",
+      "why": "基礎版用兩句才講完「重要的書多半是英文」和「只讀中文會錯過很多」。範文寫成 [原因], so + [結果]，用 so 把前因後果接成一句。the research (that) a student reads 省略了 that，因為 that 在子句裡是 reads 的受詞，當受詞的關係代名詞可以省略。動詞也換得更精確：publish 是「出版、發表」，translate 是「翻譯成另一種語言」，比 written 和 put into 更貼近學術研究的情況；至於 miss a lot，範文改寫成「只能讀到別人挑出來轉述的東西」，把錯過的是什麼講得更具體。"
+     },
+     {
+      "t": "用 where 帶出關係子句，再用比較句收尾",
+      "b": "If students are afraid to ask questions, the course will do more harm than good.",
+      "m": "A course where nobody dares to ask anything loses more in understanding than it gains in language.",
+      "why": "基礎版先用 if 子句講條件，再用 do more harm than good（弊大於利）下結論。範文把條件直接放進主詞：[A course] + where + [nobody dares to ask anything]，這裡的 where 等於 in which，意思是「在這樣的課裡」，不一定要指地點。後半句用 [loses more in understanding] + than + [it gains in language]，拿同一門課在理解上的損失和在語言上的收穫來比，比單說 harm 更清楚損失在哪裡。另外，dare 後面可以接 to V，也可以直接接原形動詞。"
+     },
+     {
+      "t": "用 stop V-ing 和 start V-ing 寫出態度的轉變",
+      "b": "If my required courses are taught in English, I will use English as a tool every day.",
+      "m": "If the department I enter teaches its required courses in English, I will stop treating English as a subject I study on Sunday night and start treating it as the tool I work with every day.",
+      "why": "兩句都用 If + [現在式], [主詞] + will + [原形動詞]，講的是將來真的可能發生的事。範文多寫了「以前怎麼看英文、以後怎麼看英文」：I will (stop treating …) and (start treating …)。stop 後面接 V-ing，表示不再做原本在做的事；start 後面接 V-ing 或 to V 都可以，這裡也用 V-ing，和 stop 前後對稱。兩個動作用 and 連起來，前後一對照，就看得出態度改變。treat [A] as [B] 是「把 A 當成 B 看待」；a subject (that) I study 和 the tool (that) I work with 都省略了當受詞的 that，幾個字就說明是什麼樣的科目、什麼樣的工具。"
+     },
+     {
+      "t": "用分詞構句補上同時進行的動作",
+      "b": "During the semester, I will ask the professor for permission to record the classes and listen to them again on my way home.",
+      "m": "During the semester I will ask for permission to record the lectures and listen to them again on the way home, writing down the phrases the professor keeps using.",
+      "why": "兩句前半幾乎一樣，範文把 classes 換成 lectures；lecture 指對一群人（尤其是學生）就某個主題所做的正式講授，用在大學課堂更精確。差別在句尾的 [, writing down …]，這是分詞構句：主詞和前面的 I 相同，所以省掉主詞，用 V-ing 表示「一邊聽、一邊抄」同時進行的動作。keep + V-ing 是「一直、反覆做某事」，所以 the phrases (that) the professor keeps using 就是「教授反覆用到的說法」。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（是否認同大學以英語授課，並陳述理由）",
+      "items": [
+       {
+        "f": "I agree that ___（認同的做法） because ___（主要理由）.",
+        "ex": "I agree that high schools should teach more subjects in English because students will need English in college."
+       },
+       {
+        "f": "Courses in English can help students ___（帶來的好處）, so ___（因此有什麼結果）.",
+        "ex": "Courses in English can help students get used to English, so studying abroad will be less difficult for them."
+       },
+       {
+        "f": "However, ___（只做到這一點） is not enough if ___（什麼情況）.",
+        "ex": "However, an English textbook is not enough if the teacher explains everything in Chinese."
+       },
+       {
+        "f": "I do not support this idea because ___（不認同的理由）.",
+        "ex": "I do not support this idea because many students cannot follow difficult lessons in English."
+       }
+      ]
+     },
+     {
+      "name": "第二段（必修課以英語授課時，自己如何因應或規劃）",
+      "items": [
+       {
+        "f": "If my required courses are taught in English, I will ___（因應的做法）.",
+        "ex": "If my required courses are taught in English, I will take an English conversation class during the summer vacation."
+       },
+       {
+        "f": "Before the semester starts, I will ___（事前準備） so that ___（這樣做的目的）.",
+        "ex": "Before the semester starts, I will watch some English videos about my subject so that the lessons will be easier to follow."
+       },
+       {
+        "f": "When I do not understand ___（聽不懂的東西）, I will ___（解決的方法）.",
+        "ex": "When I do not understand a new word in class, I will write it down and ask the teacher after class."
+       },
+       {
+        "f": "I will also practice ___（練習什麼） with ___（和誰一起） every week.",
+        "ex": "I will also practice giving short talks in English with a friend every week."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -3889,6 +3971,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 176,
+     "p1": "Students spend most of the day at school, so a safe campus is very important. However, school is so familiar that we often forget about danger there. Small problems can easily lead to accidents. After morning rain, the stairs may be wet and slippery. In the science classroom, someone may forget to turn off the gas. A ceiling fan may come loose, and a bag in an empty classroom may be stolen. Some dangers are harder to see. A student who is followed home or laughed at in a group chat is not safe either.",
+     "p2": "Keeping our campus safe should not be the guard's job alone, because one person cannot watch every entrance. Teachers can check the fans and windows in their classrooms. Students can close the classroom door at lunchtime and tell a teacher when a light on the stairs is broken. Above all, the school needs an easy way for students to report problems, such as an online form or a box outside the office. If reporting is easy, more people will speak up.",
+     "zh": {
+      "p1": "學生一天當中大部分的時間都待在學校，所以校園安全非常重要。不過，學校實在太熟悉了，我們常常忘了那裡也有危險。其實，小問題很容易就變成意外。比如說，早上下過雨之後，樓梯可能又濕又滑。在實驗教室裡，也可能有人忘了關瓦斯。天花板上的電扇可能鬆脫，放在空教室裡的書包也可能被偷。至於有些危險，就比較不容易看出來了。一個被人跟蹤回家、或是在群組裡被嘲笑的學生，同樣不安全。",
+      "p2": "維護校園安全不應該只是警衛一個人的工作，因為一個人沒辦法顧到每一個出入口。老師可以檢查自己教室裡的電扇和窗戶。學生可以在午餐時間把教室門關上，要是發現樓梯上的燈壞了，也可以告訴老師。最重要的是，學校需要一個讓學生方便通報問題的管道，例如線上表單，或是辦公室外面的一個意見箱。如果通報很方便，就會有更多人願意說出來。"
+     }
+    },
+    "levels": "用字：三級只有 campus（校園）、chat（聊天）、familiar（熟悉的）、gas（瓦斯）、loose（鬆的）、slippery（滑的）、stolen（被偷，原形 steal）七個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用被動語態 cannot be left to 說「不能只交給某人」",
+      "b": "Keeping our campus safe should not be the guard's job alone, because one person cannot watch every entrance.",
+      "m": "Keeping a campus safe cannot be left to the guard at the front gate, because one person can watch only one entrance.",
+      "why": "leave something to someone 的意思是把某件事交給某人負責。範文把要交出去的事情 Keeping a campus safe 放在主詞的位置，寫成被動的 [事情] + cannot be left to + [人]，意思就是「這件事不能只交給某人」，比基礎版的 not be the guard's job alone 更直接。後半句 can watch only one entrance（只顧得了一個出入口）把警衛的限制說成一個具體的數字，也比 cannot watch every entrance 更有畫面。"
+     },
+     {
+      "t": "用冒號帶出三個形式相同的動名詞",
+      "b": "Students can close the classroom door at lunchtime and tell a teacher when a light on the stairs is broken.",
+      "m": "Students can do the smaller things that add up: closing the classroom door at lunchtime, saying something when a light in the stairwell has been out for a week, refusing to treat a fire drill as ten free minutes.",
+      "why": "範文先用一句話總括 [Students can do the smaller things] + that add up（add up 是一點一點累積起來），再用冒號帶出清單，冒號本來就可以用來引出一串項目。清單裡的三件事都寫成動名詞：(closing …), (saying …), (refusing …)，形式相同，讀的人一看就知道這三件事情分量相同。範文還多舉了「不要把消防演練當成賺到的十分鐘」這一項，drill 是四級字，基礎版就沒有寫。"
+     },
+     {
+      "t": "用 one 代替重複的名詞，再用 even though 補上讓步",
+      "b": "A student who is followed home or laughed at in a group chat is not safe either.",
+      "m": "A student who is followed home, or one who is bullied in a group chat and says nothing, is not safe either, even though nothing on campus appears to be broken.",
+      "why": "範文的主詞是 [A student who …], or [one who …]，one 代替前面的 a student，不必把名詞再寫一次。bully 指的是用力量或權勢恐嚇、傷害別人，而且常常持續一段時間，比 laughed at（被嘲笑）更精確，不過 bully 是五級字。句尾的 even though + [子句] 意思是「即使、儘管」，用來說出讀者可能沒想到的事情：校園裡沒有東西壞掉，這些學生還是不安全。"
+     },
+     {
+      "t": "用關係子句把 easy 說得更精確",
+      "b": "Above all, the school needs an easy way for students to report problems, such as an online form or a box outside the office.",
+      "m": "Most of all, the school needs a way to report a problem that does not require courage, such as an online form or a box outside the office.",
+      "why": "基礎版只說這個管道很 easy，範文改寫成 [a way (to report a problem)] + that does not require courage，用關係子句說明這個管道「不需要鼓起勇氣」。名詞後面可以接不只一個修飾語，例如 the parcel (on my desk) that Philip left for you，that 子句說的是 parcel，中間隔著 on my desk；範文也一樣，that 子句說的是 a way，中間隔著 to report a problem。這樣寫等於順便點出大家不通報的原因：說出來需要勇氣。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（校園安全的重要性及可能發生的安全問題）",
+      "items": [
+       {
+        "f": "Because students spend ___（在學校待多久） at school, ___（為什麼校園安全很重要）.",
+        "ex": "Because students spend eight hours a day at school, their safety there matters to every family."
+       },
+       {
+        "f": "In the ___（校園裡的地點）, someone may ___（可能發生的意外）.",
+        "ex": "In the gym, someone may slip on the wet floor and fall."
+       },
+       {
+        "f": "If ___（某個小問題） is not fixed, someone may ___（可能造成的後果）.",
+        "ex": "If a broken window is not fixed, someone may get hurt."
+       },
+       {
+        "f": "Not every danger can be seen. A student who ___（遇到什麼事情） may not feel safe at school.",
+        "ex": "Not every danger can be seen. A student who gets angry messages from classmates every night may not feel safe at school."
+       }
+      ]
+     },
+     {
+      "name": "第二段（校內成員應該採取哪些作為）",
+      "items": [
+       {
+        "f": "Every member of the school can help: ___（誰做什麼）, and ___（誰做什麼）.",
+        "ex": "Every member of the school can help: teachers can lock the science classroom after class, and students can keep the floors dry."
+       },
+       {
+        "f": "When students see ___（發現的問題）, they should ___（該怎麼做） right away.",
+        "ex": "When students see a broken chair, they should tell their teacher right away."
+       },
+       {
+        "f": "The school can ___（學校的作法） so that ___（這樣做的好處）.",
+        "ex": "The school can add lights near the back gate so that students feel safer when they leave after dark."
+       },
+       {
+        "f": "It is everyone's job to ___（大家都該做的事情） because ___（原因）.",
+        "ex": "It is everyone's job to tell the guard about strangers on campus because one guard cannot see everything."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -4175,6 +4339,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0465"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 176,
+     "p1": "Jenny has been my best friend since junior high, so I never thought one photo could hurt our friendship. On our class trip to Hualien, she fell asleep on the bus with her mouth wide open. I took a picture and posted it on Instagram as a joke. Many classmates soon saw it and sent laughing emojis. When Jenny woke up and saw it, her face turned red. She asked me to take the post down, but a classmate had already shared a screenshot in our class group chat. For the rest of the trip, she hardly talked to me.",
+     "p2": "That night, I deleted the post and messaged her to say sorry. The next morning, I waited for her at the school gate and told her I should have asked before posting the photo. I also asked that classmate to delete the screenshot. Jenny forgave me a few days later. Now I always ask people before I post their photos. I have also learned that the person a joke is about decides whether it is funny.",
+     "zh": {
+      "p1": "珍妮從國中起就是我最要好的朋友，所以我從沒想過，一張照片會傷了我們的友情。全班到花蓮校外教學的時候，她在遊覽車上睡著了，嘴巴張得大大的。我拍了一張照片，想開個玩笑，就貼到 IG 上。很快就有很多同學看到了，還傳來大笑的表情符號。等珍妮醒來看到那張照片，臉一下子就紅了。她要我把貼文撤下來，可是已經有一位同學截了圖，貼到我們班的群組裡。接下來的行程，她幾乎都不跟我說話。",
+      "p2": "當天晚上，我刪掉貼文，也傳了訊息向她道歉。隔天早上，我在校門口等她，跟她說我應該先問過她，再貼出那張照片。我也請那位同學把截圖刪掉。過了幾天，珍妮原諒了我。現在要貼出別人的照片之前，我一定先問過對方。我也學到，一個玩笑好不好笑，是由被開玩笑的那個人來決定的。"
+     }
+    },
+    "levels": "用字：三級只有 junior、chat 兩個，沒有四級以上的字。詞彙表沒有收的 emoji（表情符號）、screenshot（截圖）、delete（刪除），都是寫貼文、班級群組這類情節少不了的日常用語，網站範文也這樣用；Instagram 則是專有名詞。",
+    "upgrade": [
+     {
+      "t": "用片語動詞 come between 寫出「傷了兩人的感情」",
+      "b": "Jenny has been my best friend since junior high, so I never thought one photo could hurt our friendship.",
+      "m": "Jenny has been my closest friend since junior high, so I never thought a single photo could come between us.",
+      "why": "基礎版用 hurt our friendship，意思正確。範文改用片語動詞 [something] + come between + [兩個人]，字典的解釋就是「某件事傷害了兩個人之間的關係」，字面上像是有東西擋在兩人中間，畫面更清楚。至於 a single photo，single 的意思是「只有一個」（only one），用在這裡就點出「才不過一張照片」。"
+     },
+     {
+      "t": "用更精確的時間與數量字，並配合過去完成式",
+      "b": "Many classmates soon saw it and sent laughing emojis.",
+      "m": "Within minutes, dozens of classmates had viewed it, and several of them replied with laughing emojis.",
+      "why": "基礎版的 soon 和 many 都對，可是沒說多快、多少人。範文用 [Within + 一段時間] 開頭，意思是「不到這段時間就……」；過去完成式指的是「到過去某個時間點為止」，所以 had viewed 表示幾分鐘還沒過完，就已經有幾十個同學看過了。dozens of 是「好幾十個」，several of them 是「其中好幾個」，數量一層一層交代清楚；reply with + [名詞] 是「用……來回應」，點出這些表情符號是在回應那則貼文。"
+     },
+     {
+      "t": "道歉的說法：sorry for + V-ing，再用 without + V-ing 點出錯在哪裡",
+      "b": "The next morning, I waited for her at the school gate and told her I should have asked before posting the photo.",
+      "m": "The next morning, I waited for her at the school gate and told her face to face that I was sorry for posting her photo without asking her first.",
+      "why": "基礎版用 [I] + should have + [過去分詞]，講的是過去應該做卻沒有做的事情，帶著後悔的語氣。範文則直接道歉：sorry for 後面接 V-ing（posting her photo），說出為了哪件事道歉，再用 without + V-ing（without asking her first）點出錯在沒先問過她。另外加上 face to face（當面，字典也寫成 face-to-face），也交代了這次道歉和前一晚傳訊息不一樣。"
+     },
+     {
+      "t": "把 whether 子句搬到主詞的位置",
+      "b": "I have also learned that the person a joke is about decides whether it is funny.",
+      "m": "More importantly, I have learned that whether a joke is funny is decided not by the person who tells it but by the person it is about.",
+      "why": "基礎版讓 [the person a joke is about] 當主詞，decide 後面接 whether 子句當受詞；the person 後面省略了關係代名詞 that，介系詞 about 留在子句最後面。範文把 [whether a joke is funny] 整個名詞子句搬到主詞的位置，動詞改成被動的 is decided by，句子的重心就落在「好不好笑」這件事情上；名詞子句放在句首當主詞的時候，要用 whether，一般不用 if。後半句再用 not (by A) but (by B) 對照講笑話的人和被開玩笑的人，兩個 by 片語結構相同，讀起來很整齊。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述事件發生的始末）",
+      "items": [
+       {
+        "f": "___（某人） has been my ___（什麼關係） since ___（從什麼時候）, so I never thought ___（後來發生的事情）.",
+        "ex": "Amy has been my neighbor since we were children, so I never thought a few words could upset her."
+       },
+       {
+        "f": "To me, it was just ___（當時以為只是什麼）, but ___（對方） did not find it funny at all.",
+        "ex": "To me, it was just a joke about his new haircut, but Kevin did not find it funny at all."
+       },
+       {
+        "f": "When ___（對方） ___（看到或聽到什麼）, ___（對方的反應）.",
+        "ex": "When Kevin saw my post, he stopped answering my messages."
+       },
+       {
+        "f": "For the rest of the ___（一段時間）, ___（對方） hardly ___（做什麼）.",
+        "ex": "For the rest of the week, my little brother hardly spoke to me."
+       }
+      ]
+     },
+     {
+      "name": "第二段（如何彌補，以及這件事情的影響或啟示）",
+      "items": [
+       {
+        "f": "I apologized to ___（某人） for ___（V-ing，做錯的事情）.",
+        "ex": "I apologized to my sister for reading her diary without asking."
+       },
+       {
+        "f": "To make up for my mistake, I ___（彌補的做法）.",
+        "ex": "To make up for my mistake, I bought her a cake and wrote her a card."
+       },
+       {
+        "f": "Since then, I have always ___（之後改變的做法）.",
+        "ex": "Since then, I have always thought twice before I post anything about my friends."
+       },
+       {
+        "f": "This experience taught me that ___（學到的道理）.",
+        "ex": "This experience taught me that a few careless words can hurt a good friend."
        }
       ]
      }
@@ -4810,6 +5056,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0261"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 171,
+     "p1": "The chart shows how much attention young Americans aged 18 to 29 pay to six kinds of news. News about the environment and natural disasters comes first, at 69 percent, and social issues follow at 64 percent. The numbers for international affairs and for entertainment and celebrity news are almost the same, at 59 and 58 percent. The number drops to 49 percent for school and education, and the lowest is arts and culture, with only 30 percent.",
+     "p2": "My own list looks very different. I follow entertainment and celebrity news most closely, and for me that includes the influencers I see online every day. My classmates talk about a singer's new song or a popular drama at lunch, and if I miss the latest story, I feel left out. On the other hand, I care least about international affairs. Stories about elections in other countries are full of names and places I do not know, and they go on for months. Most days, the world outside Taiwan feels too far away.",
+     "zh": {
+      "p1": "這張圖表呈現的是美國 18 至 29 歲的年輕人對六類新聞的關注度。環境與天然災害的新聞排第一，占 69%，社會議題接在後面，為 64%。國際事務和娛樂與名人新聞的數字幾乎一樣，分別是 59% 和 58%。至於學校與教育，數字就降到 49%，最低的則是藝術與文化，只有 30%。",
+      "p2": "我自己的清單就很不一樣了。我最關注的是娛樂與名人新聞，對我來說，這一類也包括我每天在網路上看到的網紅。午餐時同學會聊某個歌手的新歌或一部熱門的劇，要是我錯過了最新的消息，就會覺得自己插不上話。另一方面，我最不關心的是國際事務。其他國家的選舉滿是我不認識的人名和地名，而且一拖就是好幾個月。大多數時候，台灣以外的世界對我來說實在太遙遠了。"
+     }
+    },
+    "levels": "用字：三級只有 elections（選舉）一個，沒有四級以上的字。disasters、issues、entertainment、celebrity 是圖表上的類別名稱，percent 是圖表標示的百分比，這幾個字題目本身就給了，照樣使用；influencers（網紅）詞彙表沒有收，但這就是英文裡「網紅」的說法，換成別的說法反而不自然，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 with 在句尾補上第二名",
+      "b": "News about the environment and natural disasters comes first, at 69 percent, and social issues follow at 64 percent.",
+      "m": "News about the environment and natural disasters comes first, at 69 percent, with social issues close behind at 64.",
+      "why": "基礎版用 and 接上第二個子句，所以要有自己的動詞 follow。範文改成 [主要子句], with + [名詞] + [補充說明]，with 後面不需要動詞，只是把第二名附在第一名後面，一句話就交代了前兩名的順序。close behind 的 close 是「很近」，緊跟在後面，正好點出 69% 和 64% 差得不多；後面的 at 64 省略了 percent，因為前面已經說過一次。"
+     },
+     {
+      "t": "拿類別當主詞，換更精確的動詞並補上比較",
+      "b": "The number drops to 49 percent for school and education, and the lowest is arts and culture, with only 30 percent.",
+      "m": "School and education draws 49 percent, and arts and culture sits at the bottom with only 30 percent, less than half the figure at the top.",
+      "why": "基礎版用 the number 和 the lowest 當主詞，類別名稱放在後面。範文直接拿類別當主詞，再配兩個更精確的動詞：draw 有「吸引注意」的意思，正好配合這張關注度的圖表；sit 可以表示「位在某個位置」，sits at the bottom 就是「排在最後」。School and education 和 arts and culture 雖然都用 and 連接兩個名詞，但在這裡各自只是圖表上一個類別的名稱，所以動詞用單數的 draws 和 sits。句尾再補上 less than half the figure at the top，figure 在這裡就是「數字」，說出最後一名還不到第一名的一半，讓高低差距一目了然。"
+     },
+     {
+      "t": "用 who 子句和現在完成式寫出插不上話的人",
+      "b": "My classmates talk about a singer's new song or a popular drama at lunch, and if I miss the latest story, I feel left out.",
+      "m": "At lunch we chat about a singer's new song or a drama that everyone is watching, and anyone who has missed the latest story is left out of the conversation.",
+      "why": "範文把 At lunch 移到句首，先交代場景。a drama that everyone is watching 用 that 子句說明是哪一部劇，比 popular 一個字更具體。後半句 [anyone] + who + [has missed the latest story] 裡，who 一方面代替 anyone 當子句的主詞，一方面又像連接詞一樣把說明接在 anyone 後面；用現在完成式 has missed，是因為錯過消息雖然發生在之前，結果卻延續到現在，才會在聊天時插不上話。chat 則是輕鬆地聊天，比 talk 更貼近午餐時的情境。"
+     },
+     {
+      "t": "把「最關注的新聞」放在句首當主詞",
+      "b": "I follow entertainment and celebrity news most closely, and for me that includes the influencers I see online every day.",
+      "m": "The news I follow most closely is entertainment and celebrity news, and for me that includes the influencers I see online every day.",
+      "why": "基礎版用 I 開頭，範文改成 [The news] + (that) + [I follow most closely] + is + [類別]，把「我最關注的新聞」整個放在句首當主詞，正好呼應題目要寫的「較為關注的新聞主題」，閱卷老師一看就知道這一句在回答哪一項任務。The news 後面省略了關係代名詞 that，因為 that 在子句裡是 follow 的受詞，受詞位置的關係代名詞常常可以省略；後半句的 the influencers I see 也是同樣的道理。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述圖表，指出關注度較高及偏低的類別）",
+      "items": [
+       {
+        "f": "The chart shows how much attention ___（哪些人） pay to ___（調查的主題）.",
+        "ex": "The chart shows how much attention teenagers in Taiwan pay to different sports."
+       },
+       {
+        "f": "___（排第一的類別） comes first, at ___（百分比） percent, and ___（排第二的類別） follows at ___（百分比） percent.",
+        "ex": "Basketball comes first, at 45 percent, and baseball follows at 30 percent."
+       },
+       {
+        "f": "The number drops to ___（百分比） percent for ___（類別）, and the lowest is ___（最後一名的類別）, with only ___（百分比） percent.",
+        "ex": "The number drops to 12 percent for tennis, and the lowest is golf, with only 3 percent."
+       },
+       {
+        "f": "On the whole, these ___（哪些人） care most about ___（哪一類） and least about ___（哪一類）.",
+        "ex": "On the whole, these teenagers care most about sports they can play at school and least about sports they seldom see in Taiwan."
+       }
+      ]
+     },
+     {
+      "name": "第二段（自己最關注及最不關注的新聞類別與理由）",
+      "items": [
+       {
+        "f": "The news I follow most closely is ___（新聞類別） because ___（理由）.",
+        "ex": "The news I follow most closely is news about social issues because these problems may affect my own future."
+       },
+       {
+        "f": "If I miss ___（什麼消息）, I feel left out when ___（什麼情況）.",
+        "ex": "If I miss the news about a big storm, I feel left out when my classmates talk about it the next day."
+       },
+       {
+        "f": "On the other hand, I care least about ___（新聞類別）. Stories about ___（具體內容） are ___（為什麼不想看）.",
+        "ex": "On the other hand, I care least about arts and culture. Stories about art shows are hard for me to understand."
+       },
+       {
+        "f": "I know I should ___（應該做的事情）, so when ___（什麼情況）, I at least ___（最少會做的事情）.",
+        "ex": "I know I should care more about education, so when the exam rules change, I at least read the main points."
        }
       ]
      }
@@ -5614,6 +5942,89 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 174,
+     "p1": "Of the three plans, I would choose an arts festival. My neighborhood has enough food and helpers. What it needs is a chance to bring people of all ages together. Two winters ago, students from our school sang outside the morning market on our street. A woman stopped counting her change, and a boy climbed onto his father's shoulders. For twenty minutes, nobody was buying or selling. A festival can give us more moments like that.",
+     "p2": "The festival would have three parts. One part is an exhibition of old photos that we borrow from our neighbors, with the year and the place under each one. Older people would come because they know the buildings, and young people would come because they do not. Another part is a stage that school clubs and local musicians share, so the same crowd can hear a guitar band and traditional music. The last part is a corner where grandparents teach children to make paper lanterns because it is easier to learn from a person than from a book.",
+     "zh": {
+      "p1": "三個方案裡，我會選擇辦一場藝文活動。我們這一帶吃的不缺，幫忙的人手也夠，缺的是一個能把各個年齡層的人聚在一起的機會。兩年前的冬天，我們學校有一群學生在我家這條街的早市外面唱歌。那時有一位太太停下了手邊正在數的零錢，還有一個小男孩爬上了爸爸的肩膀。那二十分鐘裡，沒有人在買東西，也沒有人在賣東西。要是辦一場藝文活動，我們就能多有幾次這樣的時刻。",
+      "p2": "這場活動會分成三個部分。其中一個部分是老照片展，照片跟鄰居借，每一張底下都寫上年份和地點。上了年紀的人會來，因為他們認得那些建築；年輕人也會來，因為他們不認得。另一個部分是一個舞台，由學校社團和在地的樂手一起使用，所以同一群觀眾既能聽到吉他樂團，也能聽到傳統音樂。最後一個部分是一個角落，讓阿公阿嬤教小孩做紙燈籠，因為跟著人學，比看書學容易。"
+     }
+    },
+    "note": "這一題的範文有三篇，基礎版對照的是「舉辦藝文活動」那一篇。",
+    "levels": "用字：三級只有 exhibition（展覽）、neighborhood（社區、街坊）、onto（到……上面）三個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 what 帶出的名詞子句當主詞，點出真正缺的東西",
+      "b": "My neighborhood has enough food and helpers. What it needs is a chance to bring people of all ages together.",
+      "m": "My neighborhood is not short of food or of willing volunteers; what it is short of is an occasion that brings different generations into the same place.",
+      "why": "兩邊都是先說社區不缺什麼，再說真正缺的是什麼。範文前後兩半句都用 be short of（缺少）：前半句是 [is not short of] + (food) or (of willing volunteers)，後半句換成 [what it is short of] + is + [缺的東西]。這裡的 what 等於 the thing that，整個 what 子句當主詞，所以後面接單數的 is；同一個片語先否定、再肯定，讀者一對照，就看得出缺的到底是什麼。中間用分號，是因為兩個完整的子句意思緊密相連，分號可以取代句點把它們接在一起。"
+     },
+     {
+      "t": "把「動作」換成「身分」，用兩個 nobody 句並列",
+      "b": "For twenty minutes, nobody was buying or selling.",
+      "m": "For those twenty minutes nobody was a vendor and nobody was a customer.",
+      "why": "基礎版用動詞 buying、selling，說的是大家停下了買賣的動作；範文改用名詞 vendor（賣東西的人、攤販）和 customer（買東西的人、顧客），說的是那二十分鐘裡，沒有人是賣方，也沒有人是買方，重點從「在做什麼」換成「是什麼身分」。句子是兩個結構相同的子句用 and 接起來：[nobody was a + 名詞] + and + [nobody was a + 名詞]，前後一對照，讀者就看得出買賣雙方都不見了。至於 those twenty minutes 的 those 是 that 的複數，用來指前面已經提過的那二十分鐘。"
+     },
+     {
+      "t": "用過去分詞片語和分號，把兩句併成一句",
+      "b": "One part is an exhibition of old photos that we borrow from our neighbors, with the year and the place under each one. Older people would come because they know the buildings, and young people would come because they do not.",
+      "m": "The first is an exhibit of old photographs borrowed from residents, hung along the wall of the community center with the year and the place written below; older people come because they recognize the buildings, and younger ones come because they do not.",
+      "why": "基礎版用 that 關係子句說明照片從哪裡來。範文縮成過去分詞片語 [old photographs] + (borrowed from residents)，意思等於 which are borrowed from residents：關係子句的主詞就是前面的名詞，動作又是被動的，所以可以省掉 which are，只留下過去分詞；後面的 (hung along the wall …) 也是同樣的道理，順便交代了照片掛在哪裡。展覽怎麼辦、誰會來看，這兩件事意思緊密相連，範文就用分號接成一句，不用句點切開。"
+     },
+     {
+      "t": "換更精確的動詞，並用 travel 寫手藝怎麼傳下去",
+      "b": "The last part is a corner where grandparents teach children to make paper lanterns because it is easier to learn from a person than from a book.",
+      "m": "The third is a corner where grandparents teach children to fold paper lanterns, because a craft travels faster from hand to hand than from a book.",
+      "why": "make 只是籠統的「做」；fold 是把紙摺起來，讓一部分疊在另一部分上。範文寫的是用摺的方式做紙燈籠，所以 fold 比 make 更精確。travel 本來是從一個地方移動到另一個地方，範文拿它來寫手藝的流傳：[a craft] + travels faster + (from hand to hand) + than + (from a book)，from hand to hand 指一個人親手傳給另一個人，跟 from a book 結構相同，兩種傳法一比就很清楚。也就是說，基礎版是從學的人這一邊來說，範文則把手藝 a craft 放在主詞的位置，讓「手藝怎麼傳下去」成為句子的重點。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明選擇哪一個方案及原因）",
+      "items": [
+       {
+        "f": "Of the three plans, I would choose ___（哪一個方案） because ___（主要原因）.",
+        "ex": "Of the three plans, I would choose a farmers' market because many families in my town grow fruit and vegetables."
+       },
+       {
+        "f": "What our neighborhood needs most is ___（社區最缺的東西）.",
+        "ex": "What our neighborhood needs most is someone to visit the older people who live alone."
+       },
+       {
+        "f": "When I saw ___（親眼看到的情景）, I knew that ___（因此明白的事情）.",
+        "ex": "When I saw my grandfather eating dinner alone every night, I knew that many older people need company."
+       },
+       {
+        "f": "A ___（活動） can give ___（哪些人） a chance to ___（做什麼）.",
+        "ex": "A second-hand market can give students a chance to sell the books they no longer need."
+       }
+      ]
+     },
+     {
+      "name": "第二段（活動內容與設計理由）",
+      "items": [
+       {
+        "f": "I would like our ___（活動） to include ___, ___, and ___（三項活動內容）.",
+        "ex": "I would like our market to include fresh fruit, used books, and old toys."
+       },
+       {
+        "f": "One part is ___（其中一項活動內容）, so ___（這樣設計的好處）.",
+        "ex": "One part is visiting older people who live alone, so they have someone to talk to every week."
+       },
+       {
+        "f": "We would ___（具體做法） because ___（設計理由）.",
+        "ex": "We would sell everything for under one hundred dollars because most buyers are students."
+       },
+       {
+        "f": "It is easier for ___（哪些人） to ___（做什麼） when ___（什麼情況）.",
+        "ex": "It is easier for older people to join us when the event is close to their homes."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -6372,6 +6783,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0085"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 176,
+     "p1": "I seldom feel lonely when I am by myself. Instead, I usually feel lonely in a crowded room. My class has more than forty students, and at lunch the classroom is full of noise. When my classmates laugh at a joke about a TV show I have never seen, I laugh a second later than everyone else. Nobody is unkind to me, and everyone is friendly. It is strange that I still feel alone.",
+     "p2": "What helps me is a live stream of a stranger who is studying. She sits at a desk in another city, and there is a timer on the screen. For fifty minutes, she just writes. Hundreds of people are watching with me, but very few of them type anything because we are all there to study. When her timer rings, we all take a break for ten minutes. None of these people knows my name. Still, at one in the morning, someone else is awake and working just like me. On my worst nights, I fall asleep with the stream still on.",
+     "zh": {
+      "p1": "我一個人的時候很少覺得寂寞，反而是在人很多的地方，我通常會覺得寂寞。我們班有四十幾個學生，一到午餐時間，教室裡就吵吵鬧鬧的。同學在笑某個電視節目的笑話時，因為我沒看過那個節目，總是比別人晚一秒才笑出來。其實沒有人對我不好，大家也都很友善，奇怪的是，我還是覺得孤單。",
+      "p2": "能讓我好過一點的，是一個陌生人唸書的直播。她坐在另一個城市的書桌前，螢幕上有一個計時器。整整五十分鐘，她就只是一直寫。跟我一起看的有好幾百人，可是很少有人打字留言，因為大家都是來唸書的。她的計時器一響，我們就一起休息十分鐘。這些人沒有一個知道我叫什麼名字，不過到了凌晨一點，還是有別人跟我一樣醒著、一樣在用功。最難熬的那幾個晚上，我就開著直播睡著了。"
+     }
+    },
+    "levels": "用字：三級只有 awake（醒著的）一個，沒有四級以上的字。unkind（不友善的）詞彙表沒有單獨收錄，它是一級字 kind 加上否定字首 un-，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "換一個主詞，把寂寞寫成會「找上門」的人",
+      "b": "I seldom feel lonely when I am by myself.",
+      "m": "Loneliness rarely finds me when I am by myself.",
+      "why": "基礎版的主詞是「我」：[I] + seldom + feel lonely。範文把主詞換成抽象名詞 Loneliness，寫成 [Loneliness] + rarely + finds + [me]，好像寂寞是一個會自己找上門的人，這種把事物寫成人的手法叫做擬人（personification）。rarely 和 seldom 都是「很少」，本身就帶有否定的意思，所以不再加 not，位置一樣放在主詞和動詞中間。範文下一句接著寫 It finds me in a crowded room.，兩句的主詞都是寂寞，讀起來前後接得很順。"
+     },
+     {
+      "t": "用 with 和分詞片語，一句寫出坐、聽、笑三個動作",
+      "b": "When my classmates laugh at a joke about a TV show I have never seen, I laugh a second later than everyone else.",
+      "m": "I sit by the window with my lunch box open, listening to a joke about a show I have never seen, and I laugh about half a second later than everyone else.",
+      "why": "範文先交代「我」坐在哪裡、當時是什麼樣子：with + [名詞] + [補語]（with my lunch box open，便當打開著），和字典例句 stood there with his hat on 是同一個結構，用來說明伴隨的狀況。接著的 listening to a joke … 是分詞片語，分詞本身不表示時態，也不必再寫主詞，因為它的主詞就是主要子句的 I。這樣一句話裡就有坐、聽、笑三個動作，比基礎版只寫笑更有畫面。另外，兩句都在 show 後面省略了關係代名詞 that，因為它在子句裡是 seen 的受詞，受詞位置的關係代名詞才可以省略。"
+     },
+     {
+      "t": "把籠統的 full of noise 換成具體的聲音",
+      "b": "My class has more than forty students, and at lunch the classroom is full of noise.",
+      "m": "My class has more than forty students, and at lunch the room fills with four or five conversations at once.",
+      "why": "基礎版只說教室裡很吵（is full of noise），讀的人不知道吵的是什麼。範文改用動詞 fill with，寫成 [the room] + fills with + [東西]，意思是「（空間）被…填滿」，寫出午餐時間一到、教室熱鬧起來的樣子；再用 (four or five conversations) + at once（同時四、五組對話）說清楚聲音從哪裡來。有了這個細節，讀者也比較能明白，為什麼「我」會接不上大家的話。"
+     },
+     {
+      "t": "take a break 換成 take time off，再用 the same 強調「一起」",
+      "b": "When her timer rings, we all take a break for ten minutes.",
+      "m": "When her timer rings we all take the same ten minutes off.",
+      "why": "take a break 是「停下來休息一下」。範文改用 take + [一段時間] + off，這裡的 off 是「不做事、不上班」的意思，像字典例句 take some time off 就是請假休息一段時間。再加上 the same，就把重點放在幾百個互不認識的人在同一段時間一起休息，正好扣住這一段「有人陪著」的主題。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（在什麼情境或因為什麼原因感到寂寞）",
+      "items": [
+       {
+        "f": "I often feel lonely when ___（什麼情境）.",
+        "ex": "I often feel lonely when my parents work late and I eat dinner by myself."
+       },
+       {
+        "f": "Even when I am surrounded by ___（哪些人）, I sometimes feel ___（什麼感覺）.",
+        "ex": "Even when I am surrounded by my teammates after a game, I sometimes feel alone."
+       },
+       {
+        "f": "Since my family moved to ___（地方）, I have felt lonely ___（什麼時候）.",
+        "ex": "Since my family moved to Hualien, I have felt lonely on weekends."
+       },
+       {
+        "f": "When my friends talk about ___（大家在聊的話題）, I feel left out because ___（原因）.",
+        "ex": "When my friends talk about online games, I feel left out because I never play them."
+       }
+      ]
+     },
+     {
+      "name": "第二段（某個人、事或物如何陪我度過寂寞時光）",
+      "items": [
+       {
+        "f": "When I feel lonely, ___（某人或某樣東西） keeps me company.",
+        "ex": "When I feel lonely, my cat Mimi keeps me company."
+       },
+       {
+        "f": "What gets me through those lonely nights is ___（某人事物）.",
+        "ex": "What gets me through those lonely nights is a radio program that plays old songs."
+       },
+       {
+        "f": "Talking to ___（某人） always cheers me up because ___（原因）.",
+        "ex": "Talking to my older sister always cheers me up because she knows how to make me laugh."
+       },
+       {
+        "f": "___（某樣東西） cannot ___（做不到的事情）, but it ___（做得到的事情）.",
+        "ex": "My diary cannot give me advice, but it lets me write down anything I want to say."
        }
       ]
      }
