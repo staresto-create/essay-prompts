@@ -20467,6 +20467,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "When I feel down, I rent a YouBike and ride along the river for about an hour. It may sound simple, but it works. My legs keep moving, so I stop thinking about my problem. With both hands on the handlebars, I cannot check my phone. The wide river and the open sky remind me that the world is much bigger than my worries.",
+     "p2": "I found this out in tenth grade. During our science report, I opened the wrong file in front of the class. After school, nobody said a word in our group chat. That evening, I rode to the river. Near the bridge, the sunset turned the water orange, and I finally felt calm. At home, I told my group I was sorry. Now, whenever something goes wrong, I know where to go.",
+     "zh": {
+      "p1": "心情低落的時候，我就租一輛 YouBike，沿著河邊騎一個小時左右。這個方法聽起來也許很簡單，卻真的有用。雙腿一直在踩，我就不會再去想那個問題；兩隻手都握著把手，我也就沒辦法看手機。至於寬闊的河面和頭上的一大片天空，則提醒我，世界比我的煩惱大得多。",
+      "p2": "我是在高一的時候發現這個方法的。上台做自然科報告的時候，我當著全班的面開錯了檔案。放學後，我們的群組裡沒有一個人說話。那天傍晚，我騎車到了河邊。騎到橋附近，夕陽把河水染成了橘色，我也終於平靜下來。回到家，我跟組員說了對不起。現在，只要遇到不順的事情，我就知道該往哪裡去。"
+     }
+    },
+    "levels": "用字：三級只有 chat（聊天；group chat 是群組）、remind（提醒）兩個，沒有四級以上的字。handlebars（腳踏車把手，通常用複數）詞彙表沒有收，可是腳踏車把手英文就叫 handlebars，網站範文也這樣寫，所以照樣使用；YouBike 是品牌名稱。",
+    "upgrade": [
+     {
+      "t": "用片語寫出腦子「想來想去」的樣子",
+      "b": "My legs keep moving, so I stop thinking about my problem.",
+      "m": "My legs have to keep moving, so my mind cannot keep going around in circles.",
+      "why": "基礎版說「我不再想那個問題」，意思清楚，可是讀者看不出心情差的時候腦子是怎麼轉的。範文用片語 go around in circles，字面是「繞圈子」，指一直想同一件事情，卻想不出結果，正好寫出心情差的時候腦子一直打轉的樣子。前後兩半都用 keep + [V-ing]（一直做某事）：[My legs] have to keep moving, so [my mind] cannot keep going around in circles，腿「得一直動」，腦子就「沒辦法一直繞圈子」，兩半對照著看，讀者馬上明白騎車為什麼有效。"
+     },
+     {
+      "t": "先用短句說重點，冒號後面再補上具體細節",
+      "b": "With both hands on the handlebars, I cannot check my phone.",
+      "m": "My hands are busy too: with both of them on the handlebars, I cannot check my phone and read the same upsetting messages again and again.",
+      "why": "範文先用短句 My hands are busy too 說出重點，too 表示手和前一句的腳一樣忙；冒號後面的句子再解釋手為什麼忙，英文在後一句用來解釋前一句時，兩句中間常用冒號。[with] + (both of them) + (on the handlebars) 交代雙手當時的狀態，句型和字典例句 Don't stand with your hands in your pockets 一樣。句尾多寫了 read the same upsetting messages again and again（把讓人難過的訊息一讀再讀），也就是說，騎車讓人沒辦法一直重讀那些訊息，這比只寫 check my phone 更具體。"
+     },
+     {
+      "t": "用 whatever 子句代替名詞，把所有煩惱都包括進去",
+      "b": "The wide river and the open sky remind me that the world is much bigger than my worries.",
+      "m": "The wide river, the open sky, and the people jogging past remind me that the world is much bigger than whatever is bothering me.",
+      "why": "基礎版用名詞 my worries（我的煩惱）。範文在 than 後面改用名詞子句 [whatever] + is bothering me，whatever 意思是「任何東西、不管是什麼」，在子句裡當主詞，所以後面直接接動詞 is bothering，整個子句就是「不管是什麼在困擾我」，不必說出是哪一件事情，任何煩惱都包括在內。另外範文多寫了 (the people jogging past)，名詞 people 後面接 jogging past，說明是「從旁邊跑過去的人」，和 (the wide river)、(the open sky) 並列，畫面更完整。"
+     },
+     {
+      "t": "用 notice + 受詞 + V-ing 寫出看到的過程，再用身體反應代替「我平靜了」",
+      "b": "Near the bridge, the sunset turned the water orange, and I finally felt calm.",
+      "m": "Somewhere near the bridge, though, I noticed the sunset turning the water orange, and my breathing slowed down.",
+      "why": "基礎版直接敘述夕陽把河水染成橘色。範文改從「我」的眼睛去寫：[I] + noticed + (the sunset) + (turning the water orange)，notice、see 這類動詞的受詞後面接 V-ing，表示看到的動作正在進行，所以讀者看到的是河水慢慢變色的過程；turn + [受詞] + [顏色] 則是「把……變成某種顏色」。句尾不直接說 I felt calm，改寫身體的變化 my breathing slowed down（呼吸慢了下來），讀者自己就看得出心情平靜了。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（最常用哪一種方法幫自己度過低潮，以及這個方法為什麼有效）",
+      "items": [
+       {
+        "f": "When I feel down, I usually ___（做什麼事情） for about ___（多久）.",
+        "ex": "When I feel down, I usually play basketball at the park for about an hour."
+       },
+       {
+        "f": "It may sound ___（strange／simple 等形容詞）, but ___（這個方法） always makes me feel better.",
+        "ex": "It may sound strange, but cleaning my room always makes me feel better."
+       },
+       {
+        "f": "While I am ___（正在做這件事情）, I cannot ___（平常停不下來的事情）, so I ___（帶來的好處）.",
+        "ex": "While I am swimming, I cannot use my phone, so I forget about my problems for a while."
+       },
+       {
+        "f": "___（V-ing，這個方法） helps me because it makes me ___（原形動詞，產生的效果）.",
+        "ex": "Playing the piano helps me because it makes me think about something else."
+       }
+      ]
+     },
+     {
+      "name": "第二段（舉實例說明這個方法何以有效）",
+      "items": [
+       {
+        "f": "I first tried this when ___（發生了什麼事情）.",
+        "ex": "I first tried this when I failed a math test in ninth grade."
+       },
+       {
+        "f": "I felt so ___（心情） that I could not ___（做不到的事情）.",
+        "ex": "I felt so upset that I could not finish my dinner."
+       },
+       {
+        "f": "After I ___（做這件事情） for ___（多久）, I finally ___（情況好轉）.",
+        "ex": "After I swam for half an hour, I finally stopped crying."
+       },
+       {
+        "f": "Now, whenever ___（遇到什麼情況）, I ___（就會做什麼）.",
+        "ex": "Now, whenever I get a bad grade, I go to the pool before I do anything else."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -21260,6 +21342,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "The most precious thing in my room is the window next to my desk. It is an ordinary old window that shakes on windy days. For ten years, however, it has given me a beautiful view. I can see part of a river, a sky that turns orange in the evening, and green mountains far away.",
+     "p2": "Across the street, a building began to rise last spring. As it grows taller, I can see less and less. The river went first. Watching it before exams calmed me down. Then the building blocked the sunset, which was my signal to take a break. Soon the mountains will be gone too. When I miss my grandparents, I look at the mountains near their home and feel closer to them. The window will stay, but its view will not.",
+     "zh": {
+      "p1": "我房間裡最珍貴的東西，是書桌旁的那扇窗戶。它是一扇普通的舊窗戶，風大的日子還會晃動。不過這十年來，它讓我看到了很美的景色。從窗戶看出去，看得到一段河、一片到了傍晚就會變成橘色的天空，還有遠方青翠的山。",
+      "p2": "去年春天，對街開始蓋起一棟大樓。隨著大樓愈蓋愈高，我看得到的景色也愈來愈少。最先看不見的是河。以前考試前看著河水，我就會平靜下來。接著大樓擋住了夕陽，而夕陽本來是提醒我該休息一下的訊號。再過不久，山也會看不見了。每次想念爺爺奶奶，我就會望著他們家附近的那片山，覺得離他們近了一點。窗戶會留下來，可是窗外的景色不會。"
+     }
+    },
+    "levels": "用字：三級只有 precious（珍貴的）、signal（訊號）兩個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "換更精確的動詞，並加上窗框的細節",
+      "b": "It is an ordinary old window that shakes on windy days.",
+      "m": "It is just an ordinary window with an old metal frame, and it rattles a little on windy days.",
+      "why": "基礎版用 shake（搖晃）描述窗戶，意思對，可是 shake 泛指快速地前後或上下晃動。範文改用 rattle，這個字指東西發出一連串快速敲擊般的喀啦聲，Cambridge 字典的例句正好是 The windows rattled when the wind blew，所以讀者不但看得到窗戶在動，還聽得到聲音。範文也用 [an ordinary window] + with + [an old metal frame] 補上窗框的細節：with 接在名詞後面是「有、帶著」的意思，和 a tall woman with dark hair 的用法一樣，用來說明這扇窗戶長什麼樣子。rattle 是五級字，寫不出來的時候用 shake 也完全正確。"
+     },
+     {
+      "t": "用關係子句代替形容詞，說出景色有多珍貴",
+      "b": "For ten years, however, it has given me a beautiful view.",
+      "m": "For the past ten years, however, it has given me a view that no amount of money could buy.",
+      "why": "基礎版用形容詞 beautiful 說景色很美，卻沒有說出它對我有多珍貴。範文在 view 後面接關係子句 [a view] + that + [no amount of money could buy]，that 代替前面的 view，當子句裡 buy 的受詞。no amount of + 名詞的意思是「再多的……也……不」，Cambridge 字典的例句 No amount of money could replace my husband 就是同一個結構；no 本身已經是否定，所以後面的 could 不再加 not。也就是說，範文不直接說景色多美，而是說它用錢買不到，正好回應題目說的「不一定是貴重的」。另外，範文寫 for the past ten years，the past 指「到現在為止的這段時間」，常和現在完成式連用，所以後面寫 has given。"
+     },
+     {
+      "t": "用 used to 和 would 寫出過去的習慣",
+      "b": "Watching it before exams calmed me down.",
+      "m": "Before every big exam, I used to stand at the window and watch the water, and somehow my mind would become calm.",
+      "why": "基礎版用動名詞片語 [Watching it before exams] 當主詞，只說看河讓我平靜下來。範文寫成 [I] + used to + [stand at the window and watch the water]，used to 表示過去常常這樣做、現在已經不再如此，讀者一看就知道河已經看不見了。後半句的 [my mind] + would + [become calm] 也是說過去一再發生的事；Cambridge 的文法說明指出，would 可以用來說過去的習慣動作，但不用來說過去的狀態，become calm 是一個變化，所以可以用。中間的 somehow 意思是「不知道為什麼」，寫出心情就是會平靜下來，自己也說不出原因。"
+     },
+     {
+      "t": "用 what 子句當主詞，點出真正珍貴的是什麼",
+      "b": "The window will stay, but its view will not.",
+      "m": "My window will still be there after the building is finished, but what makes it precious will not.",
+      "why": "兩句都在說窗戶留得住、景色留不住。範文用 [what makes it precious] 當 but 後面那個子句的主詞，what 在這裡等於 the thing that，意思是「讓它珍貴的東西」，比 its view 更直接扣回題目的 precious。after 子句說的雖然是將來的事，子句裡卻用現在式 [after the building is finished]，不寫 will be finished。至於兩句最後的 will not，後面都省略了前面已經出現過的部分（stay 或 still be there）：讀者看得出省略的是什麼，英文就不必重複。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述房間裡最珍愛的物品：長什麼樣子、放在哪裡）",
+      "items": [
+       {
+        "f": "The most precious thing in my room is the ___（物品） ___（放在房間的哪裡，例如 on my desk）.",
+        "ex": "The most precious thing in my room is the teddy bear on my bed."
+       },
+       {
+        "f": "It is just a(n) ___（普通、不貴的東西）, but ___（它特別的地方）.",
+        "ex": "It is just a cheap watch, but it still works after eight years."
+       },
+       {
+        "f": "It is ___（大小、顏色等外觀）, and ___（看得出用了很久的地方）.",
+        "ex": "It is small and brown, and one of its ears is missing."
+       },
+       {
+        "f": "I got it from ___（誰） when ___（什麼時候）.",
+        "ex": "I got it from my uncle when I turned ten."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說明珍愛這件物品的理由）",
+      "items": [
+       {
+        "f": "It means a lot to me because ___（原因）.",
+        "ex": "It means a lot to me because my grandmother made it by hand."
+       },
+       {
+        "f": "Whenever I feel ___（心情）, I ___（會對它做什麼）.",
+        "ex": "Whenever I feel lonely, I hold the bear and talk to it."
+       },
+       {
+        "f": "It reminds me of ___（想起的人、時光或地方）.",
+        "ex": "It reminds me of the summer I spent with my cousins in Tainan."
+       },
+       {
+        "f": "Even if ___（將來可能發生的事）, I will never ___（不會做的事）.",
+        "ex": "Even if it breaks one day, I will never throw it away."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -21677,6 +21841,88 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0201",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0044"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 137,
+     "p1": "Growing up is a confusing experience because the adults around me treat me like a child one day and like an adult the next. When I want to stay out until ten, my parents say I am only sixteen. When I forget to fold my laundry, they ask why I still act like a child.",
+     "p2": "The most confusing time was in the tenth grade, when I had to choose between the science and social studies tracks. My parents said it was my decision, but each of them told me what to choose. On a trip to Kaohsiung, a college student showed us around some old buildings. I could see myself showing visitors around one day. So I chose the social studies track. I am still not sure it was the right choice, but it was my own.",
+     "zh": {
+      "p1": "成長是一段令人困惑的經驗，因為身邊的大人一下子把我當小孩，一下子又把我當大人。我想在外面待到十點，爸媽就說我才十六歲；要是我忘了把洗好的衣服摺起來，他們又問我為什麼還像個小孩子。",
+      "p2": "最讓我困惑的時候，是高一那年要在自然組和社會組之間做選擇。爸媽都說這是我自己的決定，可是兩個人又各自告訴我該選哪一組。去高雄玩的時候，一位大學生帶我們參觀了幾棟老建築，我想像得到自己有一天也帶著遊客四處參觀。於是我選了社會組。我到現在還不確定這個選擇對不對，不過這是我自己做的選擇。"
+     }
+    },
+    "levels": "用字：三級只有 confusing（令人困惑的，原形 confuse）、fold（摺）、laundry（洗好或待洗的衣物）三個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 can't seem to 和名詞子句說出大人的矛盾",
+      "b": "Growing up is a confusing experience because the adults around me treat me like a child one day and like an adult the next.",
+      "m": "Growing up is a confusing experience, mostly because the adults around me cannot seem to decide how old I am.",
+      "why": "基礎版直接說出大人怎麼對待我：一下子當小孩，一下子當大人。範文換個角度，寫成 [the adults] + cannot seem to + [decide]，can't seem to + 原形動詞是「好像怎麼都沒辦法……」，用來把話說得緩和一點；後面的 (how old I am) 是名詞子句，當 decide 的受詞，所以用直述句的語序 [主詞] + [動詞]，不寫成 how old am I。年紀本來不是誰能決定的，這種誇張的說法反而讓讀者一看就懂大人的態度前後不一；mostly because 則表示這是最主要的原因，但不是唯一的原因。"
+     },
+     {
+      "t": "用 the same parents 和 someone my age 點出矛盾",
+      "b": "When I forget to fold my laundry, they ask why I still act like a child.",
+      "m": "When I forget to fold my laundry, the same parents ask how someone my age can still act like a child.",
+      "why": "基礎版用代名詞 they 指爸媽，意思清楚，但看不出矛盾。範文改寫成 the same parents，提醒讀者：前一句說我才十六歲的，正是同一對爸媽，矛盾就自己浮現出來。後半句的 (someone my age) 是「像我這個年紀的人」，[名詞] + [所有格] + age 這種說法，字典裡也有類似的例句（people his own age）；(how someone my age can still act like a child) 是名詞子句，當 ask 的受詞，所以同樣用直述句的語序。"
+     },
+     {
+      "t": "用所有格代名詞 mine 避免重複",
+      "b": "My parents said it was my decision, but each of them told me what to choose.",
+      "m": "Both of my parents said the decision was mine, and then each of them told me what to choose.",
+      "why": "範文先寫 the decision，再用所有格代名詞 mine（= my decision）收尾，同一句裡就不必把 decision 寫兩次。Both of my parents 強調爸爸媽媽兩個人都這麼說，跟後面的 each of them（兩個人各自）一前一後對照；and then 照時間順序把兩件事情接起來，先說「由你決定」，接著又各自指定答案，讀者自然看得出其中的矛盾。"
+     },
+     {
+      "t": "用 but not 加上對比，省略重複的部分",
+      "b": "I could see myself showing visitors around one day.",
+      "m": "I could picture myself leading a tour like that one day, but not solving physics problems in a lab.",
+      "why": "[see／picture] + oneself + [V-ing] 都是「想像自己在做……」，範文用的 picture 意思更明確，就是在腦中想像畫面。範文還在後面加上對比：but not (solving physics problems in a lab)，前後兩個 V-ing 片語結構相同；not 前面省略了 I could picture myself，因為讀者從前半句就知道省略的是什麼。一句裡同時寫出想做和不想做的事情，選社會組的理由就更清楚了。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說出成長是怎樣的經驗和原因）",
+      "items": [
+       {
+        "f": "Growing up is a/an ___（形容詞，注意冠詞） experience because ___（原因）.",
+        "ex": "Growing up is an exciting experience because every year I am allowed to do more things on my own."
+       },
+       {
+        "f": "When I ___（想做的事情）, my parents say I am too ___（形容詞） to ___（做那件事情）.",
+        "ex": "When I ask for a new phone, my parents say I am too young to have one."
+       },
+       {
+        "f": "Sometimes I ___（一種感覺）, but at other times I ___（相反的感覺）.",
+        "ex": "Sometimes I feel ready to live on my own, but at other times I still want my mother to cook for me."
+       },
+       {
+        "f": "___（學校、身體等其他方面） also makes growing up ___（形容詞） because ___（原因）.",
+        "ex": "My new school also makes growing up exciting because I meet people from many different towns."
+       }
+      ]
+     },
+     {
+      "name": "第二段（舉出一個具體的例子）",
+      "items": [
+       {
+        "f": "The most ___（形容詞） time was ___（什麼時候）, when ___（發生了什麼事情）.",
+        "ex": "The most exciting time was in the ninth grade, when I took a train to Tainan by myself for the first time."
+       },
+       {
+        "f": "At first, ___（一開始的情況）, but ___（後來發生了什麼事情）.",
+        "ex": "At first, I got lost at the station, but a kind woman showed me the way."
+       },
+       {
+        "f": "___（某人） told me to ___（對方的建議）, but I ___（自己的做法）.",
+        "ex": "My coach told me to stop playing basketball because I was too short, but I kept practicing every morning."
+       },
+       {
+        "f": "That experience taught me that ___（學到的事情）.",
+        "ex": "That experience taught me that I can solve problems on my own."
        }
       ]
      }
@@ -22393,6 +22639,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 133,
+     "p1": "The loudest sound I have ever heard in an English class came from my classmate Kai. It happened during a speaking lesson in our first year of senior high school. Kai was a quiet boy who seldom raised his hand.",
+     "p2": "That day, we were practicing a dialogue about seeing the school nurse. Kai played a sick student, and I was the nurse. He held his stomach and said, \"I have a terrible stomachache.\" Just then, a loud noise came from him. Everyone knew what had happened: Kai had passed gas in front of the whole class. Then we all burst out laughing. Kai turned red, but he looked at me and said, \"See? I'm not acting.\" Kai is still quiet, but we now know he can turn an awkward moment into a joke.",
+     "zh": {
+      "p1": "我在英文課上聽過最響的一個聲音，是從我的同學阿凱那裡傳出來的。那是高一的一堂口說課上發生的事情。阿凱平常很安靜，很少舉手。",
+      "p2": "那天我們在練習一段到健康中心看病的對話，阿凱演一個生病的學生，我演護理師。他抱著肚子說：「我肚子痛得不得了。」就在這個時候，他身上傳出很響的一聲。大家都知道發生了什麼事情：阿凱在全班面前放了一個屁。接著，我們全都大笑起來。阿凱臉都紅了，可是他看著我說：「你看，我不是在演。」阿凱到現在還是很安靜，不過我們現在都知道，他有辦法把尷尬的場面變成笑話。"
+     }
+    },
+    "levels": "用字：三級只有 awkward（尷尬的）、gas（氣體；放屁的 pass gas）、senior（高年級的；senior high school 高中）、stomach（胃、肚子）四個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 the moment 開頭，再用 where 子句寫出聲音從哪裡來",
+      "b": "Just then, a loud noise came from him.",
+      "m": "The moment he finished, a loud noise came from where he was standing.",
+      "why": "基礎版的 Just then（就在那時候）只說事情發生的時間。範文用 [The moment] + [he finished]，the moment 後面接子句，意思和 as soon as 一樣，是「他一說完，……就……」，讀者會知道聲音緊接在台詞後面出現，好笑的地方就在這裡。後半句的 from 後面接 [where he was standing]，where 子句說的是「他站著的那個地方」，整個子句當介系詞 from 的受詞，寫出聲音的來處，卻不必把話說破。"
+     },
+     {
+      "t": "換更精確的動詞，再用 instead of 寫出他沒有做的事情",
+      "b": "Kai turned red, but he looked at me and said, \"See? I'm not acting.\"",
+      "m": "Kai's face flushed with embarrassment, but instead of running back to his seat, he looked at me and said, \"See? I'm not acting.\"",
+      "why": "turn red 說的是臉變紅，flush 也是臉紅，而且字典說明是因為強烈的情緒，所以 [face] + flushed + with + [embarrassment] 直接把「尷尬」這個原因寫了出來。後面的 [instead of] + [running back to his seat] 意思是「沒有跑回座位，反而……」，instead of 是介系詞，後面接動名詞 running。讀者先看到一般人會做的事情，再看到阿凱真正做的事情，他那句話就顯得更出人意料。"
+     },
+     {
+      "t": "since that day 配現在完成式，講到現在都是如此",
+      "b": "Kai is still quiet, but we now know he can turn an awkward moment into a joke.",
+      "m": "Kai is still quiet, but since that day, we have all known how quickly he can turn an awkward moment into a joke.",
+      "why": "基礎版用 now 加現在式 know，只說現在知道。範文用 [since that day]（從那天起），since 後面接過去的時間點，主要子句就用現在完成式 [we] + have (all) + [known]，意思是從那天一直到現在都知道。know 後面接的 [how quickly he can …] 是 how 開頭的名詞子句，當 known 的受詞；多了 quickly，讀者就知道大家佩服的是他反應有多快。turn [A] into [B] 意思是「把 A 變成 B」，兩句都用到。"
+     },
+     {
+      "t": "用 ask／choose + 人 + to V 寫出是誰安排的",
+      "b": "Kai played a sick student, and I was the nurse.",
+      "m": "Our teacher, Ms. Lin, asked Kai to play a student who felt sick, and she chose me to be the nurse.",
+      "why": "基礎版直接說誰演什麼角色。範文多寫了是老師安排的，用了兩個相同的句型：[asked] + Kai + [to play …] 和 [chose] + me + [to be …]，也就是 [動詞] + [人] + to + [原形動詞]，to 後面寫的是要這個人去做的事情。a student who felt sick 用 who 子句代替形容詞 sick，說明這個學生「覺得身體不舒服」；Ms. Lin 前後加逗號，補充說明 Our teacher 是誰。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（介紹這位同學，交代是什麼時候的事情）",
+      "items": [
+       {
+        "f": "The funniest thing I have ever seen in ___（哪一堂課或哪個場合） happened to my classmate ___（同學的名字）.",
+        "ex": "The funniest thing I have ever seen in a PE class happened to my classmate Amy."
+       },
+       {
+        "f": "It happened during ___（什麼活動） when we were in ___（幾年級）.",
+        "ex": "It happened during a school trip when we were in the fifth grade."
+       },
+       {
+        "f": "___（同學的名字） was a ___（什麼樣的） boy／girl who ___（平常的樣子）.",
+        "ex": "Ben was a serious boy who never laughed at our jokes."
+       },
+       {
+        "f": "Nobody expected ___（同學的名字） to ___（後來做的事情）.",
+        "ex": "Nobody expected Ben to sing in front of the whole school."
+       }
+      ]
+     },
+     {
+      "name": "第二段（寫出這件趣事的經過與大家的反應）",
+      "items": [
+       {
+        "f": "That day, we were ___（正在做什麼） when ___（突然發生的事情）.",
+        "ex": "That day, we were taking a class photo when a bird landed on Amy's head."
+       },
+       {
+        "f": "As soon as ___（同學做了什麼）, ___（緊接著發生的事情）.",
+        "ex": "As soon as Ben started to sing, the music stopped."
+       },
+       {
+        "f": "Everyone burst out laughing, and ___（同學自己的反應）.",
+        "ex": "Everyone burst out laughing, and Amy laughed too."
+       },
+       {
+        "f": "Whenever we ___（什麼情況）, we still ___（大家現在會有的反應）.",
+        "ex": "Whenever we hear that song, we still look at Ben and smile."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -22759,6 +23087,88 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0035",
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0074"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 133,
+     "p1": "My cousin Jun is in junior high, and he has gained almost ten kilograms this year. Because he gets up late, he has no time for breakfast and buys cookies at the school store. On the way to cram school, he picks up a bubble tea, and dinner is usually fried chicken. At night, he plays games on his phone until after midnight. He hardly moves all day.",
+     "p2": "I believe the ideal solution is to change his small habits. His mother can make breakfast the night before. Jun can ride a YouBike to cram school and choose unsweetened tea and a lunch box with vegetables. At eleven, he should give his phone to his parents and go to bed. If his family joins him, Jun will not feel that he is being punished.",
+     "zh": {
+      "p1": "表弟阿俊在讀國中，今年胖了將近十公斤。因為他早上起得晚，沒時間吃早餐，就到福利社買餅乾吃。去補習班的路上，他會順便買一杯珍奶，晚餐通常是炸雞。到了晚上，他拿著手機打電動，一直打到過了半夜。也就是說，他一整天幾乎都沒有動。",
+      "p2": "我認為理想的做法，是改掉他幾個小習慣。他媽媽可以前一晚先把早餐做好；至於阿俊自己，可以騎 YouBike 去補習班，飲料選無糖茶，再挑一個有青菜的便當。到了十一點，他就該把手機交給爸媽，上床睡覺。要是家人陪著他一起改，阿俊就不會覺得自己是在受罰。"
+     }
+    },
+    "levels": "用字：三級只有 bubble（bubble tea 珍珠奶茶）、junior（junior high 國中）兩個，沒有四級以上的字。cram 是六級，但 cram school（補習班）是學生天天講的複合詞，網站範文也這樣寫；unsweetened（無糖的）詞彙表沒有收，它是一級字 sweet 加上字首 un-（不）和字尾 -en、-ed，飲料店的「無糖」就是這個字；YouBike 是公共自行車的名稱。",
+    "upgrade": [
+     {
+      "t": "用 so … that 把起床晚和沒吃早餐連成因果",
+      "b": "Because he gets up late, he has no time for breakfast and buys cookies at the school store.",
+      "m": "In the morning, he gets up so late that he has no time for breakfast, and by the second break, he is so hungry that he buys cookies and chocolate at the school store.",
+      "why": "基礎版用 because 說明原因，意思清楚。範文改用 [主詞] + gets up + so + [副詞 late] + that + [結果子句]：so 說明晚到什麼程度，that 子句接著說出這個程度造成的結果，所以「起得太晚」和「沒時間吃早餐」一句就連起來了。後半句再用同一個句型 so hungry that …（so 後面這次接形容詞），加上 by the second break（到了第二節下課）這個時間點，讀者就看得出他是一路餓到下課才去買零食。"
+     },
+     {
+      "t": "用 so that 說明辦法的目的，並加上具體的早餐",
+      "b": "His mother can make breakfast the night before.",
+      "m": "In the morning, his mother can prepare a simple breakfast the night before, such as a sandwich and a carton of milk, so that he no longer arrives at school hungry.",
+      "why": "基礎版只說要準備早餐，沒說為什麼。範文先用 such as 舉出具體的早餐（a sandwich and a carton of milk），再用 [主要子句] + so that + [目的子句] 說明這樣做是為了什麼：so that 表示目的，後面接一個完整的子句，這裡講的是將來的事，子句裡用現在式 arrives 就可以。這樣一來，辦法就直接對上第一段「沒吃早餐、餓了買零食」的原因。"
+     },
+     {
+      "t": "用 instead of 和 choose A over B 寫出換掉了什麼",
+      "b": "Jun can ride a YouBike to cram school and choose unsweetened tea and a lunch box with vegetables.",
+      "m": "After school, Jun can ride a YouBike to the cram school instead of taking the bus, and choose unsweetened tea and a lunch box with vegetables over bubble tea and fried chicken.",
+      "why": "基礎版只寫出新的做法，讀者要自己回頭對照第一段，才知道換掉的是什麼。範文用兩個結構把舊習慣也寫出來：[新做法] + instead of + [V-ing 舊做法]，instead of 是介系詞，所以後面接動名詞 taking；choose + [A] + over + [B] 意思是「選 A 而不選 B」，A 是無糖茶和便當，B 是珍奶和炸雞。新舊放在同一句，辦法和原因的對應一眼就看得出來。"
+     },
+     {
+      "t": "用 except to 把「幾乎不動」說得更精確",
+      "b": "He hardly moves all day.",
+      "m": "From morning to night, he hardly moves except to walk from one seat to the next.",
+      "why": "兩句都用 hardly（幾乎不）。範文在後面加上 except + [to V]，說出唯一的例外：他只有從一個座位走到下一個座位的時候才會動。有了這個例外，「幾乎不動」就有了具體的畫面；句首的 From morning to night 也把第一段從早上、放學到晚上的作息收在一起。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（以一個人為例，說明他體重過重的原因）",
+      "items": [
+       {
+        "f": "In the past ___（多久）, my ___（哪一個人） has gained ___（幾公斤）.",
+        "ex": "In the past six months, my older sister has gained five kilograms."
+       },
+       {
+        "f": "___（誰） ___（做什麼事情） so late that he／she ___（造成什麼結果）.",
+        "ex": "My uncle works so late that he often eats instant noodles at midnight."
+       },
+       {
+        "f": "He／She often skips ___（哪一餐） and then ___（後來吃了什麼）.",
+        "ex": "My sister often skips lunch and then eats a whole bag of chips in the afternoon."
+       },
+       {
+        "f": "He／She hardly exercises because ___（為什麼很少運動）.",
+        "ex": "My father hardly exercises because he drives to work and sits at a desk all day."
+       }
+      ]
+     },
+     {
+      "name": "第二段（提出你認為理想的解決之道）",
+      "items": [
+       {
+        "f": "I believe the best way to help ___（誰） is to ___（辦法）.",
+        "ex": "I believe the best way to help my father is to go for a walk with him after dinner every evening."
+       },
+       {
+        "f": "___（誰） can ___（好的做法） instead of ___（V-ing，原本的壞習慣）.",
+        "ex": "My uncle can bring a lunch box from home instead of eating instant noodles late at night."
+       },
+       {
+        "f": "If ___（誰） ___（改掉什麼習慣，用現在式）, he／she will ___（會有什麼好結果）.",
+        "ex": "If my sister eats lunch at noon, she will not feel so hungry in the afternoon."
+       },
+       {
+        "f": "This plan is ideal because ___（為什麼這個辦法最理想）.",
+        "ex": "This plan is ideal because my father can do it with the whole family and does not need to spend any money."
        }
       ]
      }
@@ -23183,6 +23593,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0370"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 135,
+     "p1": "The tour guide job in Ad D is the best one for me. It requires an outgoing personality and a good knowledge of English, and I have both. When six students from our Japanese sister school visited us, I showed them around Taipei. I explained in English how to add money to an EasyCard and which MRT line to take. That is exactly what a tour guide does.",
+     "p2": "I would be least likely to take the marketing job in Ad A. My aunt sells health products for a direct selling company and keeps posting ads in our family LINE group. Most of my relatives ignore them, and I would hate for my friends to do the same to me. The ad wants aggressive people, but I am not good at persuading others to buy things.",
+     "zh": {
+      "p1": "對我來說，D 廣告的導遊工作是最好的一份。這份工作要求個性外向、英文程度好，這兩項我都有。日本姊妹校有六個學生來我們學校的時候，我帶他們逛了台北，用英文告訴他們悠遊卡怎麼加值、該搭哪一條捷運線，而這正是導遊在做的事情。",
+      "p2": "我最不可能選的，是 A 廣告的行銷工作。我阿姨在一家直銷公司賣保健產品，常常在家族的 LINE 群組裡貼廣告。親戚大多不理會這些廣告，我可不希望朋友也這樣對我。至於廣告要找的，是積極強勢的人，可是我不擅長說服別人買東西。"
+     }
+    },
+    "levels": "用字：三級有 ad、persuade、product 三個。四級的 aggressive（積極強勢的）和六級的 outgoing（外向的）都是廣告上原本就有的字，讀懂廣告就能直接拿來用；marketing（行銷）也是廣告上的字，詞彙表沒有另外收。EasyCard（悠遊卡）、MRT（捷運）、LINE 是專有名詞，網站範文也這樣寫。實用句型例句裡的 technician（技術員）、electronics（電子學）同樣取自 B 廣告。",
+    "upgrade": [
+     {
+      "t": "用 Of 框出範圍，再用省略 that 的關係子句說出選擇",
+      "b": "The tour guide job in Ad D is the best one for me.",
+      "m": "Of the four jobs, the one I would choose is the tour guide position at Southeastern Travel Services.",
+      "why": "基礎版直接寫 [主詞] + is + the best one for me。範文先用 [Of] the four jobs 框出範圍，of 在這裡是「在……之中」，用來從同一類的幾樣東西裡挑出一個，範文把它放在句首，先告訴讀者是在四份工作裡挑。接著 the one [I would choose] 裡，one 代替前面說過的 job，I would choose 是省略了 that 的關係子句：關係代名詞當子句裡動詞的受詞時，常常可以省略。用 would，是因為我並沒有真的要去應徵，這只是想像中的選擇。"
+     },
+     {
+      "t": "用 volunteer to V 和過去完成式加上具體細節",
+      "b": "When six students from our Japanese sister school visited us, I showed them around Taipei.",
+      "m": "Last spring, when six students from our sister school in Japan visited us, I volunteered to show them around Taipei, and by the end of the day, we had followed one another on Instagram.",
+      "why": "範文多交代了兩件事情。一是 [volunteered] + [to V]，意思是「自願去做某件事」，比單純寫 showed 多了「主動」的意思，正好證明自己個性外向。二是句尾的 [by the end of the day], we [had followed] one another on Instagram：by 是「不晚於、到……為止」，到那天結束時已經完成的事情，就用過去完成式 had + 過去分詞。互相追蹤 IG 這個細節，讓讀者看得到大家一天下來就變熟了。"
+     },
+     {
+      "t": "explain 後面並列三個疑問詞開頭的受詞",
+      "b": "I explained in English how to add money to an EasyCard and which MRT line to take.",
+      "m": "English was the only language we all shared, so I used it to explain how to add money to an EasyCard, which MRT line to take, and why stinky tofu smells so bad but tastes so good.",
+      "why": "explain 後面可以接 how、which、why 這類疑問詞帶出的受詞。範文寫成 explain + (how to add money …), (which MRT line to take), and (why stinky tofu smells …)，前兩個是「疑問詞 + 不定詞」，第三個是 why 子句，三個都當 explain 的受詞，用逗號和 and 串起來。smell、taste 是連綴動詞，後面接形容詞 bad、good。句首的 English was the only language we all shared 則先交代為什麼要用英文。"
+     },
+     {
+      "t": "換更精確的動詞，並用現在完成式",
+      "b": "Most of my relatives ignore them, and I would hate for my friends to do the same to me.",
+      "m": "Most of my relatives have muted the group, and I would hate for my friends to do the same to me.",
+      "why": "ignore 是「不理會」，只說親戚不看那些廣告；範文的 mute 原本是「把聲音關掉」，用在 LINE 這類通訊軟體上，就是把某個聊天室的通知關掉：訊息還是會進來，只是不會再跳出來提醒，所以 muted the group 把親戚的反應寫得更精確，也更像真實生活。動詞用現在完成式 [主詞] + have + [過去分詞]，表示過去做了這個動作，結果延續到現在：群組到現在還是靜音。mute 是六級字，寫不出來的時候，用 ignore 也完全正確。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說出最好的工作，並說明理由）",
+      "items": [
+       {
+        "f": "Of the four jobs, the ___（哪一則廣告的什麼工作） would be the best one for me because ___（主要理由）.",
+        "ex": "Of the four jobs, the reporter job in Ad C would be the best one for me because I love writing."
+       },
+       {
+        "f": "The ad asks for ___（廣告上的一項條件）, and ___（自己符合這項條件的證明）.",
+        "ex": "The ad asks for a strong command of English, and English has always been my best subject."
+       },
+       {
+        "f": "When ___（過去發生的一件事情）, I ___（自己做了什麼）, so I know I can ___（這份工作要做的事情）.",
+        "ex": "When our school basketball team won a big game, I interviewed the players and wrote a short report for the school newspaper, so I know I can write news stories."
+       },
+       {
+        "f": "I would also enjoy ___（V-ing，廣告上的工作條件或待遇） because ___（原因）.",
+        "ex": "I would also enjoy working only 30 hours a week because I could take classes at night."
+       }
+      ]
+     },
+     {
+      "name": "第二段（說出最不可能選的工作，並說明理由）",
+      "items": [
+       {
+        "f": "The job I would be least likely to take is the ___（哪一則廣告的什麼工作）.",
+        "ex": "The job I would be least likely to take is the service technician job in Ad B."
+       },
+       {
+        "f": "The ad requires ___（廣告上的條件）, but ___（自己做不到的地方）.",
+        "ex": "The ad requires a degree in electronics, but science has always been my weakest subject."
+       },
+       {
+        "f": "I would not want to ___（這份工作要做的事情） because I would miss ___（V-ing，自己喜歡做的事情）.",
+        "ex": "I would not want to repair machines all day because I would miss talking with people."
+       },
+       {
+        "f": "Although ___（這份工作的好處）, the job is not right for me because ___（真正的原因）.",
+        "ex": "Although the company offers training, the job is not right for me because I am not interested in machines."
        }
       ]
      }
