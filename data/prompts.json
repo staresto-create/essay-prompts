@@ -7546,6 +7546,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 177,
+     "p1": "My cousin got a master's degree in science two years ago. He looked for a job all winter and finally became a teacher at a cram school. That is why I am not surprised that fifty people with master's degrees want to be waste collectors. Taiwan has so many graduate schools that a master's degree is no longer special. A city job, on the other hand, pays a fixed salary, and it does not disappear when business is bad. Those fifty people are just being practical.",
+     "p2": "Because of this, I want to get more out of college than a degree. I hope to study environmental science. In my first year, I will ask to help a professor who tests river water for the city, even if I only wash bottles at first. In my second summer, I will work with the city's waste collectors so I can learn where the bottles and paper I sort at home end up. If a degree alone no longer helps people stand out, I need to show what I can do.",
+     "zh": {
+      "p1": "我表哥兩年前拿到理學碩士學位，他找了一整個冬天的工作，最後在補習班當老師。也因為這樣，有五十個碩士想當清潔隊員，我不覺得意外。台灣的研究所多到碩士學位已經不稀奇了。相對的，公家的工作領的是固定的薪水，就算景氣不好，這份工作也不會就這樣沒了。那五十個人只是很實際而已。",
+      "p2": "因為這樣，我希望從大學得到的不只是一張文憑。我想唸環境科學。大一的時候，我會去問一位幫市政府檢驗河水的教授，看能不能幫他的忙，就算一開始只是洗瓶子也沒關係。大二的暑假，我要跟著市政府的清潔隊員一起工作，這樣就能知道我在家分類的瓶子和紙最後都到哪裡去了。如果光有文憑已經沒辦法讓人脫穎而出，我就得讓人看到我能做些什麼。"
+     }
+    },
+    "levels": "用字：三級只有 graduate（研究所的）、practical（實際的）、professor（教授）、salary（薪水）四個，沒有四級以上的字。cram school（補習班）的 cram 是六級，不過補習班是學生天天在講的東西，英文就是這個說法，所以照樣使用；waste collectors（清潔隊員）是題目自己給的字，collector 是五級。",
+    "upgrade": [
+     {
+      "t": "用 spend + 時間 + V-ing 和分詞片語，把找工作的過程寫具體",
+      "b": "He looked for a job all winter and finally became a teacher at a cram school.",
+      "m": "He spent that winter sending out applications, and in the end he took a job at a cram school, teaching junior high students the names of the elements.",
+      "why": "基礎版只說表哥找了一整個冬天的工作。範文用 [spend] + [一段時間] + [V-ing]，寫成 spent that winter sending out applications，說出那個冬天他到底在做什麼：一份一份地投履歷。句尾再接分詞片語 (teaching junior high students the names of the elements)，分詞片語的主詞就是主要子句的 he，所以不必再寫一次主詞；這樣一句話就交代了他最後找到什麼工作、每天在教什麼，碩士最後去教國中生元素的名稱，落差也就看得出來了。"
+     },
+     {
+      "t": "so many … that 的結果句，換成動名詞當主詞",
+      "b": "Taiwan has so many graduate schools that a master's degree is no longer special.",
+      "m": "Taiwan opened so many graduate programs that finishing one now separates a person from almost nobody.",
+      "why": "兩句都用 [so many + 複數名詞] + that + [結果]，前半說研究所太多，that 後面說造成什麼結果。差在結果怎麼寫：基礎版直接說碩士學位 is no longer special；範文用動名詞片語 (finishing one) 當主詞，one 代替前面的 graduate program，動詞用 separate [A] from [B]（把 A 和 B 看成不同），意思是唸完一個研究所，幾乎沒辦法讓你和別人有所區別。也就是說，範文把「不稀奇」寫成一個具體的後果：碩士學位分不出人。"
+     },
+     {
+      "t": "用 come with 一次列出三項好處",
+      "b": "A city job, on the other hand, pays a fixed salary, and it does not disappear when business is bad.",
+      "m": "A city job, on the other hand, comes with a fixed salary, a pension, and hours that do not disappear when a company has a bad year.",
+      "why": "基礎版用兩個子句分開寫薪水和工作保障。範文改用 come with（附帶、包含），後面接三個名詞片語：(a fixed salary), (a pension), and (hours that do not disappear …)，三項的形式相同，所以可以並列在同一個動詞後面，讀起來很整齊。最後一項再用 that 關係子句說明是什麼樣的工時：公司碰上不好的一年，工時也不會沒了。這樣一句話就把公家工作的好處一次列完，還多了基礎版沒提到的退休金。"
+     },
+     {
+      "t": "用 as 說明身分，再用 because 子句交代理由",
+      "b": "In my first year, I will ask to help a professor who tests river water for the city, even if I only wash bottles at first.",
+      "m": "In my first year I will ask to join the water lab as an assistant, even if the work is washing bottles at first, because the professor there tests river samples for the city every month and I want to watch how those numbers are actually collected.",
+      "why": "兩句都用 [ask] + to + [原形動詞] 表示主動提出請求，也都用 even if 帶出「就算一開始只能洗瓶子」這種不太理想的情況。範文多了兩樣東西：一是 as an assistant，as 後面接身分，說明要以助理的身分加入實驗室；二是句尾的 because 子句，交代為什麼選這個實驗室：教授每個月替市政府檢驗河水樣本，而「我」想親眼看那些數字是怎麼收集來的。有了理由，讀的人就看得出這項規劃和自己想學的東西有關，不是隨便挑的。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（依自己的觀察說明碩士報考清潔隊員的成因）",
+      "items": [
+       {
+        "f": "Many ___（哪些人） choose ___（哪一種工作） because they want ___（想要得到的東西）.",
+        "ex": "Many young people choose government jobs because they want job security."
+       },
+       {
+        "f": "There are so many ___（什麼東西） in Taiwan that ___（造成的結果）.",
+        "ex": "There are so many universities in Taiwan that almost every high school student can go to college."
+       },
+       {
+        "f": "A ___（某一種工作）, on the other hand, comes with ___（這種工作附帶的好處）.",
+        "ex": "A teaching job at a public high school, on the other hand, comes with long summer vacations."
+       },
+       {
+        "f": "These days, a college degree alone is not enough to ___（做到什麼事情）.",
+        "ex": "These days, a college degree alone is not enough to get a good job."
+       }
+      ]
+     },
+     {
+      "name": "第二段（如何因應，具體舉例說明大學的學習規劃）",
+      "items": [
+       {
+        "f": "In my first year of college, I will ___（具體做什麼） so that ___（目的）.",
+        "ex": "In my first year of college, I will join the English club so that I can practice speaking every week."
+       },
+       {
+        "f": "During summer vacation, I plan to work at ___（地方） to learn ___（想學到的事情）.",
+        "ex": "During summer vacation, I plan to work at a hotel to learn how to serve customers."
+       },
+       {
+        "f": "Before I graduate, I hope to ___（想達成的目標）.",
+        "ex": "Before I graduate, I hope to pass a national exam for tour guides."
+       },
+       {
+        "f": "Besides taking classes, I will also ___（課業以外的另一項規劃）.",
+        "ex": "Besides taking classes, I will also teach children English at a public library every Saturday."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -8373,6 +8455,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0243"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 175,
+     "p1": "My grandmother once stopped eating out because the restaurant near her home had replaced its paper menus with QR codes. She did not want to ask strangers for help. I decided to teach her to order with her phone. She often pressed the wrong button, and the page disappeared. I learned to slow down and point at one thing at a time. I also let her keep the phone in her hands. After two weeks, she ordered a bowl of beef noodles by herself. She even made me wait at another table because she did not want people to think someone was helping her.",
+     "p2": "Teaching my grandmother changed the way I think about learning. I used to believe that if I could do something well, I could explain it well. However, patience matters more than knowledge. Twice I almost took the phone from her and did it myself. That would have been faster, but she would have learned nothing. Now, when a classmate asks me an easy question, I remember my grandmother and answer slowly.",
+     "zh": {
+      "p1": "祖母曾經有一陣子不再出門吃飯，因為她家附近那間餐廳把紙本菜單換成了 QR code。她不想開口請陌生人幫忙。我決定教她用手機點餐。她常常按錯按鈕，畫面就不見了。我學會了放慢速度，一次只指一個地方。我也讓她自己把手機拿在手上。兩個星期後，祖母自己點了一碗牛肉麵。她甚至還要我到別桌去等，因為她不想讓人以為有人在幫她。",
+      "p2": "教祖母這件事，改變了我對學習的想法。我以前以為，一件事只要自己做得好，就能講得清楚。不過，耐心比知識更重要。有兩次，我差點把手機從她手上拿過來自己按。那樣雖然會比較快，她卻什麼也學不到。現在每當同學問我一個簡單的問題，我就會想起祖母，然後慢慢回答。"
+     }
+    },
+    "levels": "用字：三級只有 replace（取代、換掉）、patience（耐心）、learning（學習）三個。code 是四級字，可是 QR code 是大家天天在用的東西，也沒有別的說法，所以照樣使用；除此之外沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "三個不定詞並列，把做法一次交代清楚",
+      "b": "I learned to slow down and point at one thing at a time. I also let her keep the phone in her hands.",
+      "m": "I learned to slow down, to point at one thing at a time, and to leave the phone in her hands.",
+      "why": "基礎版用兩句講三個做法。範文把三個做法都放在 learned 後面：I learned + (to slow down), (to point at one thing at a time), and (to leave the phone in her hands)，三項都寫成 to + [原形動詞]，形式相同，這就是平行結構，讀者一看就知道這三件事是並列的。to 可以每一項都寫，也可以只寫在第一項，像基礎版的 to slow down and point，兩種寫法都合乎平行結構。至於 leave，在這裡是讓東西留在某個地方、不去移動它，所以 leave the phone in her hands 就是讓手機留在她手上，我不拿過來。"
+     },
+     {
+      "t": "用 so that 寫目的，把兩句併成一句",
+      "b": "After two weeks, she ordered a bowl of beef noodles by herself. She even made me wait at another table because she did not want people to think someone was helping her.",
+      "m": "After two weeks she ordered a bowl of beef noodles by herself, and she made me wait at another table so that nobody would think she had help.",
+      "why": "基礎版用 because 說原因：她不想讓別人以為有人在幫她。範文換成用 so that 說目的：要我坐到別桌去，是為了讓別人不會以為她有人幫忙。so that 引導的子句常和 can、would、will 這類情態助動詞連用；這件事發生在過去，所以寫成 [主要子句] + so that + [主詞] + would + [原形動詞]。句尾的 help 是名詞「幫助」，had help 就是「有人幫忙」。範文再用 and 把點餐那件事接在前面，兩句就併成了一句。"
+     },
+     {
+      "t": "用 which 補充前面說的整件事",
+      "b": "Twice I almost took the phone from her and did it myself. That would have been faster, but she would have learned nothing.",
+      "m": "Twice I almost took it from her and did it myself, which would have been faster and would have taught her nothing.",
+      "why": "基礎版另起一句，用 That 指「把手機拿過來自己按」這件事。範文在逗號後面接 which：[Twice I almost took it from her and did it myself], which + would have been faster …，這個 which 指的不是前面的某一個名詞，而是前面整個子句說的那件事，作用就和基礎版的 That 一樣，所以兩句可以併成一句。would have + [過去分詞] 用來說過去沒有真的發生、只是設想的情況：作者最後沒有把手機拿過來，所以「會比較快」和「什麼也沒教到她」都只是設想。"
+     },
+     {
+      "t": "用過去完成式和 turn out 寫出「本來以為」和「後來發現」",
+      "b": "I used to believe that if I could do something well, I could explain it well. However, patience matters more than knowledge.",
+      "m": "I had always assumed that being good at something was enough to explain it, but patience turned out to matter more than knowledge.",
+      "why": "基礎版用 used to 說「以前這麼以為，現在不這麼想了」。範文用過去完成式 [I] + had always assumed，過去完成式說的是到過去某個時間點為止的那段時間，在這裡就是一直到教祖母之前，作者都這麼以為。believe 是認為某件事是真的；assume 則是不加懷疑、也沒有證據，就把一件事當成真的，也就是說，作者從來沒懷疑過自己的這個想法。後半句的 [主詞] + turned out + to + [原形動詞] 是「結果發現…」，字典說這個片語常用在出乎意料的結果，正好和前半句的 had always assumed 形成對照。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（學會或教會一件事的緣由、內容和過程）",
+      "items": [
+       {
+        "f": "I decided to teach ___（誰） how to ___（要學的事情） because ___（緣由）.",
+        "ex": "I decided to teach my little brother how to ride a bike because all his friends could already ride."
+       },
+       {
+        "f": "At first, ___（一開始遇到的困難）, so ___（因此怎麼調整）.",
+        "ex": "At first, he was afraid of falling, so I held the back of his seat."
+       },
+       {
+        "f": "___（誰） showed me how to ___（學什麼） step by step.",
+        "ex": "My aunt showed me how to make dumplings step by step."
+       },
+       {
+        "f": "After ___（多久）, ___（誰） was finally able to ___（學會的事情）.",
+        "ex": "After three weekends, my brother was finally able to ride around the park by himself."
+       }
+      ]
+     },
+     {
+      "name": "第二段（對這次經驗的感想）",
+      "items": [
+       {
+        "f": "Teaching ___（誰） changed the way I think about ___（對什麼的想法）.",
+        "ex": "Teaching my little brother changed the way I think about my own teachers."
+       },
+       {
+        "f": "I used to think that ___（原本的想法）, but now I know that ___（現在的想法）.",
+        "ex": "I used to think that swimming was easy, but now I know that it takes a lot of practice."
+       },
+       {
+        "f": "The hardest part was ___（V-ing，最難的部分）.",
+        "ex": "The hardest part was waiting patiently while he tried again and again."
+       },
+       {
+        "f": "Now, when ___（什麼情況）, I ___（現在會怎麼做）.",
+        "ex": "Now, when my friends do not understand a math problem, I explain it one step at a time."
        }
       ]
      }
@@ -9290,6 +9454,88 @@
       ]
      }
     ]
+   },
+   "basic": {
+    "essay": {
+     "words": 171,
+     "p1": "The chart shows how students at an American high school spend an average day. Sleep takes the most time, 8.7 hours, and schoolwork comes second, at 6.4 hours, so these students sleep more than they study. Another surprising fact is that part-time work has a bar of its own. They spend 1.5 hours a day at a job, which is more than the time for sports and religious or volunteer activities put together.",
+     "p2": "Because of the college entrance exam, I spend more time studying than sleeping. I have classes until five, and on three evenings a week I stay at a cram school until eleven. On those nights, I get home close to midnight and sleep only about six hours. Sports are the one thing I have in common with these students, but I play basketball only twice a week, which comes to about 25 minutes a day. Like most students in Taiwan, I do not have a part-time job. Our parents expect us to study after school.",
+     "zh": {
+      "p1": "這張圖呈現的是美國某一所高中的學生平均一天怎麼分配時間。睡覺占去的時間最多，有 8.7 小時，學習相關活動排第二，是 6.4 小時，也就是說，這些學生睡覺的時間比讀書的時間還多。另一件令人意外的事情是，打工自己就占了一項。他們每天花 1.5 小時在工作上，比運動和宗教、義工活動加起來的時間還多。",
+      "p2": "因為要準備大學入學考試，我花在讀書上的時間比睡覺多。我的課上到五點，一星期還有三個晚上要待在補習班，到十一點才離開。那幾天我回到家都快半夜十二點了，大約只睡六個小時。運動是我和這些學生唯一相同的一項，可是我一星期只打兩次籃球，平均下來每天大約二十五分鐘。我和台灣大多數的學生一樣，沒有打工。我們的父母希望我們放學後讀書。"
+     }
+    },
+    "levels": "用字：三級只有 religious（宗教的）一個。volunteer（義工）是四級，但圖表上的類別就是「宗教、義工」，這一項英文就是 volunteer activities，所以照樣使用；cram school（補習班）的 cram 是六級，不過這是台灣學生天天講的說法，英文字典也收了 cram school 這個詞，所以照樣使用。除此之外沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用 it 分裂句強調「順序」，再用 while 對比兩項",
+      "b": "Sleep takes the most time, 8.7 hours, and schoolwork comes second, at 6.4 hours, so these students sleep more than they study.",
+      "m": "The two tallest bars belong to sleep and schoolwork, and it is the order of the two that catches the eye: sleep takes 8.7 hours, more than a third of the whole day, while schoolwork takes 6.4.",
+      "why": "基礎版用 so 接出結論：這些學生睡得比讀書多。範文改用分裂句 [it is] + [the order of the two] + that + [catches the eye]，把「兩項的先後順序」放在 it is 後面，讀者的注意力就會落在這裡；catch the eye 是「引人注意」。冒號後面再拿數字證明，while 在這裡是「而」，用來對比兩件事。中間補上的 more than a third of the whole day 也是具體細節：8.7 小時超過一天的三分之一，讀者馬上知道睡覺占了多大的比例。"
+     },
+     {
+      "t": "用 What 名詞子句當主詞，先鋪陳再說出發現",
+      "b": "Another surprising fact is that part-time work has a bar of its own.",
+      "m": "What surprises me more, though, is that part-time work has a bar of its own at all.",
+      "why": "基礎版用 Another surprising fact 當主詞。範文改成 [What surprises me more] + is + [that 子句]，what 引導的名詞子句整個當主詞，先告訴讀者「接下來要講讓我更意外的事情」，真正的新資訊放在 is 後面的 that 子句。插在中間的 though 是「不過」，前後用逗號隔開，把話題從睡覺和讀書轉到打工。"
+     },
+     {
+      "t": "拿時間當主詞，換更精確的動詞片語",
+      "b": "They spend 1.5 hours a day at a job, which is more than the time for sports and religious or volunteer activities put together.",
+      "m": "An hour and a half a day goes into a job, which is more than sports and religious or volunteer activities get between them.",
+      "why": "基礎版用 They 當主詞，說「他們花了多少時間」。範文改用時間當主詞：[An hour and a half a day] + goes into + [a job]，go into 是「（時間、金錢、心力）用在某件事情上」，主角從人換成時間，正好配合這張講時間分配的圖。句尾的 between them 是「兩項加起來」，和基礎版的 put together 意思相同。"
+     },
+     {
+      "t": "用 If 假設語氣把自己的一天放進同一張圖",
+      "b": "Because of the college entrance exam, I spend more time studying than sleeping.",
+      "m": "If my day were drawn as the same chart, the top two bars would swap places, and the reason is the entrance exam.",
+      "why": "基礎版直接說「因為考試，我讀書的時間比睡覺多」。範文用假設語氣 If + [my day] + were drawn + …, [the top two bars] + would + [原形動詞]，因為「我的一天畫成這張圖」是想像的情況，if 子句用過去式，主要子句用 would；were drawn 是被動語態，一天是「被畫成」圖的那一方。swap places 是「互換位置」，也就是睡覺和學習相關活動兩根長條對調。這樣寫，第二段一開頭就扣住第一段那張圖，比較的對象一目了然。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述圖表呈現的特別現象）",
+      "items": [
+       {
+        "f": "The chart shows how ___（哪些人） spend ___（一段時間）.",
+        "ex": "The chart shows how junior high students in Japan spend an average weekend."
+       },
+       {
+        "f": "___（第一名的活動） takes the most time, ___（時數） hours, and ___（第二名的活動） comes second, at ___（時數） hours.",
+        "ex": "Watching videos takes the most time, 3.5 hours, and homework comes second, at 2.5 hours."
+       },
+       {
+        "f": "What surprises me is that ___（令人意外的現象）.",
+        "ex": "What surprises me is that these students read books for only ten minutes a day."
+       },
+       {
+        "f": "They spend ___（時數） a day on ___（某一項活動）, which is more than the time for ___（另外幾項活動） put together.",
+        "ex": "They spend two hours a day on online games, which is more than the time for reading and sports put together."
+       }
+      ]
+     },
+     {
+      "name": "第二段（比較自己的時間分配與圖中學生的異同，並說明理由）",
+      "items": [
+       {
+        "f": "Because of ___（原因）, I spend more time ___（V-ing） than ___（V-ing）.",
+        "ex": "Because of the school basketball team, I spend more time practicing than playing video games."
+       },
+       {
+        "f": "___（相同的一項） is the one thing I have in common with these students, but ___（不同的地方）.",
+        "ex": "Watching videos is the one thing I have in common with these students, but I watch them only on weekends."
+       },
+       {
+        "f": "Like most students in Taiwan, I ___（做或不做的事情） because ___（理由）.",
+        "ex": "Like most students in Taiwan, I go to bed late because I have a lot of homework every night."
+       },
+       {
+        "f": "That adds up to ___（總時數） of ___（活動）, so ___（造成的結果）.",
+        "ex": "That adds up to two hours of piano practice a day, so I have little time for sports."
+       }
+      ]
+     }
+    ]
    }
   },
   {
@@ -10180,6 +10426,89 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0083"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 178,
+     "p1": "If I could have one of these two products, I would choose the smart glasses. They would make my walk home from cram school safer. The lane to my apartment has no sidewalk, and parked cars line both sides. Last month a scooter suddenly came out from behind a car, and I jumped back just in time. With the glasses, I could see the rider before he came out. The glasses would also record my grandmother's hands when she makes dumplings, so we could still make them when she is too tired to cook.",
+     "p2": "I would not choose the invisibility cloak because it could be dangerous. To be honest, I would want to walk into a concert without a ticket. A person in the cloak could take things from stores or follow someone home, and no one would know who did it. Also, the cloak keeps its owner safe from fire and water, so even if people found the owner, they could do almost nothing. I would rather live in a place where people can trust one another.",
+     "zh": {
+      "p1": "如果這兩項產品可以讓我擁有一項，我會選智慧型眼鏡。有了它，我從補習班走回家的路會比較安全。通往我家公寓的那條巷子沒有人行道，兩邊又都是停著的車。上個月有一台機車突然從一台車後面冒出來，還好我及時往後一跳。要是戴著這副眼鏡，那個騎士還沒出來，我就看得到他了。至於奶奶包水餃的時候，眼鏡也可以把她的手錄下來，這樣等到她累得沒辦法下廚，我們還是做得出這道水餃。",
+      "p2": "我不會選隱形披風，因為它可能很危險。老實說，我會想要不買票就走進演唱會。穿著這件披風的人可以從店裡拿走東西，或是跟蹤別人回家，而且沒有人會知道是誰做的。還有，這件披風會保護它的主人不受火和水的傷害，所以就算大家找到披風的主人，也幾乎什麼都做不了。我寧可住在人和人可以互相信任的地方。"
+     }
+    },
+    "note": "這一題的範文有兩篇，基礎版對照的是「智慧型眼鏡」那一篇。",
+    "levels": "用字：三級只有 concert（音樂會）、dumpling（水餃）、product（產品）、rider（騎士）四個；四級以上只有 cram school（補習班）裡的 cram（六級），不過這是學生天天講的說法，所以照樣使用。invisibility cloak（隱形披風）是題目給的說法，invisibility 和 cloak 詞彙表都沒有收。",
+    "upgrade": [
+     {
+      "t": "換一個更精確的動詞：shoot out",
+      "b": "Last month a scooter suddenly came out from behind a car, and I jumped back just in time.",
+      "m": "Last month a scooter shot out from behind one of them, and I jumped back just in time.",
+      "why": "shoot 當「移動」講的時候，意思是朝某個方向又快又直地衝過去，所以範文只用一個 shot out，讀者就知道那台機車衝出來有多快。from behind 是 [from] + [behind + 名詞]，意思是「從……後面」出來，字典的例句 The sun came out from behind the clouds 就是這樣用。至於 one of them（其中一台），指的是前一句提到的那些停著的車，這樣就不必再寫一次 car。"
+     },
+     {
+      "t": "用 -ing 片語接在名詞後面，寫出手正在做的動作",
+      "b": "The glasses would also record my grandmother's hands when she makes dumplings, so we could still make them when she is too tired to cook.",
+      "m": "The glasses would record her hands folding each one, so our family would keep the recipe even when she is too tired to cook.",
+      "why": "基礎版用 when 子句交代奶奶什麼時候包水餃。範文寫成 [her hands] + (folding each one)，-ing 片語直接放在名詞後面，說明那雙手正在做什麼；這種放在名詞後面、補充說明的成分叫做後置修飾語。each one（每一顆）讓畫面落到包每一顆水餃的手上，後半句的 recipe（食譜，四級）則是做一道菜的步驟和材料，比 make them 更直接說出要留下來的是什麼。"
+     },
+     {
+      "t": "用 be tempted to 說出「忍不住想做不該做的事」",
+      "b": "To be honest, I would want to walk into a concert without a ticket.",
+      "m": "I will admit that I would be tempted to walk into a concert without a ticket.",
+      "why": "want to 只說「想要」。tempt 的意思是讓人想要某樣東西或想做某件事，特別是不必要或不對的事，所以 [主詞] + be tempted to + [原形動詞] 一寫出來，就點出不買票走進去是不對的事。開頭的 [I will admit] + that + [子句] 是承認某件事是真的，而且常常是不太情願地承認；它和 To be honest（老實說）一樣在坦白，但多了一點「雖然不好意思，還是得承認」的語氣。"
+     },
+     {
+      "t": "用 Worse 帶出更嚴重的一點",
+      "b": "Also, the cloak keeps its owner safe from fire and water, so even if people found the owner, they could do almost nothing.",
+      "m": "Worse, the cloak also protects its owner from fire and water, so even if someone discovered where the wearer was standing, there would be almost nothing anyone could do.",
+      "why": "Also 只表示「還有一點」；放在句首的 Worse（也可以寫成 Even worse）是用來帶出比前面講的更嚴重的事情，意思是「更糟的是」，第二段談披風的問題時就一層一層往上加。protect + [人] + from + [危險] 是「保護某人不受……傷害」，字典正是用 keep someone safe from injury 來解釋 protect，所以範文和基礎版這兩個寫法意思相同。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（說明選擇與理由，並舉例說明怎麼使用）",
+      "items": [
+       {
+        "f": "If I could have one of these two products, I would choose ___（哪一項產品） because ___（理由）.",
+        "ex": "If I could have one of these two products, I would choose the smart glasses because my cat often hides somewhere in the house."
+       },
+       {
+        "f": "With the ___（產品）, I could ___（能做到的事情）.",
+        "ex": "With the invisibility cloak, I could run into a burning house and save a child."
+       },
+       {
+        "f": "For example, if ___（什麼情況，動詞用過去式）, I could use ___（產品） to ___（怎麼用）.",
+        "ex": "For example, if I went hiking in the mountains, I could use the glasses to see snakes behind rocks."
+       },
+       {
+        "f": "The ___（產品） would also ___（另一個功能幫得上的忙）, so ___（帶來的好處）.",
+        "ex": "The glasses would also record my basketball games, so I could watch my mistakes later."
+       }
+      ]
+     },
+     {
+      "name": "第二段（不選另一項的理由，以及它可能衍生的問題）",
+      "items": [
+       {
+        "f": "I would not choose ___（另一項產品） because ___（不選的理由）.",
+        "ex": "I would not choose the smart glasses because I do not need to see through walls in my daily life."
+       },
+       {
+        "f": "If ___（什麼人） had the ___（產品）, they could ___（可能做的壞事）.",
+        "ex": "If thieves had the smart glasses, they could easily see the money behind a locked door."
+       },
+       {
+        "f": "The ___（產品） might also cause problems for ___（哪些人） because ___（原因）.",
+        "ex": "The smart glasses might also cause problems for teachers because students could see the test papers inside a teacher's desk."
+       },
+       {
+        "f": "Even worse, ___（更嚴重的問題）.",
+        "ex": "Even worse, the police could not catch a thief in the cloak."
        }
       ]
      }
@@ -11127,6 +11456,88 @@
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0387",
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0354"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 180,
+     "p1": "The sport I play most often is badminton. Three or four afternoons a week, my friends and I go to the school gym after the last class. We have to get there early, or the older students will take all the courts. We usually play doubles. Players hit the shuttlecock over the net and try to make it land inside the lines on the other side. Each of us has a racket, and we pay for the shuttlecocks together. Good shoes are important because the game is full of quick stops and jumps.",
+     "p2": "I started playing because of Lee Yang and Wang Chi-lin. When they won the Olympic gold medal, my whole family shouted in front of the TV. Now I play for another reason. After eight classes a day, I need to move, and one friend and an empty court are enough for a game. Badminton has also changed my life. I sleep better and think more clearly. Two of my closest friends now are classmates I barely spoke to in my first year. We started as doubles partners.",
+     "zh": {
+      "p1": "我最常打的運動是羽毛球。一個星期有三、四天，最後一堂課下課後，我就和朋友到學校體育館去。我們得早點到，要不然場地全都會讓學長姊占走。我們通常打雙打，打的時候，雙方都要把球打過網，想辦法讓球落在對面場地的界線內。我們每個人都有一支球拍，球則是大家一起出錢買。好的鞋子很重要，因為這項運動常常要急停和跳躍。",
+      "p2": "我會開始打球，是因為李洋和王齊麟。他們拿下奧運金牌的時候，我們全家在電視機前大叫。至於現在還繼續打，是為了別的原因。一天上完八堂課，我需要動一動；要是打羽球，只要一個朋友、一塊空場地就能打一場。羽球也改變了我的生活，我睡得比較好，想事情也比較清楚。我現在最要好的朋友裡有兩個，是高一時幾乎沒說過話的同學。我們一開始是雙打的搭檔。"
+     }
+    },
+    "levels": "用字：三級只有 medal（獎牌）、barely（幾乎沒有）兩個，沒有四級以上的字。shuttlecock（羽毛球的球）和 racket（球拍）詞彙表沒有收錄，不過這是羽球本身的用品，英文沒有別的說法，所以照樣使用。",
+    "upgrade": [
+     {
+      "t": "用 as soon as 和 before 把兩句併成一句",
+      "b": "Three or four afternoons a week, my friends and I go to the school gym after the last class. We have to get there early, or the older students will take all the courts.",
+      "m": "Three or four afternoons a week, as soon as the last bell rings, my friends and I rush to the school gym to grab a court before the older students take them all.",
+      "why": "基礎版用兩句話才交代「放學去體育館」和「得早點到」。範文先用 as soon as + [主詞] + [動詞] 說「鐘一響就……」，再用不定詞 to grab a court 說明去體育館的目的，最後用 before + [子句] 說出要趕在學長姊之前，所以一句就把時間、目的和原因都講完了。這整句講的是每個星期固定發生的事情，所以 as soon as 和 before 子句裡用現在式 rings、take；them all 指的是體育館裡所有的場地。另外，rush 是「很快地去」，grab 是「趕快搶下」，比 go、take 更能寫出搶場地的情形。"
+     },
+     {
+      "t": "用動詞 matter 加上 more than 子句",
+      "b": "Good shoes are important because the game is full of quick stops and jumps.",
+      "m": "Good shoes matter more than most people think, because badminton is full of quick stops and sudden jumps, and ordinary running shoes are not made for the fast side-to-side steps the game demands.",
+      "why": "matter 當動詞，意思就是「重要」，一個字就取代了 are important。範文接著用 [matter] + more than + [most people think]，than 後面接一個子句，意思是「比大多數人以為的還重要」，也就是說，很多人以為鞋子沒那麼重要。範文還多給了一個具體的理由：一般的慢跑鞋不是為左右快速移動設計的；the game demands 前面省略了當受詞的關係代名詞 that，用來修飾 steps。另外，主要子句後面接 because 子句時，一般不加逗號，基礎版就沒有加；範文這裡加了逗號，是因為 because 緊接在 most people think 後面，不加逗號的話，讀者可能誤以為 because 子句說的是「大家這樣以為的原因」。"
+     },
+     {
+      "t": "補上比賽項目與地點，再用過去進行式寫當時的情形",
+      "b": "When they won the Olympic gold medal, my whole family shouted in front of the TV.",
+      "m": "When they won the Olympic gold medal in men's doubles in Tokyo, my whole family was shouting in front of the TV.",
+      "why": "範文在 the Olympic gold medal 後面加上 in men's doubles in Tokyo，交代這是東京奧運的男子雙打，讀者就知道是哪一場比賽。基礎版用過去簡單式 shouted，只說出全家大叫了這件事情；範文改用過去進行式 [was] + [V-ing]，表示他們拿下金牌的時候，全家人正在電視機前大叫。這兩種時態常常差別不大，用過去進行式，是作者選擇把大叫寫成當時正在進行的動作。"
+     },
+     {
+      "t": "用 sit through 和 all I need is 寫得更具體",
+      "b": "After eight classes a day, I need to move, and one friend and an empty court are enough for a game.",
+      "m": "After sitting through eight classes a day, I need to move, and badminton does not require a full team; all I need is one friend and an empty court.",
+      "why": "sit through 是「一直待到又長又無聊的事情結束」，所以 After sitting through eight classes 比 After eight classes 多寫出一整天坐在教室裡的感覺；after 在這裡是介系詞，後面接動詞要用 V-ing。分號後面用 all + [I need] + is + [名詞]，這裡的 all 是「唯一需要的東西」，意思就是只要一個朋友、一塊空場地就夠了。分號前後是兩個意思相關的完整句子，前面說不必湊一整隊，後面說真正需要的只有這些。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（這項運動怎麼進行：地點、方式、用品）",
+      "items": [
+       {
+        "f": "I usually ___（做什麼運動） at ___（地點） with ___（和誰）.",
+        "ex": "I usually play basketball at the park near my home with my cousins."
+       },
+       {
+        "f": "In this sport, players try to ___（基本玩法）.",
+        "ex": "In this sport, players try to throw the ball through the other team's basket."
+       },
+       {
+        "f": "This sport does not cost much. All you need is ___（需要的用品）.",
+        "ex": "This sport does not cost much. All you need is a pair of good running shoes."
+       },
+       {
+        "f": "It is important to ___（要注意的事情） before you ___（開始做什麼）.",
+        "ex": "It is important to warm up before you jump into the pool."
+       }
+      ]
+     },
+     {
+      "name": "第二段（從事這項運動的原因與對生活的影響）",
+      "items": [
+       {
+        "f": "I started ___（運動 V-ing） because ___（開始的原因）.",
+        "ex": "I started swimming because my doctor said it was good for my back."
+       },
+       {
+        "f": "What I like most about ___（運動） is that ___（喜歡的地方）.",
+        "ex": "What I like most about riding a bike is that I can see different parts of the city."
+       },
+       {
+        "f": "Since I started ___（運動 V-ing）, I have ___（生活上的改變）.",
+        "ex": "Since I started jogging, I have caught fewer colds."
+       },
+       {
+        "f": "Thanks to ___（運動）, I ___（現在的好處）.",
+        "ex": "Thanks to basketball, I am no longer shy around new classmates."
        }
       ]
      }
@@ -12082,6 +12493,88 @@
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0396"
         ]
+       }
+      ]
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 174,
+     "p1": "To me, a graduation ceremony should be warm and moving. It marks the end of three years, and none of us got through those years alone. Our teachers stayed after class to help us with math. Our homeroom teacher could always tell when something was wrong, and our classmates shared their notes and snacks with us. A sad ceremony would make us forget how lucky we are. The day should give us a chance to say thank you before we go our separate ways.",
+     "p2": "A simple ceremony could give us this chance. Instead of a long speech from a guest, the school could play a short video of photos from the past three years. The photos would remind us how far we have come. Each class could also give flowers to its homeroom teacher while one student reads a letter from the whole class. Our teachers and the younger students could stand outside the hall and say goodbye to us. A ceremony like this would not cost much, but we would always remember it.",
+     "zh": {
+      "p1": "對我來說，畢業典禮應該溫馨感人。畢業代表三年的結束，而這三年，我們沒有一個人是獨自走過來的。老師下課後留下來教我們數學；只要我們有什麼不對勁，導師總是看得出來；同學也和我們分享筆記和零食。要是典禮辦得很傷感，就會讓我們忘了自己有多幸運。這一天應該給我們一個機會，在各奔前程之前好好說聲謝謝。",
+      "p2": "一場簡單的典禮，就能給我們這個機會。與其請來賓發表冗長的演講，學校不如播放一段短片，放上這三年來的照片。這些照片會讓我們想起自己一路走了多遠。每一班也可以獻花給自己的導師，同時由一位同學念一封全班寫的信。老師們和學弟妹可以站在禮堂外面，跟我們說再見。這樣的典禮花不了多少錢，可是我們會永遠記得它。"
+     }
+    },
+    "levels": "用字：三級只有 remind（提醒、使想起）一個。graduation（四級）和 ceremony（五級）是題目「畢業典禮」的英文說法，所以照樣使用；除了這兩個字，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用關係子句把兩個子句併成一句",
+      "b": "It marks the end of three years, and none of us got through those years alone.",
+      "m": "It marks the end of three years that none of us got through alone.",
+      "why": "基礎版用 and 連接兩個子句，後面的子句得把 those years 再說一次。範文寫成 [three years] + that + [none of us got through alone]，that 代替前面的 three years，在子句裡當 got through 的受詞，同時又像連接詞一樣把後半句接上來，所以 those years 就不必重複。get through 指熬過一段不容易的日子，配上 alone，意思是這三年沒有人是獨自熬過來的。"
+     },
+     {
+      "t": "用冒號帶出具體的畫面",
+      "b": "Instead of a long speech from a guest, the school could play a short video of photos from the past three years.",
+      "m": "First, instead of a long speech from a guest, a short video could show photos from the past three years: our first day in new uniforms, the sports day relay we lost by less than a second, and the last class before graduation.",
+      "why": "兩句都用 instead of + [名詞] 說「與其……」。範文在完整的句子後面加冒號，帶出三個並列的名詞片語 (our first day in new uniforms), (the sports day relay we lost by less than a second), and (the last class before graduation)，冒號後面列出的，就是前面 photos 的內容。也就是說，基礎版只說有照片，範文讓閱卷老師看到照片裡是哪些畫面。另外，範文把 a short video 放在主詞的位置，用 show 說影片放出什麼，句子就不必提到 the school。"
+     },
+     {
+      "t": "用動名詞片語當主詞，寫出看照片的動作",
+      "b": "The photos would remind us how far we have come.",
+      "m": "Seeing our younger selves on the screen would remind everyone how far we have come, and how many people came with us.",
+      "why": "基礎版的主詞是名詞 The photos；範文改用動名詞片語 [Seeing our younger selves on the screen] 當主詞，因為 -ing 形式可以像名詞一樣放在主詞的位置，說的是「看到螢幕上比較年輕的自己」這個動作，比 photos 具體。動詞後面兩句都是 remind + [人] + how + [子句]，意思是讓人想起有多……；範文再用 and 接第二個 how 子句 (how many people came with us)，把第一段要感謝的那些人帶回來。how far 指「到什麼程度」，這裡的 come 和 have come a long way（進步很多）的 come 同一個意思，所以 how far we have come 說的是一路走來進步了多少。"
+     },
+     {
+      "t": "用 What 開頭的句子把重點放到句尾",
+      "b": "The day should give us a chance to say thank you before we go our separate ways.",
+      "m": "What the day should give us is a chance to say thank you before we go our separate ways.",
+      "why": "兩句意思一樣，範文用的是 [What + 主詞 + 動詞] + is + [重點] 的句型。What the day should give us（這一天該給我們的東西）是一個名詞子句，當整句的主詞；這個 what 子句說的是讀者已經知道的事情，is 後面的 a chance to say thank you 才是新的資訊，重點就落在句尾。這句是第一段的最後一句，用這個句型，剛好把整段收在「說謝謝」這個主題上。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（畢業典禮對我的意義）",
+      "items": [
+       {
+        "f": "To me, a graduation ceremony should be ___（溫馨感人／活潑熱鬧／嚴肅傷感等看法） because ___（原因）.",
+        "ex": "To me, a graduation ceremony should be lively because it is a happy day for students and their families."
+       },
+       {
+        "f": "Graduation marks the end of ___（哪一段日子） and the start of ___（接下來的新生活）.",
+        "ex": "Graduation marks the end of our high school days and the start of a new life in college."
+       },
+       {
+        "f": "I will always remember the ___（哪一個人） who ___（為我做過的事情）.",
+        "ex": "I will always remember the coach who waited with me after practice until my mom arrived."
+       },
+       {
+        "f": "Before we go our separate ways, I want to ___（想做的事情）.",
+        "ex": "Before we go our separate ways, I want to take a class photo with everyone in our school uniforms."
+       }
+      ]
+     },
+     {
+      "name": "第二段（如何安排活動呈現這個意義）",
+      "items": [
+       {
+        "f": "To make the ceremony ___（想要的氣氛）, the school could ___（安排的活動）.",
+        "ex": "To make the ceremony lively, the school could invite student bands to play on the stage."
+       },
+       {
+        "f": "Instead of ___（原本的安排，用 V-ing）, we could ___（新的安排）.",
+        "ex": "Instead of sitting in the hall for three hours, we could hold the ceremony outside under the trees."
+       },
+       {
+        "f": "Each class could ___（做什麼） while ___（同時進行的事情）.",
+        "ex": "Each class could sing a song on the stage while photos of the class appear on the screen."
+       },
+       {
+        "f": "Activities like these would help us ___（這些活動呈現出的意義）.",
+        "ex": "Activities like these would help us feel proud of our three years in high school."
        }
       ]
      }
