@@ -267,6 +267,30 @@
         "bold": [
          "keep emptying"
         ]
+       },
+       {
+        "zh": "現在寵物用品已經平價到連高中生靠零用錢也養得起一隻倉鼠。",
+        "en": "Pet supplies are now so affordable that even a high school student can keep a hamster on his or her allowance.",
+        "hint": "affordable 形容東西的價格，主詞是人時才用 afford；so + 形容詞 + that 帶出結果。",
+        "covers": [
+         "affordable"
+        ],
+        "bold": [
+         "so affordable that"
+        ]
+       },
+       {
+        "zh": "新聞幾乎每個星期都在提醒我們，出生率一年比一年低，台灣已經是高齡化社會。",
+        "en": "The news reminds us almost every week that the birth rate keeps falling and that Taiwan is already an aging society.",
+        "hint": "remind sb that + 子句；兩個 that 子句並列時，第二個 that 要保留。aging 是美式拼法，英式才寫 ageing。",
+        "covers": [
+         "the birth rate keeps falling",
+         "an aging society"
+        ],
+        "bold": [
+         "the birth rate keeps falling",
+         "an aging society"
+        ]
        }
       ]
      },
@@ -316,10 +340,10 @@
     "levels": "用字：三級只有 missing（不見的）一個，沒有四級以上的字。stroller（嬰兒推車）與 cram school（補習班）詞彙表沒有收錄（cram 這個動詞本身收在六級），一個是圖片裡的東西，一個是大家天天在講的地方，換成別的說法反而不準，所以照樣使用。",
     "upgrade": [
      {
-      "t": "加入對比，讓讀者看出不對勁的地方",
-      "b": "In a park, a woman pushes two small dogs in a stroller, and two other owners carry their dogs on their shoulders.",
-      "m": "A woman pushes a stroller, but there is no baby inside; two small dogs sit in it and look out at the path.",
-      "why": "基礎版直接說推車裡是狗，範文先用 [推著嬰兒車] + but + [there is no baby inside] 打破讀者的預期，再說出坐在裡面的是狗。也就是說，but 前後的落差正好就是圖片要表達的現象，讀者讀到這裡自然會注意到寵物取代了小孩。"
+      "t": "用被動句把焦點放在寵物身上",
+      "b": "These pictures show that people now treat pets like children.",
+      "m": "In all three pictures, pets are given the place that children used to have.",
+      "why": "基礎版 [These pictures] show that [people now treat pets like children]：主詞是圖片，用主動句說人怎麼對待寵物。範文改成被動 [pets] are given [the place] (that children used to have)：句子的焦點放在寵物本身，而且是誰把位置給了寵物並不重要，所以不必寫出來。the place 後面接關係子句 (that children used to have)，used to 說的是以前如此、現在不再如此，也就是那個位置以前是小孩的；一句話就把三張圖的共同點講清楚了。"
      },
      {
       "t": "用 while 把兩件同時發生的事情寫進一句",
@@ -485,12 +509,12 @@
    },
    "model": {
     "essay": {
-     "words": 234,
-     "p1": "A typhoon day off does not look the same for everyone. In the first picture, the storm has not really arrived. The rain is light, and the streets are full of people who suddenly have a free day: the movie theater is packed, and the line in front of the ticket window reaches the door. In the second picture, the same day off looks completely different. Heavy rain falls on a busy road, cars move slowly through the water, and riders on scooters are pushed sideways by the wind. Some of them still have to work, and every corner they turn is a risk.",
+     "words": 231,
+     "p1": "A typhoon day off does not look the same for everyone. In the first picture, the storm has not really arrived. The movie theater is packed with people who suddenly have a free day, and the line in front of the ticket window snakes back and forth between the barriers. In the second picture, the same day off looks completely different. Heavy rain falls on a busy road, cars move slowly through the water, and riders on scooters press on through the downpour in their raincoats. Some of them still have to work, and every corner they turn is a risk.",
      "p2": "I have lived through both kinds of days. Once our city called off classes and nothing happened at all; my classmates laughed about it online and said the mayor was too careful. Two years later, classes were not canceled, and I walked home through water up to my knees. Since then I have stopped judging the decision by the weather outside my own window. A typhoon does not hit every district equally, and a farmer, a delivery rider, and a student do not face the same danger. What worries me more is that these storms are getting harder to predict, because warmer oceans give them more energy and more rain. When a wrong guess can cost someone a life, I would rather the government be too careful than too brave.",
-     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；本篇寫了 231 個單詞。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
-      "p1": "同樣一天颱風假，每個人過起來都不太一樣。第一張圖裡，颱風其實還沒真的來，雨下得不大，街上全是突然多出一天假的人：電影院坐得滿滿的，售票口前面的隊伍一路排到門口。第二張圖裡，同樣是這一天假，情況完全不一樣。大雨打在一條車多的馬路上，汽車在積水裡慢慢前進，側風把騎機車的人吹得歪向一邊。他們當中有些人還是得上班，每轉一個彎都是一次冒險。",
+      "p1": "同樣一天颱風假，每個人過起來都不太一樣。第一張圖裡，颱風其實還沒真的來，電影院裡擠滿了突然多出一天假的人，售票口前面的隊伍在欄杆之間來回繞。第二張圖裡，同樣是這一天假，情況完全不一樣。大雨打在一條車多的馬路上，汽車在積水裡慢慢前進，騎機車的人穿著雨衣，冒著大雨繼續往前騎。他們當中有些人還是得上班，每轉一個彎都是一次冒險。",
       "p2": "這兩種日子我都經歷過。有一次我們市裡宣布停課，結果什麼事也沒發生，同學在網路上拿這件事開玩笑，說市長太小心了。兩年後那一次沒有停課，我是踩著淹到膝蓋的水走回家的。從那之後，我不再只看自己窗外的天氣來評斷這個決定。颱風對每一個行政區造成的影響並不一樣，務農的人、外送員和學生，各自面對的危險也不同。更讓我擔心的是，這些颱風愈來愈難預測，因為海水變暖，颱風就有更多能量，也帶來更多雨。既然判斷錯了可能賠上一條人命，我寧可政府太小心，也不要它太大膽。"
      }
     },
@@ -501,7 +525,7 @@
     "mapping": [
      {
       "k": "內容",
-      "t": "兩段各自完成一項任務。官方要的「充分、具體之細節」指的是售票口排到門口、車子在積水裡慢行、騎士被側風吹歪這些具體的畫面，以及第二段裡涉水回家的那一次，不是「颱風很危險」這種空話。"
+      "t": "兩段各自完成一項任務。官方要的「充分、具體之細節」指的是售票口前的隊伍在欄杆之間來回繞、車子在積水裡慢行、騎士穿著雨衣冒雨前進這些具體的畫面，以及第二段裡涉水回家的那一次，不是「颱風很危險」這種空話。"
      },
      {
       "k": "組織",
@@ -509,11 +533,11 @@
      },
      {
       "k": "文法句構",
-      "t": "全篇以單句與對等句為主，變化來自 who 關係子句、被動語態（are pushed）、have stopped + V-ing 與 would rather … than。句子寫得清楚比寫得複雜重要。"
+      "t": "全篇以單句與對等句為主，變化來自 who 關係子句、被動語態（classes were not canceled）、have stopped + V-ing 與 would rather … than。句子寫得清楚比寫得複雜重要。"
      },
      {
       "k": "字彙拼字",
-      "t": "用字都在大考中心詞彙表四級以內。"
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 124、二級 20、三級 2、四級 3，四級以上 3 個、占 2.0%，分別是 barrier、district、predict，都是四級，沒有五、六級的字。詞彙表沒有收錄、範文照樣使用的有 rider（ride 加 -er，詞彙表只收錄 ride）與 downpour（down 加 pour，意思是傾盆大雨）兩個。這一篇容易拼錯的是 typhoon、theater、government、canceled 這幾個；theater 與 canceled 是美式拼法，不寫 theatre、cancelled。"
      }
     ]
    },
@@ -738,6 +762,17 @@
          "severe damage",
          "a sharp decline in harvests"
         ]
+       },
+       {
+        "zh": "對高三生來說，颱風假從來不算真的放假，延後的模擬考只是改到隔天等著我們。",
+        "en": "For high school seniors, a typhoon day off is never a real day off; the postponed mock exam is simply waiting for us the next day.",
+        "hint": "颱風假寫 a typhoon day off，不寫 typhoon vacation；分號接的第二句解釋為什麼不算放假，不必再寫 because。",
+        "covers": [
+         "a typhoon day off"
+        ],
+        "bold": [
+         "a typhoon day off"
+        ]
        }
       ],
       "note": "這一題要自己寫得出來的"
@@ -813,14 +848,14 @@
      {
       "t": "用 who 關係子句把兩句併成一句",
       "b": "People suddenly have a free day, so many go to the movies. The theater is crowded, and people stand in long lines to buy tickets.",
-      "m": "The rain is light, and the streets are full of people who suddenly have a free day: the movie theater is packed, and the line in front of the ticket window reaches the door.",
-      "why": "基礎版要用兩句才講完「有人突然放假」和「電影院很擠」。範文寫成 [the streets are full of people] + who + [suddenly have a free day]，who 一方面代替前面的 people 當子句的主詞，一方面又像連接詞一樣把後半句接上來，所以一句就交代了「誰」和「他們怎麼了」；冒號後面再舉出電影院的具體畫面，隊伍排到門口比 long lines 更能讓閱卷老師看到畫面。"
+      "m": "The movie theater is packed with people who suddenly have a free day, and the line in front of the ticket window snakes back and forth between the barriers.",
+      "why": "基礎版要用兩句才講完「有人突然放假」和「電影院很擠」。範文寫成 [the movie theater is packed with people] + who + [suddenly have a free day]，who 一方面代替前面的 people 當子句的主詞，一方面又像連接詞一樣把後半句接上來，所以一句就交代了「誰」和「他們怎麼了」；後半句再寫出售票口的隊伍在欄杆之間來回繞，比 long lines 更能讓閱卷老師看到畫面。"
      },
      {
-      "t": "加入具體細節，並用被動語態寫出風的力量",
+      "t": "加入具體細節，並用三個並列子句寫出畫面",
       "b": "Heavy rain is falling on a busy road, but some people still have to ride their scooters to work.",
-      "m": "Heavy rain falls on a busy road, cars move slowly through the water, and riders on scooters are pushed sideways by the wind.",
-      "why": "範文把圖片裡看得到的東西一樣一樣寫出來：(Heavy rain falls …), (cars move …), and (riders … are pushed …)，三個並列的子句用逗號和 and 串起來，結構相同，讀起來很整齊。最後一個子句用被動語態 [主詞] + are + [過去分詞] + by + [施力者]，因為騎士是被風吹歪的那一方，把騎士放在主詞的位置，讀者的注意力就留在人身上。"
+      "m": "Heavy rain falls on a busy road, cars move slowly through the water, and riders on scooters press on through the downpour in their raincoats.",
+      "why": "範文把圖片裡看得到的東西一樣一樣寫出來：(Heavy rain falls …), (cars move …), and (riders … press on …)，三個並列的子句用逗號和 and 串起來，結構相同，讀起來很整齊。最後一個子句的 press on 是「不停下來、繼續前進」，後面再接 through the downpour 和 in their raincoats 兩個介系詞片語，說出騎士在什麼雨勢裡、穿著什麼往前騎，比基礎版的 ride their scooters to work 更讓人看得到畫面。"
      },
      {
       "t": "After that 配過去式，Since then 配現在完成式",
@@ -1230,6 +1265,41 @@
          "worn out",
          "with nothing done"
         ]
+       },
+       {
+        "zh": "我希望它夠可靠，可靠到它做過的事情我都不必再檢查一遍。",
+        "en": "I want it to be reliable enough that I never have to check its work a second time.",
+        "hint": "reliable 形容人或機器都可以；形容詞 + enough that + 子句，說要到什麼程度。",
+        "covers": [
+         "reliable"
+        ],
+        "bold": [
+         "reliable enough that"
+        ]
+       },
+       {
+        "zh": "如果每天晚上都能跟它分工，再長的待辦清單也會變得應付得來。",
+        "en": "If I could split the work with it every evening, even the longest to-do list would become manageable.",
+        "hint": "split the work with sb 後面接一起分工的人（或這台機器）；manageable 說的是份量或難度應付得來，不是「簡單」。",
+        "covers": [
+         "split the work with sb",
+         "manageable"
+        ],
+        "bold": [
+         "split the work with",
+         "manageable"
+        ]
+       },
+       {
+        "zh": "它把我的手機收在拿不到的地方，好讓我能專心在眼前的那一題上。",
+        "en": "It keeps my phone out of reach so that I can stay focused on the problem in front of me.",
+        "hint": "stay focused on 後面接名詞或 V-ing，stay 比 be 多了「一直保持」的意思；so that 子句說目的。",
+        "covers": [
+         "stay focused on"
+        ],
+        "bold": [
+         "stay focused on"
+        ]
        }
       ]
      },
@@ -1619,6 +1689,43 @@
          "Rather than guessing",
          "sort things out face to face"
         ]
+       },
+       {
+        "zh": "如果一句「好啦」聽起來模稜兩可，就多補一句話，把你的意思說清楚。",
+        "en": "If a reply like \"Fine\" sounds ambiguous, add one more sentence to clarify what you mean.",
+        "hint": "ambiguous 形容一句話可以有兩種以上的解讀；clarify 後面可以直接接 what 子句。",
+        "covers": [
+         "ambiguous",
+         "clarify"
+        ],
+        "bold": [
+         "ambiguous",
+         "clarify what you mean"
+        ]
+       },
+       {
+        "zh": "我提醒社團學弟交報告的時候，在句尾加了一個笑臉，好讓語氣緩和一點。",
+        "en": "When I reminded a younger member of my club to turn in his report, I added a smiley face at the end to soften the tone.",
+        "hint": "to V 放句尾說目的；soften the tone 的主詞可以是人，也可以是那個表情符號（the emoji softens the tone）。",
+        "covers": [
+         "soften the tone"
+        ],
+        "bold": [
+         "to soften the tone"
+        ]
+       },
+       {
+        "zh": "我知道自己看到簡短的回覆容易有情緒反應，所以現在都會先等一個小時，再判斷自己是不是想太多了。",
+        "en": "I know I tend to react emotionally to a short reply, so now I wait an hour before deciding whether I am reading too much into it.",
+        "hint": "react emotionally 的 emotionally 是副詞，修飾 react；read too much into sth 的 sth 用 it 回指前面那則回覆就好。",
+        "covers": [
+         "emotionally",
+         "read too much into sth"
+        ],
+        "bold": [
+         "react emotionally",
+         "reading too much into it"
+        ]
        }
       ]
      },
@@ -1792,12 +1899,12 @@
    "source": "大學入學考試中心 111 學年度學科能力測驗英文考科",
    "model": {
     "essay": {
-     "words": 322,
-     "p1": "The two parks in the pictures are built for completely different visitors. Picture A is a playground. A double slide runs down from a dome-roofed tower, a climbing frame stands next to it, and the ground is paved with soft rubber tiles so that a child who falls will not get hurt. Almost everything in the picture is equipment, and every piece of it is there to be climbed, turned, or slid down. Picture B has no equipment at all. Tall trees rise along both sides of an open lawn, their shadows fall across the grass in long stripes, and a path curves away toward a flower bed further back. Park A offers action; park B offers space and silence. One detail is easy to miss: there is not a single person in either photograph, so both parks are still waiting for someone to use them.",
+     "words": 323,
+     "p1": "The two parks in the pictures are built for completely different visitors. Picture A is a playground. A double slide runs down from a dome-roofed tower, a climbing frame stands off to the left, and the ground is paved with soft rubber tiles so that a child who falls will not get hurt. Almost everything in the picture is equipment, and every piece of it is there to be climbed, turned, or slid down. Picture B has no equipment at all. Tall trees rise along both sides of an open lawn, their shadows fall across the grass in long stripes, and a low flower bed curves across the lawn further back. Park A offers action; park B offers space and silence. One detail is easy to miss: there is not a single person in either photograph, so both parks are still waiting for someone to use them.",
      "p2": "My ideal park would not choose between the two. The park closest to my home is all concrete and exercise machines, and on most afternoons nobody is there, so this question is not a new one for me. I would keep a playground like the one in picture A, but only in one corner near the entrance, because children who live in apartment buildings have nowhere else to run. The rest of the ground would stay open and green, the way park B is. Three things matter most. First, the trees should be old and tall, since a young tree gives almost no shade for its first twenty years. Second, the paths should be flat and wide enough for a wheelchair, because a park that part of the neighborhood cannot enter is not really public. Third, the benches belong under the trees rather than out in the sun. A good park lets the noisy half and the quiet half sit side by side without disturbing each other, and that balance is what I would build for.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標。這一題的兩張圖是對照、不是選單，第一段兩張都要交代，少寫一張就漏了一半。第二段真正容易漏的是最後那半句「並解釋你的理由」：只寫理想公園長什麼樣、沒寫為什麼，寫作任務就沒有完成。十篇官方佳作裡只有一篇明白寫出理想公園應該像圖 B，其餘九篇都沒有二選一，可見合不合圖不是評分的重點，講不講得出理由才是。本篇第二段刻意不走「像圖 B」那一條，不是因為那樣比較好，而是同一個題目還有別的寫法——把那十篇看過一遍，再想想自己真正想要的公園是什麼樣子。還有一件值得知道：本篇第一段寫了兩張照片裡都沒有人，那是照著圖數出來的；佳作裡有幾篇寫到孩子的笑聲，那是從設施推出來的合理想像。描述圖片時兩種都可以寫，重點是自己要分得出哪一句是圖上有的、哪一句是自己推的。",
      "zh": {
-      "p1": "兩張照片裡的公園，服務的是完全不同的人。圖 A 是一座遊樂場：一道雙道滑梯從一座圓頂的塔上延伸下來，旁邊立著攀爬架，地面鋪的是軟橡膠地墊，孩子跌倒也不會受傷。畫面上幾乎全是設施，每一樣都是拿來爬、拿來轉、拿來滑的。圖 B 則一樣設施也沒有。高大的樹木沿著一片開闊草地的兩側立著，樹影在草地上拉成一條一條，一條步道彎了過去，通向後面的花圃。圖 A 給的是活動，圖 B 給的是空間與安靜。還有一個細節很容易看漏：兩張照片裡都沒有半個人，所以這兩座公園都還在等人來用。",
+      "p1": "兩張照片裡的公園，服務的是完全不同的人。圖 A 是一座遊樂場：一道雙道滑梯從一座圓頂的塔上延伸下來，左邊立著攀爬架，地面鋪的是軟橡膠地墊，孩子跌倒也不會受傷。畫面上幾乎全是設施，每一樣都是拿來爬、拿來轉、拿來滑的。圖 B 則一樣設施也沒有。高大的樹木沿著一片開闊草地的兩側立著，樹影在草地上拉成一條一條，一道低矮的花圃彎彎地橫過後面的草地。圖 A 給的是活動，圖 B 給的是空間與安靜。還有一個細節很容易看漏：兩張照片裡都沒有半個人，所以這兩座公園都還在等人來用。",
       "p2": "我心目中的理想公園不會在這兩者之間二選一。離我家最近的那座公園全是水泥地和運動器材，多數午後一個人也沒有，所以這個問題我不是第一次想。我會留一座像圖 A 那樣的遊樂場，不過只放在靠近入口的一角，因為住公寓的孩子沒有別的地方可以跑。其餘的地就維持開闊與綠意，像圖 B 那樣。最重要的有三件。第一，樹要老要高，因為一棵樹種下去的頭二十年，幾乎給不了什麼樹蔭。第二，步道要平、要寬到輪椅過得去，畢竟一座公園如果社區裡有一部分的人進不來，就稱不上公共。第三，長椅該放在樹下，不是曬在太陽底下。好的公園能讓吵的那一半和靜的那一半並排坐著、互不干擾，我想蓋的就是這樣的平衡。"
      }
     },
@@ -2047,8 +2154,8 @@
      {
       "t": "換更精確的動詞，再加上看得到的細節",
       "b": "In picture B, tall trees stand on both sides of a wide lawn, and their shadows fall across the grass.",
-      "m": "Tall trees rise along both sides of an open lawn, their shadows fall across the grass in long stripes, and a path curves away toward a flower bed further back.",
-      "why": "stand 只說樹「立著」，rise 則是「高高聳立、往上延伸」的意思，字典的例句 the Alps rising above the clouds 就是這個用法，正好配 tall trees。範文在 fall across the grass 後面加上 in long stripes，讀者看得出樹影是一條一條的；接著再用 a path curves away toward… 帶出步道往後彎過去，畫面就從近處的草地延伸到遠處。基礎版的兩個子句沒有錯，只是範文多寫了幾樣細節，閱卷老師比較看得到圖片裡的東西。"
+      "m": "Tall trees rise along both sides of an open lawn, their shadows fall across the grass in long stripes, and a low flower bed curves across the lawn further back.",
+      "why": "stand 只說樹「立著」，rise 則是「高高聳立、往上延伸」的意思，字典的例句 the Alps rising above the clouds 就是這個用法，正好配 tall trees。範文在 fall across the grass 後面加上 in long stripes，讀者看得出樹影是一條一條的；接著再用 a low flower bed curves across… 帶出花圃在後面的草地上彎過去，畫面就從近處的草地延伸到遠處。基礎版的兩個子句沒有錯，只是範文多寫了幾樣細節，閱卷老師比較看得到圖片裡的東西。"
      },
      {
       "t": "用分號把兩個對比的句子並排",
@@ -2594,11 +2701,11 @@
    "model": {
     "essay": {
      "words": 326,
-     "p1": "The two pictures show what a long dry spell can do to a place. In the first one, a reservoir has almost run dry. A huge concrete dam still stands on the right, and the hills behind it are as green as ever, yet the water that should fill the valley has shrunk to a thin strip. Where the lake used to be, the ground is now bare mud, cracked into hundreds of pieces like a broken puzzle. The second picture moves to a street. A water truck from the Taiwan Water Corporation is parked by the road, and a crowd of residents has gathered around it. Some are bending over to fill plastic jugs from the taps at the back of the truck, while others wait their turn with empty containers at their feet. Put side by side, the two scenes tell one story: when the reservoir is empty, the tap at home soon is, too.",
+     "p1": "The two pictures show what a long dry spell can do to a place. In the first one, a reservoir has almost run dry. A huge concrete dam still stands on the right, and the hills behind it are as green as ever, yet the water that should fill the valley has shrunk to a thin strip. Where the lake used to be, the ground is now bare mud, cracked into hundreds of pieces like a broken puzzle. The second picture moves to a street. A water truck from the Taiwan Water Corporation is parked by the road, and a crowd of residents has gathered around it. Some are bending over to fill plastic jugs from the taps along the side of the truck, while others wait their turn with empty containers at their feet. Put side by side, the two scenes tell one story: when the reservoir is empty, the tap at home soon is, too.",
      "p2": "The most obvious cause is the weather. Taiwan depends on typhoons and the plum rain season to refill its reservoirs, so a year with few typhoons and little spring rain leaves them half empty. Yet the weather is only part of the story. Many reservoirs are slowly filling up with mud, which leaves less room for water, and more than a tenth of our tap water leaks out of old pipes before it ever reaches our homes. On top of that, many of us use water as if the supply were endless. To keep such scenes from happening again, the government should remove the mud from reservoirs regularly and replace aging pipes, so that every drop of rain is put to use. As for ordinary people, small habits add up: taking shorter showers, turning off the tap while brushing our teeth, and reusing the water from washing vegetables. Water only feels precious when the tap runs dry, so we had better treat it that way before that day comes.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少120個單詞」，那是下限而不是目標；本篇寫了 326 個單詞，篇幅與本題庫其他範文相近。\n這一題兩段的任務分得很清楚：第一段只描述兩張圖片，第二段才談原因和因應措施。本篇第一段照圖片順序寫，先水庫、再街上，最後一句把兩張圖連成同一件事，交給第二段。第二段先講原因，再講措施，而且措施對得上原因：水庫淤積對應清除淤泥，管線漏水對應汰換管線，用水習慣對應個人省水。也就是說，提出的措施要回應自己講的原因，才算回答了題目的「以避免類似景象再度發生」。\n第二段漏水那一句有根據：台灣自來水公司 2020 年底的漏水率為 13.90%，所以寫「超過一成」。",
      "zh": {
-      "p1": "這兩張圖片呈現長時間不下雨會讓一個地方變成什麼樣子。第一張圖裡，水庫幾乎見底。右邊那座巨大的水泥水壩還立在原地，後面的山也一樣青翠，可是原本應該蓄滿山谷的水，已經縮成細細的一條。原本是湖的地方，如今只剩光禿禿的泥地，裂成好幾百塊，像一幅拆散的拼圖。第二張圖換到街上。一輛台灣自來水公司的水車停在路邊，附近的居民圍了過來。有些人彎著腰，用車尾的水龍頭把塑膠水桶裝滿，其他人腳邊放著空水箱，等著輪到自己。兩張圖放在一起看，說的是同一件事：水庫一旦乾了，家裡的水龍頭很快也跟著沒水。",
+      "p1": "這兩張圖片呈現長時間不下雨會讓一個地方變成什麼樣子。第一張圖裡，水庫幾乎見底。右邊那座巨大的水泥水壩還立在原地，後面的山也一樣青翠，可是原本應該蓄滿山谷的水，已經縮成細細的一條。原本是湖的地方，如今只剩光禿禿的泥地，裂成好幾百塊，像一幅拆散的拼圖。第二張圖換到街上。一輛台灣自來水公司的水車停在路邊，附近的居民圍了過來。有些人彎著腰，用車身側邊的水龍頭把塑膠水桶裝滿，其他人腳邊放著空水箱，等著輪到自己。兩張圖放在一起看，說的是同一件事：水庫一旦乾了，家裡的水龍頭很快也跟著沒水。",
       "p2": "最明顯的原因是天氣。台灣要靠颱風和梅雨把水庫補滿，所以只要哪一年颱風少、春雨又不多，水庫就只剩半滿。不過，天氣只是原因之一。很多水庫底下的泥沙越積越多，能蓄的水就跟著變少；另外，超過一成的自來水還沒送到家，就從老舊的管線漏掉了。再加上很多人用起水來，好像水永遠用不完似的。要避免這樣的景象再度發生，政府應該定期清除水庫的淤泥、汰換老舊管線，讓每一滴雨水都派得上用場。至於一般人，小習慣累積起來也很可觀：洗澡時間短一點、刷牙時把水龍頭關掉、把洗菜的水留下來再利用。總要等到水龍頭沒水了，才知道水有多珍貴；我們最好別等到那一天，現在就開始珍惜。"
      }
     },
@@ -2833,14 +2940,14 @@
    "basic": {
     "essay": {
      "words": 178,
-     "p1": "The two pictures show what happens after months without rain. In the first picture, a huge dam stands on the right, but the lake behind it is almost empty. The dry mud near the water has broken into hundreds of pieces. In the second picture, a crowd has gathered around a water truck. Some people are bending over to fill big plastic bottles, and others are waiting their turn. When the lake is empty, the taps at home soon run dry.",
+     "p1": "The two pictures show what happens after months without rain. In the first picture, a huge dam stands on the right, but the lake behind it is almost empty. The dry mud near the water has broken into hundreds of pieces. In the second picture, a crowd has gathered around a water truck. Some people are bending over to fill big plastic containers, and others are waiting their turn. When the lake is empty, the taps at home soon run dry.",
      "p2": "The biggest cause is the weather. Taiwan needs typhoons and spring rain to fill the lakes behind its dams, so a year with few typhoons and little rain leaves them half empty. But people are part of the problem, too. Many of these lakes are filling up with mud, and old pipes leak a lot of tap water. We also waste water every day. To stop this from happening again, the government should remove the mud and replace old pipes. As for us, we can take shorter showers and turn off the tap while brushing our teeth.",
      "zh": {
       "p1": "這兩張圖片呈現的是好幾個月不下雨之後會發生什麼事情。第一張圖裡，右邊有一座巨大的水壩，可是後面的水庫幾乎空了，水邊乾掉的泥地也已經裂成好幾百塊。至於第二張圖，一群人圍在一輛水車旁邊，有些人彎著腰把大塑膠桶裝滿，其他人則在等著輪到自己。水庫一旦空了，家裡的水龍頭很快也就沒水了。",
       "p2": "最大的原因是天氣。台灣要靠颱風和春雨把水庫裝滿，所以要是哪一年颱風少、雨又不多，水庫就只剩半滿。不過，人也是問題的一部分。很多水庫裡的泥沙越積越多，老舊的管線又漏掉不少自來水，再加上我們每天也都在浪費水。要避免這種事情再度發生，政府應該清掉淤泥，並且汰換老舊的管線。至於我們自己，可以洗澡洗快一點，刷牙時把水龍頭關掉。"
      }
     },
-    "levels": "用字：三級只有 dam（水壩）、leak（漏水）、plastic（塑膠）、replace（更換）、tap（水龍頭）五個，沒有四級以上的字。水庫 reservoir 是五級字，所以基礎版改說 the lake behind the dam（水壩後面的湖），英文平常就這樣講水庫裡的那片水。",
+    "levels": "用字：三級只有 dam（水壩）、leak（漏水）、plastic（塑膠）、replace（更換）、tap（水龍頭）五個。container（容器）是四級字，圖片裡居民提來接水的那種大塑膠桶，英文就叫 water container，所以照樣使用。水庫 reservoir 是五級字，所以基礎版改說 the lake behind the dam（水壩後面的湖），英文平常就這樣講水庫裡的那片水。",
     "upgrade": [
      {
       "t": "用 where 子句和比喻把畫面寫具體",
@@ -2850,9 +2957,9 @@
      },
      {
       "t": "用 while 表示對比，再補上動作的細節",
-      "b": "Some people are bending over to fill big plastic bottles, and others are waiting their turn.",
-      "m": "Some are bending over to fill plastic jugs from the taps at the back of the truck, while others wait their turn with empty containers at their feet.",
-      "why": "兩句都用 [Some] …, [others] … 分出兩群人。基礎版用 and 只是把兩件事情並列，範文改用 while，這裡的 while 表示對比（一邊……，另一邊……），不是「當……的時候」。範文還加上 from the taps at the back of the truck 和 with empty containers at their feet 兩個介系詞片語，說出水從哪裡來、空水箱放在哪裡，畫面就更完整。"
+      "b": "Some people are bending over to fill big plastic containers, and others are waiting their turn.",
+      "m": "Some are bending over to fill plastic jugs from the taps along the side of the truck, while others wait their turn with empty containers at their feet.",
+      "why": "兩句都用 [Some] …, [others] … 分出兩群人。基礎版用 and 只是把兩件事情並列，範文改用 while，這裡的 while 表示對比（一邊……，另一邊……），不是「當……的時候」。範文還加上 from the taps along the side of the truck 和 with empty containers at their feet 兩個介系詞片語，說出水從哪裡來、空水箱放在哪裡，畫面就更完整。"
      },
      {
       "t": "用具體的比例代替籠統的 a lot of",
@@ -2951,7 +3058,7 @@
      "words": 300,
      "p1": "I understand why so many universities now ask their professors to teach in English, and on the whole I agree with the trend. Most of the research a student reads in a science or business course is published in English and never translated, so a student who reads only Chinese is limited to whatever someone else has chosen to pass on. Teaching in English also allows a department to take in students from other countries, which changes what a class discussion sounds like. Even so, the policy is not good in itself. If English were only the language of the slides, and not the language of the questions, it would be a label on the syllabus rather than a change in the classroom. A course where nobody dares to ask anything loses more in understanding than it gains in language. What makes the policy work is not the language of the lecture but whether students can still argue and be corrected in it.",
      "p2": "If the department I enter teaches its required courses in English, I will stop treating English as a subject I study on Sunday night and start treating it as the tool I work with every day. Before the semester begins, I will look up the syllabus and read the first two chapters in English, so that the vocabulary of the field is familiar to me before the first class. During the semester I will ask for permission to record the lectures and listen to them again on the way home, writing down the phrases the professor keeps using. I will also find two classmates and agree to spend twenty minutes a week discussing that week's topic in English, badly at first. My guess is that the first month will be uncomfortable and the third one will not.",
-     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；本篇寫了 300 個單詞。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
       "p1": "這麼多大學現在要求教授用英語授課，我理解原因，整體來說我也認同這個趨勢。一個學生在理工或商管課程裡讀到的研究，多半只以英文發表，也一直沒有中譯本，所以一個只讀中文的學生，看得到的就只有別人挑出來轉述的那一部分。用英語上課也讓一個系收得到外國學生，課堂討論的樣子會跟著不一樣。話雖如此，這個政策本身並不等於好事。如果英文只是投影片上的語言，而不是提問時用的語言，那英文就只是掛在課程大綱上的一個名目，課堂裡並沒有真的改變。一門沒有人敢發問的課，在理解上的損失會大於它在語言上的收穫。真正決定成敗的不是講課用什麼語言，而是學生能不能繼續用那個語言提出異議、也接受別人糾正。",
       "p2": "如果我進的那個系必修課真的用英語上，我就不會再把英文當成星期天晚上才唸的一個科目，而是把它當成每天要用的工具。開學之前，我會先查課程大綱，把前兩章的英文讀過，讓這個領域的專有詞彙在第一堂課之前就已經熟悉。學期中我會徵得同意之後錄下課堂，回家路上再聽一次，把教授反覆用到的說法抄下來。我還會找兩個同學約好，每個星期用英文討論那一週的主題二十分鐘，一開始講得不好也沒關係。我猜第一個月會很不自在，到第三個月就不會了。"
@@ -2976,7 +3083,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "用字大多在大考中心詞彙表四級以內。這一篇容易拼錯的是 syllabus、professor 這兩個，professor 只有一個 f。"
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 122、二級 18、三級 10、四級 5，四級以上 5 個、占 3.2%，分別是 lecture（lecture、lectures 兩個詞形）、publish、research、translate，都是四級，沒有五、六級的字。詞彙表沒有收錄、範文照樣使用的有 syllabus 與 classroom 兩個，classroom 是複合詞，詞彙表的編輯原則是複合詞儘量不列入。English、Chinese、Sunday 是專有名詞，字首大寫，不列入統計。這一篇容易拼錯的是 syllabus、professor 這兩個，professor 只有一個 f。"
      }
     ]
    },
@@ -3367,12 +3474,12 @@
    "summarySource": "外部模型產出，未經查證，不上站",
    "model": {
     "essay": {
-     "words": 287,
-     "p1": "The two news photographs were taken on the opening day of a department store's anniversary sale. In the first one, the glass doors have just been pushed open, and the crowd is rushing in through the narrow gap; a caption across the bottom of the screen tells viewers the moment the doors swung open, and several shoppers are already running, coats flapping behind them. The second photograph shows the same floor twenty minutes later. Shoppers stand three deep around a counter, holding paper bags above their heads, while the staff in dark uniforms hand goods across as fast as they can. In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her a queue stretches all the way back to the entrance.",
+     "words": 286,
+     "p1": "The two news photographs were taken on the opening day of a department store's anniversary sale. In the first one, the glass doors have just been pushed open, and the crowd is rushing in through the narrow gap; a caption across the bottom of the screen tells viewers the moment the doors swung open, and several shoppers are already running, coats flapping behind them. The second photograph shows the same floor twenty minutes later. Shoppers stand three deep around a counter, holding paper bags, while the staff in dark uniforms hand goods across as fast as they can. In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her the crowd stretches all the way to the back of the store.",
      "p2": "What happened next did not make the news. The woman in glasses and an older woman in a red scarf reached the table at the same moment and seized the same grey coat, the last one left in that size. Each held a sleeve, and for a long moment neither let go. The older woman said the coat was for her daughter, who was willing to work night shifts all winter but never willing to spend anything on herself. The younger woman grabbed the sleeve tighter and said she had seen it first. In the end what influenced her decision was not the price tag but the silence that had spread across the floor around them. After a moment's hesitation she opened her hand. Only after she sat down on the bus home did she feel ashamed, not of losing a coat, but of how loudly she had wanted it.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標，官方自己也說得很清楚：得高分的不一定是長文，重點在有沒有完成寫作任務。而這一題的任務有一半在圖片外面——第二段要自己編發展與結果，同一組圖片編得出完全不同的故事，大考中心當年公布了十二篇佳作，直接點進去看一遍最有效。",
      "zh": {
-      "p1": "這兩張新聞照片拍的是某家百貨公司週年慶的第一天。第一張裡，玻璃門才剛推開，人群就從那道窄窄的門縫擠了進去；畫面下方的字幕寫著，這就是大門打開的那一刻。已經有好幾個客人跑了起來，外套在身後飄著。第二張照片拍的是同一個樓層二十分鐘後的樣子。顧客在一個櫃位周圍站成三層，手上的紙袋高舉過頭，穿深色制服的店員用最快的速度把商品遞出來。畫面正中間，一個戴眼鏡的年輕女生正用手肘擠過人群，往一張擺大衣的桌子前進，她身後的隊伍一路排回大門口。",
+      "p1": "這兩張新聞照片拍的是某家百貨公司週年慶的第一天。第一張裡，玻璃門才剛推開，人群就從那道窄窄的門縫擠了進去；畫面下方的字幕寫著，這就是大門打開的那一刻。已經有好幾個客人跑了起來，外套在身後飄著。第二張照片拍的是同一個樓層二十分鐘後的樣子。顧客在一個櫃位周圍站成三層，手上拿著紙袋，穿深色制服的店員用最快的速度把商品遞出來。畫面正中間，一個戴眼鏡的年輕女生正用手肘擠過人群，往一張擺大衣的桌子前進，她身後的人潮一路擠到賣場最裡面。",
       "p2": "接下來發生的事就沒上新聞了。那個戴眼鏡的女生和一位圍紅圍巾的阿姨同時走到桌邊，兩人一起抓住同一件灰色大衣，那個尺寸只剩最後一件。兩個人各拉著一邊袖子，僵持了好一會兒，誰也不放手。阿姨說這件大衣是要買給女兒的，女兒整個冬天甘願上夜班，卻捨不得為自己花半毛錢。年輕女生把袖子抓得更緊，說是她先看到的。最後讓她改變主意的不是價錢，而是四周整個樓層安靜下來的那種氣氛。她猶豫了一下，手就鬆開了。一直到坐上回家的公車，她才覺得難為情——讓她難為情的不是沒搶到那件大衣，而是自己剛才那副勢在必得的樣子。"
      }
     },
@@ -3395,7 +3502,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "這一年的項目名稱官方寫的是「字彙拼字」。這一題的字幾乎都是動作字，選字要準：seize 是迅速抓住、握住不放，grab 是突然、粗魯地一把抓住，let go 是鬆手，三個意思各不相同。elbow one's way through the crowd 值得單獨記：這個結構 115 學測第 9 題考過，正確率只有 29%，鑑別度 21，鑑別度這麼低表示程度好的學生也照樣錯，錯的不是單字而是結構。當年最主要的陷阱是 struggle，看起來很合理，可是 struggle 很少接 one's way；「動詞 + one's way + 介系詞」這個結構專門用來講以什麼方式前進，所以空格要填的是前進的方式。這一篇容易拼錯的是 hesitation、entrance 這兩個。"
+      "t": "這一年的項目名稱官方寫的是「字彙拼字」。這一題的字幾乎都是動作字，選字要準：seize 是迅速抓住、握住不放，grab 是突然、粗魯地一把抓住，let go 是鬆手，三個意思各不相同。elbow one's way through the crowd 值得單獨記：這個結構 115 學測第 9 題考過，正確率只有 29%，鑑別度 21，鑑別度這麼低表示程度好的學生也照樣錯，錯的不是單字而是結構。當年最主要的陷阱是 struggle，看起來很合理，可是 struggle 很少接 one's way；「動詞 + one's way + 介系詞」這個結構專門用來講以什麼方式前進，所以空格要填的是前進的方式。這一篇容易拼錯的是 hesitation。"
      }
     ]
    },
@@ -3644,14 +3751,14 @@
      {
       "t": "換成更精確的說法，並加入看得到的細節",
       "b": "People are standing close together, and store workers in dark jackets are busy helping them.",
-      "m": "Shoppers stand three deep around a counter, holding paper bags above their heads, while the staff in dark uniforms hand goods across as fast as they can.",
-      "why": "standing close together 只說人很擠，範文的 stand three deep 是「站了三層」：[數字] + deep 是固定說法，表示人或東西排成幾排、幾層（字典例句：People were standing four deep at the bar.），數字一出來，擠的程度就看得見。(holding paper bags above their heads) 是分詞片語，主詞和前面的 Shoppers 相同，所以省去主詞、動詞改成 V-ing，補上手上的動作。while 連接兩件同時發生的事情：[客人在做什麼] + while + [店員在做什麼]；店員具體在做的是 hand goods across（把商品遞過去），比 busy helping them 更清楚。"
+      "m": "Shoppers stand three deep around a counter, holding paper bags, while the staff in dark uniforms hand goods across as fast as they can.",
+      "why": "standing close together 只說人很擠，範文的 stand three deep 是「站了三層」：[數字] + deep 是固定說法，表示人或東西排成幾排、幾層（字典例句：People were standing four deep at the bar.），數字一出來，擠的程度就看得見。(holding paper bags) 是分詞片語，主詞和前面的 Shoppers 相同，所以省去主詞、動詞改成 V-ing，補上手上的動作。while 連接兩件同時發生的事情：[客人在做什麼] + while + [店員在做什麼]；店員具體在做的是 hand goods across（把商品遞過去），比 busy helping them 更清楚。"
      },
      {
       "t": "用「動詞 + one's way」寫出前進的方式",
       "b": "In the middle, a young woman in glasses is trying to get through the crowd.",
-      "m": "In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her a queue stretches all the way back to the entrance.",
-      "why": "get through 只說她要穿過人群，範文的 [主詞] + elbow + one's way + through… 把「怎麼穿過去」也寫出來：用手肘推開別人往前擠。這個結構裡，動詞說的是前進的方式，one's way 是固定的受詞，後面再接 through、toward 這類表示方向的介系詞。toward a table of coats 說出她要去哪裡，順便替第二段的大衣埋下伏筆；後半句用 and 再接一個子句，把她身後一路排到門口的隊伍也帶進畫面。"
+      "m": "In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her the crowd stretches all the way to the back of the store.",
+      "why": "get through 只說她要穿過人群，範文的 [主詞] + elbow + one's way + through… 把「怎麼穿過去」也寫出來：用手肘推開別人往前擠。這個結構裡，動詞說的是前進的方式，one's way 是固定的受詞，後面再接 through、toward 這類表示方向的介系詞。toward a table of coats 說出她要去哪裡，順便替第二段的大衣埋下伏筆；後半句用 and 再接一個子句，把她身後一路擠到賣場最裡面的人潮也帶進畫面。"
      },
      {
       "t": "用 Only after 開頭的倒裝句強調「這時才」",
@@ -3740,7 +3847,7 @@
      "words": 290,
      "p1": "A school is the one place where students spend most of their waking hours, and that is exactly why safety there is easy to take for granted. Nothing looks dangerous: the hallways are familiar, the faces are familiar, and the gate opens at the same time every morning. Yet a campus is also crowded, and crowded places fail in small ways. A wet staircase after morning rain, a chemistry lab where someone has left a burner on, a loose basketball hoop, a bag left in an unlocked classroom, none of these looks like an accident until it becomes one. There are also dangers that are not physical. A student who is followed home, or one who is bullied in a group chat and says nothing, is not safe either, even though nothing on campus appears to be broken.",
      "p2": "Keeping a campus safe cannot be left to the guard at the front gate, because one person can watch only one entrance. Teachers can check the equipment in their own rooms before class and make it normal for students to report a fault instead of walking around it. Students can do the smaller things that add up: closing the classroom door at lunchtime, saying something when a light in the stairwell has been out for a week, refusing to treat a fire drill as ten free minutes. The school can hold that drill at an hour nobody expects, since a drill everyone has prepared for proves very little. Most of all, the school needs a way to report a problem that does not require courage, such as an online form or a box outside the office. People stay quiet not because they do not care but because speaking up costs them something.",
-     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；本篇寫了 290 個單詞。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
       "p1": "學校是學生一天當中待得最久的地方，也正因為如此，校園安全最容易被當成理所當然。眼前沒有一樣東西看起來危險：走廊是熟的，人臉是熟的，校門每天同一個時間打開。可是校園同時也是個擁擠的地方，而擁擠的地方出問題都是從小地方開始。早上下過雨的濕樓梯、化學實驗室裡有人忘了關的本生燈、一個鬆掉的籃框、放在沒鎖門的教室裡的一個書包，這些在出事之前，沒有一樣看起來像意外。還有一些危險不是身體上的。被人跟蹤回家的學生，或是在群組裡遭人霸凌卻不出聲的學生，同樣不安全，即使校園裡看起來沒有一樣東西壞掉。",
       "p2": "校園安全不能只交給校門口的警衛，因為一個人只顧得了一個出入口。老師可以在上課之前檢查自己教室裡的設備，也可以讓「發現壞掉就回報」變成理所當然的事，而不是繞過去就算了。學生做得到的是那些累積起來才看得出效果的小事：午休時把教室門關上、樓梯間的燈壞了一個星期就說一聲、不要把消防演練當成賺到的十分鐘。學校那一邊，可以把演練挑在沒有人預期的時間舉行，因為一場大家都準備好的演練，證明不了什麼。最重要的是，學校要有一個不需要勇氣就能通報的管道，例如線上表單，或是辦公室外面的一個意見箱。人之所以不說，不是不在乎，而是說出來要付代價。"
@@ -3765,7 +3872,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "用字多在大考中心詞彙表四級以內。staircase 與 stairwell 形近而義不同，前者是樓梯本身，後者是樓梯間。這一篇容易拼錯的是 chemistry。另外校門是 gate、教室門是 door，兩個字不可互換。"
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 136、二級 16、三級 6、四級 5、五級 3，四級以上 8 個、占 4.8%，分別是四級的 chemistry、drill、equipment、lab、physical，以及五級的 bully（範文用的是被動的 bullied）、grant（take … for granted）、unlock（unlocked）。詞彙表沒有收錄、範文照樣使用的有 staircase、stairwell、burner、hoop、lunchtime、classroom，其中 classroom 與 lunchtime 是複合詞，詞彙表的編輯原則是複合詞儘量不列入。staircase 與 stairwell 形近而義不同，前者是樓梯本身，後者是樓梯間。這一篇容易拼錯的是 chemistry、equipment、staircase 這幾個。另外校門是 gate、教室門是 door，兩個字不可互換。"
      }
     ]
    },
@@ -4357,7 +4464,7 @@
       "t": "把 whether 子句搬到主詞的位置",
       "b": "I have also learned that the person a joke is about decides whether it is funny.",
       "m": "More importantly, I have learned that whether a joke is funny is decided not by the person who tells it but by the person it is about.",
-      "why": "基礎版讓 [the person a joke is about] 當主詞，decide 後面接 whether 子句當受詞；the person 後面省略了關係代名詞 that，介系詞 about 留在子句最後面。範文把 [whether a joke is funny] 整個名詞子句搬到主詞的位置，動詞改成被動的 is decided by，句子的重心就落在「好不好笑」這件事情上；名詞子句放在句首當主詞的時候，要用 whether，一般不用 if。後半句再用 not (by A) but (by B) 對照講笑話的人和被開玩笑的人，兩個 by 片語結構相同，讀起來很整齊。"
+      "why": "基礎版讓 [the person a joke is about] 當主詞，decide 後面接 whether 子句當受詞；the person 後面省略了關係代名詞 that，介系詞 about 留在子句最後面。範文把 [whether a joke is funny] 整個名詞子句搬到主詞的位置，動詞改成被動的 is decided by，句子的重心就落在「好不好笑」這件事情上；名詞子句放在句首當主詞的時候，要用 whether，不用 if。後半句再用 not (by A) but (by B) 對照講笑話的人和被開玩笑的人，兩個 by 片語結構相同，讀起來很整齊。"
      }
     ],
     "frames": [
@@ -4444,10 +4551,10 @@
      "words": 320,
      "p1": "If someone asked me what I am proudest of about Taiwan, I would not start with a mountain or a night market. I would start with the health insurance card in my wallet. Everyone here carries one, and it means a grandmother in a small town and a manager in Taipei pay something close to the same price to see a doctor. My grandmother had an operation two years ago, and what my family talked about afterwards was her recovery, not the bill. The second thing is less famous and easier to laugh at: the garbage truck. Most evenings a truck comes down our lane playing a piece of classical piano music, and my neighbors come out holding sorted bags, kitchen waste in one, plastic in another, paper flattened. Nobody is watching them. Sorting garbage has simply become something people do, and a habit that survives without supervision says more about a society than any monument does.",
      "p2": "Neither of these belongs on a poster, because neither is a view. The truck is not even a tidy story: the tune is Beethoven's Fur Elise in some cities and A Maiden's Prayer in others, more than one account of how they were chosen is still in circulation, and no official record settles it. If I had to introduce these two things, I would not make an advertisement; I would let visitors run into them, and I would use the people who are already here. Exchange students and migrant workers explain this country to their own families every week, in their own languages and without sounding like a government, and a school or a city could give them a camera and stay out of the way. What I would avoid is the word amazing. The moment a country tells the world how warm and friendly it is, the world stops believing it. Show the truck, and let people work out what it means.",
-     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；本篇寫了 320 個單詞。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
       "p1": "如果有人問我台灣最讓我驕傲的是什麼，我不會從一座山或一個夜市講起。我會從皮夾裡那張健保卡講起。這裡每一個人都有一張，這代表一個住在小鎮的阿嬤，和一個在台北上班的主管，看一次醫生所付的錢相去不遠。我阿嬤兩年前開刀，手術結束以後我們家討論的是她的復原，不是帳單。第二件事沒那麼有名，而且很容易讓人笑出來：垃圾車。大部分的晚上，都會有一輛垃圾車放著一首古典鋼琴曲開進我們那條巷子，鄰居提著分好的袋子走出來，廚餘一袋、塑膠一袋、紙類壓平。沒有人在旁邊盯著。分類垃圾就這樣變成大家自然而然會做的事，而一個沒有人盯著也還留得住的習慣，比任何一處古蹟都更能說明一個社會是什麼樣子。",
-      "p2": "這兩件事都做不成海報，因為它們都不是風景。垃圾車這件事，連它自己的來歷都說不清楚：有些城市放的是貝多芬的《給愛麗絲》，有些放的是《少女的祈禱》，這兩首曲子怎麼選上的，流傳的說法不只一種，也沒有正式紀錄足以定案。如果要我來介紹這兩件事，我不會拍廣告，我會讓來的人自己遇上，也會用已經在這裡的人。交換學生和移工每個星期都在用自己的語言跟家人講這個國家，講起來也不像政府在講話；一所學校或一個城市只要給他們一台相機，然後不要插手就好。我會避開的是 amazing 這個字。一個國家只要開口告訴全世界自己有多溫暖友善，全世界就不會再相信了。讓大家看到垃圾車，它代表什麼，由他們自己去想。"
+      "p2": "這兩件事都做不成海報，因為它們都不是風景。垃圾車這件事，連它自己的來歷都說不清楚：有些城市放的是貝多芬的〈給愛麗絲〉，有些放的是〈少女的祈禱〉，這兩首曲子怎麼選上的，流傳的說法不只一種，也沒有正式紀錄足以定案。如果要我來介紹這兩件事，我不會拍廣告，我會讓來的人自己遇上，也會用已經在這裡的人。交換學生和移工每個星期都在用自己的語言跟家人講這個國家，講起來也不像政府在講話；一所學校或一個城市只要給他們一台相機，然後不要插手就好。我會避開的是 amazing 這個字。一個國家只要開口告訴全世界自己有多溫暖友善，全世界就不會再相信了。讓大家看到垃圾車，它代表什麼，由他們自己去想。"
      }
     },
     "mapping": [
@@ -5156,7 +5263,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J074533073108869775",
     "label": "作文佳作",
-    "note": "大考中心公布十四篇英文作文佳作，附原卷影像檔與簡要評分說明。十四篇多數走「排了很久、拿到手卻失望」這條線，取材有餐廳、宜蘭夜市、花卉展、奶茶、甜甜圈、日本鬆餅、冰淇淋、茶館、咖啡廳。想寫得不一樣的，第 4 篇最值得看：排隊的是作者的母親，為戴牙套的女兒買軟布丁，同一個題目寫成一件別的事。"
+    "note": "大考中心 107 年 3 月 29 日公布英文作文佳作十四篇，附原卷影像檔與簡要評分說明。十四篇多數走「排了很久、拿到手卻失望」這條線，取材有餐廳、宜蘭夜市、花卉展、奶茶、甜甜圈、日本鬆餅、冰淇淋、茶館、咖啡廳。想寫得不一樣的，第 4 篇最值得看：排隊的是作者的母親，為戴牙套的女兒買軟布丁，同一個題目寫成一件別的事。"
    },
    "source": "大學入學考試中心 107 學年度學科能力測驗英文考科",
    "model": {
@@ -5521,7 +5628,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J078584184402770688",
     "label": "作文佳作",
-    "note": "大考中心公布 107 指考英文作文佳作七篇，附原卷影像檔與簡要評分說明。七篇全部集中在題目的前兩案：提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。選前兩案的人，點進去看真實考生怎麼寫最有效；選藝文活動的人，官方這邊沒有現成的卷子可看，本題庫的範文裡，有一篇寫的就是那一案。"
+    "note": "大考中心 107 年 8 月 29 日公布英文作文佳作七篇，附原卷影像檔與簡要評分說明。七篇全部集中在題目的前兩案：提供社區老人服務三篇（第 1、2、5 篇）、舉辦特色市集四篇（第 3、4、6、7 篇），舉辦藝文活動一篇也沒有。選前兩案的人，點進去看真實考生怎麼寫最有效；選藝文活動的人，官方這邊沒有現成的卷子可看，本題庫的範文裡，有一篇寫的就是那一案。"
    },
    "source": "大學入學考試中心 107 學年度指定科目考試英文考科",
    "model": {
@@ -6046,7 +6153,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J073643235922952636",
     "label": "作文佳作",
-    "note": "大考中心公布 106 學測英文作文佳作十三篇，附原卷影像檔與簡要評分說明。這一年考的是看圖寫作，前三幅圖已經給定，第四幅由考生自己想，所以十三篇的差別就在結局怎麼收尾。其中十二篇分成三種：改去別的地方而另有收穫的最多，七篇（第 3、4、5、6、7、8、12 篇）；還是進去了、並且遇上意外的驚喜四篇（第 9、10、11、13 篇）；失望回家的只有一篇（第 1 篇，回到家從電視新聞看到遊樂園出了事，反過來慶幸躲過）。剩下的第 2 篇整篇以車子的角度敘述，結局收在車子載全家回家，不落在這三種裡。另外一件值得看的是目的地——遊樂園六篇，博物館兩篇，動物園、公園野餐、高雄的景點、機場各一篇，端視考生想像力而定。想寫得跟別人不一樣的，看第 2 篇與第 11 篇：前者從頭到尾用車子的眼睛看這一趟，後者寫一家有超能力的人趕去遊樂園拆炸彈，最後炸出來的是彩帶與生日驚喜。"
+    "note": "大考中心 106 年 3 月 29 日公布英文作文佳作十三篇，附原卷影像檔與簡要評分說明。這一年考的是看圖寫作，前三幅圖已經給定，第四幅由考生自己想，所以十三篇的差別就在結局怎麼收尾。其中十二篇分成三種：改去別的地方而另有收穫的最多，七篇（第 3、4、5、6、7、8、12 篇）；還是進去了、並且遇上意外的驚喜四篇（第 9、10、11、13 篇）；失望回家的只有一篇（第 1 篇，回到家從電視新聞看到遊樂園出了事，反過來慶幸躲過）。剩下的第 2 篇整篇以車子的角度敘述，結局收在車子載全家回家，不落在這三種裡。另外一件值得看的是目的地——遊樂園六篇，博物館兩篇，動物園、公園野餐、高雄的景點、機場各一篇，端視考生想像力而定。想寫得跟別人不一樣的，看第 2 篇與第 11 篇：前者從頭到尾用車子的眼睛看這一趟，後者寫一家有超能力的人趕去遊樂園拆炸彈，最後炸出來的是彩帶與生日驚喜。"
    },
    "source": "大學入學考試中心 106 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一家人出遊，從開心出發、塞車、到目的地人山人海，最後結果未知。要求想像第四格發展，寫出完整故事。",
@@ -7016,7 +7123,7 @@
      "words": 207,
      "p1": "Keeping a home clean should not be one person's job. A family is a team, and every member should do his or her share. Some people still believe that housework belongs to mothers, but I think gender roles at home make little sense today, especially when both parents work. A fair division of labor does not mean that everyone does exactly the same amount. It means the work is divided according to age, time, and ability, so that no one is left with all of it.",
      "p2": "In my family, the chores are divided every Sunday evening. My father is in charge of cooking on weekends, my mother handles the laundry, and my sister and I take turns washing the dishes and taking out the trash. I used to see this as a burden. I still remember complaining that I had homework to do while my sister was watching television. Later on, however, I noticed how tired my mother looked after a full day at work, and I realized that I had taken her efforts for granted. Now I tidy up my own room without being told. Doing chores has not made me a better student, but it has made me a more useful member of my family.",
-     "caveat": "這是一種寫法，不是標準答案。大考中心每年另有官方佳作，寫法不只一種。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；本篇寫了 207 個單詞。大考中心每年另有官方佳作，寫法不只一種。",
      "zh": {
       "p1": "把家裡維持乾淨，不應該是一個人的事。一個家庭就是一個團隊，每個成員都該做自己的那一份。有些人到現在還認為家事是媽媽的事，但我覺得家裡的性別分工在今天已經沒什麼道理，尤其在父母都要上班的家庭裡更是如此。公平的分工不是說每個人做的量要一模一樣，而是照年紀、時間和能力把工作分開，不讓任何一個人扛下全部。",
       "p2": "我家的家事是每個星期天晚上分配的。爸爸負責週末煮飯，媽媽管洗衣服，我和妹妹輪流洗碗和倒垃圾。我以前把這些看成一種負擔，到現在還記得自己抱怨過：我有功課要寫，妹妹卻在看電視。可是後來我注意到媽媽上了一整天班回來有多累，才發現自己一直把她的付出當成理所當然。現在不必別人提醒，我就會自己整理房間。做家事並沒有讓我變成更好的學生，卻讓我成為家裡更派得上用場的一個人。"
@@ -7648,7 +7755,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J073552678885145053",
     "label": "作文佳作",
-    "note": "大考中心公布 104 學測英文作文佳作十五篇，附原卷影像檔與簡要評分說明。選 EVERYONE IS BEAUTIFUL 的七篇（第 1 至 7 篇），選 LEADERSHIP IS A CHOICE 的八篇（第 8 至 15 篇），兩本書都有真實考生的卷子可看。"
+    "note": "大考中心 104 年 3 月 29 日公布英文作文佳作十五篇，附原卷影像檔與簡要評分說明。選 EVERYONE IS BEAUTIFUL 的七篇（第 1 至 7 篇），選 LEADERSHIP IS A CHOICE 的八篇（第 8 至 15 篇），兩本書都有真實考生的卷子可看。"
    },
    "source": "大學入學考試中心 104 學年度學科能力測驗英文考科",
    "model": {
@@ -8105,7 +8212,7 @@
      "words": 306,
      "p1": "Last winter my grandmother stopped going out to eat. The restaurant near her apartment had taken away its paper menus, and every table now had only a small square code on it. She could not order without asking a stranger for help, so she simply stayed home. I decided to teach her how to order with her phone. We started at her kitchen table with a code I had printed myself, and I wrote down each step in large letters. The first few times she pressed the wrong place and the page disappeared, and she put the phone down and said she was too old for this. I learned to slow down, to point at one thing at a time, and to leave the phone in her hands. After two weeks she ordered a bowl of beef noodles by herself, and she made me wait at another table so that nobody would think she had help.",
      "p2": "Teaching my grandmother changed the way I think about learning. I had always assumed that being good at something was enough to explain it, but patience turned out to matter more than knowledge. The hardest part was not the explaining; it was keeping my own hands off her phone. Twice I almost took it from her and did it myself, which would have been faster and would have taught her nothing. I also saw how quickly the world leaves people behind when it changes. A code on a table takes me three seconds; it took my grandmother two weeks, and she is not a slow learner. Nobody asked her whether she was ready for the change, and nobody offered to show her. Now, when a classmate asks me a question I think is easy, I remember my grandmother putting the phone down at her kitchen table, and I answer slowly.",
-     "caveat": "這是一種寫法，不是標準答案。大考中心那一年的評分原則說明裡寫著，多數考生寫的是學游泳、騎單車、學樂器，或是教別人數學、英文、中文。題目沒有限定要寫哪一種。本篇寫了 306 個單詞，四級以上的字只有 code 一個，其餘幾乎都落在一級和二級。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標。大考中心那一年的評分原則說明裡寫著，多數考生寫的是學游泳、騎單車、學樂器，或是教別人數學、英文、中文。題目沒有限定要寫哪一種。本篇寫了 306 個單詞，四級以上的字只有 code 一個，其餘幾乎都落在一級和二級。",
      "zh": {
       "p1": "去年冬天，祖母不再出門吃飯。她家附近那間餐廳把紙本菜單拿掉了，每張桌上只剩一個小小的方形條碼。不向陌生人開口，她就點不成餐，於是乾脆待在家裡。我決定教她用手機點餐。我們從她的廚房餐桌開始，我自己印了一張 QR code，把每個步驟寫成大字。前幾次她按錯地方，畫面就消失，她把手機放下，說自己太老了。我學會放慢速度，一次只指一個地方，也把手機留在她自己手上。兩個星期後，祖母自己點了一碗牛肉麵，還要我坐到別桌去，免得有人以為她是靠人幫忙的。",
       "p2": "教祖母這件事，改變了我對「學會」的想法。我本來以為，一件事只要自己做得好就講得清楚，後來才發現耐心比懂得多更重要；最難的不是講解，而是忍住不去碰她的手機。有兩次我差點就把手機接過來自己按，那樣快得多，祖母卻什麼也學不到。我也看見世界一改變，把人拋在後面的速度有多快。桌上一個 QR code，我三秒就解決，祖母花了兩個星期，而她並不是學得慢的人。沒有人問過她準備好了沒有，也沒有人主動示範給她看。現在同學問我一個我覺得很簡單的問題，我會想起祖母在廚房餐桌上把手機放下的樣子，然後慢慢回答。"
@@ -8571,7 +8678,7 @@
      "words": 335,
      "p1": "On the way home from school last Friday, Amy and her classmate Ben cut through the park as usual. Amy walked with her head bent over her phone, both thumbs moving, looking at something in a group chat. Ben had a big pair of headphones on, his eyes shut and a wide smile on his face, holding his phone up as if he were singing on a stage. Neither of them was looking ahead. A mother and her little daughter came along the same path behind them. Amy walked straight into a tree. She stood there holding her forehead while the mother and the child stopped to stare, and Ben, who had heard nothing, kept going. A few steps later he stepped off the sidewalk into the road, and a car stopped right in front of him, its horn sounding again and again. Ben heard only his music.",
      "p2": "What happened next was not the crash everyone was expecting. Amy looked up from her sore forehead just in time to see him step out, and for once she was the one who moved fast. She shouted his name, and when he did not turn, she ran three steps and pulled him back by the arm. The car went past close enough to move his hair. It was a narrow escape, and it was over in two seconds. They stood there on the sidewalk, and Ben finally pushed his headphones down around his neck. Only then could he hear what he had been missing: the driver still shouting, the little girl asking her mother what had happened, and his own heart beating far too fast. He looked at the red mark on Amy's forehead and started to laugh, and she laughed too, though neither of them thought it was funny. They walked the rest of the way home with her phone in her bag and his music off. A tree only leaves a mark for a day or two; a car would not have been so kind.",
-     "caveat": "這是一種寫法，不是標準答案。第四格本來就是空的，同一組圖片編得出完全不同的故事，大考中心當年公布的作文佳作，卡片上就有連結。題目要的是「寫一篇故事」，不是「描述這三張圖片」，所以這一篇從人物寫起，沒有用「第一張圖片顯示……」那種開頭，敘事整段用過去式；一改成描述，時態就會卡在現在式，文章跟著變成說明。另記兩個字：headphones 在《高中英文參考詞彙表》裡是六級，forehead 沒有收錄，這一篇兩個都照樣使用。圖片畫的就是罩住整個耳朵的耳機，四級的 earphone 指的是塞在耳朵裡的那種；撞到的也就是額頭，寫成 head 看不出撞到哪裡。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標；本篇寫了 335 個單詞。第四格本來就是空的，同一組圖片編得出完全不同的故事，大考中心當年公布的作文佳作，卡片上就有連結。題目要的是「寫一篇故事」，不是「描述這三張圖片」，所以這一篇從人物寫起，沒有用「第一張圖片顯示……」那種開頭，敘事整段用過去式；一改成描述，時態就會卡在現在式，文章跟著變成說明。另記兩個字：headphones 在《高中英文參考詞彙表》裡是六級，forehead 沒有收錄，這一篇兩個都照樣使用。圖片畫的就是罩住整個耳朵的耳機，四級的 earphone 指的是塞在耳朵裡的那種；撞到的也就是額頭，寫成 head 看不出撞到哪裡。",
      "zh": {
       "p1": "上星期五放學回家，Amy 跟同班的 Ben 照慣例抄公園那條小路。Amy 低著頭滑手機，兩隻拇指沒停過，看著群組裡的東西。Ben 戴著一副大耳機，眼睛閉著、笑得很開心，手機舉在半空中，好像自己正站在台上唱歌。兩個人都沒在看前面。後面有一對母女走在同一條路上。然後 Amy 就直直撞上一棵樹。她站在原地摀著額頭，那對母女停下來看她，Ben 什麼都沒聽到，繼續往前走。再幾步，他走下人行道踏進馬路，一輛車就停在他正前方，喇叭按了一次又一次。Ben 耳朵裡還是只有音樂。",
       "p2": "所有人都以為要撞上了，結果並沒有。Amy 摀著還在痛的額頭抬起頭，剛好看到他走出去，這一次換她反應快。她喊他的名字，他沒回頭，她就往前衝三步，一把抓住他的手臂拉回來。車子擦過去，近到他的頭髮都飄了起來。真的是好險，前後不到兩秒。兩個人站在人行道上，Ben 這才把耳機推下來掛在脖子上。這時候他才聽見剛剛漏掉的那些聲音：駕駛還在罵，小女孩問媽媽剛剛是怎麼一回事，還有自己那顆跳得太快的心。他看著 Amy 額頭上那塊紅印，笑了出來，Amy 也跟著笑，可是兩個人都不覺得好笑。回家剩下那段路，Amy 的手機收進了包包，Ben 的音樂也關掉了。撞到樹，印子留個一兩天也就沒了；要是撞上車，可就沒這麼客氣了。"
@@ -10003,7 +10110,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J077602300310599007",
     "label": "作文佳作",
-    "note": "大考中心公布 102 指考英文作文佳作十二篇，附原卷影像檔與簡要評分說明。選隱形披風的六篇（第 1、3、4、6、7、8 篇），選智慧型眼鏡的六篇（第 2、5、9、10、11、12 篇），兩項產品都有真實考生的卷子可看。"
+    "note": "大考中心 102 年 8 月 22 日公布英文作文佳作十二篇，附原卷影像檔與簡要評分說明。選隱形披風的六篇（第 1、3、4、6、7、8 篇），選智慧型眼鏡的六篇（第 2、5、9、10、11、12 篇），兩項產品都有真實考生的卷子可看。"
    },
    "source": "大學入學考試中心 102 學年度指定科目考試英文考科",
    "model": {
@@ -11558,7 +11665,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072579456983567687",
     "label": "作文佳作",
-    "note": "大考中心公布 100 學測英文作文佳作十篇，附原卷影像檔與簡要評分說明，公布日期為 100 年 3 月 17 日。十篇的敘事觀點分三種：第三人稱五篇（第 1、3、7、8、9 篇）、男主角四篇（第 2、4、6、10 篇）、女主角一篇（第 5 篇）。結局分兩路：兩人最後在一起的六篇（第 1、3、5、7、9、10 篇）；告白落空或出糗的四篇，其中拿錯地址兩篇（第 4、8 篇），舞會上心儀的對象原來是男生兩篇（第 2、6 篇）。想寫得跟別人不一樣的，看第 5 篇：整篇從女主角的角度倒敘，寫她怎麼因為男生歌聲不佳卻仍勇敢唱情歌告白，而找回自信。"
+    "note": "大考中心 100 年 3 月 17 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇的敘事觀點分三種：第三人稱五篇（第 1、3、7、8、9 篇）、男主角四篇（第 2、4、6、10 篇）、女主角一篇（第 5 篇）。結局分兩路：兩人最後在一起的六篇（第 1、3、5、7、9、10 篇）；告白落空或出糗的四篇，其中拿錯地址兩篇（第 4、8 篇），舞會上心儀的對象原來是男生兩篇（第 2、6 篇）。想寫得跟別人不一樣的，看第 5 篇：整篇從女主角的角度倒敘，寫她怎麼因為男生歌聲不佳卻仍勇敢唱情歌告白，而找回自信。"
    },
    "source": "大學入學考試中心 100 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一場化妝舞會中的浪漫誤會。要求想像第四格發展，寫出完整故事。",
@@ -12596,19 +12703,19 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072554730774151742",
     "label": "引導寫作題佳作",
-    "note": "大考中心公布的 99 學測英文引導寫作佳作共十篇，公布日期為 99 年 3 月 18 日。這一批的敘事觀點分四種：小孩一篇、旁觀者六篇、失主兩篇，還有一篇從提袋的角度寫，官方評語稱它頗具創意。評語的寫法也與其他年度不同，逐篇點出瑕疵、指出錯在哪一個字，不是只寫優點。另外，官方頁面上的篇數前後不一致：前言寫十篇、小標寫「一、佳作十三篇」、內文寫「以下十三篇」，而表格實際十列、文末又寫「以上十篇」；實際為十篇。"
+    "note": "大考中心 99 年 3 月 18 日公布英文引導寫作佳作十篇，附原卷影像檔與簡要評語。這一批的敘事觀點分四種：小孩一篇、旁觀者六篇、失主兩篇，還有一篇從提袋的角度寫，官方評語稱它頗具創意。評語的寫法也與其他年度不同，逐篇點出瑕疵、指出錯在哪一個字，不是只寫優點。另外，官方頁面上的篇數前後不一致：前言寫十篇、小標寫「一、佳作十三篇」、內文寫「以下十三篇」，而表格實際十列、文末又寫「以上十篇」；實際為十篇。"
    },
    "source": "大學入學考試中心 99 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一個年輕人在麵店拾獲一個裝滿錢的錢包，面臨道德抉擇。要求想像第四格發展，寫出完整\n故事。",
    "summarySource": "外部模型產出，未經查證，不上站",
    "model": {
     "essay": {
-     "words": 329,
-     "p1": "On a Saturday afternoon the noodle shop across from the station was almost empty. Ms. Lin stood behind the counter in her apron, lifting noodles out of the pot, and the menu on the wall behind her still read dan dan noodles thirty-five, plain noodles thirty, dry noodles thirty-five. A boy named Ming sat at one end of the counter with his bowl; at the other end a broad-shouldered man in glasses finished quickly, paid, and hurried out to catch his train. Between them, on a low stool, sat a dark canvas bag. Ming noticed it only when he stood up to leave. He picked the bag up to run after its owner, and the loose flap fell open in his hands. Inside were bundles of banknotes, more cash than he had ever seen at once. Ms. Lin came out from behind the counter, looked in, and cried out. While they waited for the police, Ming had to resist the temptation of counting what was inside.",
+     "words": 331,
+     "p1": "On a Saturday afternoon the noodle shop across from the station was almost empty. Ms. Lin stood behind the counter in her apron, lifting noodles out of the pot, and the menu on the wall behind her still read dan dan noodles thirty-five, plain noodles thirty, dry noodles thirty-five. A boy named Ming sat at one end of the counter, filling out an order slip; at the other end a broad-shouldered man in glasses finished quickly, paid, and hurried out to catch his train. Between them, on a low stool, sat a dark canvas bag. Ming noticed it only when he stood up to leave. He picked the bag up to run after its owner, and the loose flap fell open in his hands. Inside were bundles of banknotes, more cash than he had ever seen at once. Ms. Lin came out from behind the counter, looked in, and cried out. While they waited for the police, Ming had to resist the temptation of counting what was inside.",
      "p2": "By then the man was at the ticket window in Hsinchu Station, sweat running down his forehead as he slapped one pocket of his suit after another. In the bag were the wages he had withdrawn from the bank that morning for his workers, and he ran the whole way back without waiting for his change. He found an officer at the counter, taking down Ms. Lin's statement. Ming handed the bag to him, and the man went through it note by note with shaking fingers. Then he pulled out a thick stack and pressed it on the boy as a reward. Ming shook his head and turned it down. It was not that the money meant nothing to him; he simply felt that the bag had never been his to keep. Ms. Lin said nothing. She went back behind the counter, cooked the boy a second bowl of dan dan noodles, and refused, in her turn, to let him pay for it.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」，那是下限而不是目標。大考中心當年公布了十篇官方佳作，同一題目有十種寫法，而且那一批的評語逐篇點出瑕疵、指出錯在哪一個字，直接點進去看一遍最有效。",
      "zh": {
-      "p1": "星期六下午，車站對面那家麵店幾乎沒有客人。林小姐繫著圍裙站在櫃檯後面撈麵，她身後牆上的菜單還寫著擔擔麵三十五、陽春麵三十、乾拌麵三十五。一個叫阿明的男生坐在櫃檯的一端吃著他那碗麵；另一端有個肩膀寬寬、戴著眼鏡的男人很快吃完，付了錢就趕著去搭車。在他們兩個中間的一張矮凳上，放著一個深色的帆布袋。阿明是站起來要走的時候才注意到它的。他把袋子拿起來想追上失主，鬆開的袋口就在他手裡打了開來。裡面是一疊一疊的鈔票，比他這輩子一次看過的錢都多。林小姐從櫃檯後面走出來，往裡面看了一眼，叫出聲來。等警察來的這段時間，阿明得忍住不去數袋子裡到底有多少。",
+      "p1": "星期六下午，車站對面那家麵店幾乎沒有客人。林小姐繫著圍裙站在櫃檯後面撈麵，她身後牆上的菜單還寫著擔擔麵三十五、陽春麵三十、乾拌麵三十五。一個叫阿明的男生坐在櫃檯的一端填點餐單；另一端有個肩膀寬寬、戴著眼鏡的男人很快吃完，付了錢就趕著去搭車。在他們兩個中間的一張矮凳上，放著一個深色的帆布袋。阿明是站起來要走的時候才注意到它的。他把袋子拿起來想追上失主，鬆開的袋口就在他手裡打了開來。裡面是一疊一疊的鈔票，比他這輩子一次看過的錢都多。林小姐從櫃檯後面走出來，往裡面看了一眼，叫出聲來。等警察來的這段時間，阿明得忍住不去數袋子裡到底有多少。",
       "p2": "那時候那個男人已經站在新竹火車站的售票口前面，汗從額頭流下來，一個口袋一個口袋地拍著自己的西裝。袋子裡是他那天早上從銀行領出來、要發給工人的工資，他連零錢都沒等就一路跑了回去。他在櫃檯邊看到一位員警，正在替林小姐做筆錄。阿明把袋子交給員警，那個男人手指發抖，一張一張把鈔票清點過。接著他抽出厚厚一疊，硬要塞給這個男生當謝禮。阿明搖搖頭，沒有收。那筆錢對他來說並不是不重要，他只是覺得，那個袋子從來就不是他可以留下來的東西。林小姐什麼也沒說。她走回櫃檯後面，替這個男生煮了第二碗擔擔麵，這一次換她不肯收錢。"
      }
     },
@@ -12631,7 +12738,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "作文沒有字級上限，選字準不準比難不難重要。先看 withdraw：從銀行領錢可以說 withdraw，也可以說 draw（Cambridge 的解釋是 to get money from a bank, account, etc.，例句 I drew some money out of my account），兩種說法都對；不過 draw 另有「畫、拉」這些更常見的意思，學生要記的還是 withdraw money from the bank。範文用的是 the wages he had withdrawn from the bank that morning。其他容易寫偏的是幾個具體的東西：圖上那個是提袋，寫 bag 或 canvas bag，不是 wallet（皮夾）也不是 purse；裡面是千元大鈔，寫 banknotes 或 bills，不要用 money 一個字帶過；男客在售票處是一個口袋一個口袋拍過去，slap at one pocket after another 比 touch his clothes 具體得多；紙鈔一張一張看過去是 note by note。這一篇容易拼錯的是 temptation。"
+      "t": "作文沒有字級上限，選字準不準比難不難重要。先看 withdraw：從銀行領錢可以說 withdraw，也可以說 draw（Cambridge 的解釋是 to get money from a bank, account, etc.，例句 I drew some money out of my account），兩種說法都對；不過 draw 另有「畫、拉」這些更常見的意思，學生要記的還是 withdraw money from the bank。範文用的是 the wages he had withdrawn from the bank that morning。其他容易寫偏的是幾個具體的東西：圖上那個是提袋，寫 bag 或 canvas bag，不是 wallet（皮夾）也不是 purse；裡面是千元大鈔，寫 banknotes 或 bills，不要用 money 一個字帶過；男客在售票處發現袋子不見了，範文寫他一個口袋一個口袋拍過去，slap at one pocket after another 比 touch his clothes 具體得多；紙鈔一張一張看過去是 note by note。這一篇容易拼錯的是 temptation。"
      },
      {
       "k": "體例",
@@ -13479,7 +13586,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J074595769646154635",
     "label": "作文佳作",
-    "note": "十篇取材為榴槤、莫拉克災區、住校後回家、比賽汗味、妹妹尿布、寄宿家庭地毯、母親髮上玫瑰香、書店的書味、阿姨的櫻花香、祖父母家的老舊味，多數不是香味。想寫汗味的，第 4 篇把汗臭寫成友誼，官方評語說它「內容切題，且有適切的理由及細節支持文章重點」。"
+    "note": "大考中心 99 年 8 月 16 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇取材為榴槤、莫拉克災區、住校後回家、比賽汗味、妹妹尿布、寄宿家庭地毯、母親髮上玫瑰香、書店的書味、阿姨的櫻花香、祖父母家的老舊味，多數不是香味。想寫汗味的，第 4 篇把汗臭寫成友誼，官方評語說它「內容切題，且有適切的理由及細節支持文章重點」。"
    },
    "source": "大學入學考試中心 99 學年度指定科目考試英文考科",
    "model": {
@@ -13814,7 +13921,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072528226328939235",
     "label": "引導寫作佳作",
-    "note": "大考中心公布 98 學測英文引導寫作佳作十三篇，附原卷影像檔與簡要評語，公布日期為 98 年 5 月 18 日。這一年只給一張圖，前因後果要自己想。依評語看，十三篇之中寫地震的十一篇，寫戰爭的一篇（第 4 篇），寫外星人入侵的一篇（第 11 篇）；地點明寫中國大陸的有四篇（第 2、6、8、9 篇），考試前八個月（2008 年 5 月）四川汶川才發生大地震，第 2 篇寫的就是四川地震。第二段十三篇都寫救援與重建，也就是題目說的「接下來可能會發生什麼事」；「未來該做些什麼」那一條路，評語裡沒有一篇。這一年的評語也逐篇點出瑕疵、指出錯在哪一個字，例如第 3 篇把 farmer 拼成 farmar。"
+    "note": "大考中心 98 年 5 月 18 日公布英文引導寫作佳作十三篇，附原卷影像檔與簡要評語。這一年只給一張圖，前因後果要自己想。依評語看，十三篇之中寫地震的十一篇，寫戰爭的一篇（第 4 篇），寫外星人入侵的一篇（第 11 篇）；地點明寫中國大陸的有四篇（第 2、6、8、9 篇），考試前八個月（2008 年 5 月）四川汶川才發生大地震，第 2 篇寫的就是四川地震。第二段十三篇都寫救援與重建，也就是題目說的「接下來可能會發生什麼事」；「未來該做些什麼」那一條路，評語裡沒有一篇。這一年的評語也逐篇點出瑕疵、指出錯在哪一個字，例如第 3 篇把 farmer 拼成 farmar。"
    },
    "source": "大學入學考試中心 98 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為地震後房屋倒塌的場景。要求描述事件的前因後果，第一段說明之前發生的事與現況，第二段說明\n接下來的發展或該做的事。",
@@ -14335,7 +14442,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J074562872094935479",
     "label": "非選擇題引導寫作佳作",
-    "note": "大考中心公布 98 指考英文引導寫作佳作十篇，附原卷影像檔與簡要評語，公布日期為 98 年 8 月 16 日。依評語看，十篇之中邀請父母的有四篇（第 3、4、5、10 篇），邀請母親、祖母、姊妹的各一篇（第 6、8、9 篇），邀請國文老師的一篇（第 7 篇）；另外兩篇邀請的不是身邊的人，第 1 篇是莎士比亞，第 2 篇是一位雙腿殘缺的孤兒院院童。沒有考生寫邀請朋友。至於去哪裡，十篇之中有七篇寫出遠門，從綠島、福山植物園到美國、北海道，還有太空與海底。評語也逐篇點出瑕疵、指出錯在哪一個字，例如第 4 篇把 champagne 拼成 champaigne、astronaut 拼成 austronaut。"
+    "note": "大考中心 98 年 8 月 16 日公布英文引導寫作佳作十篇，附原卷影像檔與簡要評語。依評語看，十篇之中邀請父母的有四篇（第 3、4、5、10 篇），邀請母親、祖母、姊妹的各一篇（第 6、8、9 篇），邀請國文老師的一篇（第 7 篇）；另外兩篇邀請的不是身邊的人，第 1 篇是莎士比亞，第 2 篇是一位雙腿殘缺的孤兒院院童。沒有考生寫邀請朋友。至於去哪裡，十篇之中有七篇寫出遠門，從綠島、福山植物園到美國、北海道，還有太空與海底。評語也逐篇點出瑕疵、指出錯在哪一個字，例如第 4 篇把 champagne 拼成 champaigne、astronaut 拼成 austronaut。"
    },
    "source": "大學入學考試中心 98 學年度指定科目考試英文考科",
    "model": {
@@ -15358,7 +15465,7 @@
      "p2": "This ad has stayed with me for two reasons. It turns a month that many people fear into something warm and funny. The talk about likes also hit close to home. Like many students, I often check how many likes my posts get. When the spirit said that the loneliest thing is standing in front of someone who does not know you are there, I laughed at first. Then I realized that I should pay more attention to the people around me.",
      "caveat": "這是一種寫法，不是標準答案。題目的說明寫「文長至少120個單詞」，提示又寫「請寫一篇大約120-150字的短文」；本篇照提示給的範圍寫，共 151 個單詞。\n題目要介紹一則電視或平面廣告。範文寫的是全聯福利中心 2020 年中元節系列裡的一支，這一系列 8 月 14 日起在電視上播出。選全聯的中元節廣告，是因為有一份高中生做的調查：台中曉明女中三位高一學生寫過一篇小論文，題目是全聯的創意廣告怎麼吸引年輕族群，她們問卷調查 218 位台中市的高中生，印象最深刻的全聯廣告是 2013 到 2016 年的中元節系列，合計占 77%；覺得全聯廣告幽默有趣的占 82%，覺得有創意的占 86%。這是學生的研究，不是官方資料；問卷調查的是 2013 到 2016 年的廣告，範文寫的這一支屬於同一個系列的延續。\n範文裡魔神仔那一句 At least everyone can see you，是把廣告的中文台詞翻成英文。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
      "zh": {
-      "p1": "我印象最深刻的電視廣告，是全聯的一支中元節廣告。廣告裡，一個年輕人坐在供桌旁，和台灣民間傳說裡愛捉弄人的魔神仔面對面。魔神仔的妝很嚇人，兩人的對話卻出乎意料地輕鬆。年輕人抱怨自己 PO 上網的照片，都只有幾個人按讚。魔神仔回答：「起碼大家都看得到你。」",
+      "p1": "我印象最深刻的電視廣告，是全聯的一支中元節廣告。廣告裡，一個年輕人坐在供桌旁，和台灣民間傳說裡愛捉弄人的魔神仔面對面。魔神仔的妝很嚇人，兩人的對話卻出乎意料地輕鬆。年輕人抱怨自己貼上網的照片，都只有幾個人按讚。魔神仔回答：「起碼大家都看得到你。」",
       "p2": "這支廣告讓我一直記得，原因有兩個。它把很多人害怕的鬼月，拍得溫暖又好笑；按讚那一段也正好說中了我的心事。跟很多學生一樣，我常常查看自己的貼文有幾個讚。魔神仔說，世界上最寂寞的事，就是站在一個人面前，對方卻不知道你在那裡；我一開始還笑了出來，後來才明白，我應該多留意身邊的人。"
      }
     },
@@ -15773,7 +15880,7 @@
      "p1": "The TV commercial that impressed me most is a Ghost Month ad from PX Mart. In it, a young person sits face to face with a spirit from Taiwanese folk tales. The spirit's face looks scary, but their talk is light and funny. The young person complains that photos posted online get only a few likes. \"At least everyone can see you,\" the spirit replies.",
      "p2": "There are two reasons why I still remember this ad. It turns a month that many people fear into something warm and funny. Also, I have the same problem as the young person. Like many students, I often check how many likes my posts get. When the spirit talked about being lonely, I laughed at first. Later, I realized that I should pay more attention to the people around me.",
      "zh": {
-      "p1": "我印象最深刻的電視廣告，是全聯的一支中元節廣告。廣告裡，一個年輕人和台灣民間傳說裡的魔神仔面對面坐著。魔神仔的臉看起來很嚇人，不過兩人的對話倒是輕鬆又好笑。年輕人抱怨自己 PO 上網的照片，都只有幾個人按讚；魔神仔回答：「起碼大家都看得到你。」",
+      "p1": "我印象最深刻的電視廣告，是全聯的一支中元節廣告。廣告裡，一個年輕人和台灣民間傳說裡的魔神仔面對面坐著。魔神仔的臉看起來很嚇人，不過兩人的對話倒是輕鬆又好笑。年輕人抱怨自己貼上網的照片，都只有幾個人按讚；魔神仔回答：「起碼大家都看得到你。」",
       "p2": "我到現在還記得這支廣告，原因有兩個。一個是它把很多人害怕的那個月份，拍得溫暖又好笑；另外，我也有和那個年輕人一樣的煩惱。跟很多學生一樣，我常常查看自己的貼文有幾個讚。魔神仔說到寂寞的時候，我一開始還笑了出來，後來才明白，我應該多留意身邊的人。"
      }
     },
@@ -17062,12 +17169,12 @@
    "summarySource": "外部模型產出，未經查證，不上站",
    "model": {
     "essay": {
-     "words": 298,
-     "p1": "It was a quiet Friday evening. Linda was cooking dinner in the kitchen while her dog, Lucky, sat by the refrigerator, waiting for a treat. She was carrying a plate of food to the table when she heard heavy footsteps behind her. She turned around, and her heart almost stopped. A huge gorilla was standing in the doorway, staring right at her. Had it escaped from the zoo? Linda screamed and dropped the plate, which smashed on the floor. With shaking hands, she grabbed her phone and called the police. Strangely, Lucky did not bark at all. Instead of protecting his owner, he was busy eating the food that had spilled everywhere.",
+     "words": 299,
+     "p1": "It was a quiet Friday evening. Linda was cooking dinner in the kitchen while her dog, Lucky, sat by the refrigerator, waiting for a treat. She was carrying a plate of food to the table when she heard heavy footsteps behind her. She turned around, and her heart almost stopped. A huge gorilla was crouching on the kitchen floor, staring right at her. Had it escaped from the zoo? Linda screamed and dropped the plate, which smashed on the floor. With shaking hands, she grabbed her phone and called the police. Strangely, Lucky did not bark at all. Instead of protecting his owner, he was busy eating the food that had spilled everywhere.",
      "p2": "Then the gorilla did something even stranger: it pulled off its own head. To Linda's amazement, the face underneath belonged to her husband, Mark, who was grinning from ear to ear and holding a big bunch of lilies. \"Happy anniversary, honey!\" he said. It turned out that Mark had rented the costume for their wedding anniversary, because on their first date years ago, they had spent almost an hour watching the gorillas at the Taipei Zoo. Linda did not know whether to laugh or cry. She quickly told the officer on the phone that it was a false alarm and apologized again and again. Now she understood why Lucky had not barked: he had recognized Mark by his smell from the very start. Sitting between them, the dog was happily wagging his tail. Linda finally burst out laughing and took the flowers, but then she pointed at the pieces of the broken plate on the floor. \"Next time,\" she said, \"just ring the doorbell.\" That night, the couple cleaned up the mess together, and Mark promised that his next surprise would be a lot less wild.",
-     "caveat": "這是一種寫法，不是標準答案。題目要求「文長 100 個單詞(words)左右」，而這一年的扣分規則只寫了字數不足扣 1 分，沒有寫多寫扣分；本篇寫了 298 個單詞，篇幅是為了把三張圖的細節和故事的結局都寫具體。\n本篇把第三張的反轉寫成結婚紀念日的驚喜；換成生日或求婚也可以，只要交代得出他為什麼扮成大猩猩、為什麼送花。\n這一年的說明沒有規定要分幾段，本篇分成兩段，第一段寫前兩張圖的驚嚇，第二段寫第三張的真相，是為了讓讀者看得出故事在哪裡轉折，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長 100 個單詞(words)左右」，而這一年的扣分規則只寫了字數不足扣 1 分，沒有寫多寫扣分；本篇寫了 299 個單詞，篇幅是為了把三張圖的細節和故事的結局都寫具體。\n本篇把第三張的反轉寫成結婚紀念日的驚喜；換成生日或求婚也可以，只要交代得出他為什麼扮成大猩猩、為什麼送花。\n這一年的說明沒有規定要分幾段，本篇分成兩段，第一段寫前兩張圖的驚嚇，第二段寫第三張的真相，是為了讓讀者看得出故事在哪裡轉折，不是題目的要求。大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照。",
      "zh": {
-      "p1": "那是一個安靜的星期五晚上。琳達在廚房煮晚餐，她養的狗 Lucky 坐在冰箱旁邊，等著討點心吃。琳達端著一盤菜要走到餐桌，忽然聽到身後傳來沉重的腳步聲。她轉過身，心臟差點停了下來。一隻巨大的大猩猩站在門口，直直盯著她看。牠是從動物園逃出來的嗎？琳達尖叫一聲，手上的盤子掉到地上，摔得粉碎。她雙手發抖，抓起手機打電話報警。奇怪的是，Lucky 一聲也沒叫。他沒有保護主人，反而忙著吃灑了一地的菜。",
+      "p1": "那是一個安靜的星期五晚上。琳達在廚房煮晚餐，她養的狗 Lucky 坐在冰箱旁邊，等著討點心吃。琳達端著一盤菜要走到餐桌，忽然聽到身後傳來沉重的腳步聲。她轉過身，心臟差點停了下來。一隻巨大的大猩猩蹲在廚房地上，直直盯著她看。牠是從動物園逃出來的嗎？琳達尖叫一聲，手上的盤子掉到地上，摔得粉碎。她雙手發抖，抓起手機打電話報警。奇怪的是，Lucky 一聲也沒叫。他沒有保護主人，反而忙著吃灑了一地的菜。",
       "p2": "接著，大猩猩做了一件更奇怪的事情：牠把自己的頭拔了下來。讓琳達大吃一驚的是，頭套底下那張臉竟然是她先生馬克。馬克咧著嘴笑得很開心，手上捧著一大束百合花。「老婆，結婚紀念日快樂！」他說。原來馬克租了這套猩猩裝來慶祝他們的結婚紀念日，因為好幾年前兩人第一次約會，就在台北市立動物園看了將近一個小時的大猩猩。琳達真是哭笑不得。她趕緊跟電話那頭的警察說只是虛驚一場，一再向對方道歉。這時她才明白 Lucky 為什麼沒有叫：原來這隻狗一開始就從氣味認出馬克了。Lucky 坐在兩人中間，開心地搖著尾巴。琳達終於忍不住笑了出來，收下了花，接著又指了指地上的盤子碎片。「下次，」她說，「按門鈴就好。」那天晚上，兩個人一起把一團亂收拾乾淨，馬克也答應她，下一次的驚喜不會這麼嚇人了。"
      }
     },
@@ -17078,7 +17185,7 @@
     "mapping": [
      {
       "k": "內容",
-      "t": "三張圖都寫到。第一張：琳達在廚房煮晚餐，狗坐在冰箱旁邊。第二張：大猩猩站在門口，琳達尖叫、盤子摔碎，她發著抖打電話報警，狗在地上吃灑出來的菜。第三張：大猩猩拿下頭套，原來是先生馬克，手上捧著百合花，狗坐在兩人中間搖尾巴。題目要求合理的敘述，所以範文補上三件事：馬克為什麼扮成大猩猩（結婚紀念日，兩人第一次約會在動物園看大猩猩）、報了警之後怎麼收場（跟警察說虛驚一場）、狗為什麼不叫（他從氣味認出主人）。圖上沒畫、範文自己補的細節，都是為了讓前後接得上：琳達端著一盤菜，盤子才有得摔；身後傳來沉重的腳步聲，她才會轉身。"
+      "t": "三張圖都寫到。第一張：琳達在廚房煮晚餐，狗坐在冰箱旁邊。第二張：大猩猩蹲在廚房地上，琳達尖叫、盤子摔碎，她發著抖打電話報警，狗在地上吃灑出來的菜。第三張：大猩猩拿下頭套，原來是先生馬克，手上捧著百合花，狗坐在兩人中間搖尾巴。題目要求合理的敘述，所以範文補上三件事：馬克為什麼扮成大猩猩（結婚紀念日，兩人第一次約會在動物園看大猩猩）、報了警之後怎麼收場（跟警察說虛驚一場）、狗為什麼不叫（他從氣味認出主人）。圖上沒畫、範文自己補的細節，都是為了讓前後接得上：琳達端著一盤菜，盤子才有得摔；身後傳來沉重的腳步聲，她才會轉身。"
      },
      {
       "k": "組織",
@@ -17090,7 +17197,7 @@
      },
      {
       "k": "字彙拼字",
-      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 133、二級 16、三級 11、四級 2、五級 2、六級 4，四級以上 8 個、占 168 個詞形的 4.8%，是 anniversary（紀念日）、costume（戲服、裝扮），都是四級；doorway（門口）、smashed（摔碎，原形 smash），都是五級；gorilla、gorillas（大猩猩，題目已經給了）、underneath（在……底下）、wagging（搖〔尾巴〕，原形 wag），都是六級。grin from ear to ear 是「咧著嘴笑得很開心」，false alarm 是「虛驚一場」，都是英文講這兩件事的固定說法。這一篇容易拼錯的是 refrigerator、anniversary、grinning、wagging 這幾個，grinning 與 wagging 要重複字尾的 n、g 再加 -ing。"
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》：已標級數的詞形之中，一級 133、二級 16、三級 11、四級 2、五級 1、六級 4，四級以上 7 個、占 167 個詞形的 4.2%，是 anniversary（紀念日）、costume（戲服、裝扮），都是四級；smashed（摔碎，原形 smash）是五級；gorilla、gorillas（大猩猩，題目已經給了）、underneath（在……底下）、wagging（搖〔尾巴〕，原形 wag），都是六級。grin from ear to ear 是「咧著嘴笑得很開心」，false alarm 是「虛驚一場」，都是英文講這兩件事的固定說法。這一篇容易拼錯的是 refrigerator、anniversary、grinning、wagging 這幾個，grinning 與 wagging 要重複字尾的 n、g 再加 -ing。"
      },
      {
       "k": "體例",
@@ -19673,11 +19780,11 @@
    "model": {
     "essay": {
      "words": 326,
-     "p1": "One evening, my whole family went to my cousin's wedding banquet at a big restaurant downtown. My uncle had driven there himself, but during the dinner, one guest after another came over to toast him, and he emptied glass after glass. By the time the banquet ended, his face was red, and he could hardly walk in a straight line. Fortunately, he still knew that he should not drive, so he left his car in the parking lot and decided to take a taxi home. That night, the police had set up a checkpoint for drunk driving near the restaurant, and they were giving breath tests to drivers leaving the banquet. A police car was parked by the road with its roof light flashing. In the dark, my uncle mistook the light for a taxi sign. He waved his arm and shouted, \"Taxi!\" Two officers walked over and found that he could not stand steadily or even tell them where he lived. Since it was too dangerous to leave him alone on the street late at night, they helped him into the police car and took him to the police station. As soon as he sat down, he fell fast asleep.",
+     "p1": "One evening, my whole family went to my cousin's wedding banquet at a big restaurant downtown. My uncle had driven there himself, but during the dinner, one guest after another came over to toast him, and he emptied glass after glass. By the time the banquet ended, his face was red, and he could hardly walk in a straight line. Fortunately, he still knew that he should not drive, so he left his car in the parking lot and decided to take a taxi home. That night, the police had set up a checkpoint for drunk driving near the restaurant, and they were giving breath tests to drivers leaving the banquet. A police car was coming down the road with its roof light flashing. In the dark, my uncle mistook the light for a taxi sign. He waved his arm and shouted, \"Taxi!\" Two officers walked over and found that he could not stand steadily or even tell them where he lived. Since it was too dangerous to leave him alone on the street late at night, they helped him into the police car and took him to the police station. As soon as he sat down, he fell fast asleep.",
      "p2": "After checking his ID card, the officers reached my aunt and told her that he was safe. When my uncle woke up the next morning, he saw a clock on the wall and a police officer standing beside him. For a moment, he had no idea where he was. The officer explained what had happened and added that two drivers had failed the breath test at the checkpoint the night before. \"You hailed the wrong car,\" the officer said with a smile, \"but at least you made the right choice not to drive.\" Soon my aunt arrived to take him home. Ever since that night, whenever our family calls a taxi, someone always reminds my uncle to make sure it is not a police car.",
-     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，這是大約的長度，不是上限；本篇寫了 326 個單詞，把三張圖、解釋與結局都交代清楚。\n題目要求三件事：以 “One evening,…” 開頭；描述三張圖中主角經歷的事件；提供合理的解釋與結局。本篇第一段依序寫前兩張圖，第二段寫第三張圖，並在其中交代解釋與結局。所謂「合理的解釋」，就是回答讀者看圖時心中的疑問：警車為什麼剛好停在那裡？主角為什麼會把警車當成計程車？他又為什麼會在警察局醒來？本篇的答案是：警方在喜宴會場附近設了酒駕臨檢點；天色昏暗，主角又喝醉了，把警車的警示燈誤認成計程車的車頂燈；員警見他醉到站不穩、說不出住址，把他一個人留在路邊太危險，才帶他回警察局。\n員警帶他回警察局這一段有法律依據。《警察職權行使法》第 19 條規定，警察對於酒醉、非管束不能救護其生命或身體危險的人，得為管束；管束最長不得超過二十四小時，並應即時通知家屬或其他關係人。範文寫員警查看身分證之後聯絡舅媽，就是依照這一條。\n酒駕與酒測是生活中常見的議題，英文分別是 drunk driving 與 breath test；警方設置的路檢點是 checkpoint，查緝酒駕的臨檢點可以說 a checkpoint for drunk driving，正式說法是 sobriety checkpoint。本篇沒有把喝醉寫成趣事，而是藉員警之口點出重點：主角雖然攔錯了車，至少在喝酒之後選擇不開車。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照；選才通訊第 142 期的評分樣例是研究計畫另外請高三學生寫的短文，不是 93 學測考生的答案卷。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長120個單詞(words)左右」，這是大約的長度，不是上限；本篇寫了 326 個單詞，把三張圖、解釋與結局都交代清楚。\n題目要求三件事：以 “One evening,…” 開頭；描述三張圖中主角經歷的事件；提供合理的解釋與結局。本篇第一段依序寫前兩張圖，第二段寫第三張圖，並在其中交代解釋與結局。所謂「合理的解釋」，就是回答讀者看圖時心中的疑問：警車為什麼剛好出現在那裡？主角為什麼會把警車當成計程車？他又為什麼會在警察局醒來？本篇的答案是：警方在喜宴會場附近設了酒駕臨檢點；天色昏暗，主角又喝醉了，把警車的警示燈誤認成計程車的車頂燈；員警見他醉到站不穩、說不出住址，把他一個人留在路邊太危險，才帶他回警察局。\n員警帶他回警察局這一段有法律依據。《警察職權行使法》第 19 條規定，警察對於酒醉、非管束不能救護其生命或身體危險的人，得為管束；管束最長不得超過二十四小時，並應即時通知家屬或其他關係人。範文寫員警查看身分證之後聯絡舅媽，就是依照這一條。\n酒駕與酒測是生活中常見的議題，英文分別是 drunk driving 與 breath test；警方設置的路檢點是 checkpoint，查緝酒駕的臨檢點可以說 a checkpoint for drunk driving，正式說法是 sobriety checkpoint。本篇沒有把喝醉寫成趣事，而是藉員警之口點出重點：主角雖然攔錯了車，至少在喝酒之後選擇不開車。\n大考中心自 98 年起才公布作文佳作，這一年沒有官方佳作可以對照；選才通訊第 142 期的評分樣例是研究計畫另外請高三學生寫的短文，不是 93 學測考生的答案卷。",
      "zh": {
-      "p1": "某天晚上，我們全家到市區一家大餐廳參加表哥的喜宴。舅舅是自己開車去的，可是用餐時，賓客一個接一個過來向他敬酒，他一杯接著一杯喝。喜宴結束時，他已經滿臉通紅，連直線都走不太穩。好在他還知道自己不該開車，於是把車留在停車場，決定搭計程車回家。那天晚上，警方在餐廳附近設了酒駕臨檢點，正對離開喜宴的駕駛人實施酒測。一輛警車停在路邊，車頂的警示燈閃個不停。天色昏暗，舅舅把那盞燈誤認成計程車的車頂燈，揮著手大喊：「計程車！」兩名員警走過來，發現他站都站不穩，甚至說不清楚自己住在哪裡。深夜把他一個人留在街上太危險，員警於是扶他上警車，送他到警察局。他一坐下，就沉沉睡去。",
+      "p1": "某天晚上，我們全家到市區一家大餐廳參加表哥的喜宴。舅舅是自己開車去的，可是用餐時，賓客一個接一個過來向他敬酒，他一杯接著一杯喝。喜宴結束時，他已經滿臉通紅，連直線都走不太穩。好在他還知道自己不該開車，於是把車留在停車場，決定搭計程車回家。那天晚上，警方在餐廳附近設了酒駕臨檢點，正對離開喜宴的駕駛人實施酒測。一輛警車正從路上開過來，車頂的警示燈閃個不停。天色昏暗，舅舅把那盞燈誤認成計程車的車頂燈，揮著手大喊：「計程車！」兩名員警走過來，發現他站都站不穩，甚至說不清楚自己住在哪裡。深夜把他一個人留在街上太危險，員警於是扶他上警車，送他到警察局。他一坐下，就沉沉睡去。",
       "p2": "員警查看他的身分證之後，聯絡上舅媽，告訴她舅舅平安無事。第二天早上舅舅醒來，看見牆上的時鐘，還有一名員警站在身旁；有那麼一會兒，他完全不知道自己身在何處。員警向他說明事情經過，還補充說，前一晚臨檢點有兩名駕駛人酒測值超標。「你攔錯車了，」員警笑著說，「不過至少你做了正確的選擇，沒有開車。」沒多久，舅媽就來接他回家。從那天晚上起，每次我們家叫計程車，總會有人提醒舅舅，先確定來的不是警車。"
      }
     },
@@ -19688,7 +19795,7 @@
     "mapping": [
      {
       "k": "內容",
-      "t": "三張圖依序寫出具體細節：喜宴上賓客輪流敬酒，主角喝多了；散場後他在路邊把停著的警車當成計程車，揮手大喊 Taxi!；隔天早上他在警察局醒來，看見牆上的時鐘和身旁的員警。解釋與結局也一一交代：警車出現在會場外，是因為警方設了酒駕臨檢點；主角醉得看不清楚，把警示燈誤認成計程車的車頂燈；員警見他站不穩、說不出住址，才帶他回警察局，並聯絡舅媽；員警提到前一晚有兩名駕駛人酒測值超標，主角至少選擇了不開車；最後舅媽來接他，家人日後拿這件事開玩笑。142 期特優樣例的說明是「內容敘述相當具體且完整」，本篇每一張圖都有具體的細節，解釋與結局也前後呼應。"
+      "t": "三張圖依序寫出具體細節：喜宴上賓客輪流敬酒，主角喝多了；散場後他在路邊把開過來的警車當成計程車，揮手大喊 Taxi!；隔天早上他在警察局醒來，看見牆上的時鐘和身旁的員警。解釋與結局也一一交代：警車出現在會場外，是因為警方設了酒駕臨檢點；主角醉得看不清楚，把警示燈誤認成計程車的車頂燈；員警見他站不穩、說不出住址，才帶他回警察局，並聯絡舅媽；員警提到前一晚有兩名駕駛人酒測值超標，主角至少選擇了不開車；最後舅媽來接他，家人日後拿這件事開玩笑。142 期特優樣例的說明是「內容敘述相當具體且完整」，本篇每一張圖都有具體的細節，解釋與結局也前後呼應。"
      },
      {
       "k": "組織",
@@ -19696,7 +19803,7 @@
      },
      {
       "k": "文法、句構",
-      "t": "整篇的時態：故事主線用過去式；比主線更早發生的事用過去完成式，例如 My uncle [had driven] there himself（開車去是在喜宴之前）、the police [had set up] a checkpoint（臨檢點在他走出來之前就設好了）、two drivers [had failed] the breath test（酒測值超標，發生在員警說話之前）。they [were giving] breath tests 用過去進行式，表示他走出會場時，酒測正在進行。\nBy the time + 子句（過去式）：到……的時候。主要子句講那個時間點的狀態，用過去式，By the time [the banquet ended], his face was red；講在那之前已經完成的事，則用過去完成式。\none (guest) after another：一個接一個；(glass) after (glass)：一杯接一杯。\nmistake [A] for [B]：把 A 誤認為 B，my uncle mistook [the light] for [a taxi sign]。\nwith + 受詞 + V-ing：表示伴隨的狀態，A police car was parked by the road [with (its roof light) (flashing)]，說明警車停著的時候，車頂的燈正在閃。\nfound that + 子句：he could not (stand steadily) or even (tell them where he lived)，兩個並列的動詞片語共用 could not；where he lived 是間接問句，用直述句的語序，不寫成 where did he live。\nSince + 子句：since 在這裡的意思是「因為」。Since it was too dangerous [to leave him alone on the street late at night]，it 是虛主詞，真正的主詞是後面的不定詞片語。\nAs soon as + 子句：一……就……，As soon as he sat down, he fell fast asleep。\nremind + 受詞 + to V：提醒某人做某事，someone always reminds [my uncle] [to make sure it is not a police car]。\n直接引語拆成兩半：\"You hailed the wrong car,\" the officer said with a smile, \"but at least you made the right choice not to drive.\" 中間插入 the officer said with a smile，後半句接續同一句話，所以 but 小寫。"
+      "t": "整篇的時態：故事主線用過去式；比主線更早發生的事用過去完成式，例如 My uncle [had driven] there himself（開車去是在喜宴之前）、the police [had set up] a checkpoint（臨檢點在他走出來之前就設好了）、two drivers [had failed] the breath test（酒測值超標，發生在員警說話之前）。they [were giving] breath tests 用過去進行式，表示他走出會場時，酒測正在進行。\nBy the time + 子句（過去式）：到……的時候。主要子句講那個時間點的狀態，用過去式，By the time [the banquet ended], his face was red；講在那之前已經完成的事，則用過去完成式。\none (guest) after another：一個接一個；(glass) after (glass)：一杯接一杯。\nmistake [A] for [B]：把 A 誤認為 B，my uncle mistook [the light] for [a taxi sign]。\nwith + 受詞 + V-ing：表示伴隨的狀態，A police car was coming down the road [with (its roof light) (flashing)]，說明警車開過來的時候，車頂的燈正在閃。\nfound that + 子句：he could not (stand steadily) or even (tell them where he lived)，兩個並列的動詞片語共用 could not；where he lived 是間接問句，用直述句的語序，不寫成 where did he live。\nSince + 子句：since 在這裡的意思是「因為」。Since it was too dangerous [to leave him alone on the street late at night]，it 是虛主詞，真正的主詞是後面的不定詞片語。\nAs soon as + 子句：一……就……，As soon as he sat down, he fell fast asleep。\nremind + 受詞 + to V：提醒某人做某事，someone always reminds [my uncle] [to make sure it is not a police car]。\n直接引語拆成兩半：\"You hailed the wrong car,\" the officer said with a smile, \"but at least you made the right choice not to drive.\" 中間插入 the officer said with a smile，後半句接續同一句話，所以 but 小寫。"
      },
      {
       "k": "字彙、拼字",
@@ -19919,8 +20026,8 @@
         ]
        },
        {
-        "zh": "路邊停著一輛警車，車頂的燈一閃一閃的。",
-        "en": "A patrol car was parked by the road with its lights flashing.",
+        "zh": "一輛警車從路上開了過來，車頂的燈一閃一閃的。",
+        "en": "A patrol car came down the road with its lights flashing.",
         "covers": [
          "patrol car",
          "flash"
@@ -20035,11 +20142,11 @@
    },
    "basic": {
     "essay": {
-     "words": 136,
-     "p1": "One evening, at my cousin's wedding, guests kept coming over to toast my uncle, and he emptied glass after glass. After the wedding, he could not walk straight. He knew he should not drive, so he decided to take a taxi. Outside, the police were giving drivers breath tests, and a police car was parked nearby with its light flashing. In the dark, my uncle thought it was a taxi. He waved and shouted, \"Taxi!\" Two officers walked over, but he could not tell them his address. They had to take him to the police station.",
+     "words": 138,
+     "p1": "One evening, at my cousin's wedding, guests kept coming over to toast my uncle, and he emptied glass after glass. After the wedding, he could not walk straight. He knew he should not drive, so he decided to take a taxi. Outside, the police were giving drivers breath tests, and a police car was coming down the road with its light flashing. In the dark, my uncle thought it was a taxi. He waved and shouted, \"Taxi!\" Two officers walked over, but he could not tell them his address. They had to take him to the police station.",
      "p2": "The next morning, he woke up on a sofa there and had no idea where he was. \"You waved down the wrong car,\" an officer said, \"but at least you didn't drive.\" Soon my aunt came to take him home.",
      "zh": {
-      "p1": "某天晚上，表哥結婚，喜宴上賓客不停過來向舅舅敬酒，他也一杯接著一杯喝光。喜宴結束後，他連路都走不直。他知道自己不該開車，所以決定搭計程車。外面警察正在對駕駛人做酒測，一輛警車就停在附近，車頂的燈一閃一閃的。天色昏暗，舅舅以為那是一輛計程車，就揮著手大喊：「計程車！」兩名員警走了過來，可是他連自己家的地址都說不出來，員警只好帶他到警察局。",
+      "p1": "某天晚上，表哥結婚，喜宴上賓客不停過來向舅舅敬酒，他也一杯接著一杯喝光。喜宴結束後，他連路都走不直。他知道自己不該開車，所以決定搭計程車。外面警察正在對駕駛人做酒測，一輛警車正從路上開過來，車頂的燈一閃一閃的。天色昏暗，舅舅以為那是一輛計程車，就揮著手大喊：「計程車！」兩名員警走了過來，可是他連自己家的地址都說不出來，員警只好帶他到警察局。",
       "p2": "第二天早上，他在警察局的沙發上醒來，完全不知道自己身在何處。「你攔錯車了，」一名員警說，「不過至少你沒有開車。」沒多久，舅媽就來接他回家了。"
      }
     },
