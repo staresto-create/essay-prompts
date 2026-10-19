@@ -92,6 +92,16 @@
   .upList{list-style:none;padding:0;margin:0;}
   .upList li{padding:7px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
   .upT{font-weight:700;display:block;margin-bottom:2px;}
+  .upGrid{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:8px;margin:2px 0 4px;}
+  .upCell{border:1px solid #E3DCC9;border-radius:4px;padding:6px 8px;background:#fff;}
+  .upCell:last-child{background:#F4EEDF;}
+  .upK{font-size:11px;color:#7A7263;margin-bottom:2px;}
+  .upS{font-size:13px;line-height:1.7;overflow-wrap:anywhere;}
+  .upD{font-weight:700;}
+  .upBtn{font:inherit;font-size:12px;padding:2px 10px;border:1px solid #C9BFA6;border-radius:999px;background:#fff;color:#4A443A;cursor:pointer;margin-top:2px;}
+  .upWhy{font-size:12.5px;line-height:1.8;color:#4A443A;margin-top:5px;padding-left:8px;border-left:3px solid #DED5BF;}
+  .upWhy[hidden]{display:none;}
+  @media(max-width:420px){.upGrid{gap:6px}.upCell{padding:5px 6px}.upS{font-size:12.5px}}
   .upL{display:block;padding-left:1em;}
   .upL b{font-weight:700;margin-right:4px;}
   .upL.en{font-size:13px;}
@@ -495,6 +505,38 @@ let SELFCHECK=null;
 let THEMEBANKS={};   // 主題級共用字詞搭配，掛在 prompts.json 頂層，非 items 之成員
 
 const $=s=>document.querySelector(s);
+const upDiff=(a,b)=>{
+  const tok=t=>t.split(/(\s+)/).filter(x=>x!=='');
+  const ws=w=>/^\s+$/.test(w);
+  const A=tok(a),B=tok(b);
+  const norm=w=>w.toLowerCase().replace(/[^a-z0-9'一-鿿]/g,'');
+  const wa=A.map((w,i)=>[w,i]).filter(([w])=>!ws(w));
+  const wb=B.map((w,i)=>[w,i]).filter(([w])=>!ws(w));
+  const n=wa.length,m=wb.length;
+  const L=Array.from({length:n+1},()=>new Array(m+1).fill(0));
+  for(let i=n-1;i>=0;i--)for(let j=m-1;j>=0;j--)
+    L[i][j]=norm(wa[i][0])===norm(wb[j][0])?L[i+1][j+1]+1:Math.max(L[i+1][j],L[i][j+1]);
+  const ha=new Set(),hb=new Set();
+  let i=0,j=0;
+  while(i<n&&j<m){
+    if(norm(wa[i][0])===norm(wb[j][0])){i++;j++;}
+    else if(L[i+1][j]>=L[i][j+1]){ha.add(wa[i][1]);i++;}
+    else{hb.add(wb[j][1]);j++;}
+  }
+  while(i<n){ha.add(wa[i][1]);i++;}
+  while(j<m){hb.add(wb[j][1]);j++;}
+  const use=L[0][0]/Math.max(n,m,1)>=0.35;
+  const build=(T,h)=>{
+    const out=[];
+    T.forEach((w,k)=>{
+      const hit=use&&(ws(w)?(h.has(k-1)&&h.has(k+1)):h.has(k));
+      const last=out[out.length-1];
+      if(last&&last[1]===hit)last[0]+=w;else out.push([w,hit]);
+    });
+    return out;
+  };
+  return {a:build(A,ha),b:build(B,hb)};
+};
 const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
 
 function matches(it){
@@ -831,15 +873,27 @@ function card(it){
     if(bs.levels)body.appendChild(el('p','bsLv',bs.levels));
     if(bs.upgrade && bs.upgrade.length){
       body.appendChild(el('div','mdH','升級對照：同一個意思，範文怎麼寫'));
+      body.appendChild(el('p','bsIntro','左邊是基礎版，右邊是範文，粗體是兩邊不一樣的地方（整句重寫的就不標粗體）。想知道為什麼這樣改，按「看說明」。'));
       const ul=document.createElement('ul');ul.className='upList';
       bs.upgrade.forEach((x,i)=>{
         const li=document.createElement('li');
         li.appendChild(el('span','upT','['+(i+1)+'] '+x.t));
-        [['基礎版',x.b,true],['範文',x.m,true],['說明',x.why,false]].forEach(([k,v,en])=>{
-          const s=el('span','upL'+(en?' en':''));
-          s.appendChild(el('b',null,k+'：'));s.appendChild(document.createTextNode(v));
-          li.appendChild(s);
+        const d=upDiff(x.b,x.m);
+        const g=el('div','upGrid');
+        [['基礎版',d.a],['範文',d.b]].forEach(([k,parts])=>{
+          const c=el('div','upCell');
+          c.appendChild(el('div','upK',k));
+          const t=el('div','upS');
+          parts.forEach(([w,hit])=>{t.appendChild(hit?el('b','upD',w):document.createTextNode(w));});
+          c.appendChild(t);g.appendChild(c);
         });
+        li.appendChild(g);
+        if(x.why){
+          const btn=el('button','upBtn','看說明');btn.type='button';btn.setAttribute('aria-expanded','false');
+          const why=el('div','upWhy',x.why);why.hidden=true;
+          btn.addEventListener('click',()=>{const o=why.hidden;why.hidden=!o;btn.setAttribute('aria-expanded',String(o));btn.textContent=o?'收起說明':'看說明';});
+          li.appendChild(btn);li.appendChild(why);
+        }
         ul.appendChild(li);
       });
       body.appendChild(ul);
