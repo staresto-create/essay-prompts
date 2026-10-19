@@ -99,6 +99,7 @@
   .upS{font-size:13px;line-height:1.7;overflow-wrap:anywhere;}
   .upD{font-weight:700;background:color-mix(in srgb,#A3357A 24%,transparent);border-radius:2px;}
   .upGrid .upK{color:#A3357A;font-weight:700;}
+  .upNote{font-size:11.5px;color:#7A7263;margin:0 0 4px;}
   .upBtn{font:inherit;font-size:12px;padding:2px 10px;border:1px solid #C9BFA6;border-radius:999px;background:#fff;color:#4A443A;cursor:pointer;margin-top:2px;}
   .upWhy{font-size:12.5px;line-height:1.8;color:#4A443A;margin-top:5px;padding-left:8px;border-left:3px solid #DED5BF;}
   .upWhy[hidden]{display:none;}
@@ -553,7 +554,7 @@ const upDiff=(a,b)=>{
     });
     return out;
   };
-  return {a:build(A,ha),b:build(B,hb)};
+  return {a:build(A,ha),b:build(B,hb),use};
 };
 const el=(t,c,x)=>{const n=document.createElement(t);if(c)n.className=c;if(x!=null)n.textContent=x;return n};
 
@@ -906,6 +907,7 @@ function card(it){
           c.appendChild(t);g.appendChild(c);
         });
         li.appendChild(g);
+        if(!d.use)li.appendChild(el('div','upNote','整句改寫，不標差異處，請看說明。'));
         if(x.why){
           const btn=el('button','upBtn','看說明');btn.type='button';btn.setAttribute('aria-expanded','false');
           const why=el('div','upWhy',x.why);why.hidden=true;
