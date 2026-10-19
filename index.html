@@ -102,6 +102,23 @@
   .upWhy{font-size:12.5px;line-height:1.8;color:#4A443A;margin-top:5px;padding-left:8px;border-left:3px solid #DED5BF;}
   .upWhy[hidden]{display:none;}
   @media(max-width:420px){.upGrid{gap:6px}.upCell{padding:5px 6px}.upS{font-size:12.5px}}
+  .ntSheet{margin:2px 0 6px;}
+  .ntPara{font-size:12px;font-weight:700;color:#7A7263;margin:10px 0 2px;}
+  .ntRow{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:4px 12px;padding:8px 0;border-top:1px dotted #E3DCC9;align-items:start;}
+  .ntL{font-size:13px;line-height:1.75;overflow-wrap:anywhere;}
+  .ntR{min-width:0;display:grid;gap:5px;}
+  .ntN{font-size:12.5px;line-height:1.6;border-left:3px solid var(--nc,#999);padding-left:7px;}
+  .ntTag{display:block;font-size:11px;font-weight:700;color:var(--nc,#666);}
+  .ntTi{display:block;}
+  .ntM{background:color-mix(in srgb,var(--nc,#999) 18%,transparent);border-bottom:2px solid var(--nc,#999);}
+  .nk-content{--nc:#0E7C72;} .nk-org{--nc:#2C5AA6;} .nk-word{--nc:#A9540A;} .nk-up{--nc:#A3357A;}
+  .ntRow .upBtn{grid-column:1/-1;justify-self:start;margin-top:0;}
+  .ntDet{grid-column:1/-1;display:grid;gap:8px;background:#F4EEDF;border-radius:4px;padding:8px 10px;}
+  .ntDet[hidden]{display:none;}
+  .ntD{border-left:3px solid var(--nc,#999);padding-left:8px;font-size:12.5px;line-height:1.8;}
+  .ntD p{margin:2px 0 0;}
+  .ntQ{display:block;font-size:12.5px;color:#7A7263;font-style:italic;}
+  @media(max-width:420px){.ntRow{gap:4px 8px}.ntL{font-size:12.5px}.ntN{font-size:12px}}
   .upL{display:block;padding-left:1em;}
   .upL b{font-weight:700;margin-right:4px;}
   .upL.en{font-size:13px;}
@@ -897,6 +914,59 @@ function card(it){
         ul.appendChild(li);
       });
       body.appendChild(ul);
+    }
+    if(bs.notes && bs.notes.length){
+      body.appendChild(el('div','mdH','逐句解析：這篇範文哪裡寫得好'));
+      body.appendChild(el('p','bsIntro','照大考中心評分的三個項目，在每一句旁邊標出這一句好在哪裡：內容（具體細節）、組織（段落怎麼安排）、字彙拼字。文法句構請看上面的升級對照。左邊是基礎版範文，右邊是這一句的重點，按「看說明」會展開完整說明。'));
+      const LB={content:'內容',org:'組織',word:'字彙拼字'};
+      const sents=t=>(t.match(/[^.?!]+[.?!]+["\u201d]?(\s|$)/g)||[t]).map(x=>x.trim());
+      const sheet=el('div','ntSheet');
+      [[1,bs.essay.p1,'第一段'],[2,bs.essay.p2,'第二段']].forEach(([pn,txt,lab])=>{
+        if(!txt)return;
+        sheet.appendChild(el('div','ntPara',lab));
+        sents(txt).forEach((sen,si)=>{
+          const mine=bs.notes.filter(n=>n.p===pn&&n.i===si);
+          const ups=(bs.upgrade||[]).map((u,ui)=>[u,ui]).filter(([u])=>u.b&&u.b.indexOf(sen)>=0);
+          const row=el('div','ntRow');
+          const L=el('div','ntL en');
+          let rest=sen;
+          const qs=mine.filter(n=>n.q&&sen.indexOf(n.q)>=0).sort((a,b)=>sen.indexOf(a.q)-sen.indexOf(b.q));
+          let pos=0;
+          qs.forEach(n=>{const at=sen.indexOf(n.q);if(at<pos)return;
+            if(at>pos)L.appendChild(document.createTextNode(sen.slice(pos,at)));
+            L.appendChild(el('span','ntM nk-'+n.k,n.q));pos=at+n.q.length;});
+          if(pos<sen.length)L.appendChild(document.createTextNode(sen.slice(pos)));
+          const R=el('div','ntR');
+          mine.forEach(n=>{
+            const d=el('div','ntN nk-'+n.k);
+            d.appendChild(el('span','ntTag',LB[n.k]));
+            d.appendChild(el('span','ntTi',n.t));
+            R.appendChild(d);
+          });
+          ups.forEach(([u,ui])=>{
+            const d=el('div','ntN nk-up');
+            d.appendChild(el('span','ntTag','升級對照'));
+            d.appendChild(el('span','ntTi','見上面的 ['+(ui+1)+'] '+u.t));
+            R.appendChild(d);
+          });
+          row.appendChild(L);row.appendChild(R);
+          if(mine.length){
+            const btn=el('button','upBtn','看說明');btn.type='button';btn.setAttribute('aria-expanded','false');
+            const det=el('div','ntDet');det.hidden=true;
+            mine.forEach(n=>{
+              const d=el('div','ntD nk-'+n.k);
+              d.appendChild(el('b',null,LB[n.k]+'：'+n.t));
+              if(n.q)d.appendChild(el('span','ntQ en',n.q));
+              d.appendChild(el('p',null,n.n));
+              det.appendChild(d);
+            });
+            btn.addEventListener('click',()=>{const o=det.hidden;det.hidden=!o;btn.setAttribute('aria-expanded',String(o));btn.textContent=o?'收起說明':'看說明';});
+            row.appendChild(btn);row.appendChild(det);
+          }
+          sheet.appendChild(row);
+        });
+      });
+      body.appendChild(sheet);
     }
     if(bs.frames && bs.frames.length){
       body.appendChild(el('div','mdH','實用句型'));
