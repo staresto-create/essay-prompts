@@ -413,7 +413,7 @@
       "p": 1,
       "i": 1,
       "k": "content",
-      "t": "把看得見的東西寫出來",
+      "t": "把圖片裡看得到的東西寫出來",
       "n": "題目要的是圖片裡的人、事、物。這一句寫出誰、在哪裡、做什麼：公園裡有位女士，嬰兒推車裡坐的是兩隻小狗。這是具體細節，不是「大家很愛寵物」這種空話。",
       "q": "In a park, a woman pushes two small dogs in a"
      },
@@ -480,8 +480,8 @@
       "p": 2,
       "i": 6,
       "k": "org",
-      "t": "結尾落在一個具體的東西",
-      "n": "收尾不喊口號，把抽象的擔心落在一個具體的東西上（空教室），力道比形容詞強。but 的前後，一邊是寵物帶來的快樂，一邊是填不滿的空缺。"
+      "t": "結尾換成一樣具體的東西",
+      "n": "收尾不喊口號，而是把抽象的擔心換成一樣具體的東西（空教室），比用形容詞更讓人有感覺。but 的前後，一邊是寵物帶來的快樂，一邊是填不滿的空缺。"
      }
     ]
    }
@@ -1010,7 +1010,7 @@
       "i": 2,
       "k": "content",
       "t": "寫出放假後做了什麼",
-      "n": "不只說「大家很開心」，而是寫出突然多了一天假，很多人就去看電影。這是看得見的行動。",
+      "n": "不只說「大家很開心」，而是寫出突然多了一天假，很多人就去看電影。這是具體的行動。",
       "q": "many go to the movies"
      },
      {
@@ -1064,7 +1064,7 @@
       "i": 1,
       "k": "content",
       "t": "第一次經驗：停課，結果沒事",
-      "n": "這一句交代時間、地點與結果：有一次市裡宣布停課，什麼事也沒發生。事件很具體，也預先為後面的對比做好準備。"
+      "n": "這一句交代時間、地點與結果：有一次市裡宣布停課，什麼事也沒發生。事件很具體，後面第二次經驗要拿來對照，這一次就先交代清楚。"
      },
      {
       "p": 2,
@@ -1665,7 +1665,7 @@
       "i": 2,
       "k": "content",
       "t": "用次數寫出習慣",
-      "n": "傳一則訊息到班上的群組，要改四、五遍才送出。次數把「在意」變成看得見的行為。"
+      "n": "傳一則訊息到班上的群組，要改四、五遍才送出。次數讓「在意」變成看得到的行為。"
      },
      {
       "p": 1,
@@ -5468,7 +5468,7 @@
       "p2": "我自己的清單就很不一樣了。我最關注的是娛樂與名人新聞，對我來說，這一類也包括我每天在網路上看到的網紅。午餐時同學會聊某個歌手的新歌或一部熱門的劇，要是我錯過了最新的消息，就會覺得自己插不上話。另一方面，我最不關心的是國際事務。其他國家的選舉滿是我不認識的人名和地名，而且一拖就是好幾個月。大多數時候，台灣以外的世界對我來說太遙遠了。"
      }
     },
-    "levels": "用字：三級只有 elections（選舉）一個。disasters（災害）、issues（議題）、entertainment（娛樂）是四級，celebrity（名人）是五級，都是圖表上的類別名稱；percent（百分比）是四級，圖表上的數字就是百分比。這幾個字都是題目本身給的，所以照樣使用。influencers（網紅）詞彙表沒有收，但這就是英文裡「網紅」的說法，換成別的說法反而不自然，所以照樣使用。除此之外沒有四級以上的字。",
+    "levels": "用字：三級只有 elections（選舉）一個。disasters（災害）、issues（議題）、entertainment（娛樂）是四級，celebrity（名人）是五級，都是圖表上的類別名稱；percent（百分比）是四級，圖表上的數字就是百分比。這幾個字都是題目本身給的，所以照樣使用。influencers（網紅）詞彙表沒有收，但這就是英文裡「網紅」的說法，換成別的字反而不自然，所以照樣使用。除此之外沒有四級以上的字。",
     "upgrade": [
      {
       "t": "用 with 在句尾補上第二名",
@@ -9471,7 +9471,7 @@
      "words": 331,
      "p1": "The chart shows how students at one American high school spend an average day. The two tallest bars belong to sleep and schoolwork, and it is the order of the two that catches the eye: sleep takes 8.7 hours, more than a third of the whole day, while schoolwork takes 6.4. What surprises me more, though, is that part-time work has a bar of its own at all. An hour and a half a day goes into a job, which is more than sports and religious or volunteer activities get between them. Those two come to forty-eight minutes and twelve minutes, exactly one hour together, or four percent of the day. A day here is built around three things — sleeping, studying, and earning money — and the rest has to fit into what is left over.",
      "p2": "If my day were drawn as the same chart, the top two bars would swap places, and the reason is the entrance exam. Classes run from ten past eight to five, and on three evenings a week a cram school keeps me out until eleven, so schoolwork would stand at ten and a half hours, four hours more than the 6.4 in the chart. Those four hours have to come from somewhere, and in my case they come out of sleep: six hours on a good night, close to three hours short of what these students get. Almost no high school student here has time for a part-time job, and time is not the only reason. Parents here expect after-school hours to go into studying, so a job is something you take up once the exam is behind you, not while you are preparing for it. The one bar we would share is sports, and mine would be the shorter of the two: basketball twice a week works out at twenty-five minutes a day, roughly half of their forty-eight. It seems that whatever fills a school day, the sports bar is the first one it shortens.",
-     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標；本篇寫了 331 個單詞。圖上有七個項目，第一段不必七個逐一念過去。大考中心那一年的評分原則說明裡寫著，英文寫作能力中等以上的考生是在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與台灣當前現象的不同處。也就是說，第一段要挑的是圖上哪裡特別，不是把數字抄一遍。這一篇挑兩件：睡覺 8.7 小時比學習相關活動的 6.4 小時還多，時間最長的兩項順序跟我們想的相反；還有打工竟然自成一項。第二段題目要的是「異同」，而且明寫「並說明其理由」，兩樣都要。這一篇的作法是把自己的一天也當成同一張圖來畫，三個比較點各自帶一個理由：睡得少，因為多出來的四小時得從別的地方挪；沒有打工這一項，因為放學後的時間在這裡要拿來讀書；運動少，這一點兩邊一樣，而且自己這邊更短。數字的講法可以換著用。同樣是圖上的數字，這一篇用過小時（8.7 hours）、分數（more than a third of the whole day）、分鐘（forty-eight minutes）、百分比（four percent of the day）、差額（four hours more than the 6.4 in the chart）和比較（roughly half of their forty-eight）。圖表題整篇都在講數字，全寫成 X hours 會讀起來像報表。最後說一下用字。這一篇有四個字在《高中英文參考詞彙表》裡是四級以上：percent 四級、volunteer 四級、swap 五級、cram 六級，四個都照樣使用。percent 是圖表題本來就會用到的字；volunteer 是圖上那一項自己的名字；swap places 講最高的兩項對調，換別的說法反而繞；cram school 則是英文裡講補習班的說法，英語報導寫台灣、日本、韓國的補習班用的就是這個字。",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」，那是下限而不是目標；本篇寫了 331 個單詞。圖上有七個項目，第一段不必七個逐一念過去。大考中心那一年的評分原則說明裡寫著，英文寫作能力中等以上的考生是在第一段說明該圖所呈現的「特別現象」，再引伸說明這種現象與台灣當前現象的不同處。也就是說，第一段要挑的是圖上哪裡特別，不是把數字抄一遍。這一篇挑兩件：睡覺 8.7 小時比學習相關活動的 6.4 小時還多，時間最長的兩項順序跟我們想的相反；還有打工竟然自成一項。第二段題目要的是「異同」，而且明寫「並說明其理由」，兩樣都要。這一篇的作法是把自己的一天也當成同一張圖來畫，三個比較點各自帶一個理由：睡得少，因為多出來的四小時得從別的地方挪；沒有打工這一項，因為放學後的時間在這裡要拿來讀書；運動少，這一點兩邊一樣，而且自己這邊更短。數字的講法可以換著用。同樣是圖上的數字，這一篇用過小時（8.7 hours）、分數（more than a third of the whole day）、分鐘（forty-eight minutes）、百分比（four percent of the day）、差額（four hours more than the 6.4 in the chart）和比較（roughly half of their forty-eight）。圖表題整篇都在講數字，全寫成 X hours 會讀起來像報表。最後說一下用字。這一篇有四個字在《高中英文參考詞彙表》裡是四級以上：percent 四級、volunteer 四級、swap 五級、cram 六級，四個都照樣使用。percent 是圖表題本來就會用到的字；volunteer 是圖上那一項自己的名字；swap places 講最高的兩項對調，換個寫法反而繞；cram school 則是英文裡講補習班的說法，英語報導寫台灣、日本、韓國的補習班用的就是這個字。",
      "zh": {
       "p1": "這張圖呈現的是美國某一所高中的學生平均一天的時間分配。時間最長的兩項是睡覺和學習相關活動，而真正顯眼的是這兩項的先後：睡覺 8.7 小時，超過一天的三分之一，學習相關活動則是 6.4 小時。不過更讓我意外的，是打工竟然自成一項。每天有一個半小時花在工作上，比運動加上宗教、義工還多。那兩項分別是四十八分鐘和十二分鐘，合起來剛好整整一小時，占一天的百分之四。這所高中學生的一天主要就是睡覺、讀書、賺錢這三件事，其餘的事只能塞進剩下的空檔。",
       "p2": "要是把我的一天也畫成同一張圖，時間最長的那兩項會對調，原因就是升學考試。我從早上八點十分開始上課到五點，一星期有三個晚上補習到十一點才回得了家，學習相關活動因此會是十個半小時，比圖上的 6.4 多了四小時。這四小時總得從別的地方挪出來，而我挪的是睡眠：睡得飽也才六小時，比這些學生少了將近三小時。台灣的高中生幾乎沒有人有時間打工，而且原因不只是時間。這裡的家長認為放學後的時間應該要拿來讀書。所以打工是考完以後的事，不是準備考試的時候做的事。我們唯一都有的一項是運動，而我所占的時間還更短：籃球一星期打兩次，分攤到每天大約二十五分鐘，差不多是他們四十八分鐘的一半。看來不管把一天填滿的是什麼，最先縮短的都是運動這一項。"
