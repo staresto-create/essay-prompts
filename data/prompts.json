@@ -4118,7 +4118,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0K084424073464370939",
     "label": "作文佳作",
-    "note": "大考中心 109 年 3 月 31 日公布英文作文佳作十二篇，附原卷影像檔與簡要評分說明。十二篇的故事幾乎沒有重複：有人寫兩位女士搶同一件外套、最後店員出面化解；有人寫買到花光錢，隔天才後悔並被母親責備；有人被人群絆倒扭傷，離場時遇到流浪動物送養活動，改為捐款；有人跟媽媽走散，找到之後兩人一起把一位昏倒的婦女送醫；還有人寫成探員制伏歹徒。敘寫角度也不只一種，第 5 篇整篇站賣場員工的立場寫。官方前言另外寫明，這十二篇在詞彙、文法、句構與拼字上仍有些許缺失，但仍屬佳作。"
+    "note": "大考中心 109 年 3 月 31 日公布英文作文佳作十二篇，附原卷影像檔與簡要評分說明。十二篇的情節各不相同：有人寫兩位中年女子搶同一件外套、店員出面勸架化解（第 1 篇）；有人寫買到花光錢，隔天才後悔並被母親責備（第 3 篇）；有人被人群絆倒扭傷，離場時遇到流浪動物送養活動，決定捐助流浪動物（第 4 篇）；有人跟媽媽走散，找到之後兩人一起把一位昏倒的婦女送醫（第 9 篇）；還有人寫成探員制伏持炸彈的歹徒（第 10 篇）。敘寫角度也不只一種，第 5 篇整篇站賣場員工的立場寫。官方前言另外寫明，這十二篇在詞彙、文法、句構與拼字上仍有些許缺失，但仍屬佳作。"
    },
    "source": "大學入學考試中心 109 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為百貨公司週年慶，民眾瘋狂湧入搶購的新聞畫面。要求根據圖片想像一個事件或故事，並描述其後\n續發展與結果。",
@@ -4462,6 +4462,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第二段怎麼發展。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心公布的評分原則說明，第一段要**描述兩張圖呈現的場景，以及正在發生的事件**；第二段要寫這個事件**接下來的發展和結果**。評分重點是內容是否達到題目要求，尤其是第二段能不能發揮想像力，寫出「外於圖片」的發展。",
+       "選才電子報第 308 期提到，得高分的作文不一定是長文，是否完成寫作任務才是重點。換句話說，第二段不必寫很長，但事件要有發展，也要有結局。"
+      ]
+     },
+     {
+      "h": "第一段：兩張圖合成一個場景",
+      "p": [
+       "兩張圖是同一家賣場的週年慶：一張是開門的人潮，一張是店裡的擁擠。第一段不是各說一張，而是寫成一個場景，再從裡面挑出一個人或一件事，作為第二段的起點。"
+      ]
+     },
+     {
+      "h": "第二段：事件、發展、結局",
+      "p": [
+       "十二篇佳作寫的事件各不相同：搶外套（第 1 篇）、買到花光錢（第 3 篇）、被絆倒後捐助流浪動物（第 4 篇）、和媽媽走散（第 9 篇）、探員制伏歹徒（第 10 篇）；第 5 篇還整篇用賣場員工的角度來寫。電子報也提到，考生的角度除了第一人稱，也有第三者或賣場人員的角度。",
+       "這些故事的結局也各不相同：有人化解了衝突（第 1 篇），有人反省後下不為例（第 3、6 篇），有人得到教訓（第 7 篇），有人協助送醫（第 9 篇）。所以故事不必很戲劇化，但**要有適當的結局**。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "There are many people. They are at a store.",
+       "p2": "A woman wants a coat. Another woman wants it too."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "On the first day of the sale, the doors have just opened, and a crowd is rushing in while the staff try to help them.",
+       "p2": "Two women reached the last coat at the same moment, so each held a sleeve and neither would let go. In the end, the older woman bought it, and the young woman went home with nothing."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "These news pictures show the first day of a department store's yearly sale. … In the middle, a young woman in glasses is trying to get through the crowd.",
+       "p2": "What happened next was not on the news. … On the bus home, she did not miss the coat, but she felt bad about fighting so hard for it."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The two news photographs were taken on the opening day of a department store's anniversary sale. … In the middle of the picture, a young woman in glasses is elbowing her way through the crowd toward a table of coats, and behind her the crowd stretches all the way to the back of the store.",
+       "p2": "What happened next did not make the news. … Only after she sat down on the bus home did she feel ashamed, not of losing a coat, but of how loudly she had wanted it."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」是兩個互不相關的事實；「加上銜接詞」用 while 把「人潮湧入」和「店員協助」放進同一個場景。基礎版和進階版再把鏡頭停在人群中的一位年輕女子，第二段的故事就有主角了。",
+      "**第二段：**「只寫 what」只有開頭，沒有發展，也沒有結局；「加上銜接詞」用 so 把「各握一邊」接到結局，用 In the end 收尾。基礎版和進階版再加上對話，並把結局落在回家公車上的心情，故事就完整了。"
+     ]
+    }
    }
   },
   {
@@ -6804,7 +6863,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J073643235922952636",
     "label": "作文佳作",
-    "note": "大考中心 106 年 3 月 29 日公布英文作文佳作十三篇，附原卷影像檔與簡要評分說明。這一年考的是看圖寫作，前三幅圖已經給定，第四幅由考生自己想，所以十三篇的差別就在結局怎麼收尾。其中十二篇分成三種：改去別的地方而另有收穫的最多，七篇（第 3、4、5、6、7、8、12 篇）；還是進去了、並且遇上意外的驚喜四篇（第 9、10、11、13 篇）；失望回家的只有一篇（第 1 篇，回到家從電視新聞看到遊樂園出了事，反過來慶幸躲過）。剩下的第 2 篇整篇以車子的角度敘述，結局收在車子載全家回家，不落在這三種裡。另外一件值得看的是目的地——遊樂園六篇，博物館兩篇，動物園、公園野餐、高雄的景點、機場各一篇，端視考生想像力而定。想寫得跟別人不一樣的，看第 2 篇與第 11 篇：前者從頭到尾用車子的眼睛看這一趟，後者寫一家有超能力的人趕去遊樂園拆炸彈，最後炸出來的是彩帶與生日驚喜。"
+    "note": "大考中心 106 年 3 月 29 日公布英文作文佳作十三篇，附原卷影像檔與簡要評分說明。這一年考的是看圖寫作，前三幅圖已經給定，第四幅由考生自己想，所以十三篇的差別就在結局怎麼收尾。其中十一篇分成三種：改去別的地方而另有收穫的最多，六篇（第 3、4、6、7、8、12 篇）；仍然進了原本的目的地、結局正面的四篇（第 9、10、11、13 篇），其中第 9、10 篇寫驚喜，第 11 篇寫意外的生日禮物，第 13 篇寫爸爸扮成米老鼠入園；失望回家的只有一篇（第 1 篇，回到家從電視新聞看到遊樂園出了事，反過來慶幸躲過）。另外兩篇不落在這三種裡：第 2 篇整篇以車子的角度敘述，結局收在主人高興地載全家回家；第 5 篇是公園人太多無法野餐，母親提議回家煮大餐，全家在家享用。另外一件值得看的是目的地——遊樂園六篇，博物館兩篇，動物園、公園野餐、高雄的景點、機場各一篇，第 2 篇沒寫目的地，端視考生想像力而定。想寫得跟別人不一樣的，看第 2 篇與第 11 篇：前者從頭到尾用車子的眼睛看這一趟，後者寫一家有超能力的人解決奈米炸彈危機，炸彈落下大量彩帶，原來是父母給女兒的意外生日禮物。"
    },
    "source": "大學入學考試中心 106 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一家人出遊，從開心出發、塞車、到目的地人山人海，最後結果未知。要求想像第四格發展，寫出完整故事。",
@@ -7185,6 +7244,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第四幅圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "大考中心選才電子報第 271 期說明，這一題要你看三幅圖，**想像第四幅**，寫出一篇涵蓋每張圖內容、**結局完整**的故事。評分看四件事：內容要主題清楚，有具體完整的細節；組織要有開頭、發展、結尾，前後連貫；文法句構是否影響文意；用字是否精確。",
+       "所以三幅圖都要寫進去，而且要有結尾。電子報提到，有考生改用第三人稱，也有人以車子的角度來寫。"
+      ]
+     },
+     {
+      "h": "第四幅圖：結局怎麼收",
+      "p": [
+       "前三幅圖已經給定，十三篇佳作的差別就在結局。十三篇中，**改去別處而另有收穫的有 6 篇**（第 3、4、6、7、8、12 篇），**仍進原目的地且結局正面的有 4 篇**（第 9、10、11、13 篇），**失望回家的有 1 篇**（第 1 篇）；另外第 5 篇是改成回家煮大餐，第 2 篇整篇用車子的角度寫。",
+       "所以結局不只一種，但都要和前三幅圖接得上，不要只說「結果很好」。"
+      ]
+     },
+     {
+      "h": "目的地由你決定",
+      "p": [
+       "目的地也各不相同：遊樂園 6 篇（第 1、6、7、10、11、13 篇），博物館 2 篇（第 3、4 篇），動物園（第 9 篇）、公園野餐（第 5 篇）、高雄的景點（第 8 篇）、機場（第 12 篇）各 1 篇。選一個你寫得出細節的就好。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "We drive to the museum. There are many cars.",
+       "p2": "There are many people at the museum. We go to a river."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "We left home early to go to the museum, but the road was so crowded that we sat in the car for two hours.",
+       "p2": "When we finally arrived, the line was three hours long, so we ate noodles by the river instead."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "On the first morning of our summer vacation, my father was in a good mood and whistled as he put our bags into the trunk. … My sister asked how far it was, but nobody could answer her.",
+       "p2": "It was after eleven when we finally got to the museum. … We never got inside the museum, but my sister still talks about that day with a smile."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "On the first morning of our summer holiday, my father was in such a good mood that he whistled while he lifted our suitcase into the trunk. … My sister asked how much farther it was, and nobody answered her, because nobody knew.",
+       "p2": "We reached the museum a little after eleven, and we saw the problem before we found a parking space. … Whenever my sister talks about that day now, the museum is not the part she remembers."
+      }
+     ],
+     "after": [
+      "**前半（塞車）：**「只寫 what」只有兩件事，彼此沒有因果；「加上銜接詞」用 so ... that 把「路很擠」和「坐了兩小時」連起來。基礎版和進階版再用「爸爸不再吹口哨」寫出心情的變化，並以妹妹的問題收尾。",
+      "**後半（結局）：**「只寫 what」只是把兩個地點並排；「加上銜接詞」用 so 和 instead 說出「為什麼改去河邊」。基礎版和進階版再讓媽媽開口、家人同意，最後落在妹妹記得的是那一天，而不是博物館，結局就完整了。"
+     ]
+    }
    }
   },
   {
@@ -8826,6 +8944,71 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第一段怎麼猜、第二段怎麼說理由。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心選才電子報第 247 期說明，這一題不是看圖寫作，而是從兩本書中**挑一本**，想像它可能的內容，再說明**選這本書的理由**。第一段說明選哪一本、內容大概是什麼；第二段提出選這本書的理由。",
+       "評分原則說明，評分重點是作文內容和所選的書之間，**關聯是否緊密**，並有足夠的細節支持。所以猜內容時要抓住書名，理由也要和這本書接得上。"
+      ]
+     },
+     {
+      "h": "兩本書都有人選",
+      "p": [
+       "十五篇佳作中，選 EVERYONE IS BEAUTIFUL 的有 7 篇（第 1 至 7 篇），選 LEADERSHIP IS A CHOICE 的有 8 篇（第 8 至 15 篇）。兩本都有佳作，所以選你寫得出細節的那一本。"
+      ]
+     },
+     {
+      "h": "第一段：從書名猜內容",
+      "p": [
+       "簡評裡的猜法各不相同：有人由副標題推論書的內容（第 3 篇），有人從封面推斷（第 15 篇），有人先猜作者的身分（第 6 篇）。有人把書分成幾部分來猜，例如第 9、12 篇。"
+      ]
+     },
+     {
+      "h": "第二段：理由要具體",
+      "p": [
+       "簡評裡的理由，很多都連到自己的經驗：例如小時候因外貌被排擠（第 5 篇）、自己在乎別人的看法（第 6 篇）、帶班級時過度緊張（第 13 篇）。也有人引用實例，例如第 4 篇引用 Nick Vujicic 與 Lady Gaga，第 11 篇舉甘地。第 3、15 篇明寫了兩個理由。",
+       "所以理由不是只寫「我喜歡這本書」，而是要說出：這本書和我的什麼經驗接得上？"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I choose EVERYONE IS BEAUTIFUL. It is a book about people.",
+       "p2": "I want to read it. I like books."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I would choose EVERYONE IS BEAUTIFUL. From the title, I guess it is about why we judge people by their looks and how to accept ourselves.",
+       "p2": "I want to read it because some of my friends spend twenty minutes on one photo, and I do the same, so the book may help me stop comparing myself with others."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "I would choose EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself. … I guess the last chapter is about accepting the face in the mirror, because that is the hardest part.",
+       "p2": "I want to read this book because the problem in its title shows up in my class every day. … Still, it may make me kinder to my classmates and to myself."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "I would choose EVERYONE IS BEAUTIFUL: Respect Others & Be Yourself. … I expect the last chapter to be about accepting the face you see in the mirror, because that is always the hardest part.",
+       "p2": "I chose this book because the problem in its title is sitting in my classroom every day. … If it works, I will not become more beautiful, but I will probably be kinder, both to my classmates and to the person in my own photos."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只說選了哪一本，沒有猜內容；「加上銜接詞」用 From the title, I guess 把書名和內容接起來。基礎版和進階版再舉出幾個書裡可能出現的場景，最後猜最後一章寫什麼。",
+      "**第二段：**「只寫 what」只有喜好，沒有理由；「加上銜接詞」用 because 把朋友修照片的事，和這本書能幫上的地方接起來。基礎版和進階版再用「這本書能改變什麼、不能改變什麼」收尾，理由就有分量了。"
+     ]
+    }
    }
   },
   {
