@@ -88,6 +88,14 @@
   .mdK{font-weight:700;margin-right:6px;}
   /* 基礎版：外框沿用 mdBox 一組（摺疊、按鈕、範文段落），只另加升級對照與實用句型的版面。 */
   .bsIntro{font-size:12.5px;line-height:1.8;color:#5F594C;margin:0 0 10px;}
+  /* 讀圖與立意：外框沿用 mdBox 一組；對照表每段一張兩欄表，手機上也是左右兩欄，不用橫向捲動。 */
+  .rgTbl{width:100%;border-collapse:collapse;margin:4px 0 8px;font-size:13px;line-height:1.7;}
+  .rgTbl th,.rgTbl td{border:1px solid #E3DCC9;padding:6px 8px;vertical-align:top;text-align:left;}
+  .rgTbl th{width:6.6em;background:#F6F1E2;font-weight:700;font-size:12.5px;}
+  .rgTbl th small{display:block;margin-top:3px;font-weight:400;color:#6B6455;font-size:11.5px;line-height:1.5;}
+  .rgTbl td{font-family:Georgia,"Times New Roman",serif;}
+  .rgNote{font-size:13px;line-height:1.85;margin:0 0 9px;}
+  .rgCap{font-size:12.5px;font-weight:700;margin:9px 0 3px;}
   .bsLv{font-size:12px;line-height:1.8;color:#7A7263;margin:4px 0 0;}
   .upList{list-style:none;padding:0;margin:0;}
   .upList li{padding:7px 0;border-top:1px dotted #E3DCC9;font-size:12.5px;line-height:1.8;}
@@ -680,6 +688,55 @@ function card(it){
       r.appendChild(a);
     }
     d.appendChild(r);
+  }
+
+  // 讀圖與立意：動筆前先讀的一段，擺在字詞搭配與範文之前。資料欄 `readGuide` 是選配欄，沒有的題目畫面不變。
+  // 欄位：intro、secs[{h,p[]}]、ladder{h,lead,rows[{label,note,p1,p2}],after[]}；文字裡用 ** 夾住的地方畫成粗體。
+  if(it.readGuide){
+    const g=it.readGuide, b=el('div','mdBox rgBox');
+    const shut='看這一題要寫什麼、怎麼發展 →';
+    const btn=document.createElement('button');
+    btn.className='mdBtn';btn.type='button';btn.textContent=shut;
+    btn.addEventListener('click',()=>{
+      const on=b.classList.toggle('open');
+      btn.textContent=on?'收起':shut;
+    });
+    b.appendChild(btn);
+    const body=el('div','mdBody');
+    const rich=(cls,text)=>{
+      const p=el('p',cls);
+      String(text).split('**').forEach((x,i)=>{
+        if(!x)return;
+        if(i%2){const s=document.createElement('b');s.textContent=x;p.appendChild(s)}
+        else p.appendChild(document.createTextNode(x));
+      });
+      return p;
+    };
+    if(g.intro)body.appendChild(el('p','bsIntro',g.intro));
+    (g.secs||[]).forEach(sec=>{
+      body.appendChild(el('div','mdH',sec.h));
+      sec.p.forEach(t=>body.appendChild(rich('rgNote',t)));
+    });
+    if(g.ladder){
+      const L=g.ladder;
+      body.appendChild(el('div','mdH',L.h));
+      if(L.lead)body.appendChild(el('p','bsIntro',L.lead));
+      [['第一段','p1'],['第二段','p2']].forEach(([cap,key])=>{
+        body.appendChild(el('div','rgCap',cap));
+        const t=document.createElement('table');t.className='rgTbl';
+        L.rows.forEach(r=>{
+          const tr=document.createElement('tr');
+          const th=document.createElement('th');
+          th.appendChild(document.createTextNode(r.label));
+          if(r.note)th.appendChild(el('small',null,r.note));
+          const td=el('td',null,r[key]);
+          tr.appendChild(th);tr.appendChild(td);t.appendChild(tr);
+        });
+        body.appendChild(t);
+      });
+      (L.after||[]).forEach(t=>body.appendChild(rich('rgNote',t)));
+    }
+    b.appendChild(body);d.appendChild(b);
   }
 
   // 字詞搭配：主題級與題目級用完全相同的 groups 結構，只是掛載點不同，

@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-19",
+ "updated": "2026-10-22",
  "count": 63,
  "items": [
   {
@@ -484,6 +484,60 @@
       "n": "收尾不喊口號，而是用一個具體的畫面（空教室）來寫抽象的擔心，比直接說「這很嚴重」更能讓讀的人感受到。but 的前後，一邊是寵物帶來的快樂，一邊是填不滿的空缺。"
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、三張圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "三張圖放在一起讀",
+      "p": [
+       "大考中心選才電子報第 351 期說明，這一題第一段要**描述圖片呈現的現象**，第二段要根據自己的經驗或觀察，說明這個現象的**原因和可能的影響**。第一段不是「各說一張」，而是三張圖合起來是什麼現象。",
+       "十篇佳作的簡評，第一段都在描述寵物在家中的角色變得像孩子，有的寫「取代」，有的寫「如子女一般」，有的寫「成為親密家人」。"
+      ]
+     },
+     {
+      "h": "第二段：原因和影響，兩樣都要",
+      "p": [
+       "**原因：**十篇佳作中有九篇（第 1、3、4、5、6、7、8、9、10 篇）寫到經濟或花費，其中第 3、4、6、7、9 篇明確寫養寵物的花費比養孩子低；情感陪伴也常出現，例如第 2、6、7、9 篇提到情緒的支持。",
+       "**影響：**十篇都寫到生育率降低、人口減少或勞動力不足；另外有人寫到別的面向，例如寵物相關產業（第 3、6 篇）、動保意識（第 4 篇）、流浪動物減少（第 9 篇）。",
+       "電子報提到，分數偏低的常見原因是沒有針對兩段的任務作答，或有遺漏、內容不足之處。所以原因和影響都要寫到，而且要寫得具體。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the pictures, people have pets. They take care of their pets.",
+       "p2": "Many people have pets. Fewer babies are born."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the three pictures, people take care of their pets the way parents take care of children.",
+       "p2": "Many young people have pets instead of children because pets cost less and are easier to take care of. As a result, fewer babies are born."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "These pictures show that people now treat pets like children. … Only the child is missing.",
+       "p2": "I see this change on my street. … Pets can make us happy, but they cannot fill empty classrooms."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "In all three pictures, pets are given the place that children used to have. … Only the child is missing.",
+       "p2": "I see the same change on my own street. … What I hope is not that people love their pets less, but that a child stops being the harder choice."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」各說各的，看不出三張圖合起來是什麼；「加上銜接詞」用 the way … 把「照顧寵物」和「照顧孩子」連起來，現象就清楚了。基礎版和進階版再把三張圖歸成同一個結論，第一段都用 Only the child is missing 收尾。",
+      "**第二段：**「只寫 what」只有兩個事實，彼此沒有關係；「加上銜接詞」用 because 交代原因，用 As a result 接影響，兩項任務都完成了。基礎版和進階版再用自己街上的觀察，把原因和影響寫具體。"
+     ]
+    }
    }
   },
   {
@@ -1120,6 +1174,60 @@
       "n": "題目要的是對放颱風假的看法。最後一句直接說出立場：判斷錯了可能賠上人命，所以政府太小心比太大膽好。When 子句先說理由，結論放在後面。"
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、兩張圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩張圖要放在一起讀",
+      "p": [
+       "題目要第一段「根據對比圖片」描述颱風假時的兩種情景，關鍵就是**「對比」**：兩張圖講的是同一個颱風假，只是不同的人過得不一樣。大考中心公布的七篇佳作，簡要評分說明有四篇（第 1、2、3、7 篇）直接寫「兩種情景對比」。",
+       "兩張圖各看到什麼，佳作說明裡寫得很具體：一張是電影院擠滿了人潮，另一張是許多車子和摩托車在大雨中很難前進（第 1 篇）。",
+       "接著可以問自己：為什麼同一天會有這兩種處境？簡評裡有三篇（第 2、5、6 篇）寫到，有些人是因為工作需要，還是得冒著風雨出門。把這一層寫出來，兩張圖就不只是兩個畫面，而是**同一個決定，對不同的人意義不同**。"
+      ]
+     },
+     {
+      "h": "第二段：看法與經驗，兩樣都要",
+      "p": [
+       "題目寫的是「看法與經驗」。七篇佳作的簡評中，有五篇（第 1、2、4、6、7 篇）明確提到作者自己或家人的經驗，例如遇過不準確的颱風假、颱風假待在家裡、家裡淹水、父親的工作。看法則各不相同：有人認為颱風假有其必要（第 3 篇），有人提醒不能輕忽（第 4 篇），有人建議把預測做得更準（第 1 篇），也有人談到颱風假與政治、經濟的關係（第 7 篇）。",
+       "大考中心的說明提到，作文得分的高低，取決於是否符合作答提示的要求，以及內容的豐富度與寫作任務的完成度。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "同樣是颱風假這一題，想法可以停在不同的地方。下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the first picture, people are at the movies. In the second picture, people are riding scooters in the rain.",
+       "p2": "I think a typhoon day off is a good idea. It is dangerous to go out in a typhoon."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the first picture, people are enjoying a movie in a movie theater, while in the second picture, people are riding scooters in the rain.",
+       "p2": "I think a typhoon day off is a good idea because it is dangerous to go out in a typhoon."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "Heavy rain is falling on a busy road, but some people still have to ride their scooters to work. For them, every trip in the wind and rain is dangerous.",
+       "p2": "Once, our city called off classes, but nothing happened. … Two years later, classes were not canceled, and I walked home through water up to my knees. … A typhoon does not hit every area equally. When a wrong decision can cost lives, it is better for the government to be too careful than too brave."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "Heavy rain falls on a busy road, cars move slowly through the water, and riders on scooters press on through the downpour in their raincoats. Some of them still have to work, and every corner they turn is a risk.",
+       "p2": "A typhoon does not hit every district equally, and a farmer, a delivery rider, and a student do not face the same danger. What worries me more is that these storms are getting harder to predict, because warmer oceans give them more energy and more rain."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只是把兩張圖各說一句，兩句之間沒有關係；「加上銜接詞」用 while 把兩張圖接成對比，這正是題目要的。基礎版再多寫為什麼那些人還在雨中（得去上班），所以讓人覺得危險；進階版再把圖上看得到的細節補進來，積水、雨衣，畫面更具體。",
+      "**第二段：**「只寫 what」只有結論和一個籠統的理由；「加上銜接詞」用 because 把看法和理由接起來；基礎版用自己的兩次經驗說明看法；進階版在經驗之外，也想到農夫、外送員、學生面對的危險並不一樣。"
+     ]
+    }
    }
   },
   {
@@ -1741,6 +1849,59 @@
       "n": "題目問的是「如何分工合作」，只寫機器人做什麼是不夠的。這一句寫出自己的部分：每個禮拜自己做一個小決定，像是選哪個社團。"
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、三張圖怎麼選。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "先選一個，不是三個都寫",
+      "p": [
+       "大考中心選才電子報第 342 期說明，三張圖各呈現青少年常見的一種問題。第一段要說明最想請機器人解決**哪一個**，並**解釋原因**；第二段要說明機器人該具備的特質或能力，以及自己和機器人**怎麼分工**。",
+       "十篇佳作三種問題都有人選：在意他人看法（第 1、4、5、7 篇）、失戀（第 2、8、9 篇）、情緒波動（第 3 篇）。簡評對每一篇的評語，看的都是內容是否具體、完整，沒有哪個選擇比較吃香。"
+      ]
+     },
+     {
+      "h": "第二段：機器人做什麼、你做什麼",
+      "p": [
+       "簡評裡看得到的，是機器人具體做的事，例如給予正面的話並協助寫感恩日記（第 1 篇）、傾聽並回饋（第 3、10 篇）、提醒要理性（第 4 篇）、引導表達與溝通（第 5 篇）、模擬不同情境（第 7 篇）、安排時間並給予鼓勵（第 9 篇）。",
+       "簡評沒有逐篇寫到「自己做什麼」，不過題目要求分工，所以第二段要把**機器人做的事**和**自己做的事**都寫出來。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。基礎版選的是「在意別人的想法」，進階版選的是情緒波動，兩種選擇佳作裡都有人寫。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I want the robot to help with mood swings. My feelings change a lot.",
+       "p2": "The robot should be kind. It can listen to me."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I would choose mood swings because my feelings change quickly, and I often cannot tell why.",
+       "p2": "The robot should be a good listener, so I can say what I feel. Then I will look for the cause myself, while it reminds me to stay calm."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "If a robot helper could solve one of these problems for me, I would pick the second one, caring what others think. … This problem bothers me every day, and many of my choices are not really mine.",
+       "p2": "My robot would be honest and patient, and it would keep records. … That is the robot's part. My part is to make one small decision on my own each week, like choosing a club."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "If a robot helper could solve only one of these three problems for me, I would choose the third picture, the mood swings. … It is also the one I cannot explain to anyone, because I cannot explain it to myself.",
+       "p2": "The robot I want is not one that cheers me up. … If I am the one in the wrong, I need to hear it, not to be comforted."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只說選了什麼；「加上銜接詞」用 because 交代為什麼選，這是題目明確要求的；基礎版用同學笑過自己的黃外套、傳訊息前改了好幾遍這些親身的事，把「在意別人想法」寫具體；進階版把原因寫成只有自己才說得出的感受。",
+      "**第二段：**「只寫 what」只說機器人「很親切、會聽」；「加上銜接詞」說清楚機器人做什麼（聽、提醒）、自己做什麼（找原因），並用 while 把兩邊的分工放在同一句；基礎版直接寫「機器人的部分」和「我的部分」；進階版連「不需要機器人做什麼」也想到了。"
+     ]
+    }
    }
   },
   {
