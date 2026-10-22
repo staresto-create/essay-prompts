@@ -1946,7 +1946,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0N089635234967309929",
     "label": "作文佳作",
-    "note": "大考中心 112 年 3 月 31 日公布英文作文佳作九篇，附原卷影像檔與簡要評分說明。四張圖都有人用，分布相當平均，例 2 那張生氣的臉最多、例 3 那張笑翻了的臉次之。九篇的第二段誤會來源很集中——傳笑臉給正在難過或做錯事的人，對方讀成不當一回事；而且九篇全都發生在一對一的訊息裡。想看不一樣的寫法可以挑幾篇：第 3 篇寫家人為了一個表情符號跟陌生人起爭執，第 7 篇寫祖母傳來一則感人的訊息卻加了笑翻了的符號，第 8 篇寫爺爺回了一個表情符號而引起誤會，最後收在鼓勵長輩多用社群媒體、減少代溝。化解的方法九篇也不一樣，有人主張補一句文字、有人主張嚴肅話題少用表情符號、有人主張改用打電話或當面講。"
+    "note": "大考中心 112 年 3 月 31 日公布英文作文佳作九篇，附原卷影像檔與簡要評分說明。四個例號都有人用：第一段舉的例子，例 1 有三篇、例 2 五篇、例 3 五篇、例 4 四篇（第 3 篇沒標例號）。第二段的情境各篇不同：第 1、5、8、9 篇是考試不及格、成績不好或遲到，誤會出在笑臉類的符號；第 3 篇寫家人為了一個符號跟陌生人起爭執；第 4 篇寫自己的創意符號讓朋友覺得被冒犯；第 7 篇寫祖母傳來感人的訊息，卻加了例 3 的符號；第 8 篇寫爺爺回了一個符號而引起誤會，最後收在鼓勵長輩多用社群媒體、減少代溝。化解方法也不一樣：第 1、2 篇主張補上文字，第 5、7 篇主張嚴肅的話題少用或避免符號，第 4 篇主張改用面對面或打電話。"
    },
    "source": "大學入學考試中心 112 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為各種表情符號。要求說明人們為何喜歡用，並舉例其功能；再以經驗為例，討論可能的誤會與解決\n方法。",
@@ -2323,6 +2323,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、四個表情符號怎麼用。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心選才電子報第 336 期說明，第一段要說明人們為什麼喜歡用表情符號，並從四個符號中**舉一至二例**，說明它在溝通上的功能；第二段要以**個人或親友的經驗**為例，討論表情符號造成的誤會或困擾，再**提出化解的方法**。",
+       "電子報提到，分數偏低的常見原因是沒有針對提示書寫，有遺漏或內容不足，沒有完成寫作任務。所以第二段「舉經驗」和「提方法」兩樣都要寫。"
+      ]
+     },
+     {
+      "h": "四張圖是舉例的材料，不是選單",
+      "p": [
+       "九篇佳作的第一段，四個符號都有人用：例 1 有 3 篇（第 2、6、8 篇），例 2 有 5 篇（第 2、4、6、8、9 篇），例 3 有 5 篇（第 1、4、5、7、9 篇），例 4 有 4 篇（第 1、5、6、7 篇）。第 3 篇沒標例號，只寫笑臉和生氣的符號。可見挑哪一個都可以，重點是舉了以後要說明它在溝通上做了什麼事。"
+      ]
+     },
+     {
+      "h": "第二段：誤會和化解方法，兩樣都要",
+      "p": [
+       "**誤會：**九篇的情境各不相同。第 1、5、8、9 篇都和考試不及格、成績不好或遲到有關；第 3 篇是家人為了一個符號與陌生人起爭執；第 4 篇是自己的創意符號讓朋友覺得被冒犯；第 7 篇是祖母傳來感人的訊息卻加了例 3 的符號。",
+       "**化解：**第 1、2 篇主張在符號之外補上文字；第 5、7 篇主張嚴肅的話題少用或避免符號；第 4 篇主張改用面對面或打電話。化解方法不必很多，但要和前面的誤會接得上。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "People use emojis. They make messages fun.",
+       "p2": "Emojis can cause trouble. I sent one to my friend."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "People love emojis because a text shows only words, so a smiling face tells the reader that the writer is glad to help.",
+       "p2": "Last week I sent a smiling face to a friend who had failed a test. She thought I was laughing at her, so I called her and explained what I meant."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "People love emojis because a text message shows only words. … In short, emojis show the feelings that words leave out.",
+       "p2": "An emoji can also cause trouble, though. … Now I use emojis only when my message is already clear without them."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "Emojis have become part of the way people talk online, and the reason is easy to see. … They convey the tone that plain text leaves out, and they do it faster than any sentence could.",
+       "p2": "That same speed, however, can work against the writer. … What I do now is to reserve emojis for messages that are already clear without them."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只說有表情符號、很有趣，沒有說它在溝通上做了什麼；「加上銜接詞」用 because 交代原因，再用 so 帶出符號的功能。基礎版和進階版再把原因講成「文字缺了語氣」，並用一個符號舉例，最後以一句話收回「符號補上文字沒說的感受」。",
+      "**第二段：**「只寫 what」只有事件，沒有誤會的原因，也沒有方法；「加上銜接詞」用 so 把「被誤解」和「打電話解釋」接起來。基礎版和進階版再把經驗寫具體，並以「現在我怎麼做」收尾，化解方法就有了。"
+     ]
+    }
    }
   },
   {
@@ -2366,7 +2425,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0M090357391698958860",
     "label": "作文佳作",
-    "note": "大考中心 111 年 3 月 31 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。第一段十篇寫法相當一致——圖 A 一律寫遊樂設施與孩子玩樂，圖 B 一律寫樹木、綠地與寧靜，差距拉開的地方在第二段。十篇裡只有第 4 篇明白寫出理想公園「應該像圖 B」，其餘九篇都沒有二選一：第 1、2、7、9 篇把兩張圖的功能都留下來，讓不同的人各取所需；第 3、5、6、8、10 篇則跳開圖片自己開條件。想看不一樣的寫法可以挑幾篇：第 2 篇收在友善身障者的步道，第 3 篇寫高齡者的休閒空間與生態保育，第 5 篇把公園搬到山裡、寫瀑布與魚蟹，收在減緩全球暖化，第 8 篇列舉自然景觀、遼闊綠地與偶爾舉辦的音樂會，第 9 篇寫遊樂場、綠地與單車道、連寵物都算進去，第 10 篇收在自我療癒。官方前言另外寫明，這十篇內容符合作答說明要求，敘寫完整、條理分明，文法、句構、用字、拼字雖不盡完美，但仍屬佳作。"
+    "note": "大考中心 111 年 3 月 31 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇的第一段，圖 A 都寫遊樂設施並連到孩子或親子；圖 B 的寫法比較分歧，有人寫樹木、林蔭（第 1、2、4、9、10 篇），有人寫寧靜、平靜或放鬆的氣氛（第 1、3、5、7、10 篇），第 6 篇寫適合照相與繪畫的人，第 8 篇寫自然景觀。第二段只有第 4 篇明寫理想公園「應像圖 B」，第 7 篇明寫「結合兩種公園的特色」，第 5 篇明寫「不同於所提供之圖片」，把公園搬到山裡、寫瀑布與魚蟹，收在減緩全球暖化。其餘各篇另開條件：第 2 篇收在友善身障者的步道，第 3 篇寫高齡者的休閒空間與生態保育，第 8 篇列舉自然景觀、遼闊綠地與偶爾舉辦的音樂會，第 9 篇寫遊樂場、綠地與單車道、連寵物都算進去，第 10 篇收在自我療癒。官方前言另外寫明，這十篇內容符合作答說明要求，敘寫完整、條理分明，文法、句構、用字、拼字雖不盡完美，但仍屬佳作。"
    },
    "source": "大學入學考試中心 111 學年度學科能力測驗英文考科",
    "model": {
@@ -2686,6 +2745,66 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、兩張圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心選才電子報第 330 期說明，第一段要根據兩張公園圖片，描述**圖 A 和圖 B 各有什麼特色**；第二段要說明**你心目中公園的樣貌與特色，並解釋理由**。",
+       "電子報提到，分數偏低的常見原因是沒有針對提示書寫，有遺漏或內容不足。所以第二段不能只列特色，每一項特色都要附上理由。"
+      ]
+     },
+     {
+      "h": "第一段：兩張圖要分開寫，各寫出特色",
+      "p": [
+       "十篇佳作裡，圖 A 都寫遊樂設施，並連到孩子或親子；圖 B 的寫法比較分歧：有人抓樹木、林蔭（第 1、2、4、9、10 篇），有人抓寧靜、平靜或放鬆的氣氛（第 1、3、5、7、10 篇），也有人寫它適合拍照、繪畫（第 6 篇）或野餐、帶寵物散步（第 9 篇）。",
+       "這個「各有特色」的意思，就是先說清楚兩張圖不一樣在哪裡，不是把兩張圖混成一句。"
+      ]
+     },
+     {
+      "h": "第二段：不一定要二選一",
+      "p": [
+       "題目沒有要你選圖 A 或圖 B。十篇佳作裡，明寫理想公園「應像圖 B」的只有第 4 篇，明寫「結合兩種公園的特色」的是第 7 篇，明寫「不同於所提供之圖片」的是第 5 篇；其他各篇另開條件，例如友善身障者的步道（第 2 篇）、高齡者的休閒空間（第 3 篇）、自我療癒（第 10 篇）。",
+       "所以選哪一種都可以，關鍵是**特色加理由**：為什麼這樣的公園是理想的？"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Picture A is a park. Picture B is a park too.",
+       "p2": "My ideal park has trees. It also has a playground."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Picture A is a playground built for children, while picture B is a quiet lawn with tall trees.",
+       "p2": "My ideal park would keep a small playground near the gate and leave the rest green, because children need a place to run and older people need shade."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The two parks in the pictures are for different visitors. … Park A is full of action, while park B is calm and quiet.",
+       "p2": "My ideal park would have both. … That way, noisy kids and quiet older people can enjoy the same park."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The two parks in the pictures are built for completely different visitors. … Park A offers action; park B offers space and silence.",
+       "p2": "My ideal park would not choose between the two. … A good park lets the noisy half and the quiet half sit side by side without disturbing each other, and that balance is what I would build for."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只說兩張都是公園，看不出差別；「加上銜接詞」用 while 把兩張圖放在一起比，差別就清楚了。基礎版和進階版再補上圖中的細節，最後用一句話收回「兩座公園各適合誰」。",
+      "**第二段：**「只寫 what」只有兩項特色，沒有理由；「加上銜接詞」用 because 把每項特色接上理由，任務的「解釋理由」就完成了。基礎版和進階版再用自己家附近的公園當出發點，把理由寫具體。"
+     ]
+    }
    }
   },
   {
@@ -2763,7 +2882,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0L089568109203251304",
     "label": "作文佳作",
-    "note": "大考中心 110 年 3 月 31 日公布英文作文佳作十一篇，附原卷影像檔與簡要評分說明。官方說明裡標明立場的十篇，六篇站場所主人、四篇站遊客。取材大多是花季的花海，想寫得不一樣的，第 4 篇最值得看：同樣站場所主人，卻把遊客寫成有利也有弊，一面帶來商機，一面帶來垃圾與環境傷害。第 9 篇把場景換成蘭花園，寫小孩踐踏草坪、父母攀折花朵；第 11 篇的主人最後決定不再開放遊客入園。官方前言另外寫明，這十一篇在詞彙、文法、句構與拼字上仍有些許缺失，但仍屬佳作。"
+    "note": "大考中心 110 年 3 月 31 日公布英文作文佳作十一篇，附原卷影像檔與簡要評分說明。官方說明裡標明立場的十篇，六篇（第 1、2、4、6、10、11 篇）站場所主人，四篇（第 5、7、8、9 篇）站遊客，第 3 篇沒有標明。十一篇的場景都是花（花海、花田、花園）。想寫得不一樣的，第 4 篇最值得看：同樣站場所主人，卻把遊客寫成有利也有弊，一面帶來商機，一面帶來垃圾與環境傷害。第 9 篇寫的是蘭花園，小孩踐踏草坪、父母攀折花朵；第 11 篇的主人最後決定不再開放遊客入園。官方前言另外寫明，這十一篇在詞彙、文法、句構與拼字上仍有些許缺失，但仍屬佳作。"
    },
    "source": "大學入學考試中心 110 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為遊客進入花田踐踏，無視「請勿踐踏」告示牌。要求描述圖片內容，再以遊客或場所主人立場表達\n看法。",
@@ -3127,6 +3246,66 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、怎麼選立場。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心選才電子報第 320 期說明，第一段要**描述圖片內容**，包括圖中的人、事、物，以及發生了什麼事；第二段要**以遊客或場所主人的立場**，表達你對這件事的看法。",
+       "電子報提到，得分高低取決於內容是否豐富、組織是否連貫，以及寫作任務是否完成。所以第一段要把「人、事、物」都交代到，第二段要先選定立場，再針對第一段描述的事件說看法。"
+      ]
+     },
+     {
+      "h": "第一段：人、事、物，要有細節",
+      "p": [
+       "十一篇佳作的簡評，場景都是花（花海、花田、花園、蘭花園），其中十篇（除第 6 篇外）提到遊客無視告示牌或標語，八篇（第 1、2、5、6、8、9、10、11 篇）寫到花被踐踏或毀損。",
+       "可以看到，第一段的「事」不是只說有人在拍照，而是寫出**有告示牌，卻沒人理會**，這樣第二段的看法才有東西可以接。"
+      ]
+     },
+     {
+      "h": "第二段：選一個立場，講到底",
+      "p": [
+       "十一篇中，標明站場所主人的有 6 篇（第 1、2、4、6、10、11 篇），站遊客的有 4 篇（第 5、7、8、9 篇），第 3 篇沒有標明。兩種立場都有佳作，所以不用猜哪一種比較安全。",
+       "主人的看法常見的是心痛、憤怒，並提出做法，例如建圍籬（第 6 篇）、不再開放入園（第 11 篇）、盼望政府制定法規（第 10 篇）；遊客則寫愧疚、懊惱，並提出改善的建議（第 7、9 篇）。也有人像第 4 篇，同樣站主人，卻同時寫出遊客的利與弊。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "There are many people. There are flowers. There is a sign.",
+       "p2": "I am a visitor. I think it is bad."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Many visitors are standing in the flower field, even though a sign asks them to stay on the path.",
+       "p2": "As a visitor, I feel ashamed because I walked into the field too, and the farmer worked hard all year to grow these flowers."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "This news photo shows a flower farm on a spring weekend. … A sign on the right asks visitors not to walk into the field, but nobody seems to care.",
+       "p2": "I was there that morning, and I walked into the field too, so I am not blaming anyone in the picture. … It is a small way to thank the farmer who spent a whole year growing the flowers we all came to photograph."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The photograph on the news was taken at a flower farm on an ordinary spring weekend. … the two women at the front walk right into the widest of them.",
+       "p2": "I was there that morning, and I stepped in as well, so this is not written to blame anyone in the picture. … it is the least courtesy we owe the person who spent a whole year growing what we all came to photograph."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只是點名，人、事、物各自獨立；「加上銜接詞」用 even though 把「站在花田裡」和「有告示牌」接起來，圖中發生的事就看得見了。基礎版和進階版再補上人數、動作和告示牌的位置，最後落在「沒有人理會」。",
+      "**第二段：**「只寫 what」只有立場，沒有理由；「加上銜接詞」用 because 把自己的感受和花農的辛苦接起來。基礎版和進階版以「我自己也走進去」切入，立場是遊客，再用一年的栽種收尾，看法就有重量。"
+     ]
+    }
    }
   },
   {
