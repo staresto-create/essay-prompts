@@ -421,6 +421,14 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
   .reset{flex:0 0 auto;padding:4px 9px;font-size:12.5px}
   .reset .v-long{display:none}
 }
+.unitbar{margin-top:16px;font-size:14px;line-height:2.1}
+.unitbar .ublab{display:inline-block;font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--ad-vcard-fg);background:var(--ad-vink-soft-border);border-radius:10px;padding:0 9px;margin-right:8px;line-height:1.9;white-space:nowrap}
+.unitbar a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text-underline-offset:3px;padding:0 2px;white-space:nowrap}
+.unitbar .sep{color:var(--ad-vrule-border);padding:0 6px}
+@media (max-width:640px){.unitbar{font-size:13.5px}.unitbar .sep{padding:0 4px}}
+.toBar{position:fixed;right:12px;bottom:14px;z-index:20;font-size:12.5px;font-weight:700;line-height:1.3;background:var(--ad-vcard-bg);color:var(--ad-vseal-fg);border:1px solid var(--ad-vink-soft-border);border-radius:999px;padding:5px 11px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.18)}
+.toBar[hidden]{display:none}
+@media print{.toBar,.unitbar{display:none!important}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 
 /* 深色模式（2026-10-23）：淺色數值與原本相同；只在螢幕、手機或電腦設成深色外觀時生效，列印不受影響。 */
@@ -445,6 +453,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
     <h1><span class="sub">歷屆試題索引</span>英文作文題目</h1>
     <p class="standfirst">學測與指定科目考試的英文作文題目，83 學年度至今全數收錄，每一題都附範文。可依年度、文體、主題篩選，圖片題附原卷圖片。免費使用，不需註冊。</p>
     <p class="counts">共 <b id="cTotal">–</b> 題　｜　圖片題 <b id="cPic">–</b> 題　｜　非正式考題 <b id="cUnof">–</b> 題</p>
+    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><span class="ublab">本頁單元</span><a href="#u-guide">說明</a><span class="sep">·</span><a href="#u-list">題目列表</a><span class="sep">·</span><a href="#pic=1" id="uPic">看圖題</a><span class="sep">·</span><a href="#selfcheck">寫完逐項檢查</a><span class="sep">·</span><a href="#graded-samples">評分樣例</a><span class="sep">·</span><a href="#official-table">逐年對照表</a></nav>
   </div>
 </header>
 
@@ -457,7 +466,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
   </section>
 
   <!-- 動筆前先讀的四節，放在題目之前；查閱用的逐年對照、檢查清單與樣例留在頁尾。 -->
-  <section class="notes guide" aria-label="寫作前的說明">
+  <section class="notes guide" id="u-guide" aria-label="寫作前的說明">
     <h2>兩種命題方式</h2>
     <p>學測與指考的英文作文，命題方式分成兩路，要練習的能力不一樣。</p>
     <p><strong>看圖寫作</strong>——題目給一張照片、一組連環圖（comic strip）或一份圖表，要你依圖敘事或依圖說明。這種以圖為題幹的作法，在英語測驗研究中稱為 picture prompt。學測 41 題中有 25 題屬於這一類，其中連環圖占了大宗，考的是把四格圖串成一個有頭有尾的故事。</p>
@@ -479,7 +488,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
     <p>本題庫收錄的 63 題中，有 10 題不是正式考試題目，包括補考、參考試卷、試辦考試與課綱參考試卷，卡片上都用虛線邊框與標籤標明。參考試卷是大考中心為預告命題方向而公布的示例，其中部分題目直接採用歷年考題——例如 115 學年度起適用參考試卷的作文題，與 111 學測完全相同。遇到這種情形，本題庫在那一題下方註明來源，不合併也不隱藏。這 10 題都看得到範文：7 題另寫了範文；3 題沿用歷屆考題，卡片上的連結可以直接跳到原題的範文。</p>
   </section>
 
-  <section class="strip" aria-labelledby="stripH">
+  <section class="strip" id="u-list" aria-labelledby="stripH">
     <div class="strip-head">
       <h2 id="stripH">年度一覽</h2>
       <span>點一下年度就能篩選；再點一次取消。畫斜線的年度，是目前的條件篩掉的。這一帶只列正式考題，補考與參考試卷不在其中，仍會出現在下方題目列表。哪一年公布了哪幾樣官方資料，見下方<a href="#official-table">逐年對照表</a>。</span>
@@ -524,6 +533,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
     </details>
   </section>
 </main>
+<a class="toBar" id="toBar" href="#unitbar" hidden>↑ 單元列</a>
 
 <footer class="wrap">
   <p class="fnav"><a href="https://staresto-create.github.io/JCEE-vocab-questions/">← 回題庫首頁</a><span class="fsep">·</span><a href="https://staresto-create.github.io/JCEE-vocab-questions/#rules">🧩 五個詞：拼圖的規則</a></p>
@@ -1494,6 +1504,28 @@ $('#reset').addEventListener('click',()=>{
 });
 $('#tPic').addEventListener('change',e=>{S.pic=e.target.checked;render()});
 $('#tOfficial').addEventListener('change',e=>{S.official=e.target.checked;render()});
+</script>
+<script>
+/* 頁首單元列：「看圖題」要套用「只看圖片題」；「↑ 單元列」在單元列捲出畫面後才出現。讀不到時，連結退回一般錨點。 */
+(function(){
+  var pic=document.getElementById('uPic');
+  if(pic) pic.addEventListener('click',function(e){
+    e.preventDefault();
+    try{
+      S.pic=true; render();
+      var el=document.getElementById('u-list'); if(el) el.scrollIntoView({block:'start'});
+    }catch(err){ location.hash='#pic=1'; location.reload(); }
+  });
+  var bar=document.getElementById('unitbar'), to=document.getElementById('toBar');
+  if(to){
+    to.addEventListener('click',function(e){ e.preventDefault(); if(bar) bar.scrollIntoView({block:'center'}); });
+    if('IntersectionObserver' in window && bar){
+      new IntersectionObserver(function(es){
+        var r=es[0]; to.hidden = r.isIntersecting || r.boundingClientRect.top>=0;
+      }).observe(bar);
+    }
+  }
+})();
 </script>
 </body>
 </html>
