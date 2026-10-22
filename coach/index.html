@@ -79,6 +79,15 @@ textarea#out{width:100%;min-height:340px;font-family:var(--mono);font-size:13px;
  :root{--ad-vcard-bg:#1E2322;--ad-vcard-fg:#151918;--ad-vfocus-border:#EAA7A0;--ad-vink-bg:#E8ECEA;--ad-vink-border:#E8ECEA;--ad-vink-fg:#E8ECEA;--ad-vink-soft-border:#B4BCB8;--ad-vink-soft-fg:#B4BCB8;--ad-vpaper-bg:#151918;--ad-vpaper-fg:#151918;--ad-vrule-bg:#434B48;--ad-vrule-border:#434B48;--ad-vrule-soft-bg:#2E3533;--ad-vrule-soft-border:#2E3533;--ad-vseal-bg:#C9625A;--ad-vseal-border:#C9625A;--ad-vseal-fg:#EAA7A0;--ad-vwash-bg:#5F8C99;--ad-vwash-border:#5F8C99;--ad-vwash-fg:#9FC4CF;--ad-x000000-bg:#FFFFFF;--ad-x0E7C72-fg:#B4E9E5;--ad-x2C5AA6-fg:#99B3DD;--ad-x2E6B4F-border:#83B9A0;--ad-x2F2B24-fg:#E1DFDB;--ad-x3E3A31-fg:#D9D7D3;--ad-x4A443A-fg:#D4D1CD;--ad-x5C5342-fg:#CFCBC4;--ad-x5E6A6F-fg:#B9BEC0;--ad-x5F594C-fg:#CAC7C2;--ad-x6B5B3E-fg:#D3CAB9;--ad-x6B6455-fg:#C4C2BC;--ad-x6E5F38-fg:#D7CEB8;--ad-x6E6553-fg:#C5C1BA;--ad-x6F7B80-fg:#B0B4B6;--ad-x7A7263-fg:#BCB9B4;--ad-x8A8271-fg:#B5B1AB;--ad-x8A8278-fg:#C2BFBB;--ad-xA3357A-fg:#D89BC1;--ad-xA79C84-fg:#ACA699;--ad-xA9540A-fg:#E4C1A3;--ad-xB9A87A-border:#9B8C63;--ad-xC9BFA6-border:#796F55;--ad-xD7C9A5-border:#7C6D48;--ad-xD9CFB6-border:#6E6346;--ad-xD9E2E6-border:#3D4B51;--ad-xDED5BF-border:#685D42;--ad-xE3D9BF-border:#695D3C;--ad-xE3DCC9-border:#60573D;--ad-xE4E9E6-bg:#212422;--ad-xEDF4EF-bg:#1B221D;--ad-xF2E9D2-bg:#2D281B;--ad-xF2F2F0-bg:#1F1F1D;--ad-xF4EEDF-bg:#28241A;--ad-xF4EFE2-bg:#27231A;--ad-xF5F9FA-bg:#181F20;--ad-xF6F1E2-bg:#282419;--ad-xF7F1E1-bg:#292418;--ad-xFBF2F1-bg:#241715;--ad-xFBF7EC-bg:#262215;--ad-xFBF8F0-bg:#242015;--ad-xFDFBF5-bg:#242013;--ad-xFFFFFF-bg:#252B29;--ad-xFFFFFF-fg:#151918;--ad-xrgba9E2B25a16-bg:rgba(201,98,90,.32);color-scheme:dark}
  a:where(:link,:visited){color:var(--ad-vseal-fg)}
 }
+.unitbar{margin:12px 0 18px; font-size:14px; line-height:1.5;}
+.unitbar .ubrow{display:flex; flex-wrap:wrap; align-items:center; gap:6px;}
+.unitbar .ubrow + .ubrow{margin-top:8px;}
+.unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
+.unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
+.unitbar a{color:var(--ad-vseal-fg);}
+.unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
+.unitbar .cur{background:rgba(128,128,128,.2);}
+@media print{.unitbar, .toBar{display:none!important;}}
 </style>
 <style id="anti-copy">
 /* 防盜用措施（2026-10-14）：畫面浮水印、列印浮水印、頁尾授權聲明 */
@@ -98,17 +107,18 @@ textarea#out{width:100%;min-height:340px;font-family:var(--mono);font-size:13px;
 </header>
 
 <main class="wrap">
+  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">同一站</span><a href="../">歷屆題目</a><a href="../practice/">作文練習題型</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#c1">選一題</a><a href="#c2">選檢查的深度</a><a href="#c3">複製這一段</a></div></nav>
 
   <section>
     <p class="step">STEP 1</p>
-    <h2>選一題</h2>
+    <h2 id="c1">選一題</h2>
     <p class="hint">目前開放兩段任務型的圖片題。連環圖故事題與圖表題需要另一套檢查方式，還在做。</p>
     <div class="qgrid" id="qgrid"></div>
   </section>
 
   <section>
     <p class="step">STEP 2</p>
-    <h2>選檢查的深度</h2>
+    <h2 id="c2">選檢查的深度</h2>
     <div class="lv">
       <button class="lvb" data-lv="basic" aria-pressed="false">先把句子寫對</button>
       <button class="lvb" data-lv="std" aria-pressed="true">完整檢查</button>
@@ -120,7 +130,7 @@ textarea#out{width:100%;min-height:340px;font-family:var(--mono);font-size:13px;
   <section>
     <p class="step">STEP 3</p>
     <div class="outhd">
-      <h2>複製這一段</h2>
+      <h2 id="c3">複製這一段</h2>
       <div>
         <span class="copied" id="copied" hidden>已複製</span>
         <button class="copy" id="copy">複製</button>
@@ -321,5 +331,32 @@ document.getElementById("copy").addEventListener("click", function(){
 });
 </script>
 <p class="cc-note">本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant" target="_blank" rel="license noopener">CC BY-NC 4.0</a>（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。試題來源與完整說明請見<a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms">使用與著作權</a>。</p>
+<script>
+/* 單元列：連到收合區塊的錨點會先展開；「↑ 單元列」在單元列捲出畫面後才出現 */
+(function(){
+  var bar=document.getElementById('unitbar'), to=document.getElementById('toBar');
+  if(bar) bar.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
+    var t=document.getElementById(a.getAttribute('href').slice(1)); if(!t) return;
+    var d=t.tagName==='DETAILS'?t:t.closest('details'); if(d) d.open=true;
+  });
+  if(to){
+    to.addEventListener('click',function(e){e.preventDefault(); if(bar) bar.scrollIntoView({block:'center'});});
+    function bg(){
+      var c=getComputedStyle(document.body).backgroundColor;
+      if(!c||c==='rgba(0, 0, 0, 0)'||c==='transparent') c=getComputedStyle(document.documentElement).backgroundColor;
+      if(!c||c==='rgba(0, 0, 0, 0)'||c==='transparent') c='#fff';
+      to.style.background=c;
+    }
+    if('IntersectionObserver' in window && bar){
+      new IntersectionObserver(function(es){
+        var r=es[0], hide=r.isIntersecting||r.boundingClientRect.top>=0;
+        if(!hide) bg();
+        to.hidden=hide;
+      }).observe(bar);
+    }
+  }
+})();
+</script>
 </body>
 </html>

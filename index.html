@@ -421,13 +421,14 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
   .reset{flex:0 0 auto;padding:4px 9px;font-size:12.5px}
   .reset .v-long{display:none}
 }
-.unitbar{margin-top:16px;font-size:14px;line-height:2.1}
-.unitbar .ublab{display:inline-block;font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--ad-vcard-fg);background:var(--ad-vink-soft-border);border-radius:10px;padding:0 9px;margin-right:8px;line-height:1.9;white-space:nowrap}
-.unitbar a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text-underline-offset:3px;padding:0 2px;white-space:nowrap}
-.unitbar .sep{color:var(--ad-vrule-border);padding:0 6px}
-@media (max-width:640px){.unitbar{font-size:13.5px}.unitbar .sep{padding:0 4px}}
-.toBar{position:fixed;right:12px;bottom:14px;z-index:20;font-size:12.5px;font-weight:700;line-height:1.3;background:var(--ad-vcard-bg);color:var(--ad-vseal-fg);border:1px solid var(--ad-vink-soft-border);border-radius:999px;padding:5px 11px;text-decoration:none;box-shadow:0 2px 8px rgba(0,0,0,.18)}
-.toBar[hidden]{display:none}
+.unitbar{margin:12px 0 18px; font-size:14px; line-height:1.5;}
+.unitbar .ubrow{display:flex; flex-wrap:wrap; align-items:center; gap:6px;}
+.unitbar .ubrow + .ubrow{margin-top:8px;}
+.unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
+.unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
+.unitbar a{color:var(--ad-vseal-fg);}
+.unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
+.unitbar .cur{background:rgba(128,128,128,.2);}
 @media print{.toBar,.unitbar{display:none!important}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 
@@ -453,7 +454,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
     <h1><span class="sub">歷屆試題索引</span>英文作文題目</h1>
     <p class="standfirst">學測與指定科目考試的英文作文題目，83 學年度至今全數收錄，每一題都附範文。可依年度、文體、主題篩選，圖片題附原卷圖片。免費使用，不需註冊。</p>
     <p class="counts">共 <b id="cTotal">–</b> 題　｜　圖片題 <b id="cPic">–</b> 題　｜　非正式考題 <b id="cUnof">–</b> 題</p>
-    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><span class="ublab">本頁單元</span><a href="#u-guide">說明</a><span class="sep">·</span><a href="#u-list">題目列表</a><span class="sep">·</span><a href="#pic=1" id="uPic">看圖題</a><span class="sep">·</span><a href="#selfcheck">寫完逐項檢查</a><span class="sep">·</span><a href="#graded-samples">評分樣例</a><span class="sep">·</span><a href="#official-table">逐年對照表</a></nav>
+    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-guide">說明</a><a href="#u-list">題目列表</a><a href="#pic=1" id="uPic">看圖題</a><a href="#selfcheck">寫完逐項檢查</a><a href="#graded-samples">評分樣例</a><a href="#official-table">逐年對照表</a></div></nav>
   </div>
 </header>
 

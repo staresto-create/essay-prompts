@@ -109,6 +109,17 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
  :root{--ad-vcard-bg:#1E2322;--ad-vcard-fg:#151918;--ad-vfocus-border:#EAA7A0;--ad-vink-bg:#E8ECEA;--ad-vink-border:#E8ECEA;--ad-vink-fg:#E8ECEA;--ad-vink-soft-border:#B4BCB8;--ad-vink-soft-fg:#B4BCB8;--ad-vpaper-bg:#151918;--ad-vpaper-fg:#151918;--ad-vrule-bg:#434B48;--ad-vrule-border:#434B48;--ad-vrule-soft-bg:#2E3533;--ad-vrule-soft-border:#2E3533;--ad-vseal-bg:#C9625A;--ad-vseal-border:#C9625A;--ad-vseal-fg:#EAA7A0;--ad-vwash-bg:#5F8C99;--ad-vwash-border:#5F8C99;--ad-vwash-fg:#9FC4CF;--ad-x000000-bg:#FFFFFF;--ad-x0E7C72-fg:#B4E9E5;--ad-x2C5AA6-fg:#99B3DD;--ad-x2E6B4F-border:#83B9A0;--ad-x2F2B24-fg:#E1DFDB;--ad-x3E3A31-fg:#D9D7D3;--ad-x4A443A-fg:#D4D1CD;--ad-x5C5342-fg:#CFCBC4;--ad-x5E6A6F-fg:#B9BEC0;--ad-x5F594C-fg:#CAC7C2;--ad-x6B5B3E-fg:#D3CAB9;--ad-x6B6455-fg:#C4C2BC;--ad-x6E5F38-fg:#D7CEB8;--ad-x6E6553-fg:#C5C1BA;--ad-x6F7B80-fg:#B0B4B6;--ad-x7A7263-fg:#BCB9B4;--ad-x8A8271-fg:#B5B1AB;--ad-x8A8278-fg:#C2BFBB;--ad-xA3357A-fg:#D89BC1;--ad-xA79C84-fg:#ACA699;--ad-xA9540A-fg:#E4C1A3;--ad-xB9A87A-border:#9B8C63;--ad-xC9BFA6-border:#796F55;--ad-xD7C9A5-border:#7C6D48;--ad-xD9CFB6-border:#6E6346;--ad-xD9E2E6-border:#3D4B51;--ad-xDED5BF-border:#685D42;--ad-xE3D9BF-border:#695D3C;--ad-xE3DCC9-border:#60573D;--ad-xE4E9E6-bg:#212422;--ad-xEDF4EF-bg:#1B221D;--ad-xF2E9D2-bg:#2D281B;--ad-xF2F2F0-bg:#1F1F1D;--ad-xF4EEDF-bg:#28241A;--ad-xF4EFE2-bg:#27231A;--ad-xF5F9FA-bg:#181F20;--ad-xF6F1E2-bg:#282419;--ad-xF7F1E1-bg:#292418;--ad-xFBF2F1-bg:#241715;--ad-xFBF7EC-bg:#262215;--ad-xFBF8F0-bg:#242015;--ad-xFDFBF5-bg:#242013;--ad-xFFFFFF-bg:#252B29;--ad-xFFFFFF-fg:#151918;--ad-xrgba9E2B25a16-bg:rgba(201,98,90,.32);color-scheme:dark}
  a:where(:link,:visited){color:var(--ad-vseal-fg)}
 }
+.unitbar{margin:12px 0 18px; font-size:14px; line-height:1.5;}
+.unitbar .ubrow{display:flex; flex-wrap:wrap; align-items:center; gap:6px;}
+.unitbar .ubrow + .ubrow{margin-top:8px;}
+.unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
+.unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
+.unitbar a{color:var(--ad-vseal-fg);}
+.unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
+.unitbar .cur{background:rgba(128,128,128,.2);}
+@media print{.unitbar, .toBar{display:none!important;}}
+.toBar{position:fixed; right:12px; bottom:14px; z-index:20; font-size:12.5px; font-weight:700; line-height:1.3; color:var(--ad-vseal-fg); border:1px solid currentColor; border-radius:999px; padding:5px 11px; text-decoration:none; box-shadow:0 2px 8px rgba(0,0,0,.18);}
+.toBar[hidden]{display:none;}
 </style>
 <style id="anti-copy">
 /* 防盜用措施（2026-10-14）：畫面浮水印、列印浮水印、頁尾授權聲明 */
@@ -126,21 +137,22 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
   <p class="standfirst">動筆之前，先想清楚要寫什麼。判斷只是暖身，每一題真正要交出來的是你自己寫的英文。</p>
 </div>
 
-<p>這一頁有三種練習，一共八個題組。想從哪一組開始都可以，不必從頭做起。寫完可以複製起來請教老師，或是交由 AI 批改。</p>
+<nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">同一站</span><a href="../">歷屆題目</a><a href="../coach/">寫完逐項檢查</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u1">拆解主題句</a><a href="#u2">選出離題句</a><a href="#u3">兩段大綱框</a><a href="#u4">收尾句</a><a href="#u5">複製請人批改</a></div></nav>
+  <p>這一頁有三種練習，一共八個題組。想從哪一組開始都可以，不必從頭做起。寫完可以複製起來請教老師，或是交由 AI 批改。</p>
 
 <div class="note-box">
   <b>本頁的英文句子是本題庫自己寫的，不是歷屆試題，也不是考生佳作。</b>每題的情境取自一則學測作文題，年度標在題目下方。
 </div>
 
-<h2>一、拆解主題句</h2>
+<h2 id="u1">一、拆解主題句</h2>
 <p>好的主題句會先說出你要談的主題（topic），再說出你答應要談的支撐論點（supporting ideas）。把這兩件事拆出來，然後替每個支撐論點補上一個具體細節——那就是你的大綱。</p>
 <div id="st"></div>
 
-<h2>二、選出離題句</h2>
+<h2 id="u2">二、選出離題句</h2>
 <p>主題句下方列出四個句子，其中一句離題。先選出來，再把它改寫成一句真正落在範圍內的支持句。</p>
 <div id="ot"></div>
 
-<h2>三、兩段大綱框</h2>
+<h2 id="u3">三、兩段大綱框</h2>
 <p>寫學測作文有點像畫一棵樹。主幹是你那一段的主題句，主枝是你要談的幾件事，小枝是每件事底下的具體細節。</p>
 <div class="note-box">
   <p style="margin:0 0 6px"><b>主幹決定能長出哪些枝，也決定長幾根。</b>主題句說了要談兩件事，就兩根主枝；只說一件事，就一根。多長出來的那一根是別棵樹的枝，接在這裡會被扣分。</p>
@@ -150,7 +162,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
 </div>
 <div id="ol"></div>
 
-<h2>四、收尾句怎麼寫</h2>
+<h2 id="u4">四、收尾句怎麼寫</h2>
 <p>第二段的最後一句要收得起來。三種收法：</p>
 <dl class="endings" id="endings"></dl>
 <div class="note-box">
@@ -158,7 +170,7 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
   <div style="font-size:13px;color:var(--ad-vink-soft-fg);margin-top:7px">這三種收法是從歷屆閱讀測驗的選項裡挑出來的——考卷問過好幾次「作者如何收尾」，我們把其中適合兩段作文的三種留下來。</div>
 </div>
 
-<h2>五、把你的答案複製出去，請老師或 AI 批改</h2>
+<h2 id="u5">五、把你的答案複製出去，請老師或 AI 批改</h2>
 <p>本題庫不批改你寫的句子。按下方的按鈕，會把題目、你寫的句子和一段給 AI 的指示一起複製到剪貼簿，貼給老師或 AI（ChatGPT、Gemini 等）都可以。</p>
 <p><b>但要會問問題。</b>若只輸入「幫我改」，它會把句子改成你根本寫不出來的樣子——看起來漂亮，你卻學不到東西，考場上也還原不出來。所以指示裡先講清楚規則：</p>
 <pre class="prompt" id="promptBox"></pre>
@@ -576,6 +588,34 @@ footer .back{display:block;margin-bottom:12px;font-size:14px}
   buildPrompt();
   document.getElementById("copyAll").addEventListener("click", copyAll);
   document.getElementById("download").addEventListener("click", download);
+})();
+</script>
+<a class="toBar" id="toBar" href="#unitbar" hidden>↑ 單元列</a>
+<script>
+/* 單元列：連到收合區塊的錨點會先展開；「↑ 單元列」在單元列捲出畫面後才出現 */
+(function(){
+  var bar=document.getElementById('unitbar'), to=document.getElementById('toBar');
+  if(bar) bar.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
+    var t=document.getElementById(a.getAttribute('href').slice(1)); if(!t) return;
+    var d=t.tagName==='DETAILS'?t:t.closest('details'); if(d) d.open=true;
+  });
+  if(to){
+    to.addEventListener('click',function(e){e.preventDefault(); if(bar) bar.scrollIntoView({block:'center'});});
+    function bg(){
+      var c=getComputedStyle(document.body).backgroundColor;
+      if(!c||c==='rgba(0, 0, 0, 0)'||c==='transparent') c=getComputedStyle(document.documentElement).backgroundColor;
+      if(!c||c==='rgba(0, 0, 0, 0)'||c==='transparent') c='#fff';
+      to.style.background=c;
+    }
+    if('IntersectionObserver' in window && bar){
+      new IntersectionObserver(function(es){
+        var r=es[0], hide=r.isIntersecting||r.boundingClientRect.top>=0;
+        if(!hide) bg();
+        to.hidden=hide;
+      }).observe(bar);
+    }
+  }
 })();
 </script>
 </body>
