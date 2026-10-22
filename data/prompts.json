@@ -5598,7 +5598,8 @@
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J242385882171227536",
-    "label": "作文佳作"
+    "label": "作文佳作",
+    "note": "大考中心 108 年 8 月 30 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇的第一段，評分說明寫的都是「清楚描述圖表內容及新聞類別關注度高低與分布」，差別在第二段：最關注的類別，社會議題 4 篇、環境與天然災害 3 篇、國際事務 3 篇、娛樂與名人 1 篇（第 2 篇同時寫社會議題與國際事務）；不關注的類別，名人或娛樂類 7 篇、藝術與文化 3 篇。第 8 篇特別寫老齡化的新聞，第 5、8 篇的評語都有「舉例具體」。"
    },
    "source": "大學入學考試中心 108 學年度指定科目考試英文考科",
    "model": {
@@ -5938,6 +5939,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第一段怎麼讀表。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心公布的評分原則說明，第一段要**正確描述圖表**，並指出關注度**較高及偏低**的類別。標準答案是：最關注「環境與天然災害」，較不關注「學校與教育」，最不關注「藝術與文化」。說明也提到，第一段能測出考生是否能用英文正確表達圖表中的類別。",
+       "第二段發揮空間較大，要先指出**自己最關注的新聞類型並說理**，再指出**不關心的主題並說理**。評分重點是內容是否達到題目要求，以及是否就自己的觀點提供充分、具體的說明。"
+      ]
+     },
+     {
+      "h": "第二段：選什麼類別都可以",
+      "p": [
+       "十篇佳作最關注的類別各不相同：社會議題 4 篇（第 2、6、7、8 篇）、環境與天然災害 3 篇（第 1、9、10 篇）、國際事務 3 篇（第 2、4、5 篇）、娛樂與名人 1 篇（第 3 篇）。第 2 篇同時寫了社會議題和國際事務。",
+       "不關注的類別則集中一些：名人或娛樂類 7 篇（第 1、2、4、5、7、8、9 篇），藝術與文化 3 篇（第 3、6、10 篇）。所以選什麼都可以，關鍵是**理由**。"
+      ]
+     },
+     {
+      "h": "理由要具體",
+      "p": [
+       "第 5、8 篇的評語都寫「舉例具體」。第 8 篇特別寫老齡化的新聞。可見只說「我喜歡」或「我不喜歡」還不夠，要有一個說得出來的例子。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "The chart is about news. Environment news is high. Arts news is low.",
+       "p2": "I like entertainment news. I do not like international news."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "The chart shows that young Americans follow news about the environment and natural disasters most, while they pay the least attention to arts and culture.",
+       "p2": "I follow entertainment news most because my classmates talk about it every day, but I care least about international affairs since those stories feel too far from my life."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The chart shows how much attention young Americans aged 18 to 29 pay to six kinds of news. … The number drops to 49 percent for school and education, and the lowest is arts and culture, with only 30 percent.",
+       "p2": "My own list looks very different. … Most days, the world outside Taiwan feels too far away."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The chart shows how much attention young Americans aged 18 to 29 pay to six kinds of news. … On the whole, these young people seem to follow the news that may affect their safety or the society they live in, while arts and culture is left far behind.",
+       "p2": "What surprises me is that the two categories sitting almost side by side in the middle of the chart are the ones at the two ends of my own list. … Most days, though, the world outside Taiwan feels too far away to hold my attention."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只有三個零碎的事實；「加上銜接詞」用 while 把「最高」和「最低」放在同一句。基礎版和進階版再補上數字，進階版最後用一句話歸納這群年輕人關注什麼。",
+      "**第二段：**「只寫 what」只有喜好；「加上銜接詞」用 because 和 since 把「最關注」和「最不關注」都配上理由。基礎版和進階版再用班上同學的談話、國外新聞的內容，把理由寫具體。"
+     ]
+    }
    }
   },
   {
@@ -9502,7 +9562,8 @@
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J073518045491907814",
-    "label": "作文佳作"
+    "label": "作文佳作",
+    "note": "大考中心 103 年 3 月 16 日公布英文作文佳作十三篇，附原卷影像檔與簡要評分說明。十三篇的故事各不相同，其中十二篇寫到撞樹（第 1 至 12 篇）。人物關係有兄妹或姊弟（第 1、3、8、9 篇）、男女朋友（第 2、4、5 篇）、同學或兩位高中生（第 10、11、12 篇）。結局也不同：把手機處理掉（第 4 篇埋手機、第 5 篇約定不再用、第 10 篇丟棄）、手機或 iPod 被父母沒收（第 9、11 篇）、人生轉折（第 3 篇得諾貝爾獎、第 6 篇成為歌手）。特別的寫法有第 2 篇從手機的角度寫、第 7 篇整件事是一場夢、第 13 篇用倒敘從五歲小孩的有限理解鋪陳懸疑。官方前言另外寫明，這十三篇在詞彙、文法、句構、拼字與體例上或許仍有些許缺失，但仍屬佳作。"
    },
    "source": "大學入學考試中心 103 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一位聽音樂的男孩過馬路時沒注意來車，險象環生。要求想像第四格發展，寫出完整故事。",
@@ -9948,6 +10009,64 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第四幅圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "大考中心公布的評分原則說明，這一題要你看三幅連環圖，**想像第四幅**，寫出涵蓋三幅內容、**有完整結局**的故事。命題重點是青少年過度使用 3C 產品：邊走路邊滑手機（圖二的女生），或沉迷耳機音樂（圖三的男生），都可能造成意外。",
+       "評分看內容是否切題、組織是否連貫、句構與用字是否適切，以及拼字與標點是否正確。所以兩個人的情況都要寫到，而且要有結尾。"
+      ]
+     },
+     {
+      "h": "人物怎麼安排",
+      "p": [
+       "十三篇佳作的故事各不相同。人物有兄妹或姊弟（第 1、3、8、9 篇）、男女朋友（第 2、4、5 篇）、同學或兩位高中生（第 10、11、12 篇）。十二篇寫到撞樹（第 1 至 12 篇）。人物怎麼安排都可以，重點是三幅圖的內容都在故事裡。"
+      ]
+     },
+     {
+      "h": "第四幅圖：結局怎麼收",
+      "p": [
+       "結局有人把手機處理掉（第 4 篇埋手機、第 5 篇約定不再用、第 10 篇丟棄），有人的手機或 iPod 被父母沒收（第 9、11 篇），也有人寫成人生轉折（第 3 篇得諾貝爾獎、第 6 篇成為歌手）。特別的寫法有第 2 篇從手機的角度寫、第 7 篇整件事是一場夢、第 13 篇用倒敘。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Amy looks at her phone. Ben listens to music.",
+       "p2": "Amy hits a tree. Ben walks into the road."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Amy walked home looking at her phone, while Ben, next to her, listened to music and heard nothing around him.",
+       "p2": "Because Amy was not looking, she hit a tree, and because Ben could not hear the cars, he stepped into the road. Luckily, Amy pulled him back in time."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "After school, Amy and her classmate Ben walked home through the park. … Ben still heard only his music.",
+       "p2": "Just then, Amy looked up and saw him in the road. … For the rest of the way home, Amy kept her phone in her bag, and Ben kept his music off."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "On the way home from school last Friday, Amy and her classmate Ben cut through the park as usual. … Ben heard only his music.",
+       "p2": "What happened next was not the crash everyone was expecting. … A tree only leaves a mark for a day or two; a car would not have been so kind."
+      }
+     ],
+     "after": [
+      "**前半（兩個人）：**「只寫 what」是兩個互不相關的事實；「加上銜接詞」用 while 把兩個人放進同一個畫面。基礎版和進階版再補上地點（公園），並以 Ben 只聽得到音樂收尾，為後面的意外鋪路。",
+      "**後半（結局）：**「只寫 what」只有兩個動作；「加上銜接詞」用 because 說明為什麼出事，再用 Luckily 帶出結局。基礎版和進階版再讓一個人出手相救，最後把手機收起來、音樂關掉，結局就完整了。"
+     ]
+    }
    }
   },
   {
@@ -9986,7 +10105,8 @@
    ],
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J077629423604637236",
-    "label": "作文佳作"
+    "label": "作文佳作",
+    "note": "大考中心 103 年 8 月 24 日公布英文作文佳作十四篇，附原卷影像檔與簡要評分說明。官方前言寫明，十四篇的第一段都明確說明圖表內容，並指出美國學生一天作息的特別之處；第二段拿自己的作息與美國學生比較，並合理說明原因。第一段有 5 篇（第 2、3、9、13、14 篇）拿台灣學生對照，6 篇（第 2、3、7、9、11、13 篇）提到美國學生睡得多，2 篇（第 5、11 篇）注意到運動時間不高，2 篇（第 2、4 篇）提到工讀。第二段有 6 篇（第 4、7、8、10、12、13 篇）明說自己因大考或入學考試而作息不同，3 篇（第 4、8、12 篇）說以後會補回或改變作息，3 篇（第 2、7、11 篇）說兩地作息各有優點或沒有優劣。"
    },
    "source": "大學入學考試中心 103 學年度指定科目考試英文考科",
    "model": {
@@ -10456,6 +10576,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、圖表怎麼讀。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心公布的評分原則說明，圖表是美國某高中全體學生每天各種活動的時間分配。第一段要描述圖表呈現的**特別現象**；第二段要說明你一天的時間分配，和這群學生**有什麼相同、什麼不同，並說明理由**。",
+       "說明中提到，中等以上的考生能在第一段說明「特別現象」，再引伸說明這種現象與臺灣當前現象的不同，以凸顯圖表的特別之處。"
+      ]
+     },
+     {
+      "h": "第一段：挑出圖表的特別之處",
+      "p": [
+       "十四篇佳作的第一段，有 5 篇（第 2、3、9、13、14 篇）拿台灣學生對照，6 篇（第 2、3、7、9、11、13 篇）提到美國學生睡得多，2 篇（第 5、11 篇）注意到運動時間不高，2 篇（第 2、4 篇）提到工讀。可見「特別」不是只有一種，挑一兩樣說清楚就好。"
+      ]
+     },
+     {
+      "h": "第二段：異同和理由都要",
+      "p": [
+       "有 6 篇（第 4、7、8、10、12、13 篇）明說自己因大考或入學考試而作息不同；有 3 篇（第 4、8、12 篇）說以後會補回或改變作息；有 3 篇（第 2、7、11 篇）說兩地作息各有優點或沒有優劣。",
+       "題目要求「說明理由」，所以第二段不能只列自己的時間，要說出為什麼不同。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Students sleep 8.7 hours. They study 6.4 hours.",
+       "p2": "I study a lot. I sleep a little."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "These students sleep 8.7 hours a day, more than the 6.4 hours they spend on schoolwork, and they even have a part-time job.",
+       "p2": "I study more than I sleep because the college entrance exam is coming, so my day looks very different from theirs."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The chart shows how students at an American high school spend an average day. … They spend 1.5 hours a day at a job, which is more than the time for sports and religious or volunteer activities put together.",
+       "p2": "Because of the college entrance exam, I spend more time studying than sleeping. … Our parents expect us to study after school."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The chart shows how students at one American high school spend an average day. … A day here is built around three things — sleeping, studying, and earning money — and the rest has to fit into what is left over.",
+       "p2": "If my day were drawn as the same chart, the top two bars would swap places, and the reason is the entrance exam. … It seems that whatever fills a school day, the sports bar is the first one it shortens."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只列兩個數字；「加上銜接詞」用 more than 把睡眠和讀書放在一起比，再補上工讀，特別之處就出來了。基礎版和進階版再把圖表歸成一句話，點出這所學校的一天是圍繞什麼安排的。",
+      "**第二段：**「只寫 what」只有自己的情形；「加上銜接詞」用 because 說出理由，再用 so 接上和他們的差異。基礎版和進階版再用具體的課表、補習時間，把差異寫出來。"
+     ]
+    }
    }
   },
   {
@@ -10498,7 +10677,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072645157497857819",
     "label": "作文佳作",
-    "note": "大考中心 102 年 3 月 21 日公布英文作文佳作十四篇，附原卷影像檔與簡要評分說明，官方前言寫明這些卷子經過考生同意才提供。十四篇裡第一人稱九篇、第三人稱五篇，故事線幾乎都一樣：主角先占著博愛座不讓，後來打籃球扭傷腳踝，換自己需要位子時沒人讓，於是醒悟。想寫得不一樣的，有幾篇值得看。第 7 篇的結局最出人意料：主角受傷後遇到不肯讓座的女孩，後來向當初那位長者道歉，才知道那個女孩是長者的孫女。第 12 篇乾脆換一個敘事者，讓一位善良的女巫看不下去，用魔法給占位的男學生一個教訓。第 4 篇的主角當天就改正、把位子讓給長者，下午受傷後又得到同一位長者讓座。第 5 篇則是一位女學生讓座給他。官方結語另外寫明，這十四篇在詞彙、文法、句子結構與拼字、體例上仍有些許缺失，但仍屬佳作。"
+    "note": "大考中心 102 年 3 月 21 日公布英文作文佳作十四篇，附原卷影像檔與簡要評分說明，官方前言寫明這些卷子經過考生同意才提供。十四篇裡第一人稱九篇（第 1、2、4、5、8、9、10、12、14 篇）、第三人稱五篇（第 3、6、7、11、13 篇）。多數故事是主角先占博愛座，後來打球受傷，再醒悟，但細節各不相同：第 1、2、7、8、9、11 篇寫到受傷後沒人讓座或占座的人沒讓；第 4 篇的主角當天就改正、把位子讓給長者，下午受傷後得到同一位長者讓座；第 5 篇是一位女學生讓座給他；第 3 篇是在體育課受傷。想寫得不一樣的，有幾篇值得看：第 7 篇的結局最出人意料，主角後來向當初那位長者道歉，才知道占座的女孩是長者的孫女；第 12 篇換一個敘事者，讓善良的女巫用魔法給占位的成績優異的男學生一個教訓，故事裡沒有人受傷；第 8、9 篇的主角一開始是誤坐博愛座，被提醒才起身。官方結語另外寫明，這十四篇在詞彙、文法、句子結構與拼字、體例上仍有些許缺失，但仍屬佳作。"
    },
    "source": "大學入學考試中心 102 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫呈現不同人在「博愛座」前的行為與抉擇。要求想像第四格發展，寫出完整故事。",
@@ -10901,6 +11080,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第四幅圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "大考中心公布的閱卷原則說明，這一題要你看三幅連環圖，**想像第四幅空白圖的發展**，寫出涵蓋三幅內容、**有完整結局**的故事，至少 120 個單詞。評分看內容是否切題、組織是否連貫、句構與用字是否適切，以及拼字與標點是否正確。",
+       "選才電子報第 223 期提到，字數嚴重不足扣 1 分，多寫不扣，未分段也不扣。"
+      ]
+     },
+     {
+      "h": "故事線：相似的主軸，不同的細節",
+      "p": [
+       "十四篇佳作多數寫主角先占博愛座，後來打球受傷，再醒悟：受傷的原因，打籃球或打球有 12 篇，體育課 1 篇（第 3 篇），第 12 篇沒有人受傷。敘事上，第一人稱 9 篇、第三人稱 5 篇。",
+       "但細節不同：第 1、2、7、8、9、11 篇寫到受傷後沒人讓座或占座的人沒讓；第 4 篇的主角當天就改正，受傷後得到同一位長者讓座；第 5 篇是一位女學生讓座給他。"
+      ]
+     },
+     {
+      "h": "想寫得不一樣",
+      "p": [
+       "第 7 篇的結局最出人意料：主角後來向當初那位長者道歉，才知道占座的女孩是長者的孫女。第 12 篇換一個敘事者，讓善良的女巫用魔法教訓占位的男學生，沒有人受傷。第 8、9 篇的主角一開始是誤坐博愛座，被提醒才起身。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I sit in a priority seat. I play basketball.",
+       "p2": "My ankle hurts. Nobody gives me a seat."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I always sat in a priority seat on the bus, and one afternoon I hurt my ankle playing basketball.",
+       "p2": "The next morning I got on the bus on a crutch, but nobody offered me a seat, so I finally understood why those seats exist."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "On the bus home from school, I always sat in a priority seat by the door. … As I sat on the ground in pain, my teammate could only stand over me.",
+       "p2": "The next morning, I got on the bus with a crutch. … These days, when someone needs my seat, I give it up before anyone asks."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "For most of last year I took the same bus home and always headed for the same row: the two priority seats by the door, right under the sign. … The ball rolled away while I sat on the ground in pain, and my teammate could only stand over me, unable to help.",
+       "p2": "The next morning I got onto the bus on a crutch, my ankle strapped and my bag pulling at my shoulder. … Doing my share is the plainest way I know to show respect for the people I travel with."
+      }
+     ],
+     "after": [
+      "**前半（占座到受傷）：**「只寫 what」是兩件互不相關的事；「加上銜接詞」用 and 和 one afternoon 把「占座」和「受傷」接成時間順序。基礎版和進階版再用動作，例如球滾走了、隊友只能站在旁邊，把受傷的畫面寫出來。",
+      "**後半（結局）：**「只寫 what」只有兩個事實；「加上銜接詞」用 but 和 so 把「沒人讓座」接到「才明白為什麼有這些座位」。基礎版和進階版再用隔天的畫面，和現在的行動收尾。"
+     ]
+    }
    }
   },
   {
@@ -10944,7 +11182,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071646661300229964&sid=0J077602300310599007",
     "label": "作文佳作",
-    "note": "大考中心 102 年 8 月 22 日公布英文作文佳作十二篇，附原卷影像檔與簡要評分說明。選隱形披風的六篇（第 1、3、4、6、7、8 篇），選智慧型眼鏡的六篇（第 2、5、9、10、11、12 篇），兩項產品都有真實考生的卷子可看。"
+    "note": "大考中心 102 年 8 月 22 日公布英文作文佳作十二篇，附原卷影像檔與簡要評分說明。選隱形披風的六篇（第 1、3、4、6、7、8 篇），選智慧型眼鏡的六篇（第 2、5、9、10、11、12 篇），兩項產品都有真實考生的卷子可看。第二段不選另一項的理由，有 7 篇寫到產品落入壞人手中的害處（第 1、2、5、9、10、11、12 篇）；第 3、7 篇從哈利波特切入。"
    },
    "source": "大學入學考試中心 102 學年度指定科目考試英文考科",
    "model": {
@@ -11433,6 +11671,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、兩段各寫什麼。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "兩段各要做什麼",
+      "p": [
+       "大考中心公布的記者會說明資料，這一題二選一，至少 120 個單詞，分兩段。第一段要說明**你的選擇及理由，並舉例說明如何使用**；第二段要說明**不選另一項的理由，以及那一項可能衍生的問題**。這一題明訂文分兩段，未分段扣 1 分。",
+       "閱卷說明另外提到，有人選隱形披風的理由是免費看電影、音樂會，並不全然妥適，但只要用字結構正確、敘述清楚，不會因此扣分。所以選哪一項都可以，重點是兩段各司其職。"
+      ]
+     },
+     {
+      "h": "兩項都有佳作",
+      "p": [
+       "十二篇佳作中，選隱形披風和選智慧型眼鏡各 6 篇：披風是第 1、3、4、6、7、8 篇，眼鏡是第 2、5、9、10、11、12 篇。"
+      ]
+     },
+     {
+      "h": "第二段：不選的那一項，問題要說得出來",
+      "p": [
+       "第二段寫到產品落入壞人手中的害處，有 7 篇（第 1、2、5、9、10、11、12 篇）。其他寫法還有眼鏡的透視功能有侷限性（第 6 篇）、侵犯個人隱私（第 7 篇）、透視預知使生活淡然無趣（第 4 篇）。",
+       "第一段的例子也要具體，例如第 3、7 篇從哈利波特切入，第 4 篇寫在街上背莎翁詩。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I choose the smart glasses. They can record things.",
+       "p2": "I do not choose the cloak. It is dangerous."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "I would choose the smart glasses because they can record my grandmother's cooking, so my family could keep her recipes.",
+       "p2": "I would not choose the cloak because a bad person could use it to steal without being seen, and everyone would feel unsafe."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "If I could have one of these two products, I would choose the smart glasses. … The glasses would also record my grandmother's hands when she makes dumplings, so we could still make them when she is too tired to cook.",
+       "p2": "I would not choose the invisibility cloak, because it could be dangerous. … I would rather live in a place where people can trust one another."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "If I could have one of these two products, I would take the smart glasses. … The glasses would record her hands folding each one, so our family would keep the recipe even when she is too tired to cook.",
+       "p2": "I would not choose the invisibility cloak, because its best feature is also its danger. … A product that makes its wearer both unseen and untouchable would make everyone else afraid, and I would rather live in a place where people can still trust one another."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只有選擇，沒有理由和使用方式；「加上銜接詞」用 because 說出理由，再用 so 接上具體的用法。基礎版和進階版再用「記錄奶奶包水餃的手」這個畫面，把例子寫實。",
+      "**第二段：**「只寫 what」只說不選，沒有說問題在哪；「加上銜接詞」用 because 說明壞人可能怎麼利用披風，再用 and 接上後果。基礎版和進階版再用「我寧願住在人們可以互相信任的地方」收尾。"
+     ]
+    }
    }
   },
   {
@@ -12499,7 +12796,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072579456983567687",
     "label": "作文佳作",
-    "note": "大考中心 100 年 3 月 17 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇的敘事觀點分三種：第三人稱五篇（第 1、3、7、8、9 篇）、男主角四篇（第 2、4、6、10 篇）、女主角一篇（第 5 篇）。結局分兩路：兩人最後在一起的六篇（第 1、3、5、7、9、10 篇）；告白落空或出糗的四篇，其中拿錯地址兩篇（第 4、8 篇），舞會上心儀的對象原來是男生兩篇（第 2、6 篇）。想寫得跟別人不一樣的，看第 5 篇：整篇從女主角的角度倒敘，寫她怎麼因為男生歌聲不佳卻仍勇敢唱情歌告白，而找回自信。"
+    "note": "大考中心 100 年 3 月 17 日公布英文作文佳作十篇，附原卷影像檔與簡要評分說明。十篇的敘事觀點分三種：第三人稱五篇（第 1、3、7、8、9 篇）、男主角四篇（第 2、4、6、10 篇）、女主角一篇（第 5 篇）。結局方面，頁面明寫兩人在一起或獲得芳心的有五篇（第 1、3、7、9、10 篇）；告白落空或出糗的四篇，其中拿錯地址兩篇（第 4、8 篇），舞會上心儀的對象原來是男生兩篇（第 2、6 篇）；第 1 篇同時有當眾出醜與破鏡重圓。想寫得跟別人不一樣的，看第 5 篇：整篇從女主角的角度倒敘，寫沒自信的她，看到歌聲不佳的男生仍勇敢唱情歌向她告白，因而找回自信；頁面沒有寫兩人是否在一起。"
    },
    "source": "大學入學考試中心 100 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一場化妝舞會中的浪漫誤會。要求想像第四格發展，寫出完整故事。",
@@ -12970,6 +13267,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第四幅圖怎麼想。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "選才電子報第 199 期說明，這一題是連環漫畫，**第四張空白**，讓考生發揮想像，要求切合主題、具統一性與連貫性。評分看內容是否切題、組織是否連貫、句構與用字是否妥適，以及拼字與標點是否正確。",
+       "所以三幅圖的內容要寫進去，而且故事要有一個完整的結局。"
+      ]
+     },
+     {
+      "h": "觀點：誰在說這個故事",
+      "p": [
+       "十篇佳作的敘事觀點有三種：第三人稱 5 篇（第 1、3、7、8、9 篇）、男主角 4 篇（第 2、4、6、10 篇）、女主角 1 篇（第 5 篇）。第 5 篇整篇從女主角的角度倒敘。"
+      ]
+     },
+     {
+      "h": "結局：不一定要圓滿",
+      "p": [
+       "頁面明寫兩人在一起或獲得芳心的有 5 篇（第 1、3、7、9、10 篇）。告白落空或出糗的有 4 篇：拿錯地址（第 4、8 篇）、舞會上心儀的對象原來是男生（第 2、6 篇）。第 5 篇寫女主角因男生勇敢告白而找回自信，沒有寫兩人是否在一起。",
+       "所以結局圓滿或落空都可以，重點是前面的情節要接得上。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Tom goes to a party. He meets a girl.",
+       "p2": "Tom sings a song. The girl likes it."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "At a costume party, Tom wore a mask, so the girl did not know who he was, but they talked for a long time.",
+       "p2": "The next night Tom sang under her window, and because the neighbors complained, they walked to the park together."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "At a costume party, Tom wore a mask, so nobody knew who he was. … Before she left, she told him where she lived.",
+       "p2": "The next night, Tom stood outside her building with his guitar and sang a love song. … In the park, Tom sang the whole song, and this time nobody complained."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "At a costume party, Tom wore a mask, so nobody knew who he was. … Before she left, she told him where she lived.",
+       "p2": "The next night, Tom stood under her building with his guitar and sang her a love song. … Under the moon, Tom sang the whole song, and this time nobody complained."
+      }
+     ],
+     "after": [
+      "**前半（舞會）：**「只寫 what」只有兩個事實；「加上銜接詞」用 so 把「戴面具」和「她不知道他是誰」接起來。基礎版和進階版再補上她離開前留下地址，為隔天的告白鋪路。",
+      "**後半（告白）：**「只寫 what」只有唱歌，沒有結果；「加上銜接詞」用 because 交代為什麼換地點，故事就有了轉折。基礎版和進階版再用「這一次沒有人抱怨」收尾，和前面的情節呼應。"
+     ]
+    }
    }
   },
   {
@@ -13537,7 +13893,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072554730774151742",
     "label": "引導寫作題佳作",
-    "note": "大考中心 99 年 3 月 18 日公布英文引導寫作佳作十篇，附原卷影像檔與簡要評語。這一批的敘事觀點分四種：小孩一篇、旁觀者六篇、失主兩篇，還有一篇從提袋的角度寫，官方評語稱它頗具創意。評語的寫法也與其他年度不同，逐篇點出瑕疵、指出錯在哪一個字，不是只寫優點。另外，官方頁面上的篇數前後不一致：前言寫十篇、小標寫「一、佳作十三篇」、內文寫「以下十三篇」，而表格實際十列、文末又寫「以上十篇」；實際為十篇。"
+    "note": "大考中心 99 年 3 月 18 日公布英文引導寫作佳作十篇，附原卷影像檔與簡要說明。這一批的敘事觀點分四種：旁觀者六篇（第 2、3、4、7、8、9 篇）、失主兩篇（第 5、10 篇）、小孩一篇（第 1 篇），還有一篇從提袋的角度寫（第 6 篇），官方評語稱它頗具創意。評語的寫法是逐篇點出瑕疵，多半引出具體的字詞，例如第 4 篇的 curiousity、第 7 篇的 lier、第 8 篇的 amout 是拼字錯誤，不是只寫優點。另外，官方頁面上的篇數前後不一致：前言寫十篇、小標寫「一、佳作十三篇」、內文寫「以下十三篇」，而表格實際十列、文末又寫「以上十篇」；實際為十篇。"
    },
    "source": "大學入學考試中心 99 學年度學科能力測驗英文考科",
    "promptSummary": "四格漫畫描述一個年輕人在麵店拾獲一個裝滿錢的錢包，面臨道德抉擇。要求想像第四格發展，寫出完整\n故事。",
@@ -13852,6 +14208,66 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、用誰的眼睛說故事。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "選才電子報說明，這一題是連環漫畫式的看圖作文，**第四張圖片空白**，讓考生自由發展，寫出切合主題、具統一性與連貫性的短文，至少 120 個單詞。電子報也說，四格圖片只畫了三格，沒有提供結局，希望給考生更多發揮空間。",
+       "所以三幅圖的內容都要接起來，再自己決定結局。"
+      ]
+     },
+     {
+      "h": "觀點：誰在說這個故事",
+      "p": [
+       "十篇佳作的觀點有四種：旁觀者 6 篇（第 2、3、4、7、8、9 篇）、失主 2 篇（第 5、10 篇）、小孩 1 篇（第 1 篇），還有 1 篇從提袋的角度寫（第 6 篇），評語稱它頗具創意。第 2 篇評為「頗為生動」。",
+       "選哪一種觀點都可以，但要從頭到尾保持同一個觀點。"
+      ]
+     },
+     {
+      "h": "佳作的評語在說什麼",
+      "p": [
+       "99 年的佳作評語，是逐篇點出瑕疵，指出具體的字詞和用法，例如第 4 篇的 curiousity、第 7 篇的 lier、第 8 篇的 amout 是拼字錯誤，第 2 篇的時態、第 8 篇的語態也被點出。可見佳作也不是沒有錯，但這些錯沒有影響故事的完整。",
+       "所以寫完要檢查拼字和時態，尤其是你不確定的字。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "A man left a bag. A boy found it.",
+       "p2": "The man came back. He got his bag."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "A man left his bag in a noodle shop while he hurried to catch a train, and when a boy picked it up, he found it was full of money.",
+       "p2": "When the man reached the station, he realized his bag was gone, so he ran back, and the boy returned it to him."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "It was a quiet Saturday afternoon at a noodle shop near the station. … Ms. Lin called the police.",
+       "p2": "By then, the man was at the ticket window in Hsinchu Station, and sweat was running down his face. … Ms. Lin smiled and cooked him another bowl of noodles for free."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "On a Saturday afternoon the noodle shop across from the station was almost empty. … While they waited for the police, Ming had to resist the temptation of counting what was inside.",
+       "p2": "By then the man was at the ticket window in Hsinchu Station, sweat running down his forehead as he slapped one pocket of his suit after another. … She went back behind the counter, cooked the boy a second bowl of dan dan noodles, and refused, in her turn, to let him pay for it."
+      }
+     ],
+     "after": [
+      "**前半（發現袋子）：**「只寫 what」只有兩個動作；「加上銜接詞」用 while 和 when 把「趕火車」「撿到袋子」「裡面是錢」串成一件事。基礎版和進階版再補上地點和人物，並以「叫警察」或「忍住不去數錢」收尾。",
+      "**後半（結局）：**「只寫 what」只有結果；「加上銜接詞」用 when 和 so 說明失主怎麼發現、為什麼跑回來。基礎版和進階版再讓店家送上一碗麵，結局就完整了。"
+     ]
+    }
    }
   },
   {
@@ -14755,7 +15171,7 @@
    "samples": {
     "url": "https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&sid=0J072528226328939235",
     "label": "引導寫作佳作",
-    "note": "大考中心 98 年 5 月 18 日公布英文引導寫作佳作十三篇，附原卷影像檔與簡要評語。這一年只給一張圖，前因後果要自己想。依評語看，十三篇之中寫地震的十一篇，寫戰爭的一篇（第 4 篇），寫外星人入侵的一篇（第 11 篇）；地點明寫中國大陸的有四篇（第 2、6、8、9 篇），考試前八個月（2008 年 5 月）四川汶川才發生大地震，第 2 篇寫的就是四川地震。第二段十三篇都寫救援與重建，也就是題目說的「接下來可能會發生什麼事」；「未來該做些什麼」那一條路，評語裡沒有一篇。這一年的評語也逐篇點出瑕疵、指出錯在哪一個字，例如第 3 篇把 farmer 拼成 farmar。"
+    "note": "大考中心 98 年 5 月 18 日公布英文引導寫作佳作十三篇，附原卷影像檔與簡要評語。這一年只給一張圖，前因後果要自己想。依評語看，十三篇之中寫地震的十一篇（第 1、2、3、5、6、7、8、9、10、12、13 篇），寫戰爭的一篇（第 4 篇），寫外星人入侵的一篇（第 11 篇）；地點明寫中國大陸的有四篇（第 2、6、8、9 篇），其中第 2 篇寫的是四川地震。評語所述的第二段，都是災後的救援、協助或重建，其中第 12 篇的評語寫得籠統，第 8 篇另提到衛生問題；「未來該做些什麼」那一條路，評語裡沒有點出。這一年的評語也逐篇點出瑕疵、指出錯在哪一個字或哪一句，例如第 3 篇的 farmar；第 3 篇的評語還提到「第二、三段」，這一篇共三段。"
    },
    "source": "大學入學考試中心 98 學年度學科能力測驗英文考科",
    "promptSummary": "圖片為地震後房屋倒塌的場景。要求描述事件的前因後果，第一段說明之前發生的事與現況，第二段說明\n接下來的發展或該做的事。",
@@ -15246,6 +15662,65 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、第二段走哪一條路。下面說的數字，都是依大考中心公布的佳作簡要評分說明數出來的。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "選才電子報說明，這一年改成單張圖片，要求描述整個事件的**前因後果**。作文分兩段：第一段說明**之前發生了什麼事**，並描述圖片中的現在狀況；第二段合理說明**接下來可能發生什麼事，或未來該做些什麼**。",
+       "評量重點是掌握時式（tenses）的語法能力，以及用適當的詞彙、句型來描述事件、談論問題並提出解決之道。所以第一段多用過去式，描述圖中現況時要改回現在式。"
+      ]
+     },
+     {
+      "h": "事件怎麼選",
+      "p": [
+       "十三篇佳作中，寫地震的有 11 篇（第 1、2、3、5、6、7、8、9、10、12、13 篇），寫戰爭的 1 篇（第 4 篇），寫外星人入侵的 1 篇（第 11 篇）。地點明寫中國大陸的有 4 篇（第 2、6、8、9 篇），其中第 2 篇寫四川地震。"
+      ]
+     },
+     {
+      "h": "第二段：兩條路都可以",
+      "p": [
+       "題目給了兩條路：寫接下來會發生什麼，或未來該做什麼。佳作的評語所述的第二段，都是災後的救援、協助或重建（第 12 篇評語寫得籠統，第 8 篇另提到衛生問題）；評語沒有點出「未來該做什麼」。本頁範文走的是「未來該做什麼」這一條路，這也是題目允許的寫法。",
+       "評語也逐篇點出瑕疵，例如第 3 篇的 farmar 是拼字錯誤。寫完要檢查拼字。"
+      ]
+     }
+    ],
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "There was an earthquake. A woman is walking.",
+       "p2": "We need a bag. We need water."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "A strong earthquake hit the village at night, so now only one wall of the house is still standing, and a woman is looking for things she can save.",
+       "p2": "Because no one can stop an earthquake, every family should keep water, food, and a flashlight in a bag near the door."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "A strong earthquake hit a small village in the middle of the night. … She is carrying a basket and looking for anything she can still save.",
+       "p2": "No one can stop an earthquake, but we can be ready for the next one. … We should also know what to do when the ground starts to shake: drop, cover, and hold on."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "Last night, while the whole village was asleep, a strong earthquake struck without any warning. … She is carrying a basket, looking for anything she can still save, such as a pot, a blanket, or an old family photo.",
+       "p2": "No one can stop an earthquake, but we can be much better prepared for the next one. … After seeing what one earthquake did to this village, however, I realize that those few minutes could one day save my life."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只有兩個孤立的事實；「加上銜接詞」用 so 把「地震」和「只剩一面牆」接起來，用 now 回到圖中現況。基礎版和進階版再用 She is carrying a basket 這類現在進行式，描述圖中的人物。",
+      "**第二段：**「只寫 what」只有需要的東西；「加上銜接詞」用 Because 把「無法阻止地震」和「家庭要準備」接起來。基礎版和進階版再補上遇到地震該怎麼做，第二段就是一條完整的「未來該做什麼」。"
+     ]
+    }
    }
   },
   {
