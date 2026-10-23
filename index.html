@@ -480,6 +480,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
   @page{margin:10mm 14mm 14mm; @bottom-center{content:"英文作文題目・staresto-create.github.io/essay-prompts・免費資源，請勿販售"; font-size:8pt; color:#777; font-family:"Noto Sans TC",sans-serif}}
 }
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
@@ -867,6 +868,7 @@ function card(it){
       (g.entries||[]).forEach(e=>{
         const li=document.createElement('li');
         li.appendChild(el('span','wbW',e.w));
+        if(window.SPK){ const t=document.createElement('span'); t.innerHTML=SPK.html(e.w,true); while(t.firstChild) li.appendChild(t.firstChild); }
         li.appendChild(document.createTextNode('　'));
         li.appendChild(el('span','wbZh',e.zh));
         if(e.own)li.appendChild(el('span','wbOwn','本題庫補充'));
