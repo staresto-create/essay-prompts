@@ -446,6 +446,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
 @media print{body::after{content:"歷屆作文題目索引\A staresto-create.github.io/essay-prompts\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
 .cc-note{font-size:12px;line-height:1.8;color:var(--ad-x8A8278-fg);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
 
@@ -1445,9 +1446,30 @@ function buildYearTable(){
   box.appendChild(ft);
 }
 
+/* 接續上次（2026-10-23）：記下最後點開的那一題（在某題卡片裡點了範文、字詞搭配等），
+   供各站首頁與總站的「接續上次」使用。只存在這台裝置的這個瀏覽器；共用模組讀不到時安靜略過。
+   連結形式 #p=<題目編號>；因為這一站的 hash 也拿來記篩選條件，啟動時要先取出 p，再畫畫面。 */
+function scr(f){
+  try{
+    if(window.SCResume) f(window.SCResume);
+    else window.addEventListener('load', function(){ try{ if(window.SCResume) f(window.SCResume); }catch(e){} });
+  }catch(e){}
+}
+function scrMountStrip(){ scr(function(R){ R.mountStrip(document.querySelector('main.wrap'), 'essay'); }); }
+function scrSaveCard(id){
+  scr(function(R){
+    const it = DATA.find(d => d.id === id); if(!it) return;
+    R.save('essay', it.year + ' 學年度' + it.exam, '#p=' + encodeURIComponent(id));
+  });
+}
+function scrHashId(){
+  try{ return new URLSearchParams(location.hash.replace(/^#/,'')).get('p'); }catch(e){ return null; }
+}
+
 fetch('data/prompts.json')
   .then(r=>{if(!r.ok)throw new Error(r.status);return r.json()})
   .then(j=>{
+    const scrP=scrHashId();
     DATA=j.items;
     THEMEBANKS=j.themeWordBanks||{};
     SELFCHECK=j.selfCheck||null;
@@ -1464,6 +1486,7 @@ fetch('data/prompts.json')
     buildYearTable();
     render();
     jumpToAnchor();
+    if(scrP && DATA.some(d=>d.id===scrP)) requestAnimationFrame(()=>jumpTo(scrP));
   })
   .catch(()=>{
     $('#tally').textContent='題目資料載入失敗。';
@@ -1500,6 +1523,14 @@ function jumpTo(id){
   window.scrollTo(0,t.getBoundingClientRect().top+window.scrollY-off);
   t.classList.add('jumpHit');setTimeout(()=>t.classList.remove('jumpHit'),2000);
 }
+
+$('#list').addEventListener('click',e=>{
+  try{
+    const c=e.target.closest&&e.target.closest('.item');
+    if(c&&c.id&&c.id.indexOf('p-')===0) scrSaveCard(c.id.slice(2));
+  }catch(x){}
+});
+scrMountStrip();
 
 $('#reset').addEventListener('click',()=>{
   S.years=[];S.genres=[];S.themes=[];S.pic=false;S.official=false;S.wb=false;render();
