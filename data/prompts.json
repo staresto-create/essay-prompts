@@ -1,7 +1,7 @@
 {
  "version": "1.0",
  "updated": "2026-10-23",
- "count": 63,
+ "count": 64,
  "items": [
   {
    "id": "E115_GSAT",
@@ -30172,6 +30172,419 @@
         "ex": "Now I know that cooking looks hard only because there are so many steps."
        }
       ]
+     }
+    ]
+   }
+  },
+  {
+   "id": "SELF01",
+   "year": null,
+   "exam": "本題庫自編",
+   "examCode": "SELF",
+   "isOfficial": false,
+   "isSelfMade": true,
+   "promptFormat": "圖片",
+   "hasImage": true,
+   "genre": [
+    "描述文",
+    "論說文"
+   ],
+   "theme": [
+    "社會現象與公共議題"
+   ],
+   "prompt": "近年來，不少城市的商業大樓外牆愈來愈常被大型廣告占滿。下列兩張圖片呈現同一棟大樓在不同時期的樣貌。請參照圖片，寫一篇英文作文，文分兩段。第一段描述兩張圖片的內容，並說明兩者的差異；第二段則針對在大樓外牆設置大量廣告這件事，說明你的看法與理由。",
+   "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖片也是本題庫自己畫的，圖中的品牌全部是虛構的。",
+   "images": [
+    {
+     "webp": "SELF01.webp",
+     "png": "SELF01.png",
+     "size": [
+      1000,
+      500
+     ]
+    }
+   ],
+   "source": "本題庫自繪，圖中的品牌全部是虛構的",
+   "model": {
+    "essay": {
+     "words": 322,
+     "p1": "The two pictures show one office building at two very different times. On the left, it stands quietly in the sun: rows of glass windows reflect the sky, a tree grows on either side, and only a couple of people walk along the sidewalk. On the right, the same walls have almost disappeared. A huge screen for a new phone covers the top floors, two tall banners for new apartments and a game hang down the sides, and ads for sneakers, burgers, travel deals and skin care fill the space between them. Not a single window can be seen anymore. The street has changed as well. Instead of a few people walking by, a crowd has gathered at the foot of the building, as if the building itself were a shop. In short, what was once a place to work has become a place to sell things.",
+     "p2": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far. I understand why companies do it. A bright screen in a busy district reaches thousands of people every day, and the money paid for the space helps owners keep their buildings in good shape. Even so, the cost to the people nearby is easy to overlook. My aunt works across the street from a building like the one on the right, and she says the flashing screen shines into her office from morning until night, so she has to keep the curtains closed all day. Then there is the effect on young people like me. When every wall is shouting “buy this, buy that,” it is hard not to feel that being happy means owning more things. I would rather see cities set limits, such as one screen per building and no lights after ten o’clock. That way, companies can still reach their customers, and the rest of us can still see the sky.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 322 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。",
+     "zh": {
+      "p1": "這兩張圖片呈現的是同一棟辦公大樓在兩個截然不同時期的樣貌。左圖裡，大樓在陽光下靜靜地立著：一排排玻璃窗映著天空，兩旁各有一棵樹，人行道上只有兩三個人在走。右圖裡，同樣的外牆幾乎看不見了。頂樓那幾層被一面宣傳新手機的大型螢幕蓋住，兩側垂掛著新建案和遊戲的長條廣告，中間的空位則被運動鞋、漢堡、旅遊優惠和保養品的廣告填滿。現在連一扇窗戶都看不到。街上也不一樣了：原本只有幾個人經過，現在大樓樓下聚集了一大群人，彷彿這棟大樓本身就是一間商店。簡單說，這裡原本是上班的地方，現在成了賣東西的地方。",
+      "p2": "我個人認為，大樓上放幾則廣告無妨，可是整棟大樓都被廣告蓋滿就太過頭了。我理解公司為什麼這麼做。在熱鬧的商圈裡，一面亮眼的螢幕每天能讓成千上萬的人看到，廣告商租用牆面付的錢，也能讓屋主把大樓維護得好一些。即使如此，附近的人所付出的代價很容易被忽略。我阿姨在一棟像右圖那樣的大樓對面上班，她說那面閃爍的螢幕從早到晚都照進她的辦公室，所以她整天都得拉上窗簾。另外，廣告對像我這樣的年輕人也有影響。當每一面牆都在喊「買這個、買那個」，我們很難不覺得，快樂就是擁有更多東西。我倒希望各個城市能訂出一些限制，例如一棟大樓只能有一面螢幕、晚上十點以後不能亮燈。這樣一來，公司的廣告還是能讓顧客看到，而我們其他人也還是看得到天空。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的是兩件事：第一段描述兩張圖片並說明差異，第二段說明看法與理由。第一段的細節都是圖片裡看得到的東西：左圖的玻璃窗、兩棵樹、人行道上只有兩三個人；右圖頂樓的手機廣告螢幕、兩側垂下來的新建案與遊戲廣告、運動鞋與漢堡的廣告、聚集在樓下的人群，最後用 what was once a place to work has become a place to sell things，把差異總結成一句話。第二段先表明立場，也就是幾則廣告無妨、整棟蓋滿就太過頭，再用兩個具體的例子支持：阿姨的辦公室整天拉著窗簾，以及廣告對年輕人的影響；最後提出一個做得到的辦法（一棟大樓一面螢幕、晚上十點以後不亮燈），不是只說「廣告太多不好」。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段由左圖寫到右圖：On the left 寫左圖，On the right 寫右圖，The street has changed as well 把視線從大樓移到街上，最後用 In short 收成一句話。第二段的順序是：立場 → I understand why companies do it（先承認對方的理由）→ Even so 轉回自己的看法 → 兩個壞處（阿姨、年輕人）→ 具體辦法。轉折靠 but、Even so、Then there is 這幾個語塊，不是用 First、Second 逐項列舉；最後一句的 the rest of us can still see the sky，又回到第一段那片映在玻璃窗上的天空，前後有呼應。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇以簡單句和對等句為主，變化放在幾個地方：冒號後面接三個並列的子句；Not a single window 當主詞放在句首、後面接被動（can be seen）；Instead of …, a crowd has gathered …, as if the building itself were a shop（as if 引導與事實相反的比喻，be 動詞用 were）；the money paid for the space 用過去分詞後置修飾名詞；covering a whole building with them 用動名詞片語當主詞；it is hard not to feel that … 是虛主詞句型；I would rather see cities set limits 是 would rather + 原形動詞，see 後面接受詞再加原形動詞。這些句型和基礎版的對照，見基礎版範文的升級對照。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》（111 學年度起適用）：六級有 sneaker（運動鞋），五級有 banner（長條廣告），四級有 district、overlook、reflect 三個，三級有 advertisement（ads 是它的簡寫，詞彙表列在同一個詞條）、flash 兩個，其餘落在一、二級。sneaker 和 banner 是圖片裡看得到的東西，也沒有更簡單、更貼切的字可以代替，所以照樣使用。"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 178,
+     "p1": "The two pictures show the same building, but it looks very different. In the first picture, the building is clean and quiet. We can see its windows and two green trees, and only two people are walking on the street. In the second picture, big ads cover the whole building. There is a big screen with a phone ad at the top, and many other ads for new apartments, shoes, food, and travel under it. We cannot see any windows now. Many people are also standing in front of the building.",
+     "p2": "Putting too many ads on a building is not a good idea. Ads help companies sell things, and the owner of the building can make money. However, the bright screen is a problem for the people nearby. My aunt works across the street from a building like this, and she has to keep her curtains closed all day. Also, ads everywhere make us want to buy more and more things. I think cities should make a rule that allows only one or two ads on each building.",
+     "zh": {
+      "p1": "這兩張圖片是同一棟大樓，看起來卻很不一樣。第一張圖裡，大樓乾淨又安靜，我們看得到窗戶和兩棵綠樹，街上也只有兩個人在走路。到了第二張圖，大型廣告蓋滿了整棟大樓：頂樓有一面大螢幕在播手機廣告，下面還有許多新建案、鞋子、食物和旅遊的廣告，現在連一扇窗戶都看不到，大樓前面也站了很多人。",
+      "p2": "在大樓上放太多廣告不是個好主意。廣告可以幫公司賣東西，屋主也能賺到錢。可是，那麼亮的螢幕對附近的人是個困擾。我阿姨在一棟這樣的大樓對面上班，她整天都得把窗簾拉上。另外，到處都是廣告，讓我們想買愈來愈多東西。我認為城市應該訂一個規定，讓每棟大樓只能放一、兩則廣告。"
+     }
+    },
+    "levels": "用字：三級只有 ad（廣告，詞彙表的詞條是 advertise(ment)/ad）一個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用冒號把一句概括和三個細節接起來",
+      "b": "In the first picture, the building is clean and quiet.",
+      "m": "On the left, it stands quietly in the sun: rows of glass windows reflect the sky, a tree grows on either side, and only a couple of people walk along the sidewalk.",
+      "why": "基礎版 [In the first picture, the building is clean and quiet] 只用 clean 和 quiet 兩個形容詞說大樓的樣子，讀的人看不到畫面。範文先寫一句概括 [it stands quietly in the sun]，冒號後面再列出三個看得到的細節：[rows of glass windows reflect the sky]、[a tree grows on either side]、[only a couple of people walk along the sidewalk]。冒號的用法是前面先說結論，後面用具體的事實說明；三個細節各是一個完整的子句，用逗號和 and 並列。這樣就不必另外寫「為什麼說它安靜」，細節自己已經把安靜寫出來了。"
+     },
+     {
+      "t": "用 not a single 把「一扇窗也沒有」寫得更有力",
+      "b": "We cannot see any windows now.",
+      "m": "Not a single window can be seen anymore.",
+      "why": "[We cannot see any windows now] 是一般的否定句，主詞是 we。範文把 [not a single window] 當主詞放在句首，後面接被動 [can be seen]，意思是「連一扇窗都看不到」，語氣比 any windows 強；主詞也不必寫出 we，焦點就落在窗戶不見了這件事上。anymore 是「再也、不再」，承接前面 the same walls have almost disappeared 和廣告填滿牆面的描述，所以意思是連貫的。"
+     },
+     {
+      "t": "用 instead of 對照前後，再用 as if 加一個比喻",
+      "b": "Many people are also standing in front of the building.",
+      "m": "Instead of a few people walking by, a crowd has gathered at the foot of the building, as if the building itself were a shop.",
+      "why": "基礎版只說樓前有很多人。範文用 [Instead of A, B] 的句型把左圖和右圖對照起來：[instead of a few people walking by] 是左圖，[a crowd has gathered at the foot of the building] 是右圖，讀的人不用回頭看圖，就知道多了什麼、少了什麼。後面的 [as if + 子句] 是「彷彿……」，說的是與事實相反的比喻（大樓當然不是商店），所以子句裡的 be 動詞用 were，不用 was。現在完成式 has gathered 表示人群聚起來以後，現在還在那裡。"
+     },
+     {
+      "t": "先退一步肯定，再轉到自己的立場",
+      "b": "Putting too many ads on a building is not a good idea.",
+      "m": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far.",
+      "why": "基礎版直接說 [too many ads] 不好，立場清楚，卻沒有給對方留餘地。範文先用 [a few advertisements … are fine] 承認幾則廣告無妨，再用 [but] 轉到 [covering a whole building with them goes too far]，把反對的對象縮小到「蓋滿整棟」。這樣寫有兩個好處：立場比較精確，讀的人也比較容易同意；而且 but 前後各是一個完整的子句，對比一目了然。covering a whole building with them 是動名詞片語當主詞，動名詞片語當主詞時視為單數，所以動詞用 goes；句中的 them 指的是前面的 advertisements。"
+     },
+     {
+      "t": "用 would rather 提出做法，再用 That way 說明好處",
+      "b": "I think cities should make a rule that allows only one or two ads on each building.",
+      "m": "I would rather see cities set limits, such as one screen per building and no lights after ten o’clock.",
+      "why": "基礎版 [I think cities should make a rule that allows only …] 是常見的建議句型。範文改用 [would rather + 原形動詞]，後面的 [see cities set limits] 是 [see + 受詞 + 原形動詞]，意思是「我倒希望看到城市訂出限制」，語氣比 should 委婉，也比較像是自己的主張。such as 後面並列兩項具體的限制，比基礎版的 only one or two ads 更清楚。範文的下一句 [That way, companies can still reach their customers, and the rest of us can still see the sky] 用 That way 接上這樣做的好處，把建議和結果連在一起。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述兩張圖片並說明差異）",
+      "items": [
+       {
+        "f": "The two pictures show the same ___ at two different ___.（同一個什麼／兩個不同的什麼）",
+        "ex": "The two pictures show the same classroom at two different times of the day."
+       },
+       {
+        "f": "In the first picture, ___, while in the second one, ___.（第一張圖的樣子／第二張圖的樣子）",
+        "ex": "In the first picture, the playground is empty, while in the second one, it is full of students."
+       },
+       {
+        "f": "___ cover(s) the ___, so we cannot see ___ anymore.（什麼蓋住了什麼／看不到的東西）",
+        "ex": "Many posters cover the wall, so we cannot see the paint anymore."
+       },
+       {
+        "f": "Instead of ___, there are ___ in front of the ___.（原本有的東西／現在換成的東西／地點）",
+        "ex": "Instead of one bicycle, there are twenty bicycles in front of the school gate."
+       }
+      ]
+     },
+     {
+      "name": "第二段（看法與理由）",
+      "items": [
+       {
+        "f": "I think ___ is/are fine, but ___ goes too far.（可以接受的程度／過頭的做法）",
+        "ex": "I think a few posters on a school wall are fine, but covering the whole wall goes too far."
+       },
+       {
+        "f": "___ is a problem for people who ___.（什麼造成困擾／受影響的人）",
+        "ex": "Loud music at night is a problem for people who live nearby."
+       },
+       {
+        "f": "My ___ says that ___, so ___.（親友／他說的事情／結果）",
+        "ex": "My neighbor says that the street light shines into her room, so she keeps the window closed."
+       },
+       {
+        "f": "I would rather see ___ set a rule such as ___. That way, ___.（誰／規定的內容／好處）",
+        "ex": "I would rather see our apartment building set a rule such as no loud music after ten o’clock. That way, everyone can sleep well."
+       }
+      ]
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-23",
+    "note": "條目取自本題庫的歷屆試題，缺口由本題庫補足；出處欄標示這個條目考過的年度與題號，練習句是本題庫依試題文體、針對這一題的情境寫的。先看中文自己寫寫看，想不出來再點提示，寫完再看參考答案。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "billboard",
+        "zh": "廣告看板",
+        "own": true
+       },
+       {
+        "w": "be covered with",
+        "zh": "被……蓋滿",
+        "src": "86年推薦甄選 Q18",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0058"
+        ]
+       },
+       {
+        "w": "reflect",
+        "zh": "映出、反射（reflect the sky）",
+        "own": true
+       },
+       {
+        "w": "a crowd of people",
+        "zh": "一大群人",
+        "own": true
+       },
+       {
+        "w": "gather",
+        "zh": "聚集",
+        "own": true
+       },
+       {
+        "w": "in contrast (to / with)",
+        "zh": "相比之下；與……形成對比",
+        "src": "89年聯考 Q11、87年推薦甄選 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0250",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0071"
+        ]
+       },
+       {
+        "w": "eye-catching",
+        "zh": "引人注目的",
+        "own": true
+       },
+       {
+        "w": "attract customers",
+        "zh": "吸引顧客",
+        "src": "86年推薦甄選 Q19",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0059"
+        ]
+       },
+       {
+        "w": "promote a product",
+        "zh": "推銷產品（名詞 promotion：促銷）",
+        "src": "104年學測 Q11、89年學測 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0097"
+        ]
+       },
+       {
+        "w": "commercial",
+        "zh": "商業的（a commercial building：商業大樓）",
+        "src": "91年學測補考 Q9、91年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0144",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0124"
+        ]
+       },
+       {
+        "w": "make a profit",
+        "zh": "賺取利潤",
+        "src": "106年學測 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0387"
+        ]
+       },
+       {
+        "w": "flashing lights",
+        "zh": "閃爍的燈光",
+        "src": "113年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0472"
+        ]
+       },
+       {
+        "w": "disturb",
+        "zh": "打擾、干擾",
+        "src": "83年推薦甄選 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0003"
+        ]
+       },
+       {
+        "w": "ruin the view",
+        "zh": "破壞景觀",
+        "src": "105年學測 Q13",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0373"
+        ]
+       },
+       {
+        "w": "restrictions on sth",
+        "zh": "對……的限制",
+        "src": "108年學測 Q4",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0409"
+        ]
+       },
+       {
+        "w": "the appearance of sth",
+        "zh": "……的外觀",
+        "src": "98年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0260"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "整棟大樓的外牆被一面面大型廣告看板蓋住，連一扇窗戶都看不到。",
+        "en": "The walls of the building are covered with huge billboards, so not a single window can be seen.",
+        "hint": "「連一扇窗戶都看不到」用 not a single + 單數名詞當主詞，再接 can be seen；這個句型比 cannot see any windows 更有力。",
+        "covers": [
+         "billboard",
+         "be covered with"
+        ],
+        "bold": [
+         "covered with huge billboards",
+         "not a single window can be seen"
+        ]
+       },
+       {
+        "zh": "左圖裡街上很安靜；相比之下，右圖裡有一大群人聚集在大樓前面。",
+        "en": "The street is quiet in the first picture. In contrast, a crowd of people has gathered in front of the building in the second one.",
+        "hint": "in contrast 放在句首時，後面要加逗號；它連接前後兩句，所以前一句要先把第一張圖寫完。",
+        "covers": [
+         "in contrast (to / with)",
+         "a crowd of people",
+         "gather"
+        ],
+        "bold": [
+         "In contrast",
+         "a crowd of people has gathered"
+        ]
+       },
+       {
+        "zh": "玻璃窗映出藍天，整棟大樓看起來乾淨又安靜。",
+        "en": "The glass windows reflect the blue sky, and the whole building looks clean and quiet.",
+        "hint": "reflect 在這裡是「（鏡面）映出、反射」，受詞是被映出來的東西。",
+        "covers": [
+         "reflect"
+        ],
+        "bold": [
+         "reflect the blue sky"
+        ]
+       },
+       {
+        "zh": "一則引人注目的廣告，是公司推銷產品最快的方法。",
+        "en": "An eye-catching ad is the quickest way for a company to promote a product.",
+        "hint": "「推銷產品」的動詞用 promote；名詞 promotion 是「促銷」。",
+        "covers": [
+         "eye-catching",
+         "promote a product"
+        ],
+        "bold": [
+         "eye-catching",
+         "promote a product"
+        ]
+       },
+       {
+        "zh": "這些閃爍的燈光吸引了不少顧客，卻也打擾了住在附近的人。",
+        "en": "The flashing lights attract many customers, but they also disturb the people who live nearby.",
+        "hint": "attract 的受詞是被吸引過來的人；disturb 的受詞是被打擾的人，兩個動詞後面都直接接受詞。",
+        "covers": [
+         "flashing lights",
+         "attract customers",
+         "disturb"
+        ],
+        "bold": [
+         "flashing lights",
+         "attract many customers",
+         "disturb"
+        ]
+       },
+       {
+        "zh": "大樓的主人靠出租廣告的位置賺取利潤。",
+        "en": "The owner of the building makes a profit by renting out space for ads.",
+        "hint": "make a profit 這個片語裡，profit 前面要加 a；by + V-ing 表示用什麼方法。",
+        "covers": [
+         "make a profit"
+        ],
+        "bold": [
+         "makes a profit",
+         "by renting out space"
+        ]
+       },
+       {
+        "zh": "廣告太多會破壞整座城市的景觀，也會改變商業大樓原來的樣子。",
+        "en": "Too many ads can ruin the view of the city and change the appearance of a commercial building.",
+        "hint": "the appearance of + 名詞是「……的外觀」；commercial 是形容詞，意思是「商業的」。",
+        "covers": [
+         "ruin the view",
+         "the appearance of sth",
+         "commercial"
+        ],
+        "bold": [
+         "ruin the view",
+         "the appearance of",
+         "commercial"
+        ]
+       },
+       {
+        "zh": "我認為政府應該對戶外廣告的數量訂出限制。",
+        "en": "I think the government should set restrictions on the number of outdoor ads.",
+        "hint": "restriction 後面接 on + 名詞，表示「對……的限制」；set restrictions on 是「對……訂出限制」。",
+        "covers": [
+         "restrictions on sth"
+        ],
+        "bold": [
+         "set restrictions on"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "consumption",
+        "zh": "115 年學測考的是「攝取」（a balanced consumption of fruit and vegetables：均衡攝取蔬果）。consumption 另一個常用的意思是「消費」，107 年指考中譯英就考過 fast consumption（快速消費），大考中心閱卷評分原則也把它列為得分字詞。廣告的目的就是刺激消費（encourage consumption）。",
+        "src": "115年學測 Q5、89年學測 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0495",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0093"
+        ]
+       },
+       {
+        "w": "dominate",
+        "zh": "支配、在……中占主要地位，例如 ads dominate the street",
+        "src": "86年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0283"
+        ]
+       },
+       {
+        "w": "overwhelm",
+        "zh": "使難以承受、壓倒，例如 too many ads can overwhelm viewers",
+        "src": "109年指考補考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0012"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
    }
