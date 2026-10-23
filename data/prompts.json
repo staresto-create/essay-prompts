@@ -538,6 +538,26 @@
       "**第二段：**「只寫 what」只有兩個事實，彼此沒有關係；「加上銜接詞」用 because 交代原因，用 As a result 接影響，兩項任務都完成了。基礎版和進階版再用自己街上的觀察，把原因和影響寫具體。"
      ]
     }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Our love of pets",
+      "series": "BBC 6 Minute English",
+      "date": "2024-01-04",
+      "length": "6 分 7 秒",
+      "blurb": "談人類為什麼養寵物、為什麼這麼愛寵物。這一題要寫寵物角色的變化與原因，可以借這一集想「陪伴」「家人」這類論點。",
+      "url": "https://www.bbc.co.uk/search?q=Our%20love%20of%20pets%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000640528358",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -571,7 +591,27 @@
    "sameAs": "E111_GSAT",
    "reuseNote": "本題與 111 學測作文題相同（大考中心參考試卷採用歷年考題）",
    "promptSummary": "圖片A為兒童遊樂設施公園，圖片B為自然景觀公園。要求先比較兩者特色，再說明個人理想的公園並解釋\n理由。",
-   "summarySource": "外部模型產出，未經查證，不上站"
+   "summarySource": "外部模型產出，未經查證，不上站",
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "How important is play?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-11-13",
+      "length": "6 分 40 秒",
+      "blurb": "談新式遊戲場：用舊輪胎、木板等「廢料」打造，讓小孩自己動手玩，也談玩對孩子的重要。這一題第二段要寫理想公園，可以借「公園不只是漂亮，還要讓人想玩、想動」這個想法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-251113",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000736563962",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
+   }
   },
   {
    "id": "E114_GSAT",
@@ -634,8 +674,23 @@
       "alt": "https://open.spotify.com/episode/4dcz9mBIO4e1HvKia4WltM",
       "altLabel": "Spotify",
       "checked": "2026 年 9 月"
+     },
+     {
+      "title": "Can we stop natural disasters?",
+      "series": "BBC 6 Minute English",
+      "date": "2023-08-04",
+      "length": "6 分 11 秒",
+      "blurb": "談人能不能減輕天災造成的災害。這一題第二段要寫對颱風假的看法，可以借「災害無法避免，但可以降低損失」來想理由。",
+      "url": "https://www.bbc.co.uk/search?q=Can%20we%20stop%20natural%20disasters%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000623418258",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "E"
+    }
    },
    "model": {
     "essay": {
@@ -1280,18 +1335,33 @@
     "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
-      "title": "Is rejection good for us?",
+      "title": "Would you like a robot companion?",
       "series": "BBC 6 Minute English",
-      "date": "2026-09-17",
-      "length": "6 分 22 秒",
-      "blurb": "Georgie 與 Neil 談 rejection therapy：有人上街向陌生人提出唐突的請求，把遭拒的過程拍成影片放上社群，形成一股風潮；這不是正式的心理治療，但有人做過之後覺得自己變得比較有自信。這一題第二段要寫機器人做什麼、自己做什麼，而這一集講的正是自己那一半——主動去踩怕被拒絕的那個點。",
-      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260917",
+      "date": "2025-09-18",
+      "length": "6 分 43 秒",
+      "blurb": "談如果有機器人到家裡幫忙，會是什麼情形。這一題要選一個問題請機器人小幫手解決，第二段又要寫它該有的能力和分工，可以拿來想機器人能做什麼、不能做什麼。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250918",
       "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
-      "alt": "https://open.spotify.com/episode/2vpbtGPCtUkVm3ahQ60t8D",
-      "altLabel": "Spotify",
-      "checked": "2026 年 9 月"
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000727311962",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Social media and teenage health",
+      "series": "BBC 6 Minute English",
+      "date": "2023-11-23",
+      "length": "6 分 9 秒",
+      "blurb": "談社群媒體對青少年健康的風險，以及可以怎麼因應。這一題的三種青少年困擾若選到跟手機、社群有關的，可以借這集想原因與對策。",
+      "url": "https://www.bbc.co.uk/search?q=Social%20media%20and%20teenage%20health%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000635787006",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "T"
+    }
    },
    "model": {
     "essay": {
@@ -2382,6 +2452,38 @@
       "**第二段：**「只寫 what」只有事件，沒有誤會的原因，也沒有方法；「加上銜接詞」用 so 把「被誤解」和「打電話解釋」接起來。基礎版和進階版再把經驗寫具體，並以「現在我怎麼做」收尾，化解方法就有了。"
      ]
     }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Do emojis make language better?",
+      "series": "BBC 6 Minute English",
+      "date": "2022-09-01",
+      "length": "約 6 分",
+      "blurb": "談 emoji 為什麼流行：面對面說話有表情和語氣，文字訊息沒有，emoji 把情緒補回來；也談有人批評它讓人不會好好用字，專家則認為它讓溝通更有效。正好對應第一段「人們為什麼喜歡用、有什麼溝通功能」。第二段的誤會與化解，這一集沒有談，可以搭配下一集。字彙表有 the grammar police、a jaundiced view、the dark ages、lucky in love、it stands to reason。",
+      "url": "https://www.bbc.co.uk/search?q=Do%20emojis%20make%20language%20better%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000578021655",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Rude emails",
+      "series": "BBC 6 Minute English",
+      "date": "2026-07-02",
+      "length": "6 分 34 秒",
+      "blurb": "談收到失禮的電子郵件是什麼感受，以及寫得太快、沒想到對方感受時會發生什麼。對應第二段：文字訊息少了語氣，容易讓人誤會，可以借來想例子和化解方法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260702",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000775125993",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "L"
+    }
    }
   },
   {
@@ -2804,6 +2906,26 @@
       "**第一段：**「只寫 what」只說兩張都是公園，看不出差別；「加上銜接詞」用 while 把兩張圖放在一起比，差別就清楚了。基礎版和進階版再補上圖中的細節，最後用一句話收回「兩座公園各適合誰」。",
       "**第二段：**「只寫 what」只有兩項特色，沒有理由；「加上銜接詞」用 because 把每項特色接上理由，任務的「解釋理由」就完成了。基礎版和進階版再用自己家附近的公園當出發點，把理由寫具體。"
      ]
+    }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "How important is play?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-11-13",
+      "length": "6 分 40 秒",
+      "blurb": "談新式遊戲場：用舊輪胎、木板等「廢料」打造，讓小孩自己動手玩，也談玩對孩子的重要。這一題第二段要寫理想公園，可以借「公園不只是漂亮，還要讓人想玩、想動」這個想法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-251113",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000736563962",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
     }
    }
   },
@@ -3305,6 +3427,26 @@
       "**第一段：**「只寫 what」只是點名，人、事、物各自獨立；「加上銜接詞」用 even though 把「站在花田裡」和「有告示牌」接起來，圖中發生的事就看得見了。基礎版和進階版再補上人數、動作和告示牌的位置，最後落在「沒有人理會」。",
       "**第二段：**「只寫 what」只有立場，沒有理由；「加上銜接詞」用 because 把自己的感受和花農的辛苦接起來。基礎版和進階版以「我自己也走進去」切入，立場是遊客，再用一年的栽種收尾，看法就有重量。"
      ]
+    }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Ecotourism: good or bad?",
+      "series": "BBC 6 Minute English",
+      "date": "2023-06-01",
+      "length": "6 分 29 秒",
+      "blurb": "談尊重動物與在地社區的生態旅遊，到底做得好不好。這一題要以遊客或場所主人的立場表達看法，可以借這集想遊客帶來的好處與壓力。",
+      "url": "https://www.bbc.co.uk/search?q=Ecotourism%3A%20good%20or%20bad%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000615266347",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "E"
     }
    }
   },
@@ -3982,6 +4124,18 @@
     "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
+      "title": "Learning multiple languages",
+      "series": "BBC 6 Minute English",
+      "date": "2025-04-10",
+      "length": "6 分 59 秒",
+      "blurb": "談學多種語言對人好不好。第一段要寫贊不贊成大學用英語授課，可以借這集想語言能力的好處。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250410",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000702979990",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
       "title": "Can apps teach you a language?",
       "series": "BBC 6 Minute English",
       "date": "2026-09-10",
@@ -3992,8 +4146,23 @@
       "alt": "https://open.spotify.com/episode/0a418m2O2BTGm4lUqCeL9c",
       "altLabel": "Spotify",
       "checked": "2026 年 9 月"
+     },
+     {
+      "title": "Scared to speak English?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-01-22",
+      "length": "7 分 11 秒",
+      "blurb": "談說英語時的恐懼，以及怎麼克服。第二段要寫「如果必修課用英語授課你怎麼因應」，可以借這集想具體做法。",
+      "url": "https://www.bbc.co.uk/search?q=Scared%20to%20speak%20English%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000746200239",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "L"
+    }
    },
    "basic": {
     "essay": {
@@ -4520,6 +4689,26 @@
       "**第一段：**「只寫 what」是兩個互不相關的事實；「加上銜接詞」用 while 把「人潮湧入」和「店員協助」放進同一個場景。基礎版和進階版再把鏡頭停在人群中的一位年輕女子，第二段的故事就有主角了。",
       "**第二段：**「只寫 what」只有開頭，沒有發展，也沒有結局；「加上銜接詞」用 so 把「各握一邊」接到結局，用 In the end 收尾。基礎版和進階版再加上對話，並把結局落在回家公車上的心情，故事就完整了。"
      ]
+    }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "How advertisers make us spend money",
+      "series": "BBC 6 Minute English",
+      "date": "2026-06-11",
+      "length": "6 分 35 秒",
+      "blurb": "談廣告怎麼影響我們買東西，我們以為自己理性選擇，其實常被廣告牽著走。這一題要想像賣場週年慶的一個事件，可以借這集想人們為什麼被折扣吸引。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260611",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000772201004",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "S"
     }
    }
   },
@@ -5221,6 +5410,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "How do you say sorry?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-07-03",
+      "length": "6 分 33 秒",
+      "blurb": "談各國怎麼道歉，以及上一次向人道歉是怎麼做的。這一題第二段要寫如何彌補傷害，可以借這集想道歉的方式。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250703",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000715583663",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "The right way to say sorry",
+      "series": "BBC 6 Minute English",
+      "date": "2023-07-27",
+      "length": "6 分 14 秒",
+      "blurb": "談道歉的不同方式，怎樣才算好好道歉。可以和上一集一起想：道歉要說什麼、怎麼說。",
+      "url": "https://www.bbc.co.uk/search?q=The%20right%20way%20to%20say%20sorry%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000622498420",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -5556,6 +5777,26 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "How bubble tea got its bubbles",
+      "series": "BBC 6 Minute English",
+      "date": "2024-05-23",
+      "length": "6 分 13 秒",
+      "blurb": "談珍珠奶茶的珍珠怎麼來、這種飲料怎麼被發明出來。這一題要寫台灣讓你驕傲的事物與介紹方式，珍珠奶茶是常見的選擇，可以借這集想怎麼向外國人介紹它。",
+      "url": "https://www.bbc.co.uk/search?q=How%20bubble%20tea%20got%20its%20bubbles%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000656485213",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "F"
+    }
    }
   },
   {
@@ -5997,6 +6238,26 @@
       "**第一段：**「只寫 what」只有三個零碎的事實；「加上銜接詞」用 while 把「最高」和「最低」放在同一句。基礎版和進階版再補上數字，進階版最後用一句話歸納這群年輕人關注什麼。",
       "**第二段：**「只寫 what」只有喜好；「加上銜接詞」用 because 和 since 把「最關注」和「最不關注」都配上理由。基礎版和進階版再用班上同學的談話、國外新聞的內容，把理由寫具體。"
      ]
+    }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Doomscrolling: Why do we do it?",
+      "series": "BBC 6 Minute English",
+      "date": "2023-02-09",
+      "length": "6 分 16 秒",
+      "blurb": "談為什麼我們忍不住一直滑壞消息，是否有演化上的原因。這一題第二段要寫自己較關注與較不關注的新聞類別，可以借這集想理由。",
+      "url": "https://www.bbc.co.uk/search?q=Doomscrolling%3A%20Why%20do%20we%20do%20it%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000598836530",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "T"
     }
    }
   },
@@ -6881,6 +7142,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Fighting loneliness with soup",
+      "series": "BBC 6 Minute English",
+      "date": "2024-02-08",
+      "length": "6 分 37 秒",
+      "blurb": "談荷蘭一項幫助孤單長者的計畫。這一題若選「社區老人服務」，可以借這集想服務長者的做法與意義。",
+      "url": "https://www.bbc.co.uk/search?q=Fighting%20loneliness%20with%20soup%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000644645860",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "What makes a good citizen?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-10-09",
+      "length": "6 分 42 秒",
+      "blurb": "談什麼樣的人是好公民：只是投票守法，還是還有更多。這一題第二段要寫活動為社區帶來什麼，可以借這集想「參與社區」的理由。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-251009",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000730966175",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -7402,18 +7695,33 @@
     "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
     "items": [
      {
-      "title": "Why does heartbreak hurt so much?",
+      "title": "Fighting loneliness with soup",
       "series": "BBC 6 Minute English",
-      "date": "2026-10-01",
-      "length": "6 分 34 秒",
-      "blurb": "Neil 與 Georgie 談失戀為什麼會痛：掃描大腦的研究發現，心碎時有反應的區域，跟燙傷或骨折時有反應的是同一塊。節目也提到，一個人寂寞、又缺少親友之間緊密的連結，死亡風險上升的幅度跟肥胖或抽菸差不多。這一題問寂寞的時候有誰或什麼陪你，這一集說明的正是寂寞為什麼不只是心情不好，以及人為什麼需要陪伴。",
-      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261001",
-      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
-      "alt": "https://open.spotify.com/episode/33mQpbOioIBlYRvPqszTRX",
-      "altLabel": "Spotify",
+      "date": "2024-02-08",
+      "length": "6 分 37 秒",
+      "blurb": "談荷蘭一項幫助孤單的人的計畫，用一碗湯讓人有機會聚在一起。可以借這集想孤單時，有人陪、有事做會有什麼不同。",
+      "url": "https://www.bbc.co.uk/search?q=Fighting%20loneliness%20with%20soup%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000644645860",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Are you lonely in a crowd?",
+      "series": "BBC 6 Minute English",
+      "date": "2023-03-23",
+      "length": "6 分 20 秒",
+      "blurb": "談現代生活中的人群，以及明明身邊有很多人卻覺得孤單的感受。第一段要寫為何、在何種情境感到寂寞，可以借這集想情境。",
+      "url": "https://www.bbc.co.uk/search?q=Are%20you%20lonely%20in%20a%20crowd%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000605536269",
+      "altLabel": "Apple Podcasts",
       "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "M"
+    }
    },
    "model": {
     "essay": {
@@ -7944,8 +8252,23 @@
       "alt": "https://open.spotify.com/episode/1t8rbX8xV0y7eTpvOwXICW",
       "altLabel": "Spotify",
       "checked": "2026 年 8 月"
+     },
+     {
+      "title": "Do you need to declutter your home?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-07-10",
+      "length": "6 分 49 秒",
+      "blurb": "談家裡東西太多、需要整理的情形。這一題第二段要寫家事分工經驗，可以借這集想「整理」這件家事的說法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250710",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000716633014",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "M"
+    }
    },
    "model": {
     "essay": {
@@ -8543,6 +8866,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "What is the future of work?",
+      "series": "BBC 6 Minute English",
+      "date": "2024-02-01",
+      "length": "6 分 31 秒",
+      "blurb": "談工作是否會消失，未來的工作會是什麼樣子。這一題要寫碩士去考清潔隊員的原因，可以借這集想就業環境與工作選擇。",
+      "url": "https://www.bbc.co.uk/search?q=What%20is%20the%20future%20of%20work%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000643782201",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Are you unhappy at work?",
+      "series": "BBC 6 Minute English",
+      "date": "2023-08-17",
+      "length": "6 分 11 秒",
+      "blurb": "談工作要怎麼改變，才能讓工作的人更快樂。這一題第二段要寫自己如何因應，可以借這集想工作滿意度的因素。",
+      "url": "https://www.bbc.co.uk/search?q=Are%20you%20unhappy%20at%20work%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000624747300",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "S"
+    }
    }
   },
   {
@@ -9069,6 +9424,38 @@
       "**第二段：**「只寫 what」只有喜好，沒有理由；「加上銜接詞」用 because 把朋友修照片的事，和這本書能幫上的地方接起來。基礎版和進階版再用「這本書能改變什麼、不能改變什麼」收尾，理由就有分量了。"
      ]
     }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Why read books, not screens?",
+      "series": "BBC 6 Minute English",
+      "date": "2024-07-25",
+      "length": "6 分 14 秒",
+      "blurb": "談為什麼讀紙本書比讀螢幕好。這一題要想像一本書的內容並說明選擇理由，可以借這集想閱讀方式與專注力。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-240725",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000663298840",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "How reading shapes your brain",
+      "series": "BBC 6 Minute English",
+      "date": "2026-05-14",
+      "length": "6 分 35 秒",
+      "blurb": "談學會閱讀如何改變大腦。可以和上一集一起想：為什麼要讀書。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260514",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000767735615",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -9521,6 +9908,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "The school that puts the kids in charge",
+      "series": "BBC 6 Minute English",
+      "date": "2024-07-11",
+      "length": "6 分 14 秒",
+      "blurb": "談讓學生當家的學校會發生什麼事。這一題要寫教別人或被教的經驗，可以借這集想「自己主導學習」的好處與困難。",
+      "url": "https://www.bbc.co.uk/search?q=The%20school%20that%20puts%20the%20kids%20in%20charge%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000661885085",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Which country has the best schools?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-01-16",
+      "length": "6 分 33 秒",
+      "blurb": "談不同國家的教育制度怎麼比較。可以借這集想學習方式與成效。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250116",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000684219662",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "S"
+    }
    }
   },
   {
@@ -11730,6 +12149,26 @@
       "**第二段：**「只寫 what」只說不選，沒有說問題在哪；「加上銜接詞」用 because 說明壞人可能怎麼利用披風，再用 and 接上後果。基礎版和進階版再用「我寧願住在人們可以互相信任的地方」收尾。"
      ]
     }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Sharing the road with driverless cars",
+      "series": "BBC 6 Minute English",
+      "date": "2026-08-20",
+      "length": "6 分 37 秒",
+      "blurb": "談無人駕駛車已在世界各地的城市上路，大家要習慣和它共用道路。這一題要選一項新科技產品，可以借這集想新科技帶來的方便與疑慮。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260820",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000784600195",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "T"
+    }
    }
   },
   {
@@ -12219,6 +12658,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Why you need a good night's sleep",
+      "series": "BBC 6 Minute English",
+      "date": "2024-10-31",
+      "length": "6 分 14 秒",
+      "blurb": "談為什麼睡好覺這麼重要。這一題要勸朋友別熬夜，可以借這集想睡眠對身體與學習的影響。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-241031",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000675184898",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Limiting screen time for children",
+      "series": "BBC 6 Minute English",
+      "date": "2026-06-18",
+      "length": "6 分 47 秒",
+      "blurb": "談各國限制兒童使用螢幕時間，以及父母的擔心。可以借這集想過度使用螢幕的後果與勸告的說法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260618",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000773253705",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "H"
+    }
    }
   },
   {
@@ -12759,6 +13230,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Should we cycle more?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-07-09",
+      "length": "6 分 13 秒",
+      "blurb": "談騎單車的好處，以及很久沒騎也能很快上手。這一題要寫自己最常從事的運動，騎單車是常見的選擇，可以借這集想怎麼描述。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260709",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000776098256",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Exercise for The Lazy",
+      "series": "BBC 6 Minute English",
+      "date": "2023-02-02",
+      "length": "6 分 19 秒",
+      "blurb": "談要維持健康，最少需要做多少運動。可以借這集想運動對生活的影響。",
+      "url": "https://www.bbc.co.uk/search?q=Exercise%20for%20The%20Lazy%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000597684410",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "E"
+    }
    }
   },
   {
@@ -14807,6 +15310,26 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Can we stop natural disasters?",
+      "series": "BBC 6 Minute English",
+      "date": "2023-08-04",
+      "length": "6 分 11 秒",
+      "blurb": "談人能不能減輕天災造成的災害。這一題第二段要表達對天災的感受並慰問，可以借這集想天災的影響與人類能做的事。",
+      "url": "https://www.bbc.co.uk/search?q=Can%20we%20stop%20natural%20disasters%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000623418258",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "E"
+    }
    }
   },
   {
@@ -15050,8 +15573,23 @@
       "alt": "https://open.spotify.com/episode/4F4sHy6AGhG5aoUJsmp5Qj",
       "altLabel": "Spotify",
       "checked": "2026 年 8 月"
+     },
+     {
+      "title": "Why smells make us feel at home",
+      "series": "BBC 6 Minute English",
+      "date": "2025-02-06",
+      "length": "6 分 40 秒",
+      "blurb": "談氣味為什麼會讓人有回家的感覺。這一題要寫最難忘的氣味與理由，可以借這集想氣味和記憶、情緒的連結。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250206",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000689576536",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "M"
+    }
    },
    "basic": {
     "essay": {
@@ -17264,6 +17802,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "How advertisers make us spend money",
+      "series": "BBC 6 Minute English",
+      "date": "2026-06-11",
+      "length": "6 分 35 秒",
+      "blurb": "談廣告怎麼影響我們買東西。這一題要說明一則令你印象深刻的廣告，可以借這集想廣告用什麼方式吸引人。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260611",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000772201004",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Nudges: The secrets of persuasion",
+      "series": "BBC 6 Minute English",
+      "date": "2024-04-11",
+      "length": "6 分 11 秒",
+      "blurb": "談「推一把」（nudge）這種說服方式，是好是壞。可以借這集想廣告怎麼影響人的選擇。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-240411",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000652121254",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "S"
+    }
    }
   },
   {
@@ -20062,6 +20632,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "What English phrases really mean",
+      "series": "BBC 6 Minute English",
+      "date": "2026-01-15",
+      "length": "6 分 38 秒",
+      "blurb": "談英國人說話時，說出口的和真正的意思常常不一樣。這一題要寫被誤解的經驗，可以借這集想誤解是怎麼發生的。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260115",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000745280113",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Rude emails",
+      "series": "BBC 6 Minute English",
+      "date": "2026-07-02",
+      "length": "6 分 34 秒",
+      "blurb": "談收到失禮電子郵件的感受，以及寫得太快造成的問題。可以借這集想文字訊息容易被誤解的原因。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260702",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000775125993",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "L"
+    }
    }
   },
   {
@@ -22017,6 +22619,26 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Learning a new food culture",
+      "series": "BBC 6 Minute English",
+      "date": "2024-09-26",
+      "length": "6 分 14 秒",
+      "blurb": "談搬到另一個國家，要怎麼適應新的食物文化。這一題要寫旅行的好處，可以借這集想接觸不同文化學到的事。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-240926",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000670759221",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "F"
+    }
    }
   },
   {
@@ -22553,6 +23175,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Making male friends",
+      "series": "BBC 6 Minute English",
+      "date": "2023-09-14",
+      "length": "6 分 14 秒",
+      "blurb": "談男性是否比女性更不容易交到知心朋友。這一題要說明什麼樣的人是好朋友，可以借這集想友誼需要什麼。",
+      "url": "https://www.bbc.co.uk/search?q=Making%20male%20friends%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000627880332",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "The bond between sisters",
+      "series": "BBC 6 Minute English",
+      "date": "2024-11-14",
+      "length": "6 分 31 秒",
+      "blurb": "談姊妹之間的關係，可以是最親近的一種。可以借這集想親密關係中的支持與分享。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-241114",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000676937956",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -23083,6 +23737,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Becoming a musician",
+      "series": "BBC 6 Minute English",
+      "date": "2025-01-30",
+      "length": "6 分 51 秒",
+      "blurb": "請英國各地的音樂人談音樂人的生活。這一題要說明音樂在生活中的重要，可以借這集想音樂對人的意義。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-250130",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000687088131",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Songwriting",
+      "series": "BBC 6 Minute English",
+      "date": "2023-01-05",
+      "length": "6 分 16 秒",
+      "blurb": "談寫歌：把歌詞和音樂結合出一首暢銷曲。可以借這集想音樂是怎麼創作出來的。",
+      "url": "https://www.bbc.co.uk/search?q=Songwriting%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000592610948",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "C"
+    }
    }
   },
   {
@@ -23586,6 +24272,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Why are we all so stressed?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-04-23",
+      "length": "6 分 42 秒",
+      "blurb": "談現代生活為什麼壓力這麼大，並請心理學家談如何調適。這一題要寫情緒低落時怎麼幫自己，可以借這集想排解壓力的方法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260423",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000763226550",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "How culture affects sadness",
+      "series": "BBC 6 Minute English",
+      "date": "2023-04-13",
+      "length": "6 分 15 秒",
+      "blurb": "談文化是否影響我們怎麼看待悲傷。可以借這集想情緒低落時的感受與處理方式。",
+      "url": "https://www.bbc.co.uk/search?q=How%20culture%20affects%20sadness%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000608780736",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -24076,6 +24794,26 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Why are we all so stressed?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-04-23",
+      "length": "6 分 42 秒",
+      "blurb": "簡介提到對考試、工作的擔憂，並談如何管理壓力。這一題寫各種考試成為高中生活的一部分，可以借這集想考試壓力的來源與減壓的方法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260423",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000763226550",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "M"
+    }
    }
   },
   {
@@ -25959,18 +26697,33 @@
       "checked": "2026 年 10 月"
      },
      {
-      "title": "What should you eat for a better night's sleep?",
+      "title": "Weight loss drugs",
       "series": "BBC 6 Minute English",
-      "date": "2026-10-22",
-      "length": "7 分 3 秒",
-      "blurb": "Georgie 與 Phil 談飲食怎麼影響睡眠：研究發現，蔬果、全穀吃得多，飽和脂肪吃得少，跟睡得比較深有關；專家也說，要看的是整體飲食，沒有哪一種食物或保健品能讓人立刻睡好。這一集談的是睡眠，沒有談體重，不過這題第二段要寫「理想的解決之道」，「整體飲食比單一食物重要」和「沒有速成的神奇解方」這兩個想法可以借用。",
-      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261022",
+      "date": "2026-03-26",
+      "length": "6 分 31 秒",
+      "blurb": "談減重藥物如何讓人有飽足感，原本是治療糖尿病的藥，現在越來越多人用來減重。這一題第二段要寫理想的解決之道，可以借這集對照：藥物之外還有哪些做法。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260326",
       "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
-      "alt": "https://open.spotify.com/episode/6TSf3aCFKz316CjZ7I9Wp7",
-      "altLabel": "Spotify",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000757477472",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Addicted to sugar",
+      "series": "BBC 6 Minute English",
+      "date": "2024-01-11",
+      "length": "6 分 14 秒",
+      "blurb": "談糖怎麼成為我們飲食中這麼重要的一部分。這一題要寫體重過重的原因，可以借這集想飲食習慣中的糖。",
+      "url": "https://www.bbc.co.uk/search?q=Addicted%20to%20sugar%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000641299770",
+      "altLabel": "Apple Podcasts",
       "checked": "2026 年 10 月"
      }
-    ]
+    ],
+    "more": {
+     "cat": "H"
+    }
    },
    "model": {
     "essay": {
@@ -26907,6 +27660,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "What is the future of work?",
+      "series": "BBC 6 Minute English",
+      "date": "2024-02-01",
+      "length": "6 分 31 秒",
+      "blurb": "談工作會不會消失、未來的工作會是什麼樣子。這一題要在四種工作中挑最好和最不可能選的，可以借這集想選工作時看重什麼。",
+      "url": "https://www.bbc.co.uk/search?q=What%20is%20the%20future%20of%20work%3F%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000643782201",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Dreaming of being a chef",
+      "series": "BBC 6 Minute English",
+      "date": "2026-02-19",
+      "length": "6 分 43 秒",
+      "blurb": "談想當廚師的人與餐廳工作的辛苦。四種工作中若有跟餐飲相關的，可以借這集想那份工作的優缺點。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-260219",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000750469403",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "S"
+    }
    }
   },
   {
@@ -27895,6 +28680,26 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Why laughter is the best medicine",
+      "series": "BBC 6 Minute English",
+      "date": "2022-03-10",
+      "length": "約 6 分",
+      "blurb": "談笑對健康的好處：笑會釋放減壓的腦內啡，愛笑的人康復得比較快；也談笑是怎麼發出聲音的，以及動物也會用笑聲邀請彼此玩。可以拿來想「笑勝於藥」的論點和例子。字彙表有 rib cage、primitive、giggle、guffaw、mammals、juvenile，節目中還有 chuckle、chortle、cackle 等各種「笑」的說法。",
+      "url": "https://www.bbc.co.uk/search?q=Why%20laughter%20is%20the%20best%20medicine%206%20Minute%20English",
+      "urlLabel": "BBC 搜尋（找這一集的官方頁）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000553549502",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "H"
+    }
    }
   },
   {
@@ -28830,6 +29635,38 @@
       ]
      }
     ]
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Do you have good dining etiquette?",
+      "series": "BBC 6 Minute English",
+      "date": "2025-11-20",
+      "length": "6 分 34 秒",
+      "blurb": "談用餐禮儀：什麼算有禮貌的餐桌行為，什麼算失禮。這一題要給來台灣的筆友建議，可以借這集想吃飯時要注意的事。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2025/ep-251120",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000737569261",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     },
+     {
+      "title": "Learning a new food culture",
+      "series": "BBC 6 Minute English",
+      "date": "2024-09-26",
+      "length": "6 分 14 秒",
+      "blurb": "談搬到另一個國家，要怎麼適應新的食物文化。可以借這集想外國人來台灣的飲食適應。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2024/ep-240926",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://podcasts.apple.com/podcast/id262026947?i=1000670759221",
+      "altLabel": "Apple Podcasts",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "F"
+    }
    }
   },
   {

@@ -908,6 +908,13 @@ function card(it){
       if(x.checked)w.appendChild(el('div','lsMeta','最後核對日期：'+x.checked));
       b.appendChild(w);
     });
+    if(it.listening.more&&it.listening.more.cat){
+      const mw=el('div','lsLinks');
+      const am=document.createElement('a');
+      am.href='https://staresto-create.github.io/JCEE-vocab-questions/listening/bbc-6min.html#cat='+it.listening.more.cat;
+      am.target='_blank';am.rel='noopener';am.textContent='同領域更多集數（英聽補充練習）↗';
+      mw.appendChild(am);b.appendChild(mw);
+    }
     if(it.listening.note)b.appendChild(el('p','lsNote',it.listening.note));
     d.appendChild(b);
   }
