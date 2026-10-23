@@ -1,7 +1,7 @@
 {
  "version": "1.0",
  "updated": "2026-10-23",
- "count": 64,
+ "count": 67,
  "items": [
   {
    "id": "E115_GSAT",
@@ -30607,6 +30607,1114 @@
     "more": {
      "cat": "S"
     }
+   }
+  },
+  {
+   "id": "SELF02",
+   "year": null,
+   "exam": "本題庫自編",
+   "examCode": "SELF",
+   "isOfficial": false,
+   "isSelfMade": true,
+   "promptFormat": "圖表",
+   "hasImage": true,
+   "genre": [
+    "圖表分析",
+    "論說文"
+   ],
+   "theme": [
+    "科技與媒體",
+    "校園與學習"
+   ],
+   "prompt": "下圖呈現的是某高中一年級學生在平日放學後，每天使用手機做各種事情的平均時間。請依據圖表內容，寫一篇至少 120 個單詞的英文作文。文分兩段，第一段描述圖表的內容，並指出最明顯的特徵；第二段則說明你對學生使用手機的看法，並提出你的建議。",
+   "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖表也是本題庫自己畫的，圖中的資料是虛構的，只供練習使用。",
+   "images": [
+    {
+     "webp": "SELF02.webp",
+     "png": "SELF02.png",
+     "size": [
+      1000,
+      560
+     ]
+    }
+   ],
+   "source": "本題庫自繪，圖中的資料是虛構的",
+   "model": {
+    "essay": {
+     "words": 288,
+     "p1": "The bar chart shows how first-year students at a senior high school spend time on their phones after school on an ordinary weekday. Short videos clearly come first, taking up 95 minutes a day, and social media and chatting follow at 70 minutes. Games account for 45 minutes and music for 35. In sharp contrast, learning gets very little time: homework and research take only 30 minutes, and reading barely 10. Add everything up and the average student is on a phone for about 285 minutes, or nearly five hours, yet only around one seventh of that time goes to schoolwork and reading. In other words, for these students the phone is first of all a source of entertainment, and only after that a tool for learning.",
+     "p2": "I believe the trouble lies less in the phone itself than in the way we use it. Short videos are made to be endless, so one more clip easily turns into an hour, and I have often found myself still scrolling at midnight and then struggling to stay awake in class the next morning. A little self-control would change this picture. Most phones now have a screen-time tool, so a student can limit short videos to, say, thirty minutes a day and let the phone lock the app once that time is up. Leaving the phone outside the bedroom at night also helps, since it is hard to keep scrolling when the screen is out of reach. Meanwhile, the same device can be a dictionary, a calendar and a classroom, which is why I would like to see schools teach students how to use it for study as well. If that happens, the bars for homework and reading may finally grow.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 288 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。",
+     "zh": {
+      "p1": "這張長條圖呈現某高中一年級學生在一般平日放學後使用手機的時間。看短影音的時間明顯排第一，一天占了 95 分鐘，其次是社群與傳訊，有 70 分鐘；玩遊戲和聽音樂分別占 45 分鐘和 35 分鐘。相較之下，花在學習上的時間少得多：做功課和查資料只有 30 分鐘，閱讀更是只有 10 分鐘。全部加起來，平均每位學生一天用手機約 285 分鐘，將近五個小時，可是花在課業和閱讀上的時間，只占其中大約七分之一。換句話說，對這些學生來說，手機首先是娛樂的來源，其次才是學習的工具。",
+      "p2": "我認為問題與其說出在手機本身，不如說出在我們使用手機的方式。短影音被設計成可以一直看下去，所以「再看一支就好」很容易變成一個小時，我就常常發現自己到了半夜還在滑手機，隔天早上上課又很難保持清醒。只要多一點自制力，情況就會不一樣。現在大多數手機都有螢幕使用時間的功能，學生可以替短影音設定每天的使用上限，比方說三十分鐘，時間一到，就讓手機把那個應用程式鎖起來。晚上把手機放在臥室外面也有幫助，因為手機不在伸手可及的地方，就很難繼續滑下去。另一方面，同一支手機也可以是字典、行事曆，甚至是一間教室，所以我希望學校能教學生怎麼把手機用在學習上。如果能做到，圖表裡做功課和閱讀的那兩條長條，說不定終於會變長。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的是兩件事：第一段描述圖表並指出最明顯的特徵，第二段說明看法並提出建議。第一段先用一句話交代圖表的主題，再依長條由長到短，寫出六項數字（短影音 95、社群與傳訊 70、遊戲 45、音樂 35、做功課與查資料 30、閱讀 10 分鐘），每一個數字都和圖上相符。最明顯的特徵是娛樂用途遠多過學習用途，所以範文把六個數字加起來得到 285 分鐘（將近五個小時），再算出做功課和閱讀的 40 分鐘只占大約七分之一，最後用 [In other words] 把這個特徵說成一句話。第二段先表明立場，再用自己半夜還在滑手機的經驗支持。接著提出三個做得到的辦法：用手機內建的功能限制短影音的時間、晚上把手機放在臥室外面、讓學校教學生用手機學習，而不是只說「手機用太多不好」。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段由整體寫到細節：先寫圖表的主題，再依長條順序寫各項數字，接著用 [In sharp contrast] 轉到學習用的那兩條，最後用 [Add everything up] 算出總和，再用 [In other words] 收成結論。第二段的順序是：立場 → 自己的經驗 → [A little self-control would change this picture]（轉向解決辦法）→ 兩個具體辦法 → [Meanwhile] 轉到學習用途 → [If that happens] 收尾。轉折和銜接靠 so、since、Meanwhile、If that happens 這幾個連接詞和片語，不是用 First、Second 逐項列舉；最後一句的 [the bars for homework and reading] 又回到第一段的圖表，前後有呼應。"
+     },
+     {
+      "k": "文法句構",
+      "t": "全篇沒有用艱深的句型，變化放在幾個地方：[Short videos clearly come first, taking up 95 minutes a day] 用現在分詞補充第一名占了多少時間，所以不必另起一句；[Games account for 45 minutes and music for 35] 把第二個子句裡重複的動詞省略，讀起來比較俐落；[Add everything up and …] 是祈使句加 and，意思等於「如果把全部加起來，……」；[the trouble lies less in A than in B] 是「與其說 A，不如說 B」的句型，用在這裡，是為了承認手機本身沒有錯，把問題指向使用的方式；[a student can limit … and let the phone lock the app] 是兩個原形動詞並列；[once that time is up] 是 once 引導的時間副詞子句；[it is hard to keep scrolling when the screen is out of reach] 是虛主詞句型，把真正的主詞 to keep scrolling 放到後面。這些句型和基礎版的對照，見基礎版範文的升級對照。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》（111 學年度起適用）：六級有 scroll（滑，scrolling 是它的 -ing 形），四級有 contrast、device、entertainment、research 四個，三級有 awake、barely、chat（chatting）、clip、lock、meanwhile、media、senior 等，其餘落在一、二級。scroll 是現在大家說「滑手機」最自然的動詞，沒有更簡單、更貼切的字可以代替，所以照樣使用。"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 179,
+     "p1": "The bar chart shows how first-year students at a senior high school use their phones after school on weekdays. They spend the most time on short videos, 95 minutes a day. Next come social media and chatting, 70 minutes, and games, 45 minutes. Students listen to music for 35 minutes, but they spend only 30 minutes on homework and just 10 minutes on reading. In total, they use their phones for about 285 minutes a day. That is nearly five hours, but only 40 minutes of it goes to study.",
+     "p2": "I think students use their phones too much for fun and too little for study. Short videos are very easy to keep watching, so one video becomes ten. Sometimes I stay up late because of this, and I feel tired in class the next day. To fix this problem, students can set a time limit on their phones. They can also leave the phone outside the bedroom at night. Phones can help us study too, so we should use them to look up words and to learn new things.",
+     "zh": {
+      "p1": "這張長條圖呈現某高中一年級學生在平日放學後使用手機的情形。他們花最多時間看短影音，一天 95 分鐘。接下來是社群與傳訊 70 分鐘，以及遊戲 45 分鐘。學生聽音樂 35 分鐘，可是做功課只花 30 分鐘，閱讀只有 10 分鐘。全部加起來，他們每天用手機大約 285 分鐘，將近五個小時，可是其中只有 40 分鐘用在學習上。",
+      "p2": "我認為學生把手機用在娛樂上太多，用在學習上太少。短影音很容易一直看下去，一支就變成十支。我有時候因為這樣熬夜，隔天上課很累。要解決這個問題，學生可以替手機設定使用時間的上限，晚上也可以把手機放在臥室外面。手機也能幫我們學習，所以我們應該用它查單字、學新東西。"
+     }
+    },
+    "levels": "用字：三級有 chat（chatting）、media、senior 三個，沒有四級以上的字。",
+    "upgrade": [
+     {
+      "t": "用現在分詞補充「占了多少」，並把前兩名接在同一句",
+      "b": "They spend the most time on short videos, 95 minutes a day.",
+      "m": "Short videos clearly come first, taking up 95 minutes a day, and social media and chatting follow at 70 minutes.",
+      "why": "基礎版 [They spend the most time on short videos, 95 minutes a day] 用逗號直接補上 [95 minutes a day]，意思清楚，可是句型單調，每一句都是「主詞＋spend＋時間」。範文先用 [Short videos clearly come first] 說明排第一，再用現在分詞 [taking up 95 minutes a day] 補充占了多少時間；taking up 的意義上主詞，就是前面的 short videos，也就是說，占去時間的是短影音。後面再用 [and social media and chatting follow at 70 minutes] 接上第二名，一句話就把前兩名寫完。follow at 是「接在後面，數字是……」，比重複寫 spend 更簡潔。"
+     },
+     {
+      "t": "用 In sharp contrast 把娛樂和學習對比起來",
+      "b": "Students listen to music for 35 minutes, but they spend only 30 minutes on homework and just 10 minutes on reading.",
+      "m": "In sharp contrast, learning gets very little time: homework and research take only 30 minutes, and reading barely 10.",
+      "why": "基礎版用 [but] 把音樂和功課接在同一句，可是 35 分鐘和 30 分鐘差不多，看不出娛樂和學習之間的落差。範文先在前一句交代完遊戲和音樂，再另起一句，用 [In sharp contrast] 把對比的對象換成「學習」這一類，再用冒號帶出兩個數字。in contrast 放在句首時，後面要加逗號；sharp 是「明顯的、強烈的」。後半句 [and reading barely 10] 省略了和前面相同的動詞 take 與單位 minutes；barely 是「僅僅、勉強」，barely 10 就是「才不過 10 分鐘」，比 just 更強調少。"
+     },
+     {
+      "t": "用祈使句加 and 算出總和，再用 but 帶出最明顯的特徵",
+      "b": "In total, they use their phones for about 285 minutes a day. That is nearly five hours, but only 40 minutes of it goes to study.",
+      "m": "Add everything up and the average student is on a phone for about 285 minutes, or nearly five hours, yet only around one seventh of that time goes to schoolwork and reading.",
+      "why": "基礎版用兩個短句交代總時間，第二句 [That is nearly five hours, but only 40 minutes of it goes to study] 已經點出學習只占一小部分，意思完整，只是拆成兩句。範文把它們合成一句：[Add everything up and …] 是祈使句加 and，意思是「如果把全部加起來，……」；[or nearly five hours] 用 or 補上換算，放在兩個逗號中間；最後用 [yet] 帶出落差，[only around one seventh of that time goes to schoolwork and reading] 讓讀者知道，將近五個小時裡，真正用在課業的只有一小部分。圖表題的第一段，不只要把數字照著列出來，還要把數字加總、比較，這一句就是這樣做的。"
+     },
+     {
+      "t": "用 less in A than in B 表明立場",
+      "b": "I think students use their phones too much for fun and too little for study.",
+      "m": "I believe the trouble lies less in the phone itself than in the way we use it.",
+      "why": "基礎版 [too much for fun and too little for study] 把問題說成「娛樂太多、學習太少」，立場清楚，但還沒有指出原因在哪裡。範文改用 [the trouble lies less in A than in B]，意思是「問題與其說出在 A，不如說出在 B」，這樣既承認手機本身沒有錯，又把焦點移到使用的方式，立場比較周全，讀者也比較容易接受。[the way we use it] 是名詞片語，way 後面直接接子句，不需要 in which。"
+     },
+     {
+      "t": "用兩個並列的動詞，把辦法說得更具體",
+      "b": "To fix this problem, students can set a time limit on their phones.",
+      "m": "so a student can limit short videos to, say, thirty minutes a day and let the phone lock the app once that time is up.",
+      "why": "基礎版 [set a time limit on their phones] 只說「設定時間上限」，沒有說限制什麼、限制多少。範文把辦法寫成具體的畫面：[limit short videos to, say, thirty minutes a day] 說明限制的對象和時間，say 在這裡是插入語，意思是「比方說」；再用 [and let the phone lock the app] 接上第二個動詞，let 後面接受詞再加原形動詞；最後 [once that time is up] 是 once 引導的時間副詞子句，意思是「時間一到」。讀者讀完，腦中就有畫面，知道這個辦法怎麼做。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述圖表並指出最明顯的特徵）",
+      "items": [
+       {
+        "f": "The chart shows how ___ spend(s) ___ on ___.（誰／時間或金錢／在什麼上）",
+        "ex": "The chart shows how students at our school spend their lunch break on different activities."
+       },
+       {
+        "f": "___ come(s) first, taking up ___, and ___ follow(s) at ___.（第一名／數字／第二名／數字）",
+        "ex": "Eating comes first, taking up 25 minutes, and talking with friends follows at 15 minutes."
+       },
+       {
+        "f": "In sharp contrast, ___ take(s) only ___.（對比的項目／數字）",
+        "ex": "In sharp contrast, cleaning the classroom takes only five minutes."
+       },
+       {
+        "f": "Add everything up and ___, yet only ___ goes to ___.（總和／其中一小部分／用在什麼上）",
+        "ex": "Add everything up and a student spends about two hours on the bus, yet only twenty minutes of that time goes to reading."
+       }
+      ]
+     },
+     {
+      "name": "第二段（看法與建議）",
+      "items": [
+       {
+        "f": "I believe the trouble lies less in ___ than in ___.（表面的原因／真正的原因）",
+        "ex": "I believe the trouble lies less in the exam itself than in the way we prepare for it."
+       },
+       {
+        "f": "A student can limit ___ to ___ a day and ___.（限制的對象／數量／另一個做法）",
+        "ex": "A student can limit snacks to one a day and drink more water instead."
+       },
+       {
+        "f": "___ also helps, since ___.（做法／原因）",
+        "ex": "Putting the cookies on a high shelf also helps, since they are hard to reach."
+       },
+       {
+        "f": "If that happens, ___ may finally ___.（結果）",
+        "ex": "If that happens, our classroom may finally become quiet."
+       }
+      ]
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-23",
+    "note": "條目取自本題庫的歷屆試題，缺口由本題庫補足；出處欄標示這個條目考過的年度與題號，練習句是本題庫依試題文體、針對這一題的情境寫的。先看中文自己寫寫看，想不出來再點提示，寫完再看參考答案。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "entertainment",
+        "zh": "娛樂",
+        "src": "82年聯考 Q3",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0316"
+        ]
+       },
+       {
+        "w": "average",
+        "zh": "平均的；平均（the average student：一般的學生）",
+        "src": "100年學測 Q15、83年聯考 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0300",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0304"
+        ]
+       },
+       {
+        "w": "take up",
+        "zh": "占去（時間、空間）",
+        "own": true
+       },
+       {
+        "w": "account for",
+        "zh": "占（比例、數量）",
+        "own": true
+       },
+       {
+        "w": "in contrast (to / with)",
+        "zh": "相較之下；與……形成對比",
+        "src": "89年聯考 Q11、87年推薦甄選 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0250",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0071"
+        ]
+       },
+       {
+        "w": "spend time on sth",
+        "zh": "把時間花在……上",
+        "own": true
+       },
+       {
+        "w": "screen time",
+        "zh": "螢幕使用時間",
+        "own": true
+       },
+       {
+        "w": "set a time limit on sth",
+        "zh": "為……設定時間上限",
+        "own": true
+       },
+       {
+        "w": "stay up late",
+        "zh": "熬夜",
+        "own": true
+       },
+       {
+        "w": "scroll (through sth)",
+        "zh": "滑（手機、頁面）",
+        "own": true
+       },
+       {
+        "w": "distract sb (from sth)",
+        "zh": "使某人分心、無法專心做……",
+        "own": true
+       },
+       {
+        "w": "concentrate on sth",
+        "zh": "專心於……",
+        "src": "90年聯考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0236"
+        ]
+       },
+       {
+        "w": "resist the temptation (to V)",
+        "zh": "抗拒（做某事的）誘惑",
+        "src": "94年學測 Q9、83年聯考 Q7",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0204",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0310"
+        ]
+       },
+       {
+        "w": "self-control",
+        "zh": "自制力",
+        "own": true
+       },
+       {
+        "w": "attention",
+        "zh": "注意力（pay attention to：注意、專心於）",
+        "src": "100年學測 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0294"
+        ]
+       },
+       {
+        "w": "efficient",
+        "zh": "有效率的",
+        "src": "88年推薦甄選 Q9",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0084"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "短影音占去了學生最多的時間，一天要花 95 分鐘。",
+        "en": "Short videos take up the most time, 95 minutes a day.",
+        "hint": "take up 的受詞是被占去的時間；後面的 95 minutes a day 是補充說明，用逗號接在後面。",
+        "covers": [
+         "take up"
+        ],
+        "bold": [
+         "take up the most time"
+        ]
+       },
+       {
+        "zh": "平均每位學生一天花將近五個小時在手機上。",
+        "en": "The average student spends nearly five hours a day on a phone.",
+        "hint": "「花時間在……上」用 spend + 時間 + on + 名詞；average 放在名詞前面，當形容詞用。",
+        "covers": [
+         "average",
+         "spend time on sth"
+        ],
+        "bold": [
+         "The average student",
+         "spends nearly five hours",
+         "on a phone"
+        ]
+       },
+       {
+        "zh": "對學生來說，手機首先是娛樂的來源。",
+        "en": "For students, the phone is first of all a source of entertainment.",
+        "hint": "entertainment 是不可數名詞，前面不加 an；a source of 後面接名詞。",
+        "covers": [
+         "entertainment"
+        ],
+        "bold": [
+         "a source of entertainment"
+        ]
+       },
+       {
+        "zh": "短影音和遊戲占了學生用手機時間的一大部分。",
+        "en": "Short videos and games account for a large part of the time students spend on their phones.",
+        "hint": "account for 的主詞是占去的東西，受詞是被占去的部分；a large part of 後面接名詞。",
+        "covers": [
+         "account for",
+         "spend time on sth"
+        ],
+        "bold": [
+         "account for a large part of",
+         "students spend on their phones"
+        ]
+       },
+       {
+        "zh": "很多學生很難抗拒再看一支影片的誘惑。",
+        "en": "Many students find it hard to resist the temptation to watch one more video.",
+        "hint": "find it hard to V 是「覺得……很難」，it 是虛受詞；the temptation to V 是「做某事的誘惑」。",
+        "covers": [
+         "resist the temptation (to V)"
+        ],
+        "bold": [
+         "find it hard to resist the temptation to watch"
+        ]
+       },
+       {
+        "zh": "手機不斷跳出的通知讓學生分心，很難專心寫功課。",
+        "en": "Constant notifications distract students and make it hard for them to concentrate on their homework.",
+        "hint": "distract 的受詞是被分散注意力的人；concentrate on 後面接名詞或 V-ing。",
+        "covers": [
+         "distract sb (from sth)",
+         "concentrate on sth"
+        ],
+        "bold": [
+         "distract students",
+         "concentrate on their homework"
+        ]
+       },
+       {
+        "zh": "學生可以替手機設定使用時間的上限，這樣就不會熬夜滑手機。",
+        "en": "Students can set a time limit on their phones so that they don’t stay up late scrolling.",
+        "hint": "so that 引導「目的」，後面接子句；stay up late 後面可以直接接 V-ing，表示熬夜做某事。",
+        "covers": [
+         "set a time limit on sth",
+         "stay up late",
+         "scroll (through sth)"
+        ],
+        "bold": [
+         "set a time limit on",
+         "so that they don’t stay up late scrolling"
+        ]
+       },
+       {
+        "zh": "有自制力的學生，會把手機用得更有效率，上課也比較能集中注意力。",
+        "en": "Students with self-control use their phones in a more efficient way and pay more attention in class.",
+        "hint": "self-control 是不可數名詞；pay attention 是「集中注意力」，attention 前面不加 an。",
+        "covers": [
+         "self-control",
+         "efficient",
+         "attention"
+        ],
+        "bold": [
+         "with self-control",
+         "more efficient way",
+         "pay more attention"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "routine",
+        "zh": "日常作息、例行的事，例如 a daily routine",
+        "src": "115年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0491"
+        ]
+       },
+       {
+        "w": "tendency",
+        "zh": "傾向，例如 a tendency to scroll",
+        "src": "98年學測 Q5",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0260"
+        ]
+       },
+       {
+        "w": "trend",
+        "zh": "趨勢，例如 a trend among teenagers",
+        "src": "114年學測 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0482"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
+   }
+  },
+  {
+   "id": "SELF03",
+   "year": null,
+   "exam": "本題庫自編",
+   "examCode": "SELF",
+   "isOfficial": false,
+   "isSelfMade": true,
+   "promptFormat": "圖片",
+   "hasImage": true,
+   "genre": [
+    "記敘文"
+   ],
+   "theme": [
+    "人際關係與友誼",
+    "校園與學習"
+   ],
+   "prompt": "請觀察下列四張連環圖片，並根據圖片內容想像一個故事，寫一篇至少 120 個單詞的英文作文。文分兩段，第一段描述故事的開頭與經過（前兩張圖），第二段描述故事的結局（後兩張圖），並說明這件事帶給你的想法。",
+   "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖片也是本題庫自己畫的，圖中的人物都是虛構的。",
+   "images": [
+    {
+     "webp": "SELF03.webp",
+     "png": "SELF03.png",
+     "size": [
+      1030,
+      790
+     ]
+    }
+   ],
+   "source": "本題庫自繪，圖中的人物都是虛構的",
+   "model": {
+    "essay": {
+     "words": 258,
+     "p1": "During a biology class, Kevin’s group was making a poster about the birds of Taiwan. Around the table, Amy, Peter and Judy were busy discussing how to arrange the pictures, whereas Kevin, who rarely spoke in class, sat at the end of the table with a worried look, feeling that he had nothing to offer. For the first ten minutes, nobody seemed to notice. Finally noticing his silence, Amy stopped talking, tapped him on the shoulder and asked, “Kevin, what do you think? Do you have any ideas?” Caught off guard, he hesitated for a moment and then slowly reached into his bag.",
+     "p2": "To everyone’s surprise, he took out a sketchbook full of beautiful drawings of birds he had seen near his home. “These are amazing!” Judy cried, and the group quickly agreed to put his Taiwan blue magpie in the center of the poster. He had drawn it after watching the bird from his balcony every morning. His teammates kept asking how he had learned to draw so well. On the day of the presentation, the four of them stood in front of the class. When the audience saw the poster, they burst into applause, and their teacher praised it as the most creative one in the class. Standing between his teammates, Kevin smiled shyly. To me, this experience shows that everyone has something valuable to share, and sometimes all it takes is one person willing to listen. Invited to speak, Kevin not only improved the poster but also gained the courage to join in later discussions.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 258 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。\n連環圖只畫出四個畫面，人物的名字、課堂的科目、海報的主題這些細節都是範文自己想像的，你寫的故事不必和範文一樣，只要前後的事件說得通、四張圖的內容都有寫到。",
+     "zh": {
+      "p1": "生物課上，凱文這一組正在做一張介紹台灣鳥類的海報。圍著桌子，艾咪、彼得和茱蒂正忙著討論圖片該怎麼排，凱文平常在課堂上很少開口，這時坐在桌子的一端，一臉擔心，覺得自己幫不上忙。頭十分鐘，似乎沒有人注意到這件事。後來艾咪終於發現他一直很安靜，就停下來，輕拍他的肩膀問：「凱文，你覺得呢？你有什麼想法嗎？」凱文被問得措手不及，遲疑了一下，才慢慢把手伸進書包裡。",
+      "p2": "出乎大家意料，他拿出一本素描本，裡面畫滿了他在家附近看過的鳥，每一幅都很精美。「這些畫太棒了！」茱蒂驚呼，大家很快就同意把他畫的台灣藍鵲放在海報正中央。那隻藍鵲是他每天早上在陽台上觀察之後畫的，組員們一直問他怎麼能畫得這麼好。發表那天，四個人站在全班面前，觀眾一看到海報就熱烈鼓掌，老師還稱讚這是全班最有創意的一張海報。凱文站在組員中間，害羞地笑了。這次經驗讓我體會到，每個人都有值得分享的東西，有時候，只需要有一個人願意聽就夠了。受到邀請開口之後，凱文不只讓海報更出色，後來也更有勇氣參與討論。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的是兩件事：第一段描述故事的開頭與經過（前兩張圖），第二段描述結局（後兩張圖）並說明想法。四張圖的內容範文都寫到了：第 1 張，四位同學圍著桌子做海報，其中一位男同學坐在桌子的一端，一臉擔心，沒有開口；第 2 張，一位女同學拍拍他的肩膀，問他的意見，他很驚訝；第 3 張，他舉起素描本，本子上畫著一隻藍色的鳥，另外三人都很驚訝；第 4 張，發表那天，四個人站在黑板前，海報正中央就是那隻鳥，台下的同學都在鼓掌。圖上沒有畫出來的部分，例如生物課、台灣鳥類、他每天早上在陽台觀察鳥、老師的稱讚，是為了讓故事合理而補上的細節，補得不多，也沒有和圖片衝突。第二段最後用 [To me, this experience shows that …] 帶出想法，這個想法（每個人都有值得分享的東西）直接來自故事，不是另外附加的一句話。"
+     },
+     {
+      "k": "組織",
+      "t": "兩段依時間順序往下寫：第一段從大家討論、凱文沉默，寫到艾咪發現並開口問他、他伸手進書包；第二段從拿出素描本寫到發表那天，最後一句 [Invited to speak, Kevin … gained the courage to join in later discussions] 回到第一段「覺得自己沒有東西可以貢獻」的凱文，前後呼應。句與句之間靠 [whereas]、[For the first ten minutes]、[Finally]、[To everyone’s surprise]、[On the day of the presentation] 這類表示對比和時間的詞語銜接，不是用 First、Second 逐項列舉。"
+     },
+     {
+      "k": "文法句構",
+      "t": "[Amy, Peter and Judy were busy discussing …, whereas Kevin, who rarely spoke in class, sat … feeling that he had nothing to offer] 用 whereas 把兩邊的人對比，用 who 引導的非限定關係子句補充凱文的習慣，再用現在分詞片語 feeling … 補充他的心情；[Finally noticing his silence, Amy stopped talking …] 是現在分詞片語，表示艾咪是在發現之後才有動作；[Caught off guard, he hesitated …] 是過去分詞片語，caught off guard 是「措手不及」，主詞 he 是被問得措手不及的人；[birds he had seen near his home] 省略了關係代名詞 that，後面的子句用過去完成式，表示先看到、後來才畫；[all it takes is one person willing to listen] 用形容詞片語 willing to listen 放在 person 後面修飾；[Invited to speak, Kevin not only improved … but also gained …] 是過去分詞片語加 not only ... but also ...。這些句型和基礎版的對照，見基礎版範文的升級對照。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》（111 學年度起適用）：五級有 applause、whereas，四級有 presentation，三級有 amazing、audience、creative、hesitate（hesitated）、poster 等，其餘落在一、二級（sketchbook 由四級的 sketch 組成，詞彙表沒有列）。applause 是「掌聲」最貼切的字，whereas 是表示對比的連接詞，沒有更簡單又同樣準確的字可以代替，所以照樣使用。另外 magpie（喜鵲、藍鵲）是鳥名，不在詞彙表內，是範文自己想像的故事細節；圖上只畫了一隻藍色的鳥，考生可以直接寫 a blue bird。"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 163,
+     "p1": "In biology class, Kevin’s group was making a poster about birds in Taiwan. They had to finish it by the following week. Amy, Peter and Judy were talking a lot, but Kevin sat quietly at the end of the table. He looked worried and did not say anything. Amy saw this and asked him, “Kevin, do you have any ideas?” Kevin was surprised. He thought for a moment and then took something out of his bag.",
+     "p2": "It was a sketchbook full of bird pictures. Everyone was surprised because the pictures were so beautiful. They put Kevin’s picture of a blue magpie in the middle of the poster. Kevin said that he drew the birds near his home. On the presentation day, the group stood in front of the class and everyone clapped, and their teacher liked the poster very much. Kevin smiled happily. I think everyone has something good to share. If we listen to our classmates, we can learn many new things.",
+     "zh": {
+      "p1": "生物課上，凱文這一組正在做一張介紹台灣鳥類的海報，下禮拜就要交。艾咪、彼得和茱蒂說了很多話，可是凱文安靜地坐在桌子的一端。他一臉擔心，什麼也沒說。艾咪看到了，就問他：「凱文，你有什麼想法嗎？」凱文很驚訝。他想了一下，然後從書包裡拿出一樣東西。",
+      "p2": "那是一本畫滿鳥的素描本。大家都很驚訝，因為那些畫實在太漂亮了。他們把凱文畫的藍鵲放在海報中間。凱文說，這些鳥是他在家附近畫的。發表那天，這一組站在全班面前，大家都鼓掌，老師也很喜歡這張海報。凱文開心地笑了。我覺得每個人都有值得分享的長處。如果我們肯聽同學說話，就能學到很多新東西。"
+     }
+    },
+    "levels": "用字：四級只有 presentation，三級只有 poster，沒有五級以上的字；另外 sketchbook（素描本，由四級的 sketch 組成，詞彙表沒有列）和 magpie（鵲，表外字）是看圖寫作需要的字，沒有更簡單的說法。",
+    "upgrade": [
+     {
+      "t": "用 whereas 對比，並補充人物的習慣與心情",
+      "b": "Amy, Peter and Judy were talking a lot, but Kevin sat quietly at the end of the table.",
+      "m": "Around the table, Amy, Peter and Judy were busy discussing how to arrange the pictures, whereas Kevin, who rarely spoke in class, sat at the end of the table with a worried look, feeling that he had nothing to offer.",
+      "why": "基礎版 [Amy, Peter and Judy were talking a lot, but Kevin sat quietly …] 用 but 連接兩邊，意思清楚。範文改用 [whereas] 把兩邊並排對比，前半 [were busy discussing how to arrange the pictures] 用 be busy + V-ing，交代三個人在忙什麼；後半在 Kevin 後面插入 [who rarely spoke in class]，這是非限定關係子句，補充他平常的習慣，用兩個逗號夾住；最後的 [feeling that he had nothing to offer] 是現在分詞片語，補充他當下的心情，比 [sat quietly] 更能看出他為什麼不說話。"
+     },
+     {
+      "t": "用現在分詞片語表示發現之後的動作",
+      "b": "Amy saw this and asked him, “Kevin, do you have any ideas?”",
+      "m": "Finally noticing his silence, Amy stopped talking, tapped him on the shoulder and asked, “Kevin, what do you think? Do you have any ideas?”",
+      "why": "基礎版 [Amy saw this and asked him] 兩個動作用 and 連起來。範文把「發現」放進句首的現在分詞片語 [Finally noticing his silence]，後面再接三個連續的動作：[stopped talking, tapped him on the shoulder and asked]，依序交代三個連續的動作。分詞片語的主詞要和主要子句的主詞相同，這裡都是 Amy。[Finally] 則點出艾咪是過了一陣子才發現。"
+     },
+     {
+      "t": "用過去分詞片語寫出措手不及的反應",
+      "b": "Kevin was surprised. He thought for a moment and then took something out of his bag.",
+      "m": "Caught off guard, he hesitated for a moment and then slowly reached into his bag.",
+      "why": "基礎版 [Kevin was surprised] 只說「驚訝」。範文把這個反應放進句首的過去分詞片語 [Caught off guard]，意思是「被問得措手不及」，比 surprised 更具體；接著 [hesitated for a moment] 交代他猶豫了一下，[slowly reached into his bag] 寫出動作，取代基礎版比較籠統的 [took something out of his bag]。"
+     },
+     {
+      "t": "用 to one’s surprise 與省略關係代名詞的子句寫出轉折",
+      "b": "It was a sketchbook full of bird pictures. Everyone was surprised because the pictures were so beautiful.",
+      "m": "To everyone’s surprise, he took out a sketchbook full of beautiful drawings of birds he had seen near his home.",
+      "why": "基礎版把「素描本」和「大家很驚訝」拆成兩句，中間還要靠 because 補原因。範文用 [To everyone’s surprise] 放在句首，表示接下來的事出乎大家的意料，一句就帶出轉折；後面 [beautiful drawings of birds he had seen near his home] 省略了關係代名詞 that，過去完成式 had seen 表示他先看到那些鳥，後來才畫下來。"
+     },
+     {
+      "t": "用 all it takes 寫出想法，並呼應故事開頭",
+      "b": "I think everyone has something good to share. If we listen to our classmates, we can learn many new things.",
+      "m": "To me, this experience shows that everyone has something valuable to share, and sometimes all it takes is one person willing to listen.",
+      "why": "基礎版 [I think everyone has something good to share] 直接講出道理，再用 [If we listen …] 補一個條件。範文先用 [To me, this experience shows that …] 把想法和剛才的故事連在一起，[something valuable to share] 的形容詞 valuable 放在 something 後面；後半 [all it takes is one person willing to listen] 是「只需要一個願意聽的人」，形容詞片語 willing to listen 放在 person 後面，說明這個人是什麼樣的人，也呼應第一段艾咪停下來聽凱文說話的那一刻。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（故事的開頭與經過）",
+      "items": [
+       {
+        "f": "___ were busy ___ing ___, whereas ___, who rarely ___, ___.（一群人／在忙什麼／另一個人／他的習慣／他在哪裡、在做什麼）",
+        "ex": "The other players were busy practicing shots, whereas Ben, who rarely got to play, sat on the bench with his head down."
+       },
+       {
+        "f": "Noticing ___, ___ ___ and asked ___.（發現的事／主角／動作／問的話）",
+        "ex": "Noticing her worried look, the teacher walked over and asked her what was wrong."
+       },
+       {
+        "f": "Caught off guard, ___ ___.（主角／反應）",
+        "ex": "Caught off guard, Lily dropped her pen and laughed."
+       }
+      ]
+     },
+     {
+      "name": "第二段（結局與想法）",
+      "items": [
+       {
+        "f": "To everyone’s surprise, ___ took out ___.（主角／拿出的東西）",
+        "ex": "To everyone’s surprise, Tom took out a guitar and began to sing."
+       },
+       {
+        "f": "On the day of ___, ___ ___, and the audience ___.（那一天／主角／做了什麼／觀眾的反應）",
+        "ex": "On the day of the concert, the band played their best, and the audience cheered."
+       },
+       {
+        "f": "To me, this experience shows that ___, and sometimes all it takes is ___ willing to ___.（想法／一個什麼樣的人）",
+        "ex": "To me, this experience shows that every team needs different talents, and sometimes all it takes is one person willing to try."
+       }
+      ]
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-23",
+    "note": "條目取自本題庫的歷屆試題，缺口由本題庫補足；出處欄標示這個條目考過的年度與題號，練習句是本題庫依試題文體、針對這一題的情境寫的。先看中文自己寫寫看，想不出來再點提示，寫完再看參考答案。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "be busy doing sth",
+        "zh": "忙著做某事",
+        "own": true
+       },
+       {
+        "w": "notice",
+        "zh": "注意到、察覺",
+        "src": "97年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0241"
+        ]
+       },
+       {
+        "w": "hesitation",
+        "zh": "猶豫（after a moment of hesitation：猶豫了一下）",
+        "src": "101年學測 Q6、91年學測 Q8",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0306",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0128"
+        ]
+       },
+       {
+        "w": "surprise",
+        "zh": "使驚訝；意外（to one’s surprise：令某人驚訝的是）",
+        "src": "101年學測 Q1",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0301"
+        ]
+       },
+       {
+        "w": "sketchbook",
+        "zh": "素描本",
+        "own": true
+       },
+       {
+        "w": "take sth out of sth",
+        "zh": "把某物從某處拿出來",
+        "own": true
+       },
+       {
+        "w": "give a presentation",
+        "zh": "上台報告、做簡報",
+        "own": true
+       },
+       {
+        "w": "applause",
+        "zh": "掌聲、喝采（burst into applause：爆出掌聲）",
+        "src": "99年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0138"
+        ]
+       },
+       {
+        "w": "valuable",
+        "zh": "有價值的、寶貴的",
+        "src": "95年指考 Q2",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0174"
+        ]
+       },
+       {
+        "w": "all it takes is ...",
+        "zh": "只需要……就夠了",
+        "own": true
+       },
+       {
+        "w": "participate in sth",
+        "zh": "參加、參與某事",
+        "src": "104年學測 Q14、92年指考 Q9、86年聯考 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0359",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0213",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0283"
+        ]
+       },
+       {
+        "w": "contribute sth to sth",
+        "zh": "貢獻、提供（想法等）給……",
+        "src": "104年學測 Q11、93年指考 Q6",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0356",
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0198"
+        ]
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "其他三個人正忙著討論圖片該怎麼排。",
+        "en": "The other three were busy discussing how to arrange the pictures.",
+        "hint": "be busy 後面直接接 V-ing，不加介系詞；「該怎麼排」用 how to + 原形動詞。",
+        "covers": [
+         "be busy doing sth"
+        ],
+        "bold": [
+         "were busy discussing"
+        ]
+       },
+       {
+        "zh": "似乎沒有人注意到他一直不說話。",
+        "en": "Nobody seemed to notice that he had kept silent.",
+        "hint": "nobody 本身已經是否定，動詞不用再加 not；seem 後面接 to + 原形動詞；notice 後面可以接 that 子句。",
+        "covers": [
+         "notice"
+        ],
+        "bold": [
+         "seemed to notice that"
+        ]
+       },
+       {
+        "zh": "遲疑了一下之後，他慢慢把手伸進書包。",
+        "en": "After a moment of hesitation, he slowly reached into his bag.",
+        "hint": "after a moment of hesitation 放在句首，後面加逗號；「伸進」是 reach into。",
+        "covers": [
+         "hesitation"
+        ],
+        "bold": [
+         "After a moment of hesitation"
+        ]
+       },
+       {
+        "zh": "他從書包裡拿出一本素描本。",
+        "en": "He took a sketchbook out of his bag.",
+        "hint": "take A out of B 是「把 A 從 B 拿出來」；take A out of B 是「把 A 從 B 拿出來」，A 要放在 take 和 out of 中間；沒有 of B 時，名詞 A 放在 out 前後都可以（take out a sketchbook），代名詞一定放在中間（take it out）。",
+        "covers": [
+         "sketchbook",
+         "take sth out of sth"
+        ],
+        "bold": [
+         "took a sketchbook out of his bag"
+        ]
+       },
+       {
+        "zh": "令大家驚訝的是，那些畫實在太棒了。",
+        "en": "To everyone’s surprise, the drawings were wonderful.",
+        "hint": "to one’s surprise 放在句首，後面加逗號，表示接下來的事出乎意料。",
+        "covers": [
+         "surprise"
+        ],
+        "bold": [
+         "To everyone’s surprise"
+        ]
+       },
+       {
+        "zh": "他們這一組在全班面前做了發表，觀眾報以熱烈的掌聲。",
+        "en": "Their group gave a presentation in front of the class, and the audience burst into applause.",
+        "hint": "「做報告」用 give a presentation；burst into applause 是「爆出掌聲」，applause 是不可數名詞，前面不加 a。",
+        "covers": [
+         "give a presentation",
+         "applause"
+        ],
+        "bold": [
+         "gave a presentation",
+         "burst into applause"
+        ]
+       },
+       {
+        "zh": "每個人都有值得分享的東西。",
+        "en": "Everyone has something valuable to share.",
+        "hint": "形容詞修飾 something 時，要放在 something 的後面；everyone 當主詞，動詞用單數 has。",
+        "covers": [
+         "valuable"
+        ],
+        "bold": [
+         "something valuable to share"
+        ]
+       },
+       {
+        "zh": "有時候，只需要有一個人願意聽就夠了。",
+        "en": "Sometimes all it takes is one person willing to listen.",
+        "hint": "all it takes is 後面接名詞；willing to listen 是形容詞片語，放在 person 後面修飾。",
+        "covers": [
+         "all it takes is ..."
+        ],
+        "bold": [
+         "all it takes is one person willing to listen"
+        ]
+       },
+       {
+        "zh": "他以前不敢參加討論，現在願意把想法提供給小組了。",
+        "en": "He used to be afraid to participate in discussions, but now he is willing to contribute ideas to the group.",
+        "hint": "participate 後面要加 in；contribute A to B 是「把 A 提供給 B」，這裡的 to 是介系詞。",
+        "covers": [
+         "participate in sth",
+         "contribute sth to sth"
+        ],
+        "bold": [
+         "participate in discussions",
+         "contribute ideas to the group"
+        ]
+       }
+      ]
+     },
+     {
+      "name": "延伸字彙",
+      "entries": [
+       {
+        "w": "talented",
+        "zh": "有才華的，例如 a talented artist",
+        "src": "85年推薦甄選 Q14",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0034"
+        ]
+       },
+       {
+        "w": "impressed",
+        "zh": "印象深刻的，例如 be impressed by sth",
+        "src": "84年推薦甄選 Q15",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0015"
+        ]
+       }
+      ],
+      "note": "同一個主題考過，這一題用不到，但值得認識"
+     }
+    ]
+   }
+  },
+  {
+   "id": "SELF04",
+   "year": null,
+   "exam": "本題庫自編",
+   "examCode": "SELF",
+   "isOfficial": false,
+   "isSelfMade": true,
+   "promptFormat": "圖片",
+   "hasImage": true,
+   "genre": [
+    "圖片描述",
+    "論說文"
+   ],
+   "theme": [
+    "健康與生活",
+    "校園與學習"
+   ],
+   "prompt": "下面兩張圖片呈現同一位高中生在兩天早上的早餐情形。請依據圖片內容，寫一篇至少 120 個單詞的英文作文。文分兩段，第一段描述兩張圖片的差異，第二段說明你認為早餐為什麼重要，並提出你的建議。",
+   "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖片也是本題庫自己畫的，圖中的人物都是虛構的。",
+   "images": [
+    {
+     "webp": "SELF04.webp",
+     "png": "SELF04.png",
+     "size": [
+      1010,
+      500
+     ]
+    }
+   ],
+   "source": "本題庫自繪，圖中的人物都是虛構的",
+   "model": {
+    "essay": {
+     "words": 264,
+     "p1": "The two pictures show how differently one student starts the day. In the first picture, it is half past six, and the girl and her mother are at the table at home, enjoying a warm bowl of soup, a fried egg, an apple and a glass of milk. Sunlight is coming through the window, and both of them look relaxed. In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. With only a triangle sandwich and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+     "p2": "I believe the contrast is a reminder that a good breakfast depends not on how busy we are but on how well we plan. A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy. In contrast, a hurried breakfast of sugar and white bread may fill the stomach for a while, but it rarely lasts until noon. If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home. On busy days, I would at least prepare a simple breakfast the night before, such as boiled eggs or a banana. Having breakfast may seem like a small habit, yet it can make the whole day go much more smoothly.",
+     "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 264 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。\n圖中的時間、食物是範文照圖寫的；「她怕上學遲到」是從時鐘和表情推測的，用 seems to、probably 這類字表示是推測。你可以有不同的推測，只要和圖片合理地連得起來。",
+     "zh": {
+      "p1": "這兩張圖呈現同一位學生在不同日子的早晨有多麼不同。第一張圖裡是六點半，女孩和媽媽在家裡的餐桌前，享用一碗熱湯、一顆煎蛋、一顆蘋果和一杯牛奶。陽光從窗戶照進來，兩個人看起來都很輕鬆。然而在第二張圖裡，已經是七點二十分，她站在便利商店裡，臉上帶著擔心的神情。她手上只拿著一個三角形的三明治和一瓶甜飲料，似乎很匆忙，大概是怕上學遲到。",
+      "p2": "我認為這個對比提醒我們，好的早餐靠的不是我們有多忙，而是我們計畫得好不好。像第一張圖那樣的一餐，能給身體所需要的能量和營養，讓學生在早上的課堂上專心，而不是又餓又睏。相對地，匆忙之下吃的糖分和白吐司，也許能暫時填飽肚子，卻很難讓人一直飽到中午。如果我是這位學生，我會早半小時睡覺，鬧鐘也設早一點，這樣就有時間在家吃早餐。在忙碌的日子裡，我至少會在前一天晚上準備簡單的早餐，例如水煮蛋或香蕉。吃早餐看起來只是個小習慣，卻能讓一整天過得順利許多。"
+     }
+    },
+    "mapping": [
+     {
+      "k": "內容",
+      "t": "題目要的是兩件事：第一段描述兩張圖片的差異，第二段說明早餐為什麼重要並提出建議。第一段把兩張圖的差異都寫到了：時間（六點半和七點二十分）、地點（家裡的餐桌和便利商店）、食物（湯、煎蛋、蘋果、牛奶，對照三明治和甜飲料）、人物的神情（輕鬆，對照擔心）。第二段先說早餐的好處，再對照匆忙的早餐，最後給出兩個具體做法：早睡早起、前一晚先準備。建議和第一張圖的情境直接相關，不是另外附加的一句話。"
+     },
+     {
+      "k": "組織",
+      "t": "第一段先總說「兩張圖很不一樣」，再依序寫第一張、第二張，中間用 [In the second picture, however] 轉折；第二段先講看法，再講對照，最後給建議，用 [In contrast]、[If I were …]、[On busy days] 標示每一層。最後一句 [yet it can make the whole day go much more smoothly] 回到「一整天」，收束全文。"
+     },
+     {
+      "k": "文法句構",
+      "t": "[enjoying a warm bowl of soup, …] 是現在分詞片語，補充她在餐桌前做什麼；[With only a triangle sandwich and a bottle of sweet drink in her hands, she seems to be in a hurry] 是 with + 受詞 + 介系詞片語，描述她手上拿著什麼；[a good breakfast depends not on how busy we are but on how well we plan] 用 not ... but ... 對比；[so students can concentrate … instead of feeling hungry or sleepy] 用 instead of 接動名詞；[If I were this student, I would …] 是與現在事實相反的假設語氣。這些句型和基礎版的對照，見基礎版範文的升級對照。"
+     },
+     {
+      "k": "字彙拼字",
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》（111 學年度起適用）：五級有 nutrition、reminder，四級有 concentrate、contrast、convenience，三級有 stomach、relaxed，其餘落在一、二級；nutrition 和 reminder 是表達「營養」和「提醒」最貼切的字，所以照樣使用。"
+     }
+    ]
+   },
+   "basic": {
+    "essay": {
+     "words": 151,
+     "p1": "The two pictures show a student’s breakfast on two different days. In the first picture, it is six thirty. The girl eats breakfast at home with her mother. She has soup, an egg, an apple and milk. They look happy. In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a sandwich and a sweet drink. She is in a hurry because she does not want to be late for school.",
+     "p2": "I think breakfast is very important. A good breakfast gives us energy, so we can study well in the morning. A quick and sweet breakfast is not as good. My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before. A good breakfast is a small thing, but it makes the whole day better.",
+     "zh": {
+      "p1": "這兩張圖呈現一位學生在兩天裡的早餐。第一張圖是六點半，女孩在家和媽媽一起吃早餐，有湯、蛋、蘋果和牛奶，她們看起來很開心。第二張圖是七點二十分，女孩在便利商店裡，看起來很擔心，她只有一個三明治和一瓶甜飲料。她很趕時間，因為她不想上學遲到。",
+      "p2": "我覺得早餐很重要。好的早餐能提供我們能量，所以我們早上能把書讀好。又快又甜的早餐就沒有那麼好。我的建議是早一點起床，在家吃早餐。如果你很忙，可以在前一天晚上準備蛋或水果。好的早餐是件小事，卻讓一整天變得更好。"
+     }
+    },
+    "levels": "用字：四級只有 convenience（convenience store）一個，其餘都在一、二級，沒有五級以上的字。",
+    "upgrade": [
+     {
+      "t": "用現在分詞片語補充她在做什麼",
+      "b": "The girl eats breakfast at home with her mother. She has soup, an egg, an apple and milk.",
+      "m": "the girl and her mother are at the table at home, enjoying a warm bowl of soup, a fried egg, an apple and a glass of milk.",
+      "why": "基礎版用兩個短句：[The girl eats breakfast at home with her mother. She has soup, …]，意思清楚，可是兩句彼此沒有連結。範文把它們併成一句：前半 [the girl and her mother are at the table at home] 交代人和地點，後面接現在分詞片語 [enjoying a warm bowl of soup, …]，補充她們正在吃什麼，分詞的主詞和主要子句相同，都是 the girl and her mother。a bowl of、a glass of 是容器加不可數名詞的說法，比單寫 soup、milk 更具體。"
+     },
+     {
+      "t": "用 however 轉折，並補上時間",
+      "b": "In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried.",
+      "m": "In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face.",
+      "why": "基礎版 [it is seven twenty] 只報出時間。範文加上 [however] 表示和第一張圖不同，再加 [already] 表示「已經」這麼晚；twenty past seven 是另一種說法，同樣是七點二十分。後半用 [with a worried look on her face] 取代 [she looks worried]，把「看起來擔心」改成具體的神情。"
+     },
+     {
+      "t": "用 with + 受詞 + 介系詞片語寫出她手上拿的東西",
+      "b": "She has only a sandwich and a sweet drink. She is in a hurry because she does not want to be late for school.",
+      "m": "With only a triangle sandwich and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+      "why": "基礎版用 [She has only a sandwich and a sweet drink] 單獨一句交代食物。範文改成句首的 [With only … in her hands]，把食物變成她匆忙的背景。後面用 [seems to be] 和 [probably because] 表示這是從圖片推測出來的，不是圖片直接告訴我們的；[afraid of being late] 的 of 後面接動名詞。"
+     },
+     {
+      "t": "用 not ... but ... 寫出看法",
+      "b": "I think breakfast is very important. A good breakfast gives us energy, so we can study well in the morning.",
+      "m": "I believe the contrast is a reminder that a good breakfast depends not on how busy we are but on how well we plan. A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy.",
+      "why": "基礎版 [I think breakfast is very important] 是一句很籠統的話。範文先指出對比帶來的啟示：[depends not on how busy we are but on how well we plan]，用 not ... but ... 把重點放在「規劃」；接著 [A meal like the first one] 回到圖片，說明好早餐給了什麼；[concentrate during their morning classes instead of feeling hungry or sleepy] 用 instead of 接動名詞，具體寫出好處，比 [study well] 清楚。"
+     },
+     {
+      "t": "用假設語氣提出建議",
+      "b": "My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before.",
+      "m": "If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home. On busy days, I would at least prepare a simple breakfast the night before, such as boiled eggs or a banana.",
+      "why": "基礎版 [My advice is to …] 直接對讀者下指令。範文改成 [If I were this student, I would …]，用與現在事實相反的假設語氣，站在圖中那位學生的位置想辦法，語氣比較溫和；[so that I would have time to eat at home] 表示目的；[at least] 和 [such as boiled eggs or a banana] 讓建議更具體，也更容易做到。"
+     }
+    ],
+    "frames": [
+     {
+      "name": "第一段（描述兩張圖的差異）",
+      "items": [
+       {
+        "f": "In the first picture, ___ is ___ing ___ . In the second picture, however, ___.（人物／動作／對照的情況）",
+        "ex": "In the first picture, the boy is reading at home. In the second picture, however, he is playing basketball outside."
+       },
+       {
+        "f": "With only ___ in his/her hands, ___ seems to be ___.（手上的東西／主角／推測的狀態）",
+        "ex": "With only a small bag in his hands, he seems to be on a short trip."
+       }
+      ]
+     },
+     {
+      "name": "第二段（看法與建議）",
+      "items": [
+       {
+        "f": "___ depends not on ___ but on ___.（事物／不是靠什麼／而是靠什麼）",
+        "ex": "Good health depends not on expensive food but on regular habits."
+       },
+       {
+        "f": "___ can ___ instead of ___ing.（做法／好處／不好的情況）",
+        "ex": "Students can go to bed early instead of staying up late."
+       },
+       {
+        "f": "If I were ___, I would ___ so that ___.（對象／做法／目的）",
+        "ex": "If I were him, I would leave home earlier so that I would not miss the bus."
+       },
+       {
+        "f": "___ may seem like a small ___, yet it can ___.（事物／小事／結果）",
+        "ex": "A smile may seem like a small thing, yet it can make someone’s day."
+       }
+      ]
+     }
+    ]
+   },
+   "wordBank": {
+    "updated": "2026-10-23",
+    "note": "條目取自本題庫的歷屆試題，缺口由本題庫補足；出處欄標示這個條目考過的年度與題號，練習句是本題庫依試題文體、針對這一題的情境寫的。先看中文自己寫寫看，想不出來再點提示，寫完再看參考答案。",
+    "groups": [
+     {
+      "name": "活用型單字（Words for Production）",
+      "note": "這一題要自己寫得出來的",
+      "entries": [
+       {
+        "w": "nutrition",
+        "zh": "營養",
+        "src": "101年指考 Q5、89年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0117",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0100"
+        ]
+       },
+       {
+        "w": "energy",
+        "zh": "精力、活力、能量",
+        "src": "95年學測 Q5、91年學測補考 Q2、89年學測 Q10",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0215",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0137",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0100"
+        ]
+       },
+       {
+        "w": "convenience store",
+        "zh": "便利商店",
+        "own": true
+       },
+       {
+        "w": "a bowl of soup",
+        "zh": "一碗湯",
+        "own": true
+       },
+       {
+        "w": "be in a hurry",
+        "zh": "匆忙、趕時間",
+        "own": true
+       },
+       {
+        "w": "be afraid of being late",
+        "zh": "怕遲到",
+        "own": true
+       },
+       {
+        "w": "concentrate on sth",
+        "zh": "專心於某事",
+        "src": "90年聯考 Q12",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0236"
+        ]
+       },
+       {
+        "w": "in contrast",
+        "zh": "相對地、對比之下",
+        "src": "89年聯考 Q11、87年推薦甄選 Q11",
+        "srcUrl": [
+         "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0250",
+         "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0071"
+        ]
+       },
+       {
+        "w": "depend on sth",
+        "zh": "取決於、依靠",
+        "own": true
+       },
+       {
+        "w": "prepare sth the night before",
+        "zh": "前一晚先準備好",
+        "own": true
+       },
+       {
+        "w": "instead of doing sth",
+        "zh": "而不是做某事",
+        "own": true
+       },
+       {
+        "w": "habit",
+        "zh": "習慣",
+        "own": true
+       }
+      ],
+      "sentences": [
+       {
+        "zh": "第一張圖裡，女孩和媽媽一起享用一碗熱湯。",
+        "en": "In the first picture, the girl is enjoying a bowl of hot soup with her mother.",
+        "hint": "「正在」用現在進行式 is enjoying；a bowl of 後面可接 soup、rice 這類不可數名詞，也可接複數名詞（a bowl of noodles）。",
+        "covers": [
+         "a bowl of soup"
+        ],
+        "bold": [
+         "is enjoying a bowl of hot soup with her mother"
+        ]
+       },
+       {
+        "zh": "她手上只拿著一個三明治，似乎很匆忙。",
+        "en": "With only a sandwich in her hand, she seems to be in a hurry.",
+        "hint": "with + 受詞 + 介系詞片語放在句首，描述手上拿著什麼；seem 後面接 to be。",
+        "covers": [
+         "be in a hurry"
+        ],
+        "bold": [
+         "With only a sandwich in her hand",
+         "be in a hurry"
+        ]
+       },
+       {
+        "zh": "她怕上學遲到。",
+        "en": "She is afraid of being late for school.",
+        "hint": "afraid of 後面接動名詞 being。",
+        "covers": [
+         "be afraid of being late"
+        ],
+        "bold": [
+         "is afraid of being late"
+        ]
+       },
+       {
+        "zh": "均衡的早餐提供學生需要的營養和能量。",
+        "en": "A balanced breakfast gives students the nutrition and energy they need.",
+        "hint": "nutrition 和 energy 都是不可數名詞；they need 是省略關係代名詞的子句。",
+        "covers": [
+         "nutrition",
+         "energy"
+        ],
+        "bold": [
+         "nutrition and energy they need"
+        ]
+       },
+       {
+        "zh": "吃了一頓好的早餐，學生比較能專心上課。",
+        "en": "After a good breakfast, students can concentrate on their lessons more easily.",
+        "hint": "concentrate 後面要加 on。",
+        "covers": [
+         "concentrate on sth"
+        ],
+        "bold": [
+         "concentrate on their lessons"
+        ]
+       },
+       {
+        "zh": "相對地，匆忙之下吃的早餐很難維持到中午。",
+        "en": "In contrast, a hurried breakfast rarely lasts until noon.",
+        "hint": "in contrast 放在句首，後面加逗號；rarely 本身已是否定，不再加 not。",
+        "covers": [
+         "in contrast"
+        ],
+        "bold": [
+         "In contrast",
+         "rarely lasts until noon"
+        ]
+       },
+       {
+        "zh": "一頓好的早餐取決於我們有多忙，還是計畫得好不好。",
+        "en": "A good breakfast depends not on how busy we are but on how well we plan.",
+        "hint": "not ... but ... 連接兩個對等的部分，這裡是兩個 on 開頭的片語，所以 on 要重複。",
+        "covers": [
+         "depend on sth"
+        ],
+        "bold": [
+         "depends not on how busy we are but on how well we plan"
+        ]
+       },
+       {
+        "zh": "你可以前一晚先準備好早餐。",
+        "en": "You can prepare your breakfast the night before.",
+        "hint": "the night before 是時間副詞，不需要介系詞。",
+        "covers": [
+         "prepare sth the night before"
+        ],
+        "bold": [
+         "prepare your breakfast the night before"
+        ]
+       },
+       {
+        "zh": "他走路上學，而不是搭公車。",
+        "en": "He walks to school instead of taking the bus.",
+        "hint": "instead of 後面接動名詞。",
+        "covers": [
+         "instead of doing sth"
+        ],
+        "bold": [
+         "instead of taking the bus"
+        ]
+       },
+       {
+        "zh": "吃早餐是個好習慣。",
+        "en": "Having breakfast is a good habit.",
+        "hint": "動名詞片語 Having breakfast 當主詞，動詞用單數 is。",
+        "covers": [
+         "habit"
+        ],
+        "bold": [
+         "Having breakfast is a good habit"
+        ]
+       }
+      ]
+     }
+    ]
    }
   }
  ],
