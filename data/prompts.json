@@ -31391,33 +31391,33 @@
     "校園與學習"
    ],
    "prompt": "下面兩張圖片呈現同一位高中生在兩天早上的早餐情形。請依據圖片內容，寫一篇至少 120 個單詞的英文作文。文分兩段，第一段描述兩張圖片的差異，第二段說明你認為早餐為什麼重要，並提出你的建議。",
-   "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖片也是本題庫自己畫的，圖中的人物都是虛構的。",
+   "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖片是 ChatGPT 畫的，圖中人物全為虛構。",
    "images": [
     {
      "webp": "SELF04.webp",
      "png": "SELF04.png",
      "size": [
-      1010,
-      500
+      1200,
+      800
      ]
     }
    ],
-   "source": "本題庫自繪，圖中的人物都是虛構的",
+   "source": "ChatGPT 繪製，圖中人物全為虛構",
    "model": {
     "essay": {
      "words": 264,
-     "p1": "The two pictures show how differently one student starts the day. In the first picture, it is half past six, and the girl and her mother are at the table at home, enjoying a warm bowl of soup, a fried egg, an apple and a glass of milk. Sunlight is coming through the window, and both of them look relaxed. In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. With only a triangle sandwich and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+     "p1": "The two pictures show how differently one student starts the day. In the first picture, it is half past six, and the girl and her mother are at the table at home, enjoying a warm bowl of soup, a fried egg, an apple and a glass of milk. Sunlight is coming through the window, and both of them look relaxed. In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
      "p2": "I believe the contrast is a reminder that a good breakfast depends not on how busy we are but on how well we plan. A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy. In contrast, a hurried breakfast of sugar and white bread may fill the stomach for a while, but it rarely lasts until noon. If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home. On busy days, I would at least prepare a simple breakfast the night before, such as boiled eggs or a banana. Having breakfast may seem like a small habit, yet it can make the whole day go much more smoothly.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 264 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。\n圖中的時間、食物是範文照圖寫的；「她怕上學遲到」是從時鐘和表情推測的，用 seems to、probably 這類字表示是推測。你可以有不同的推測，只要和圖片合理地連得起來。",
      "zh": {
-      "p1": "這兩張圖呈現同一位學生在不同日子的早晨有多麼不同。第一張圖裡是六點半，女孩和媽媽在家裡的餐桌前，享用一碗熱湯、一顆煎蛋、一顆蘋果和一杯牛奶。陽光從窗戶照進來，兩個人看起來都很輕鬆。然而在第二張圖裡，已經是七點二十分，她站在便利商店裡，臉上帶著擔心的神情。她手上只拿著一個三角形的三明治和一瓶甜飲料，似乎很匆忙，大概是怕上學遲到。",
+      "p1": "這兩張圖呈現同一位學生在不同日子的早晨有多麼不同。第一張圖裡是六點半，女孩和媽媽在家裡的餐桌前，享用一碗熱湯、一顆煎蛋、一顆蘋果和一杯牛奶。陽光從窗戶照進來，兩個人看起來都很輕鬆。然而在第二張圖裡，已經是七點二十分，她站在便利商店裡，臉上帶著擔心的神情。她手上只拿著一個三角形的飯糰和一瓶甜飲料，似乎很匆忙，大概是怕上學遲到。",
       "p2": "我認為這個對比提醒我們，好的早餐靠的不是我們有多忙，而是我們計畫得好不好。像第一張圖那樣的一餐，能給身體所需要的能量和營養，讓學生在早上的課堂上專心，而不是又餓又睏。相對地，匆忙之下吃的糖分和白吐司，也許能暫時填飽肚子，卻很難讓人一直飽到中午。如果我是這位學生，我會早半小時睡覺，鬧鐘也設早一點，這樣就有時間在家吃早餐。在忙碌的日子裡，我至少會在前一天晚上準備簡單的早餐，例如水煮蛋或香蕉。吃早餐看起來只是個小習慣，卻能讓一整天過得順利許多。"
      }
     },
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要的是兩件事：第一段描述兩張圖片的差異，第二段說明早餐為什麼重要並提出建議。第一段把兩張圖的差異都寫到了：時間（六點半和七點二十分）、地點（家裡的餐桌和便利商店）、食物（湯、煎蛋、蘋果、牛奶，對照三明治和甜飲料）、人物的神情（輕鬆，對照擔心）。第二段先說早餐的好處，再對照匆忙的早餐，最後給出兩個具體做法：早睡早起、前一晚先準備。建議和第一張圖的情境直接相關，不是另外附加的一句話。"
+      "t": "題目要的是兩件事：第一段描述兩張圖片的差異，第二段說明早餐為什麼重要並提出建議。第一段把兩張圖的差異都寫到了：時間（六點半和七點二十分）、地點（家裡的餐桌和便利商店）、食物（湯、煎蛋、蘋果、牛奶，對照飯糰和甜飲料）、人物的神情（輕鬆，對照擔心）。第二段先說早餐的好處，再對照匆忙的早餐，最後給出兩個具體做法：早睡早起、前一晚先準備。建議和第一張圖的情境直接相關，不是另外附加的一句話。"
      },
      {
       "k": "組織",
@@ -31425,7 +31425,7 @@
      },
      {
       "k": "文法句構",
-      "t": "[enjoying a warm bowl of soup, …] 是現在分詞片語，補充她在餐桌前做什麼；[With only a triangle sandwich and a bottle of sweet drink in her hands, she seems to be in a hurry] 是 with + 受詞 + 介系詞片語，描述她手上拿著什麼；[a good breakfast depends not on how busy we are but on how well we plan] 用 not ... but ... 對比；[so students can concentrate … instead of feeling hungry or sleepy] 用 instead of 接動名詞；[If I were this student, I would …] 是與現在事實相反的假設語氣。這些句型和基礎版的對照，見基礎版範文的升級對照。"
+      "t": "[enjoying a warm bowl of soup, …] 是現在分詞片語，補充她在餐桌前做什麼；[With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry] 是 with + 受詞 + 介系詞片語，描述她手上拿著什麼；[a good breakfast depends not on how busy we are but on how well we plan] 用 not ... but ... 對比；[so students can concentrate … instead of feeling hungry or sleepy] 用 instead of 接動名詞；[If I were this student, I would …] 是與現在事實相反的假設語氣。這些句型和基礎版的對照，見基礎版範文的升級對照。"
      },
      {
       "k": "字彙拼字",
@@ -31436,10 +31436,10 @@
    "basic": {
     "essay": {
      "words": 151,
-     "p1": "The two pictures show a student’s breakfast on two different days. In the first picture, it is six thirty. The girl eats breakfast at home with her mother. She has soup, an egg, an apple and milk. They look happy. In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a sandwich and a sweet drink. She is in a hurry because she does not want to be late for school.",
+     "p1": "The two pictures show a student’s breakfast on two different days. In the first picture, it is six thirty. The girl eats breakfast at home with her mother. She has soup, an egg, an apple and milk. They look happy. In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a rice ball and a sweet drink. She is in a hurry because she does not want to be late for school.",
      "p2": "I think breakfast is very important. A good breakfast gives us energy, so we can study well in the morning. A quick and sweet breakfast is not as good. My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before. A good breakfast is a small thing, but it makes the whole day better.",
      "zh": {
-      "p1": "這兩張圖呈現一位學生在兩天裡的早餐。第一張圖是六點半，女孩在家和媽媽一起吃早餐，有湯、蛋、蘋果和牛奶，她們看起來很開心。第二張圖是七點二十分，女孩在便利商店裡，看起來很擔心，她只有一個三明治和一瓶甜飲料。她很趕時間，因為她不想上學遲到。",
+      "p1": "這兩張圖呈現一位學生在兩天裡的早餐。第一張圖是六點半，女孩在家和媽媽一起吃早餐，有湯、蛋、蘋果和牛奶，她們看起來很開心。第二張圖是七點二十分，女孩在便利商店裡，看起來很擔心，她只有一個飯糰和一瓶甜飲料。她很趕時間，因為她不想上學遲到。",
       "p2": "我覺得早餐很重要。好的早餐能提供我們能量，所以我們早上能把書讀好。又快又甜的早餐就沒有那麼好。我的建議是早一點起床，在家吃早餐。如果你很忙，可以在前一天晚上準備蛋或水果。好的早餐是件小事，卻讓一整天變得更好。"
      }
     },
@@ -31459,9 +31459,9 @@
      },
      {
       "t": "用 with + 受詞 + 介系詞片語寫出她手上拿的東西",
-      "b": "She has only a sandwich and a sweet drink. She is in a hurry because she does not want to be late for school.",
-      "m": "With only a triangle sandwich and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
-      "why": "基礎版用 [She has only a sandwich and a sweet drink] 單獨一句交代食物。範文改成句首的 [With only … in her hands]，把食物變成她匆忙的背景。後面用 [seems to be] 和 [probably because] 表示這是從圖片推測出來的，不是圖片直接告訴我們的；[afraid of being late] 的 of 後面接動名詞。"
+      "b": "She has only a rice ball and a sweet drink. She is in a hurry because she does not want to be late for school.",
+      "m": "With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+      "why": "基礎版用 [She has only a rice ball and a sweet drink] 單獨一句交代食物。範文改成句首的 [With only … in her hands]，把食物變成她匆忙的背景。後面用 [seems to be] 和 [probably because] 表示這是從圖片推測出來的，不是圖片直接告訴我們的；[afraid of being late] 的 of 後面接動名詞。"
      },
      {
       "t": "用 not ... but ... 寫出看法",
@@ -31611,14 +31611,14 @@
         ]
        },
        {
-        "zh": "她手上只拿著一個三明治，似乎很匆忙。",
-        "en": "With only a sandwich in her hand, she seems to be in a hurry.",
+        "zh": "她手上只拿著一個飯糰，似乎很匆忙。",
+        "en": "With only a rice ball in her hand, she seems to be in a hurry.",
         "hint": "with + 受詞 + 介系詞片語放在句首，描述手上拿著什麼；seem 後面接 to be。",
         "covers": [
          "be in a hurry"
         ],
         "bold": [
-         "With only a sandwich in her hand",
+         "With only a rice ball in her hand",
          "be in a hurry"
         ]
        },
