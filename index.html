@@ -446,6 +446,40 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
 @media print{body::after{content:"歷屆作文題目索引\A staresto-create.github.io/essay-prompts\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
 .cc-note{font-size:12px;line-height:1.8;color:var(--ad-x8A8278-fg);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
 </style>
+<style id="print-paper">
+/* 紙本列印（2026-10-23）：作文站有 63 題，整頁列印會超過一百頁，所以改成「列印這一題」：
+   只印題目（含圖片）和書寫用的橫線，不印類型標籤、範文、提示、字詞搭配與評分說明（試考用，不能有任何透露答案的東西）。
+   直接按瀏覽器的列印，只會印出一行說明。畫面不變。 */
+.prBtn{margin-left:auto;appearance:none;background:none;border:1px solid currentColor;border-radius:14px;color:var(--ad-vseal-fg);font:inherit;font-size:13px;font-weight:700;padding:3px 12px;cursor:pointer;min-height:32px}
+.prBtn:hover{background:var(--ad-vpaper-bg)}
+.print-lines{display:none}
+@media print{
+  body{background:#fff !important}
+  .prBtn, .toBar, .fnav, .report-btn, .unitbar, .standfirst, .counts, .corner{display:none !important}
+  header.masthead{border-bottom:1px solid #000 !important;background:none !important}
+  body.print-one header.masthead{display:none !important}
+  .masthead .wrap{padding-top:4mm !important;padding-bottom:3mm !important}
+  main.wrap > *{display:none !important}
+  body:not(.print-one) main.wrap::after{content:"要列印題目，請在題目卡片上按「列印這一題」，會印出題目和書寫用的橫線（不含範文與提示）。";display:block;font-size:12pt;line-height:1.8;padding:12mm 0}
+  body.print-one main.wrap > #list{display:block !important}
+  body.print-one #list > .item:not(.print-me){display:none !important}
+  .print-me{border:0 !important;box-shadow:none !important;background:none !important;padding:0 !important;margin:0 !important}
+  .print-me > *{display:none !important}
+  .print-me > .ihead, .print-me > .otitle, .print-me > .prompt, .print-me > figure, .print-me > .print-lines{display:block !important}
+  .print-me > .ihead{display:flex !important}
+  .print-me .ihead .badge{display:none !important}
+  .print-me .prompt{font-size:12pt !important;line-height:1.8 !important;margin:6mm 0 !important}
+  .print-me figure{margin:4mm 0 !important}
+  .print-me figure img{max-height:62mm;width:auto;max-width:100%;border:0 !important}
+  .print-me .print-lines{margin-top:6mm}
+  .print-lines .wl{height:7.5mm;border-bottom:1px solid #000}
+  footer.wrap{font-size:8.5pt !important;line-height:1.5 !important;margin-top:8px !important;text-align:left !important}
+  .cc-note{font-size:8.5pt !important;line-height:1.5 !important;margin:4px 0 0 !important;padding:0 !important;max-width:none !important}
+  body::after{content:"英文作文題目・staresto-create.github.io/essay-prompts・免費資源，請勿販售" !important;position:fixed !important;top:auto !important;bottom:0 !important;left:0 !important;right:0 !important;transform:none !important;font-size:8pt !important;line-height:1.4 !important;color:#777 !important;text-align:center !important;background:#fff !important}
+  @supports (-webkit-app-region:drag){ body::after{display:none !important} }
+  @page{margin:10mm 14mm 14mm; @bottom-center{content:"英文作文題目・staresto-create.github.io/essay-prompts・免費資源，請勿販售"; font-size:8pt; color:#777; font-family:"Noto Sans TC",sans-serif}}
+}
+</style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 </head>
 <body>
@@ -671,6 +705,30 @@ function wordBanksFor(it){
   if(it.wordBank&&it.wordBank.groups&&it.wordBank.groups.length)banks.push(it.wordBank);
   return banks;
 }
+/* 列印這一題：只印題目（含圖片）和書寫用的橫線，不印範文、提示與評分說明。圖片原本是延後載入，先改成立即載入再印 */
+function printOne(d){
+  const go=function(){
+    const lines=el('div','print-lines');
+    const pe=d.querySelector('.prompt');
+    const n=(d.classList.contains('has-pic')?11:19)-(pe&&pe.textContent.length>250?4:0);
+    for(let k=0;k<n;k++)lines.appendChild(el('div','wl'));
+    d.appendChild(lines);d.classList.add('print-me');document.body.classList.add('print-one');
+    const done=function(){
+      d.classList.remove('print-me');document.body.classList.remove('print-one');
+      if(lines.parentNode)lines.parentNode.removeChild(lines);
+      window.removeEventListener('afterprint',done);
+    };
+    window.addEventListener('afterprint',done);
+    window.print();
+  };
+  try{
+    const imgs=[].slice.call(d.querySelectorAll('img'));
+    imgs.forEach(function(i){i.loading='eager';});
+    Promise.all(imgs.map(function(i){
+      return i.complete?Promise.resolve():(i.decode?i.decode().catch(function(){}):new Promise(function(r){i.onload=i.onerror=r;}));
+    })).then(go,go);
+  }catch(e){go();}
+}
 function card(it){
   const d=el('div','item'+(it.hasImage?' has-pic':'')+(it.isOfficial?'':' unofficial'));
   d.id='p-'+it.id;   // 供參考試卷那一句跳回原題用；網址錨點另有篩選條件在用，這個 id 不寫進網址。
@@ -681,6 +739,10 @@ function card(it){
   h.appendChild(el('div','iexam',it.exam));
   if(!it.isOfficial)h.appendChild(el('span','badge warn','非正式考題'));
   h.appendChild(el('span','badge',it.promptFormat));
+  const pb=el('button','prBtn','🖨 列印這一題');pb.type='button';
+  pb.title='印出題目和書寫用的橫線，不含範文與提示';
+  pb.onclick=function(){printOne(d);};
+  h.appendChild(pb);
   d.appendChild(h);
 
   const tags=el('div','itags');
