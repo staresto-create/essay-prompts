@@ -544,6 +544,10 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
     <p>大考中心公布學測英文作文佳作時，110 到 114 學年度每一年都提醒考生，平日要廣泛閱讀英文文章，勤於練習，累積寫作經驗。臺師大英語系劉宇挺教授分析 110 學測試辦考試時，說得更具體：那份試卷的閱讀文章幾乎篇篇架構完整，每段的主題句都反映該段內容，句子之間也前後連貫。所以他建議平時多閱讀篇章結構嚴謹的文章，自己動筆時才寫得出段落分明、前後連貫的文章。至於怎麼閱讀，可以留意每一段的第一句怎麼帶出這一段、段落之間怎麼銜接，寫作時就能照著運用。</p>
     <p class="ntLink"><a href="https://www.ceec.edu.tw/xmdoc/cont?xsmsid=0J071624926253508127&amp;sid=0O089336014967309929" target="_blank" rel="noopener">113 學年度學科能力測驗英文作文佳作 ↗</a><a class="ntLink2" href="https://sites.google.com/view/smengverliu/%E8%A3%9C%E5%85%85%E8%B3%87%E6%BA%90/%E5%A4%A7%E8%80%83%E8%A7%A3%E6%9E%90" target="_blank" rel="noopener">臺師大英語系劉宇挺教授〈大考解析〉（分析 110 學測試辦考試）↗</a></p>
 
+    <h3>想先聽老師講學測英文作文</h3>
+    <p>余綺芳老師在 YouTube 上有學測英文作文的教學影片，可免費觀看。其中兩支用到 Jutor，這是均一教育平台的 AI 英語助教。</p>
+    <p class="ntLink"><a href="https://www.youtube.com/watch?v=TbP-FlFR1i4" target="_blank" rel="noopener">學測英文作文指引及 Jutor 批改（余綺芳，YouTube，2024-07-12）↗</a><a class="ntLink2" href="https://www.youtube.com/watch?v=yFrSi4oM0kQ" target="_blank" rel="noopener">利用 Jutor 腦力激盪來寫學測英文作文（余綺芳，YouTube，2024-10-02）↗</a><a class="ntLink2" href="https://www.youtube.com/watch?v=eDKIUjO2Sjc" target="_blank" rel="noopener">115年學測英文作文：客觀描述圖片引導出議題再談論自己的想法（余綺芳，YouTube）↗</a><a class="ntLink2" href="https://www.youtube.com/c/%E4%BD%99%E7%B6%BA%E8%8A%B3" target="_blank" rel="noopener">余綺芳的 YouTube 頻道：另有閱讀、文法、翻譯與寫作的影片 ↗</a><a class="ntLink2" href="videos.html">余綺芳老師英文寫作與翻譯影片總覽（依主題分類，共 180 支）→</a></p>
+
     <h3>關於非正式考題與自編題</h3>
     <p>本題庫收錄的 63 題中，有 10 題不是正式考試題目，包括補考、參考試卷、試辦考試與課綱參考試卷，卡片上都用虛線邊框與標籤標明。參考試卷是大考中心為預告命題方向而公布的示例，其中部分題目直接採用歷年考題——例如 115 學年度起適用參考試卷的作文題，與 111 學測完全相同。遇到這種情形，本題庫在那一題下方註明來源，不合併也不隱藏。這 10 題都看得到範文：7 題另寫了範文；3 題沿用歷屆考題，卡片上的連結可以直接跳到原題的範文。</p>
     <p>另有 4 題不是歷屆題目，是本題庫自編的模擬題，不計入上面的 63 題：題目文字和圖片（圖表、四格連環圖、兩張圖對比等）都是本題庫自己寫、自己畫的，圖中的品牌與人物全部是虛構的。卡片上同樣用虛線邊框，標示「本題庫自編・非大考題目」，也附基礎級與進階級範文。</p>
@@ -1045,6 +1049,27 @@ function card(it){
       b.appendChild(w);
     });
     if(it.reading.note)b.appendChild(el('p','lsNote',it.reading.note));
+    d.appendChild(b);
+  }
+
+  // 延伸觀看：體例照延伸閱讀，共用 lsBox 一組樣式；資料欄為 watch.items[{title,author,url,urlLabel,checked}]。
+  if(it.watch && it.watch.items && it.watch.items.length){
+    const b=el('div','lsBox');
+    b.appendChild(el('div','lsHd','延伸觀看'));
+    it.watch.items.forEach(x=>{
+      const w=el('div','lsItem');
+      w.appendChild(el('span','lsT',x.title));
+      if(x.author)w.appendChild(el('span','lsMeta','　'+x.author));
+      if(x.url){
+        const ln=el('div','lsLinks');
+        const a=document.createElement('a');
+        a.href=x.url;a.target='_blank';a.rel='noopener';a.textContent=(x.urlLabel||'影片')+' ↗';
+        ln.appendChild(a);
+        w.appendChild(ln);
+      }
+      if(x.checked)w.appendChild(el('div','lsMeta','最後核對日期：'+x.checked));
+      b.appendChild(w);
+    });
     d.appendChild(b);
   }
 
