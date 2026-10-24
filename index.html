@@ -344,6 +344,25 @@ figcaption{font-size:12px;color:var(--ad-vink-soft-fg);margin-top:7px;font-famil
 .notes p.ntLink a{color:var(--ad-vseal-fg);text-decoration:underline;text-underline-offset:2px}
 .notes p.ntLink a.ntLink2{display:block;margin-top:4px}
 .notes.guide{margin-top:26px;padding:28px 0 6px}
+.rbTblWrap{margin:12px 0 4px}
+.rbTbl{width:100%;border-collapse:collapse;font-size:13.5px;line-height:1.75}
+.rbTbl th,.rbTbl td{border:1px solid var(--ad-xE3DCC9-border);padding:7px 9px;vertical-align:top;text-align:left}
+.rbTbl thead th{background:var(--ad-xF6F1E2-bg);text-align:center;font-weight:700}
+.rbTbl tbody th{background:var(--ad-xF6F1E2-bg);width:5.5em;font-weight:700}
+.rbTbl td.rbZero{background:var(--ad-xF6F1E2-bg)}
+.rbTbl td.rbZero::before{content:none}
+.rbSrc{font-size:13px;color:var(--ad-x6B6455-fg);margin:6px 0 0}
+.rbSrc a{color:var(--ad-vseal-fg);text-decoration:underline;text-underline-offset:2px}
+@media(max-width:560px){
+  .rbTbl,.rbTbl tbody,.rbTbl tr,.rbTbl th,.rbTbl td{display:block;width:auto}
+  .rbTbl thead{display:none}
+  .rbTbl tr{margin:0 0 12px;border:1px solid var(--ad-xE3DCC9-border)}
+  .rbTbl th,.rbTbl td{border:0;border-bottom:1px solid var(--ad-xE3DCC9-border)}
+  .rbTbl td::before{content:attr(data-lv)"　";font-weight:700}
+  .rbTbl tbody th{width:auto}
+}
+.rgLink{margin:12px 0 0;font-size:13px}
+.rgLink a{color:var(--ad-vseal-fg);text-decoration:underline;text-underline-offset:2px}
 .scLink{margin:12px 0 0}
 .scLink a{font-size:13px;color:var(--ad-vseal-fg);text-decoration:underline;text-underline-offset:2px}
 .scLink a.scLink2{display:block;margin-top:4px}
@@ -494,7 +513,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
     <p class="standfirst">學測與指定科目考試的英文作文題目，83 學年度至今全數收錄，每一題都附範文。另有本題庫自編的模擬題，卡片上標明「本題庫自編」。可依年度、文體、主題篩選，圖片題附原卷圖片。免費使用，不需註冊。</p>
   <p class="standfirst" style="margin-top:8px"><b>想用紙本練習？</b>按題目卡片上的「列印這一題」，會印出題目和書寫用的橫線，不含範文與提示。</p>
     <p class="counts">歷屆題目共 <b id="cTotal">–</b> 題　｜　圖片題 <b id="cPic">–</b> 題　｜　非正式考題 <b id="cUnof">–</b> 題　｜　本題庫自編 <b id="cSelf">–</b> 題</p>
-    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-guide">說明</a><a href="#u-list">題目列表</a><a href="#pic=1" id="uPic">看圖題</a><a href="#p=SELF01" id="uSelf">本題庫自編題</a><a href="#selfcheck">寫完逐項檢查</a><a href="#graded-samples">評分樣例</a><a href="#official-table">逐年對照表</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
+    <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-guide">說明</a><a href="#u-list">題目列表</a><a href="#pic=1" id="uPic">看圖題</a><a href="#p=SELF01" id="uSelf">本題庫自編題</a><a href="#rubric">評分表</a><a href="#selfcheck">寫完逐項檢查</a><a href="#graded-samples">評分樣例</a><a href="#official-table">逐年對照表</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
   </div>
 </header>
 
@@ -563,6 +582,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
   <section class="list" id="list" aria-live="polite"></section>
 
   <section class="notes">
+    <div id="rbBox"></div>
     <div id="scBox"></div>
 
     <details class="yrbox" id="official-table">
@@ -588,6 +608,7 @@ footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text
 const S={years:[],genres:[],themes:[],pic:false,official:false,wb:false};
 let DATA=[];
 let SELFCHECK=null;
+let RUBRIC=null;
 let THEMEBANKS={};   // 主題級共用字詞搭配，掛在 prompts.json 頂層，非 items 之成員
 
 const $=s=>document.querySelector(s);
@@ -810,6 +831,10 @@ function card(it){
       body.appendChild(el('div','mdH',sec.h));
       sec.p.forEach(t=>body.appendChild(rich('rgNote',t)));
     });
+    if(g.tense){
+      body.appendChild(el('div','mdH',g.tense.h));
+      g.tense.p.forEach(t=>body.appendChild(rich('rgNote',t)));
+    }
     if(g.ladder){
       const L=g.ladder;
       body.appendChild(el('div','mdH',L.h));
@@ -828,6 +853,12 @@ function card(it){
         body.appendChild(t);
       });
       (L.after||[]).forEach(t=>body.appendChild(rich('rgNote',t)));
+    }
+    if(RUBRIC&&RUBRIC.linkText){
+      const lp=el('div','rgLink');
+      const la=document.createElement('a');
+      la.href='#rubric';la.textContent=RUBRIC.linkText;
+      lp.appendChild(la);body.appendChild(lp);
     }
     b.appendChild(body);d.appendChild(b);
   }
@@ -1310,8 +1341,9 @@ function card(it){
   // 寫上年度會讓讀者以為那是這一題專屬的東西。
   (function(){
     const p=el('div','scLink');
-    [['#selfcheck','寫完了？逐項檢查一遍 ↓'],
-     ['#graded-samples','不確定自己寫得如何？看四個等級的實例 ↓']].forEach(([href,text],i)=>{
+    [['#rubric',RUBRIC?RUBRIC.linkText:''],
+     ['#selfcheck','寫完了？逐項檢查一遍 ↓'],
+     ['#graded-samples','不確定自己寫得如何？看四個等級的實例 ↓']].filter(x=>x[1]).forEach(([href,text],i)=>{
       const a=document.createElement('a');
       a.href=href;a.textContent=text;
       if(i)a.className='scLink2';
@@ -1324,7 +1356,7 @@ function card(it){
 }
 
 // 站內錨點（逐年對照表、自我檢查、評分樣例）不是篩選條件：讀篩選時略過，無篩選時保留在網址上。
-const ANCHORS=['#official-table','#selfcheck','#graded-samples'];
+const ANCHORS=['#official-table','#rubric','#selfcheck','#graded-samples'];
 function writeHash(){
   const p=new URLSearchParams();
   if(S.years.length)p.set('y',S.years.join(','));
@@ -1403,6 +1435,53 @@ function yrCell(links,head){
     td.appendChild(a);
   });
   return td;
+}
+
+// 大考中心作文評分表：內容只存一份，放在 prompts.json 的 rubricTable 鍵裡，整區由本函式產出；
+// 各題引導與卡片底部只放指過來的連結（文字也讀 rubricTable.linkText），體例與 #selfcheck 相同。
+function buildRubric(){
+  const box=$('#rbBox');
+  if(!box||!RUBRIC||!RUBRIC.rows)return;
+  const dt=document.createElement('details');
+  dt.className='yrbox';dt.id='rubric';
+  dt.appendChild(el('summary',null,RUBRIC.title||''));
+  const body=el('div','yrbody');
+  (RUBRIC.intro||[]).forEach(t=>body.appendChild(el('p',null,t)));
+  const wrap=el('div','rbTblWrap');
+  const t=document.createElement('table');t.className='rbTbl';
+  const th=document.createElement('thead'),hr=document.createElement('tr');
+  hr.appendChild(el('th',null,'項目'));
+  RUBRIC.cols.forEach(c=>hr.appendChild(el('th',null,c)));
+  th.appendChild(hr);t.appendChild(th);
+  const tb=document.createElement('tbody');
+  RUBRIC.rows.forEach(r=>{
+    const tr=document.createElement('tr');
+    tr.appendChild(el('th',null,r.item));
+    r.cells.forEach((c,i)=>{const td=el('td',null,c);td.setAttribute('data-lv',RUBRIC.cols[i]);tr.appendChild(td)});
+    tb.appendChild(tr);
+  });
+  if(RUBRIC.zero){
+    const tr=document.createElement('tr');
+    tr.appendChild(el('th',null,RUBRIC.zero.label));
+    const td=el('td','rbZero',RUBRIC.zero.text);td.colSpan=RUBRIC.cols.length;
+    tr.appendChild(td);tb.appendChild(tr);
+  }
+  t.appendChild(tb);wrap.appendChild(t);body.appendChild(wrap);
+  const src=RUBRIC.source;
+  if(src){
+    const sp=el('p','rbSrc',src.text||'');
+    if(src.url&&src.label){
+      sp.appendChild(document.createTextNode('　'));
+      const a=document.createElement('a');
+      a.href=src.url;a.target='_blank';a.rel='noopener';a.textContent=src.label+' \u2197';
+      sp.appendChild(a);
+    }
+    body.appendChild(sp);
+  }
+  (RUBRIC.after||[]).forEach(x=>body.appendChild(el('p',null,x)));
+  dt.appendChild(body);
+  box.innerHTML='';box.appendChild(dt);
+  if(location.hash==='#rubric')dt.open=true;
 }
 
 // 自我檢查問句：內容只存一份，放在 prompts.json 的 selfCheck 鍵裡，整區由本函式產出。
@@ -1558,6 +1637,7 @@ fetch('data/prompts.json')
     DATA=j.items;
     THEMEBANKS=j.themeWordBanks||{};
     SELFCHECK=j.selfCheck||null;
+    RUBRIC=j.rubricTable||null;
     // 歷屆題目與本題庫自編題分開計：前三個數字只算歷屆題目，自編題另列。
     const hist=DATA.filter(d=>!d.isSelfMade);
     $('#cTotal').textContent=hist.length;
@@ -1570,6 +1650,7 @@ fetch('data/prompts.json')
     buildChips('#fTheme','themes',tally('theme'));
     readHash();
     buildStrip();
+    buildRubric();
     buildSelfCheck();
     buildYearTable();
     render();
@@ -1585,7 +1666,7 @@ fetch('data/prompts.json')
 function jumpToAnchor(){
   const h=location.hash;
   if(!ANCHORS.includes(h))return;
-  const d=h==='#official-table'?$('#official-table'):$('#selfcheck');
+  const d=(h==='#official-table'||h==='#rubric')?$(h):$('#selfcheck');
   if(d)d.open=true;
   const t=$(h);
   if(t)requestAnimationFrame(()=>t.scrollIntoView({block:'start'}));
@@ -1593,6 +1674,7 @@ function jumpToAnchor(){
 
 window.addEventListener('hashchange',()=>{
   if(location.hash==='#official-table'){const d=$('#official-table');if(d)d.open=true}
+  if(location.hash==='#rubric'){const d=$('#rubric');if(d){d.open=true;d.scrollIntoView({block:'start'})}}
   if(location.hash==='#selfcheck'){const d=$('#selfcheck');if(d)d.open=true}
   if(location.hash==='#graded-samples'){
     const d=$('#selfcheck');if(d)d.open=true;
