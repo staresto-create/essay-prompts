@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
  "count": 67,
  "items": [
   {
@@ -31351,6 +31351,71 @@
     "more": {
      "cat": "S"
     }
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、兩張圖怎麼比。這一題是本題庫自編的模擬題，沒有大考中心的說明或佳作簡評，下面都是依題目文字和圖片整理的寫法建議，不是官方說法。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "題目要求兩段：第一段**描述兩張圖片的內容，並說明兩者的差異**；第二段針對在大樓外牆設置大量廣告這件事，說明**你的看法與理由**。也就是說，第一段不能各說各的，要把兩張圖放在一起比；第二段要有立場，也要有理由。"
+      ]
+     },
+     {
+      "h": "第一段：同一棟大樓，找出變了什麼",
+      "p": [
+       "兩張圖的街道、樹、公車站牌、計程車和機車都一樣，不一樣的只有大樓外牆和大樓前面的人。第一張圖，大樓上面各樓層都看得到一排排窗戶，只有幾個路人走過；第二張圖，大樓上面各樓層被大型廣告蓋滿，最上方是手機廣告，下面有鞋子、漢堡、飛機、保養品等各種廣告，一群人聚在大樓前面抬頭看。",
+       "先用一句話說明大意（大樓上面各樓層被廣告蓋滿了），再挑兩三樣具體說明，不必把每一塊廣告都數一遍。**差異**要用比較的字詞講出來，例如 in the first picture … in the second picture …、whereas、no longer，不要只列出看到的東西。"
+      ]
+     },
+     {
+      "h": "第二段：立場和理由",
+      "p": [
+       "題目問的是看法和理由，立場可以是反對、贊成，也可以是折衷（少量可以、滿牆不行），哪一種都行，重點是理由要具體。可以從圖片找線索：第二張圖裡窗戶不見了，在裡面工作的人會怎麼樣？街上的人都抬頭看廣告，對街景和城市的樣子有什麼影響？如果想贊成，也有理由可寫，例如公司用廣告宣傳、屋主靠廣告收入維持大樓。兩邊的理由各想一個，再決定自己站哪一邊。",
+       "理由最好附上一個自己身邊的情形，讀的人才相信你不是隨便說說。範文寫的是在對面大樓上班的阿姨，窗簾得整天拉上。"
+      ]
+     }
+    ],
+    "tense": {
+     "h": "時態怎麼用",
+     "p": [
+      "描述圖片用**現在式**，因為你是在說畫面上現在看得到的東西（In the first picture, the building is clean and quiet.）。第二段寫自己的看法也用現在式；提到阿姨的經驗，她現在還是每天這樣，所以同樣用現在式。想說明大樓從一種樣子變成另一種，可以用現在完成式（has become），進階版範文最後一句就是這樣寫。"
+     ]
+    },
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the first picture, there are windows. In the second picture, there are ads.",
+       "p2": "I do not like the ads. There are too many."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the first picture, the building shows its windows, whereas in the second picture, big ads cover the upper floors, so no window on those floors can be seen.",
+       "p2": "I think there should be fewer ads because they cover the windows of the people who work inside."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The two pictures show the same building, but it looks very different. … In the second picture, big ads cover the whole building. … We cannot see any windows now.",
+       "p2": "Putting too many ads on a building is not a good idea. … However, the bright screen is a problem for the people nearby. My aunt works across the street from a building like this, and she has to keep her curtains closed all day."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "The two pictures show one office building at two very different times. … Not a single window can be seen anymore. … In short, what was once a place to work has become a place to sell things.",
+       "p2": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far. … I would rather see cities set limits, such as one screen per building and no lights after ten o’clock."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只列出兩張圖各有什麼；「加上銜接詞」用 whereas 把兩張圖放在同一句對照，再用 so 接上結果。基礎版再用 but 先點出兩張圖是同一棟大樓、看起來卻很不一樣；進階版最後用 what was once … has become … 作為這一段的結尾，把這個變化說清楚。",
+      "**第二段：**「只寫 what」只有好惡；「加上銜接詞」用 because 補上理由。基礎版和進階版再用阿姨這個具體的例子讓理由更具體；進階版還先承認廣告對公司的好處，最後提出一棟只放一面螢幕、晚上十點後熄燈這樣具體的做法。"
+     ]
+    }
    }
   },
   {
@@ -31750,6 +31815,72 @@
       "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、圖表怎麼讀。這一題是本題庫自編的模擬題，沒有大考中心的說明或佳作簡評，下面都是依題目文字和圖片整理的寫法建議，不是官方說法。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "題目要求至少 120 個單詞、分兩段：第一段**描述圖表的內容，並指出最明顯的特徵**；第二段說明**你對學生使用手機的看法，並提出建議**。看法和建議兩件事都要寫，只寫其中一件就少了一半。"
+      ]
+     },
+     {
+      "h": "第一段：最明顯的特徵怎麼找",
+      "p": [
+       "圖表有六個項目，由多到少排列：短影音 95 分鐘最多，閱讀 10 分鐘最少。「最明顯的特徵」不是把六個數字照順序念一遍，而是找出一個一句話就能說清楚的現象。",
+       "有兩個做法。一個是拿最多和最少對比（95 分鐘對 10 分鐘）。另一個是把項目分成兩組再加總（這是其中一種分法）：短影音、社群與傳訊、遊戲、音樂都屬於娛樂，加起來 245 分鐘；功課與查資料、閱讀屬於學習，加起來 40 分鐘；全部合計 285 分鐘，將近五個小時。哪一組多、哪一組少，特徵就出來了。基礎版範文用的是第二個做法。",
+       "圖表標題寫明是**平日放學後**、**每天的平均**，描述時要把這兩個條件帶進去（on an ordinary weekday、a day）。圖表標題下方也標了 Fictional data for practice（虛構資料，供練習使用），所以這一題是練習寫圖表，不要當成真實的調查結果。"
+      ]
+     },
+     {
+      "h": "第二段：看法和建議要接得上第一段",
+      "p": [
+       "先說看法，也就是問題出在哪裡；再提建議，也就是可以怎麼做。建議要對得上第一段看到的數字：短影音最多，就可以提設定使用時間；學習只占一小部分，就可以提怎麼把手機用在學習上。這樣讀的人會覺得你是看了圖才寫的。",
+       "理由或建議裡放一個自己的經驗最具體，例如範文寫的「看短影音看到半夜，隔天上課想睡」。"
+      ]
+     }
+    ],
+    "tense": {
+     "h": "時態怎麼用",
+     "p": [
+      "圖表呈現的是平均每天的情形，用**現在式**（Students spend the most time on short videos.）。第二段的看法和建議也用現在式，建議可搭配 can、should、would。如果談到自己過去的經驗，用過去式或現在完成式（I have often found myself still scrolling at midnight.）。"
+     ]
+    },
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Students use short videos for 95 minutes. They read for only 10 minutes.",
+       "p2": "Students use phones too much. They should use less."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "Students spend the most time on short videos, 95 minutes a day, but only 10 minutes on reading.",
+       "p2": "Students use their phones too much for fun, so they should set a time limit on their phones."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "They spend the most time on short videos, 95 minutes a day. … In total, they use their phones for about 285 minutes a day. That is nearly five hours, but only 40 minutes of it goes to study.",
+       "p2": "I think students use their phones too much for fun and too little for study. … To fix this problem, students can set a time limit on their phones. They can also leave the phone outside the bedroom at night."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "Short videos clearly come first, taking up 95 minutes a day, and social media and chatting follow at 70 minutes. … In other words, for these students the phone is first of all a source of entertainment, and only after that a tool for learning.",
+       "p2": "I believe the trouble lies less in the phone itself than in the way we use it. … Most phones now have a screen-time tool, so a student can limit short videos to, say, thirty minutes a day and let the phone lock the app once that time is up."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」兩個數字各說各的；「加上銜接詞」用 but 把最多和最少放進同一句，對比就出來了。基礎版再把時間加總；進階版先把前兩名並列，最後用 In other words 把結論整理成一句話。",
+      "**第二段：**「只寫 what」只有看法，沒有做法；「加上銜接詞」用 so 把看法接到做法。基礎版提出兩個做法（設定時間限制、晚上把手機放在臥室外面）；進階版把做法寫得更具體，短影音每天限定三十分鐘，時間一到，手機就自動鎖住這個應用程式。"
+     ]
+    }
    }
   },
   {
@@ -32115,6 +32246,73 @@
       "note": "同一個主題考過，這一題用不到，但值得認識"
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、四張圖怎麼接成一個故事。這一題是本題庫自編的模擬題，沒有大考中心的說明或佳作簡評，下面都是依題目文字和圖片整理的寫法建議，不是官方說法。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "題目要求至少 120 個單詞、分兩段，分工已經訂好：第一段寫故事的**開頭與經過**（圖 1、圖 2），第二段寫**結局**（圖 3、圖 4），並**說明這件事帶給你的想法**。圖的順序題目已經固定，照編號寫就可以。",
+       "四張圖沒有任何文字，人物叫什麼名字、說了什麼話、為什麼這樣做，都要自己編。"
+      ]
+     },
+     {
+      "h": "第一段（圖 1、圖 2）：開頭和轉折",
+      "p": [
+       "圖 1：四個學生圍著一張桌子，桌上有一大張白紙、幾張鳥的照片和文具，看起來是在做海報；三個人熱烈討論，戴眼鏡的男生坐在最旁邊，一句話也沒說。圖 2：他身旁的女生拍拍他的肩膀，他嚇了一跳，旁邊的人也轉頭看他。",
+       "記敘文開頭先交代人物、時間地點和事情（誰在什麼時候、什麼地方、做什麼），再寫轉折。圖裡沒有說是哪一科、海報的主題是什麼，範文選的是生物課和台灣的鳥，你可以自己決定，但要和圖 3、圖 4 的鳥對得上。"
+      ]
+     },
+     {
+      "h": "第二段（圖 3、圖 4）：把空白補起來",
+      "p": [
+       "圖 2 和圖 3 之間有一個空白：他被問到之後，做了什麼？圖 3 給了答案：他拿出一本畫滿鳥的素描本，大家都很驚訝。圖 3 和圖 4 之間還有一個空白：素描本裡的鳥怎麼變成海報上最大的那一隻？發表時大家的反應如何？把這兩個空白寫清楚，故事才算完整。",
+       "最後說明想法。題目要的是這件事帶給**你**的想法，所以想法要從故事裡的事情推出來（例如他被問了之後，才讓大家看到他的長處），不要和故事無關。一兩句寫清楚就夠。"
+      ]
+     }
+    ],
+    "tense": {
+     "h": "時態怎麼用",
+     "p": [
+      "故事用**過去式**講：圖裡的事情和你補上的情節，都照先後順序用過去式往下寫。要交代比當時情節更早發生的事，才用過去完成式（had + 過去分詞），例如範文用 He had drawn it after watching the bird from his balcony every morning. 說明他早就在畫鳥了。",
+      "人物說的話放在引號裡，照原話寫（“Kevin, what do you think?”）。最後說明想法時，是你現在對這件事的看法，改用現在式（To me, this story shows that …）。"
+     ]
+    },
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "The students made a poster. Kevin did not talk.",
+       "p2": "Kevin showed his drawings. The poster was good."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "The students were making a poster, but Kevin did not say anything until Amy asked him for his ideas.",
+       "p2": "Kevin showed his sketchbook, so the group put his blue magpie in the center of the poster."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "In biology class, Kevin’s group was making a poster about birds in Taiwan. … Amy saw this and asked him, “Kevin, do you have any ideas?” Kevin was surprised.",
+       "p2": "It was a sketchbook full of bird pictures. … They put Kevin’s picture of a blue magpie in the middle of the poster. … I think everyone has something good to share."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "Finally noticing his silence, Amy stopped talking, tapped him on the shoulder and asked, “Kevin, what do you think? Do you have any ideas?” Caught off guard, he hesitated for a moment and then slowly reached into his bag.",
+       "p2": "To everyone’s surprise, he took out a sketchbook full of beautiful drawings of birds he had seen near his home. … He had drawn it after watching the bird from his balcony every morning. … To me, this story shows that everyone has something valuable to share, and sometimes all it takes is one person willing to listen."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」只有兩件事，沒有原因；「加上銜接詞」用 but 和 until 把「沒說話」和「被問到」連成一個過程。基礎版再加上對話和 Kevin 的反應；進階版用分詞構句把先後和原因放進同一句（Finally noticing … 表先後，Caught off guard 表原因）。",
+      "**第二段：**「只寫 what」只說結果；「加上銜接詞」用 so 把「拿出素描本」接到「畫放在海報中間」。基礎版補上發表時大家的反應；進階版用過去完成式補上他畫得出來的原因，最後的想法連回故事裡發生的事。"
+     ]
+    }
    }
   },
   {
@@ -32459,6 +32657,70 @@
       ]
      }
     ]
+   },
+   "readGuide": {
+    "intro": "動筆前先看這一段：這一題要你寫什麼、兩張圖怎麼比。這一題是本題庫自編的模擬題，沒有大考中心的說明或佳作簡評，下面都是依題目文字和圖片整理的寫法建議，不是官方說法。",
+    "secs": [
+     {
+      "h": "這一題要你寫什麼",
+      "p": [
+       "題目要求至少 120 個單詞、分兩段：第一段只寫兩張圖片的**差異**；第二段要說明**早餐為什麼重要**，並**提出建議**。第一段不必把圖裡的東西全部列出來，只要寫兩張圖不一樣的地方；第二段的理由和建議兩件事都要寫。"
+      ]
+     },
+     {
+      "h": "第一段：差異從哪裡找",
+      "p": [
+       "兩張圖有四組對照：**時間**，圖上標了 6:30 a.m. 和 7:20 a.m.；**地點和人**，第一張在家，和媽媽一起，第二張在便利商店，只有她一個人；**食物**，第一張有湯、蛋、蘋果和牛奶，第二張只有一個飯糰和一瓶飲料；**神情**，第一張笑著，第二張皺著眉、冒汗。",
+       "把四組對照整理成兩三句話，不要一項一句。圖裡沒有說女孩為什麼在便利商店買早餐，原因要自己推，例如趕時間、怕遲到；寫的時候用 probably、seems to 這類字，表示這是你的推測。"
+      ]
+     },
+     {
+      "h": "第二段：理由和建議要接得上",
+      "p": [
+       "先說早餐為什麼重要（例如供應體力和營養，上午上課才能專心），再提建議。建議要能解決第一段看到的問題：女孩來不及在家吃，所以建議可以是早一點睡、早一點起，或是前一天晚上先準備好。這樣兩段才連得起來。"
+      ]
+     }
+    ],
+    "tense": {
+     "h": "時態怎麼用",
+     "p": [
+      "描述圖片用**現在式**（In the second picture, it is seven twenty. The girl is in a convenience store.）。第二段說明一般的道理，也用現在式。提建議時，可以用 can、should，也可以像進階版範文那樣假設自己就是圖中的學生：If I were this student, I would go to bed half an hour earlier. 這是假設和現在事實不同的情況，所以 if 子句用 were，主要子句用 would。"
+     ]
+    },
+    "ladder": {
+     "h": "同一題，寫到哪一步？",
+     "lead": "下面前兩列是本題庫自己寫的示範句，不是考生作文；後兩列是這一題的基礎版與進階版範文。",
+     "rows": [
+      {
+       "label": "只寫 what",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "The girl eats soup at home. She has a rice ball in a store.",
+       "p2": "Breakfast is important. We should eat it."
+      },
+      {
+       "label": "加上銜接詞",
+       "note": "本題庫示範句，非考生作文",
+       "p1": "In the first picture, the girl eats soup and an egg at home, but in the second picture, she has only a rice ball and seems to be in a hurry.",
+       "p2": "Breakfast is important because it gives us energy, so we should get up earlier and eat at home."
+      },
+      {
+       "label": "基礎版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "In the first picture, it is six thirty. … In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a rice ball and a sweet drink. She is in a hurry because she does not want to be late for school.",
+       "p2": "A good breakfast gives us energy, so we can study well in the morning. … My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before."
+      },
+      {
+       "label": "進階版範文",
+       "note": "本頁範文，摘錄",
+       "p1": "In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. … With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+       "p2": "A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy. … If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home."
+      }
+     ],
+     "after": [
+      "**第一段：**「只寫 what」兩張圖各說一件事，沒有對照；「加上銜接詞」用 but 對照兩張圖，並用 seems to 表示原因是推測。基礎版把時間和地點寫進去；進階版用 however 和 with + 名詞 + 介系詞片語（With only a … in her hands，表示伴隨的情形）把細節和神情一起寫，最後用 probably 表示原因是推測。",
+      "**第二段：**「只寫 what」只有「重要」和「該吃」，沒有說為什麼；「加上銜接詞」用 because 說出原因，再用 so 接上建議。基礎版提出兩個做法（早起、前一晚準備）；進階版用 If I were … would … 把建議說成假設。"
+     ]
+    }
    }
   }
  ],
