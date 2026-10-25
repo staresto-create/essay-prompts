@@ -1271,6 +1271,7 @@ function card(it){
         es.appendChild(c);
       }
       if(a.essay.words)es.appendChild(el('div','mdWords',(letter?'正文 ':'全文 ')+a.essay.words+' 詞'));
+      if(a.essay.words>=250)es.appendChild(el('div','mdWords','這是完整示範，字數比考場上寫得完的長；考試的要求是至少 120 個單詞，兩段的任務寫清楚就好。'));
       esWrap.appendChild(es);
       if(a.essay.caveat)esWrap.appendChild(paras('mdCaveat',a.essay.caveat));
       if(a.mapping && a.mapping.length){
