@@ -30977,7 +30977,7 @@
    "theme": [
     "社會現象與公共議題"
    ],
-   "prompt": "近年來，不少城市的商業大樓外牆愈來愈常被大型廣告占滿。下列兩張圖片呈現同一棟大樓在不同時期的樣貌。請參照圖片，寫一篇英文作文，文分兩段。第一段描述兩張圖片的內容，並說明兩者的差異；第二段則針對在大樓外牆設置大量廣告這件事，說明你的看法與理由。",
+   "prompt": "近年來，不少城市的商業大樓外牆愈來愈常被大型廣告占滿。下列兩張圖片呈現同一棟大樓在不同時期的樣貌。請參照圖片，寫一篇至少 120 個單詞的英文作文，文分兩段。第一段描述兩張圖片的內容，並說明兩者的差異；第二段則針對在大樓外牆設置大量廣告這件事，說明你的看法與理由。",
    "promptNote": "這一題是本題庫自編的模擬題，不是大考題目。圖片是 ChatGPT 畫的，圖中品牌全為虛構。",
    "images": [
     {
@@ -30992,19 +30992,19 @@
    "source": "ChatGPT 繪製，圖中品牌全為虛構",
    "model": {
     "essay": {
-     "words": 322,
-     "p1": "The two pictures show one office building at two very different times. On the left, it stands quietly in the sun: rows of glass windows reflect the sky, a tree grows on either side, and only a couple of people walk along the sidewalk. On the right, the same walls have almost disappeared. A huge screen for a new phone covers the top floors, two tall banners for new apartments and a game hang down the sides, and ads for sneakers, burgers, travel deals and skin care fill the space between them. Not a single window can be seen anymore. The street has changed as well. Instead of a few people walking by, a crowd has gathered at the foot of the building, as if the building itself were a shop. In short, what was once a place to work has become a place to sell things.",
-     "p2": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far. I understand why companies do it. A bright screen in a busy district reaches thousands of people every day, and the money paid for the space helps owners keep their buildings in good shape. Even so, the cost to the people nearby is easy to overlook. My aunt works across the street from a building like the one on the right, and she says the flashing screen shines into her office from morning until night, so she has to keep the curtains closed all day. Then there is the effect on young people like me. When every wall is shouting “buy this, buy that,” it is hard not to feel that being happy means owning more things. I would rather see cities set limits, such as one screen per building and no lights after ten o’clock. That way, companies can still reach their customers, and the rest of us can still see the sky.",
+     "words": 327,
+     "p1": "The two pictures show one office building at two very different times. On the left, it stands quietly in the sun: rows of glass windows reflect the sky, a tree grows on either side, and only a couple of people walk along the sidewalk. On the right, the same walls have almost disappeared. A wide panel showing two new phones covers the top floors, and below it colorful boards for new apartments, sneakers, burgers, travel deals and skin care fill the rest of the wall. Not a single window can be seen above the ground floor anymore. The street has changed as well. Instead of a few people walking by, a small crowd has stopped at the foot of the building to look up, as if the building itself were a shop. In short, what was once a place to work has become a place to sell things.",
+     "p2": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far. I understand why companies do it. A giant ad in a busy district reaches thousands of people every day, and the money paid for the space helps owners keep their buildings in good shape. Even so, the cost to the people nearby is easy to overlook. My aunt works across the street from a building like the one on the right, and she says the bright lights on its ads shine into her office from morning until night, so she has to keep the curtains closed all day. Then there is the effect on young people like me. When every wall is shouting “buy this, buy that,” it is hard not to feel that being happy means owning more things. I would rather see cities set limits, such as one big ad per building and no lights after ten o’clock. That way, companies can still reach their customers, and the rest of us can still see the sky.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「文長至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 322 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。",
      "zh": {
-      "p1": "這兩張圖片呈現的是同一棟辦公大樓在兩個截然不同時期的樣貌。左圖裡，大樓在陽光下靜靜地立著：一排排玻璃窗映著天空，兩旁各有一棵樹，人行道上只有兩三個人在走。右圖裡，同樣的外牆幾乎看不見了。頂樓那幾層被一面宣傳新手機的大型螢幕蓋住，兩側垂掛著新建案和遊戲的長條廣告，中間的空位則被運動鞋、漢堡、旅遊優惠和保養品的廣告填滿。現在連一扇窗戶都看不到。街上也不一樣了：原本只有幾個人經過，現在大樓樓下聚集了一大群人，彷彿這棟大樓本身就是一間商店。簡單說，這裡原本是上班的地方，現在成了賣東西的地方。",
-      "p2": "我個人認為，大樓上放幾則廣告無妨，可是整棟大樓都被廣告蓋滿就太過頭了。我理解公司為什麼這麼做。在熱鬧的商圈裡，一面亮眼的螢幕每天能讓成千上萬的人看到，廣告商租用牆面付的錢，也能讓屋主把大樓維護得好一些。即使如此，附近的人所付出的代價很容易被忽略。我阿姨在一棟像右圖那樣的大樓對面上班，她說那面閃爍的螢幕從早到晚都照進她的辦公室，所以她整天都得拉上窗簾。另外，廣告對像我這樣的年輕人也有影響。當每一面牆都在喊「買這個、買那個」，我們很難不覺得，快樂就是擁有更多東西。我倒希望各個城市能訂出一些限制，例如一棟大樓只能有一面螢幕、晚上十點以後不能亮燈。這樣一來，公司的廣告還是能讓顧客看到，而我們其他人也還是看得到天空。"
+      "p1": "這兩張圖片呈現的是同一棟辦公大樓在兩個截然不同時期的樣貌。左圖裡，大樓在陽光下靜靜地立著：一排排玻璃窗映著天空，兩旁各有一棵樹，人行道上只有兩三個人在走。右圖裡，同樣的外牆幾乎看不見了。頂樓那幾層被一幅有兩支新手機的寬幅廣告蓋住，底下一塊塊彩色的廣告看板，宣傳新建案、運動鞋、漢堡、旅遊優惠和保養品，把牆面的其餘部分填滿。一樓以上，現在連一扇窗戶都看不到。街上也不一樣了：原本只有幾個人經過，現在大樓樓下有一小群人停下來抬頭看，彷彿這棟大樓本身就是一間商店。簡單說，這裡原本是上班的地方，現在成了賣東西的地方。",
+      "p2": "我個人認為，大樓上放幾則廣告無妨，可是整棟大樓都被廣告蓋滿就太過頭了。我理解公司為什麼這麼做。在熱鬧的商圈裡，一幅巨大的廣告每天能讓成千上萬的人看到，廣告商租用牆面付的錢，也能讓屋主把大樓維護得好一些。即使如此，附近的人所付出的代價很容易被忽略。我阿姨在一棟像右圖那樣的大樓對面上班，她說那些廣告的亮光從早到晚都照進她的辦公室，所以她整天都得拉上窗簾。另外，廣告對像我這樣的年輕人也有影響。當每一面牆都在喊「買這個、買那個」，我們很難不覺得，快樂就是擁有更多東西。我倒希望各個城市能訂出一些限制，例如一棟大樓只能有一幅大型廣告、晚上十點以後不能亮燈。這樣一來，公司的廣告還是能讓顧客看到，而我們其他人也還是看得到天空。"
      }
     },
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要的是兩件事：第一段描述兩張圖片並說明差異，第二段說明看法與理由。第一段的細節都是圖片裡看得到的東西：左圖的玻璃窗、兩棵樹、人行道上只有兩三個人；右圖頂樓的手機廣告螢幕、兩側垂下來的新建案與遊戲廣告、運動鞋與漢堡的廣告、聚集在樓下的人群，最後用 what was once a place to work has become a place to sell things，把差異總結成一句話。第二段先表明立場，也就是幾則廣告無妨、整棟蓋滿就太過頭，再用兩個具體的例子支持：阿姨的辦公室整天拉著窗簾，以及廣告對年輕人的影響；最後提出一個做得到的辦法（一棟大樓一面螢幕、晚上十點以後不亮燈），不是只說「廣告太多不好」。"
+      "t": "題目要的是兩件事：第一段描述兩張圖片並說明差異，第二段說明看法與理由。第一段的細節都是圖片裡看得到的東西：左圖的玻璃窗、兩棵樹、人行道上只有兩三個人；右圖頂樓的手機廣告、底下新建案、運動鞋、漢堡等一塊塊廣告看板、樓下停下來抬頭看的人群，最後用 what was once a place to work has become a place to sell things，把差異總結成一句話。第二段先表明立場，也就是幾則廣告無妨、整棟蓋滿就太過頭，再用兩個具體的例子支持：阿姨的辦公室整天拉著窗簾，以及廣告對年輕人的影響；最後提出一個做得到的辦法（一棟大樓一面螢幕、晚上十點以後不亮燈），不是只說「廣告太多不好」。"
      },
      {
       "k": "組織",
@@ -31016,18 +31016,18 @@
      },
      {
       "k": "字彙拼字",
-      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》（111 學年度起適用）：六級有 sneaker（運動鞋），五級有 banner（長條廣告），四級有 district、overlook、reflect 三個，三級有 advertisement（ads 是它的簡寫，詞彙表列在同一個詞條）、flash 兩個，其餘落在一、二級。sneaker 和 banner 是圖片裡看得到的東西，也沒有更簡單、更貼切的字可以代替，所以照樣使用。"
+      "t": "全篇實詞逐字對過大考中心《高中英文參考詞彙表》（111 學年度起適用）：六級有 sneaker（運動鞋），四級有 district、overlook、reflect 三個，三級有 advertisement（ads 是它的簡寫，詞彙表列在同一個詞條）一個，其餘落在一、二級。sneaker 是圖片裡看得到的東西，也沒有更簡單、更貼切的字可以代替，所以照樣使用。"
      }
     ]
    },
    "basic": {
     "essay": {
-     "words": 178,
-     "p1": "The two pictures show the same building, but it looks very different. In the first picture, the building is clean and quiet. We can see its windows and two green trees, and only two people are walking on the street. In the second picture, big ads cover the whole building. There is a big screen with a phone ad at the top, and many other ads for new apartments, shoes, food, and travel under it. We cannot see any windows now. Many people are also standing in front of the building.",
-     "p2": "Putting too many ads on a building is not a good idea. Ads help companies sell things, and the owner of the building can make money. However, the bright screen is a problem for the people nearby. My aunt works across the street from a building like this, and she has to keep her curtains closed all day. Also, ads everywhere make us want to buy more and more things. I think cities should make a rule that allows only one or two ads on each building.",
+     "words": 179,
+     "p1": "The two pictures show the same building, but it looks very different. In the first picture, the building is clean and quiet. We can see its windows and two green trees, and only two people are walking on the street. In the second picture, big ads cover the whole building. There is a big phone ad at the top, and many other ads for new apartments, shoes, food, and travel under it. We cannot see any windows on the upper floors now. Several people are also standing in front of the building.",
+     "p2": "Putting too many ads on a building is not a good idea. Ads help companies sell things, and the owner of the building can make money. However, the bright ads are a problem for the people nearby. My aunt works across the street from a building like this, and she has to keep her curtains closed all day. Also, ads everywhere make us want to buy more and more things. I think cities should make a rule that allows only one or two ads on each building.",
      "zh": {
-      "p1": "這兩張圖片是同一棟大樓，看起來卻很不一樣。第一張圖裡，大樓乾淨又安靜，我們看得到窗戶和兩棵綠樹，街上也只有兩個人在走路。到了第二張圖，大型廣告蓋滿了整棟大樓：頂樓有一面大螢幕在播手機廣告，下面還有許多新建案、鞋子、食物和旅遊的廣告，現在連一扇窗戶都看不到，大樓前面也站了很多人。",
-      "p2": "在大樓上放太多廣告不是個好主意。廣告可以幫公司賣東西，屋主也能賺到錢。可是，那麼亮的螢幕對附近的人是個困擾。我阿姨在一棟這樣的大樓對面上班，她整天都得把窗簾拉上。另外，到處都是廣告，讓我們想買愈來愈多東西。我認為城市應該訂一個規定，讓每棟大樓只能放一、兩則廣告。"
+      "p1": "這兩張圖片是同一棟大樓，看起來卻很不一樣。第一張圖裡，大樓乾淨又安靜，我們看得到窗戶和兩棵綠樹，街上也只有兩個人在走路。到了第二張圖，大型廣告蓋滿了整棟大樓：頂樓有一幅大大的手機廣告，下面還有許多新建案、鞋子、食物和旅遊的廣告，現在連一扇窗戶都看不到，大樓前面也站了很多人。",
+      "p2": "在大樓上放太多廣告不是個好主意。廣告可以幫公司賣東西，屋主也能賺到錢。可是，那麼亮的廣告對附近的人是個困擾。我阿姨在一棟這樣的大樓對面上班，她整天都得把窗簾拉上。另外，到處都是廣告，讓我們想買愈來愈多東西。我認為城市應該訂一個規定，讓每棟大樓只能放一、兩則廣告。"
      }
     },
     "levels": "用字：三級只有 ad（廣告，詞彙表的詞條是 advertise(ment)/ad）一個，沒有四級以上的字。",
@@ -31040,15 +31040,15 @@
      },
      {
       "t": "用 not a single 把「一扇窗也沒有」寫得更有力",
-      "b": "We cannot see any windows now.",
-      "m": "Not a single window can be seen anymore.",
-      "why": "[We cannot see any windows now] 是一般的否定句，主詞是 we。範文把 [not a single window] 當主詞放在句首，後面接被動 [can be seen]，意思是「連一扇窗都看不到」，語氣比 any windows 強；主詞也不必寫出 we，焦點就落在窗戶不見了這件事上。anymore 是「再也、不再」，承接前面 the same walls have almost disappeared 和廣告填滿牆面的描述，所以意思是連貫的。"
+      "b": "We cannot see any windows on the upper floors now.",
+      "m": "Not a single window can be seen above the ground floor anymore.",
+      "why": "[We cannot see any windows on the upper floors now] 是一般的否定句，主詞是 we。範文把 [not a single window] 當主詞放在句首，後面接被動 [can be seen]，意思是「連一扇窗都看不到」，語氣比 any windows 強；主詞也不必寫出 we，焦點就落在窗戶不見了這件事上。anymore 是「再也、不再」，承接前面 the same walls have almost disappeared 和廣告填滿牆面的描述，所以意思是連貫的。"
      },
      {
       "t": "用 instead of 對照前後，再用 as if 加一個比喻",
-      "b": "Many people are also standing in front of the building.",
-      "m": "Instead of a few people walking by, a crowd has gathered at the foot of the building, as if the building itself were a shop.",
-      "why": "基礎版只說樓前有很多人。範文用 [Instead of A, B] 的句型把左圖和右圖對照起來：[instead of a few people walking by] 是左圖，[a crowd has gathered at the foot of the building] 是右圖，讀的人不用回頭看圖，就知道多了什麼、少了什麼。後面的 [as if + 子句] 是「彷彿……」，說的是與事實相反的比喻（大樓當然不是商店），所以子句裡的 be 動詞用 were，不用 was。現在完成式 has gathered 表示人群聚起來以後，現在還在那裡。"
+      "b": "Several people are also standing in front of the building.",
+      "m": "Instead of a few people walking by, a small crowd has stopped at the foot of the building to look up, as if the building itself were a shop.",
+      "why": "基礎版只說樓前站了幾個人。範文用 [Instead of A, B] 的句型把左圖和右圖對照起來：[instead of a few people walking by] 是左圖，[a small crowd has stopped at the foot of the building to look up] 是右圖，讀的人不用回頭看圖，就知道多了什麼、少了什麼。後面的 [as if + 子句] 是「彷彿……」，說的是與事實相反的比喻（大樓當然不是商店），所以子句裡的 be 動詞用 were，不用 was。現在完成式 has stopped 表示人群停下來以後，現在還在那裡。"
      },
      {
       "t": "先退一步肯定，再轉到自己的立場",
@@ -31059,7 +31059,7 @@
      {
       "t": "用 would rather 提出做法，再用 That way 說明好處",
       "b": "I think cities should make a rule that allows only one or two ads on each building.",
-      "m": "I would rather see cities set limits, such as one screen per building and no lights after ten o’clock.",
+      "m": "I would rather see cities set limits, such as one big ad per building and no lights after ten o’clock.",
       "why": "基礎版 [I think cities should make a rule that allows only …] 是常見的建議句型。範文改用 [would rather + 原形動詞]，後面的 [see cities set limits] 是 [see + 受詞 + 原形動詞]，意思是「我倒希望看到城市訂出限制」，語氣比 should 委婉，也比較像是自己的主張。such as 後面並列兩項具體的限制，比基礎版的 only one or two ads 更清楚。範文的下一句 [That way, companies can still reach their customers, and the rest of us can still see the sky] 用 That way 接上這樣做的好處，把建議和結果連在一起。"
      }
     ],
@@ -31442,19 +31442,19 @@
       {
        "label": "基礎版範文",
        "note": "本頁範文，摘錄",
-       "p1": "The two pictures show the same building, but it looks very different. … In the second picture, big ads cover the whole building. … We cannot see any windows now.",
-       "p2": "Putting too many ads on a building is not a good idea. … However, the bright screen is a problem for the people nearby. My aunt works across the street from a building like this, and she has to keep her curtains closed all day."
+       "p1": "The two pictures show the same building, but it looks very different. … In the second picture, big ads cover the whole building. … We cannot see any windows on the upper floors now.",
+       "p2": "Putting too many ads on a building is not a good idea. … However, the bright ads are a problem for the people nearby. My aunt works across the street from a building like this, and she has to keep her curtains closed all day."
       },
       {
        "label": "進階版範文",
        "note": "本頁範文，摘錄",
-       "p1": "The two pictures show one office building at two very different times. … Not a single window can be seen anymore. … In short, what was once a place to work has become a place to sell things.",
-       "p2": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far. … I would rather see cities set limits, such as one screen per building and no lights after ten o’clock."
+       "p1": "The two pictures show one office building at two very different times. … Not a single window can be seen above the ground floor anymore. … In short, what was once a place to work has become a place to sell things.",
+       "p2": "Personally, I think a few advertisements on a building are fine, but covering a whole building with them goes too far. … I would rather see cities set limits, such as one big ad per building and no lights after ten o’clock."
       }
      ],
      "after": [
       "**第一段：**「只寫 what」只列出兩張圖各有什麼；「加上銜接詞」用 whereas 把兩張圖放在同一句對照，再用 so 接上結果。基礎版再用 but 先點出兩張圖是同一棟大樓、看起來卻很不一樣；進階版最後用 what was once … has become … 作為這一段的結尾，把這個變化說清楚。",
-      "**第二段：**「只寫 what」只有好惡；「加上銜接詞」用 because 補上理由。基礎版和進階版再用阿姨這個具體的例子讓理由更具體；進階版還先承認廣告對公司的好處，最後提出一棟只放一面螢幕、晚上十點後熄燈這樣具體的做法。"
+      "**第二段：**「只寫 what」只有好惡；「加上銜接詞」用 because 補上理由。基礎版和進階版再用阿姨這個具體的例子讓理由更具體；進階版還先承認廣告對公司的好處，最後提出一棟只放一幅大型廣告、晚上十點後熄燈這樣具體的做法。"
      ]
     }
    }
@@ -32388,19 +32388,19 @@
    "source": "ChatGPT 繪製，圖中人物全為虛構",
    "model": {
     "essay": {
-     "words": 264,
-     "p1": "The two pictures show how differently one student starts the day. In the first picture, it is half past six, and the girl and her mother are at the table at home, enjoying a warm bowl of soup, a fried egg, an apple and a glass of milk. Sunlight is coming through the window, and both of them look relaxed. In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
-     "p2": "I believe the contrast is a reminder that a good breakfast depends not on how busy we are but on how well we plan. A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy. In contrast, a hurried breakfast of sugar and white bread may fill the stomach for a while, but it rarely lasts until noon. If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home. On busy days, I would at least prepare a simple breakfast the night before, such as boiled eggs or a banana. Having breakfast may seem like a small habit, yet it can make the whole day go much more smoothly.",
+     "words": 262,
+     "p1": "The two pictures show how differently one student starts the day. In the first picture, it is half past six, and the girl and her mother are at the table at home, enjoying a warm bowl of soup, a fried egg, an apple and a glass of milk. Sunlight is coming through the window, and both of them look relaxed. In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. With only a triangular rice ball and a bottled drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+     "p2": "I believe the contrast is a reminder that a good breakfast depends not on how busy we are but on how well we plan. A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy. In contrast, a hurried breakfast from a convenience store may fill the stomach for a while, but it rarely lasts until noon. If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home. On busy days, I would at least prepare a simple breakfast the night before, such as boiled eggs or a banana. Having breakfast may seem like a small habit, yet it can make the whole day go much more smoothly.",
      "caveat": "這是一種寫法，不是標準答案。題目要求「至少 120 個單詞」（字數規定比照學測歷屆題目），那是下限而不是目標；本篇寫了 264 個單詞。字數只寫到下限的話，很難看出寫得好的地方，所以大考佳作和這裡的範文，字數通常都超過下限。\n這一題是本題庫自編的模擬題，不是大考題目，所以沒有官方的評分說明和佳作可以對照；範文是照大考中心的四個評分項目（內容、組織、文法句構、字彙拼字）寫的，每一項怎麼對應，見下面的說明。\n圖中的時間、食物是範文照圖寫的；「她怕上學遲到」是從時鐘和表情推測的，用 seems to、probably 這類字表示是推測。你可以有不同的推測，只要和圖片合理地連得起來。",
      "zh": {
-      "p1": "這兩張圖呈現同一位學生在不同日子的早晨有多麼不同。第一張圖裡是六點半，女孩和媽媽在家裡的餐桌前，享用一碗熱湯、一顆煎蛋、一顆蘋果和一杯牛奶。陽光從窗戶照進來，兩個人看起來都很輕鬆。然而在第二張圖裡，已經是七點二十分，她站在便利商店裡，臉上帶著擔心的神情。她手上只拿著一個三角形的飯糰和一瓶甜飲料，似乎很匆忙，大概是怕上學遲到。",
-      "p2": "我認為這個對比提醒我們，好的早餐靠的不是我們有多忙，而是我們計畫得好不好。像第一張圖那樣的一餐，能給身體所需要的能量和營養，讓學生在早上的課堂上專心，而不是又餓又睏。相對地，匆忙之下吃的糖分和白吐司，也許能暫時填飽肚子，卻很難讓人一直飽到中午。如果我是這位學生，我會早半小時睡覺，鬧鐘也設早一點，這樣就有時間在家吃早餐。在忙碌的日子裡，我至少會在前一天晚上準備簡單的早餐，例如水煮蛋或香蕉。吃早餐看起來只是個小習慣，卻能讓一整天過得順利許多。"
+      "p1": "這兩張圖呈現同一位學生在不同日子的早晨有多麼不同。第一張圖裡是六點半，女孩和媽媽在家裡的餐桌前，享用一碗熱湯、一顆煎蛋、一顆蘋果和一杯牛奶。陽光從窗戶照進來，兩個人看起來都很輕鬆。然而在第二張圖裡，已經是七點二十分，她站在便利商店裡，臉上帶著擔心的神情。她手上只拿著一個三角形的飯糰和一瓶飲料，似乎很匆忙，大概是怕上學遲到。",
+      "p2": "我認為這個對比提醒我們，好的早餐靠的不是我們有多忙，而是我們計畫得好不好。像第一張圖那樣的一餐，能給身體所需要的能量和營養，讓學生在早上的課堂上專心，而不是又餓又睏。相對地，匆忙之下在便利商店買的早餐，也許能暫時填飽肚子，卻很難讓人一直飽到中午。如果我是這位學生，我會早半小時睡覺，鬧鐘也設早一點，這樣就有時間在家吃早餐。在忙碌的日子裡，我至少會在前一天晚上準備簡單的早餐，例如水煮蛋或香蕉。吃早餐看起來只是個小習慣，卻能讓一整天過得順利許多。"
      }
     },
     "mapping": [
      {
       "k": "內容",
-      "t": "題目要的是兩件事：第一段描述兩張圖片的差異，第二段說明早餐為什麼重要並提出建議。第一段把兩張圖的差異都寫到了：時間（六點半和七點二十分）、地點（家裡的餐桌和便利商店）、食物（湯、煎蛋、蘋果、牛奶，對照飯糰和甜飲料）、人物的神情（輕鬆，對照擔心）。第二段先說早餐的好處，再對照匆忙的早餐，最後給出兩個具體做法：早睡早起、前一晚先準備。建議和第一張圖的情境直接相關，不是另外附加的一句話。"
+      "t": "題目要的是兩件事：第一段描述兩張圖片的差異，第二段說明早餐為什麼重要並提出建議。第一段把兩張圖的差異都寫到了：時間（六點半和七點二十分）、地點（家裡的餐桌和便利商店）、食物（湯、煎蛋、蘋果、牛奶，對照飯糰和瓶裝飲料）、人物的神情（輕鬆，對照擔心）。第二段先說早餐的好處，再對照匆忙的早餐，最後給出兩個具體做法：早睡早起、前一晚先準備。建議和第一張圖的情境直接相關，不是另外附加的一句話。"
      },
      {
       "k": "組織",
@@ -32408,7 +32408,7 @@
      },
      {
       "k": "文法句構",
-      "t": "[enjoying a warm bowl of soup, …] 是現在分詞片語，補充她在餐桌前做什麼；[With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry] 是 with + 受詞 + 介系詞片語，描述她手上拿著什麼；[a good breakfast depends not on how busy we are but on how well we plan] 用 not ... but ... 對比；[so students can concentrate … instead of feeling hungry or sleepy] 用 instead of 接動名詞；[If I were this student, I would …] 是與現在事實相反的假設語氣。這些句型和基礎版的對照，見基礎版範文的升級對照。"
+      "t": "[enjoying a warm bowl of soup, …] 是現在分詞片語，補充她在餐桌前做什麼；[With only a triangular rice ball and a bottled drink in her hands, she seems to be in a hurry] 是 with + 受詞 + 介系詞片語，描述她手上拿著什麼；[a good breakfast depends not on how busy we are but on how well we plan] 用 not ... but ... 對比；[so students can concentrate … instead of feeling hungry or sleepy] 用 instead of 接動名詞；[If I were this student, I would …] 是與現在事實相反的假設語氣。這些句型和基礎版的對照，見基礎版範文的升級對照。"
      },
      {
       "k": "字彙拼字",
@@ -32418,12 +32418,12 @@
    },
    "basic": {
     "essay": {
-     "words": 151,
-     "p1": "The two pictures show a student’s breakfast on two different days. In the first picture, it is six thirty. The girl eats breakfast at home with her mother. She has soup, an egg, an apple and milk. They look happy. In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a rice ball and a sweet drink. She is in a hurry because she does not want to be late for school.",
-     "p2": "I think breakfast is very important. A good breakfast gives us energy, so we can study well in the morning. A quick and sweet breakfast is not as good. My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before. A good breakfast is a small thing, but it makes the whole day better.",
+     "words": 153,
+     "p1": "The two pictures show a student’s breakfast on two different days. In the first picture, it is six thirty. The girl eats breakfast at home with her mother. She has soup, an egg, an apple and milk. They look happy. In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a rice ball and a bottled drink. She is in a hurry because she does not want to be late for school.",
+     "p2": "I think breakfast is very important. A good breakfast gives us energy, so we can study well in the morning. A quick breakfast from a store is not as good. My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before. A good breakfast is a small thing, but it makes the whole day better.",
      "zh": {
-      "p1": "這兩張圖呈現一位學生在兩天裡的早餐。第一張圖是六點半，女孩在家和媽媽一起吃早餐，有湯、蛋、蘋果和牛奶，她們看起來很開心。第二張圖是七點二十分，女孩在便利商店裡，看起來很擔心，她只有一個飯糰和一瓶甜飲料。她很趕時間，因為她不想上學遲到。",
-      "p2": "我覺得早餐很重要。好的早餐能提供我們能量，所以我們早上能把書讀好。又快又甜的早餐就沒有那麼好。我的建議是早一點起床，在家吃早餐。如果你很忙，可以在前一天晚上準備蛋或水果。好的早餐是件小事，卻讓一整天變得更好。"
+      "p1": "這兩張圖呈現一位學生在兩天裡的早餐。第一張圖是六點半，女孩在家和媽媽一起吃早餐，有湯、蛋、蘋果和牛奶，她們看起來很開心。第二張圖是七點二十分，女孩在便利商店裡，看起來很擔心，她只有一個飯糰和一瓶飲料。她很趕時間，因為她不想上學遲到。",
+      "p2": "我覺得早餐很重要。好的早餐能提供我們能量，所以我們早上能把書讀好。匆匆忙忙買的早餐就沒有那麼好。我的建議是早一點起床，在家吃早餐。如果你很忙，可以在前一天晚上準備蛋或水果。好的早餐是件小事，卻讓一整天變得更好。"
      }
     },
     "levels": "用字：四級只有 convenience（convenience store）一個，其餘都在一、二級，沒有五級以上的字。",
@@ -32442,9 +32442,9 @@
      },
      {
       "t": "用 with + 受詞 + 介系詞片語寫出她手上拿的東西",
-      "b": "She has only a rice ball and a sweet drink. She is in a hurry because she does not want to be late for school.",
-      "m": "With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
-      "why": "基礎版用 [She has only a rice ball and a sweet drink] 單獨一句交代食物。範文改成句首的 [With only … in her hands]，把食物變成她匆忙的背景。後面用 [seems to be] 和 [probably because] 表示這是從圖片推測出來的，不是圖片直接告訴我們的；[afraid of being late] 的 of 後面接動名詞。"
+      "b": "She has only a rice ball and a bottled drink. She is in a hurry because she does not want to be late for school.",
+      "m": "With only a triangular rice ball and a bottled drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+      "why": "基礎版用 [She has only a rice ball and a bottled drink] 單獨一句交代食物。範文改成句首的 [With only … in her hands]，把食物變成她匆忙的背景。後面用 [seems to be] 和 [probably because] 表示這是從圖片推測出來的，不是圖片直接告訴我們的；[afraid of being late] 的 of 後面接動名詞。"
      },
      {
       "t": "用 not ... but ... 寫出看法",
@@ -32747,13 +32747,13 @@
       {
        "label": "基礎版範文",
        "note": "本頁範文，摘錄",
-       "p1": "In the first picture, it is six thirty. … In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a rice ball and a sweet drink. She is in a hurry because she does not want to be late for school.",
+       "p1": "In the first picture, it is six thirty. … In the second picture, it is seven twenty. The girl is in a convenience store, and she looks worried. She has only a rice ball and a bottled drink. She is in a hurry because she does not want to be late for school.",
        "p2": "A good breakfast gives us energy, so we can study well in the morning. … My advice is to get up earlier and eat at home. If you are very busy, you can prepare eggs or fruit the night before."
       },
       {
        "label": "進階版範文",
        "note": "本頁範文，摘錄",
-       "p1": "In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. … With only a triangular rice ball and a bottle of sweet drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
+       "p1": "In the second picture, however, it is already twenty past seven, and she is standing in a convenience store with a worried look on her face. … With only a triangular rice ball and a bottled drink in her hands, she seems to be in a hurry, probably because she is afraid of being late for school.",
        "p2": "A meal like the first one gives the body the energy and nutrition it needs, so students can concentrate during their morning classes instead of feeling hungry or sleepy. … If I were this student, I would go to bed half an hour earlier and set my alarm a little sooner, so that I would have time to eat at home."
       }
      ],
