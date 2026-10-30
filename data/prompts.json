@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-27",
+ "updated": "2026-10-30",
  "count": 67,
  "items": [
   {
@@ -21016,6 +21016,26 @@
       "**第一段：**「只寫 what」是四個 No 開頭的短句；「加上銜接詞」用 If、since、so 把假設的條件、原因和結果接起來，全部用 would 和 could，時態一致。基礎版照一天的時間順序寫（早上、學校、日落以後），進階版再加上具體的物品（the microwave、projectors、the refrigerator），最後用 In short 收束。",
       "**第二段：**「只寫 what」有立場，但三句各自獨立，沒有說明為什麼；「加上銜接詞」用 because、For example、so 把立場、例子和結果串起來。基礎版用醫院裡的機器當例子，並讓步一次（Some people might say ...）；進階版的例子更多（醫院、藥品與食物的冷藏、高溫），讓步之後再回到自己的立場。這是本頁範文的寫法，不是官方要求。"
      ]
+    }
+   },
+   "listening": {
+    "note": "這是英式口語討論，拿來練習聽力、蒐集想法很好，但口語的用字與語氣和書面作文不同，句子不要照抄。內容屬於 BBC，本題庫只連結、不轉錄。連結若失效，到 BBC Learning English 的 6 Minute English 節目頁，或用節目名加上該集標題搜尋，通常都找得到。官方頁上除了逐字稿和字彙表，還有影片版、可以下載列印的練習單與音檔。BBC 官方把這個節目標為 Intermediate level。同一個頁面上還有 Real Easy English，是官方為了覺得這個節目太難的人準備的，如果聽起來吃力，可以先從 Real Easy English 開始。",
+    "items": [
+     {
+      "title": "Is aircon the answer to a heating world?",
+      "series": "BBC 6 Minute English",
+      "date": "2026-10-29",
+      "length": "6 分 20 秒",
+      "blurb": "Georgie 與 Neil 談熱浪與冷氣。今年夏天歐洲有超過三萬人死於高溫，氣候學者 Radhika Khosla 說冷氣能救命，沒有它，世界上很多地方住不了人。但冷氣用電量大，電網可能負荷不了而停電，排放增加又讓天氣更熱，變成惡性循環。她建議先用遮陽等不耗能的方式降溫，必要的冷氣再改用永續能源。這一題第一段寫沒有電的世界，可以借停電與高溫的情境；第二段談好壞，可以借「電能救命，但用電量與排放是代價」。單字表有 life-saving、inhabit、the grid、vicious cycle、passive cooling、shading。",
+      "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2026/ep-261029",
+      "urlLabel": "BBC 官方頁（含逐字稿、字彙表、練習題）",
+      "alt": "https://open.spotify.com/episode/4FaN3OJ7mCQq8rYYaxPj5L",
+      "altLabel": "Spotify",
+      "checked": "2026 年 10 月"
+     }
+    ],
+    "more": {
+     "cat": "E"
     }
    }
   },
