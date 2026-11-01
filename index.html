@@ -559,7 +559,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 
     <h3>各種寫作任務都要練習</h3>
     <p>109 到 115 學測連續七年出圖片題，很容易讓人以為學測就是考看圖寫作。但 105、107、108 三年都是純文字命題，108 年考「臺灣最讓你引以為榮的兩個面向」，一張圖也沒有。近年的連續只是近年的事。</p>
-    <p>主題也一樣抓不住：健康與身心兩次間隔都是 12 年，文化與認同從 92 年到 108 年空了 16 年，環境與災害沉寂 11 年、12 年後，卻在 110、111 連續兩屆出現。</p>
+    <p>主題也一樣抓不住：歷史與文化在學測只出現過 84、85、108 年，85 年到 108 年隔了 23 年；環境與災害沉寂 11 年、12 年後，卻在 110、111 連續兩屆出現。</p>
     <p>大考中心在 107 學測英文考科評分標準說明裡也勉勵考生，平日就要累積寫作經驗，儘量練習各種寫作任務。</p>
     <p class="ntLink"><a href="https://www.ceec.edu.tw/xcepaper/cont?xsmsid=0J066588036013658199&amp;qunit=0J066609506087505232&amp;sid=0J133630011608125564" target="_blank" rel="noopener">107 學年度學科能力測驗英文考科評分標準說明（選才電子報第 284 期，107-04-09）↗</a></p>
 
@@ -1425,7 +1425,9 @@ function readHash(){
   const p=new URLSearchParams(h);
   S.years=(p.get('y')||'').split(',').filter(Boolean).map(Number);
   S.genres=(p.get('g')||'').split(',').filter(Boolean);
-  S.themes=(p.get('t')||'').split(',').filter(Boolean);
+  // 舊網址用的主題名稱對照到新名稱，已存的連結才不會失效
+  const OLD_THEME={'家庭與生活':'家庭與日常生活','個人成長與自我探索':'自我成長與心理','人際關係與友誼':'人際關係','社會現象與公共議題':'社會議題','健康與身心':'健康、醫療與運動','健康與生活':'健康、醫療與運動','文化與認同':'歷史與文化','生涯與職業':'商業、經濟與職場'};
+  S.themes=(p.get('t')||'').split(',').filter(Boolean).map(t=>OLD_THEME[t]||t);
   S.pic=p.get('pic')==='1';
   S.official=p.get('off')==='1';
   S.wb=p.get('wb')==='1';
@@ -1696,7 +1698,9 @@ fetch('data/prompts.json')
     const tally=k=>{const m=new Map();DATA.forEach(d=>d[k].forEach(v=>m.set(v,(m.get(v)||0)+1)));
       return [...m.entries()].sort((a,b)=>b[1]-a[1])};
     buildChips('#fGenre','genres',tally('genre'));
-    buildChips('#fTheme','themes',tally('theme'));
+    const THEME_ORDER=['家庭與日常生活','校園與學習','人際關係','自我成長與心理','健康、醫療與運動','社會議題','商業、經濟與職場','科技與媒體','科學與自然','環境與災害','歷史與文化','文學與藝術','飲食與旅遊'];
+    const themeTally=tally('theme').sort((a,b)=>THEME_ORDER.indexOf(a[0])-THEME_ORDER.indexOf(b[0]));
+    buildChips('#fTheme','themes',themeTally);
     readHash();
     buildStrip();
     buildRubric();
