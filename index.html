@@ -515,6 +515,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 </style>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/speaker.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/kk.js"></script>
+<script src="https://staresto-create.github.io/JCEE-vocab-questions/vocab-export.js"></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/resume.js" defer></script>
 <script src="https://staresto-create.github.io/JCEE-vocab-questions/start.js" defer></script>
 </head>
@@ -904,7 +905,7 @@ function card(it){
     const groups=banks.reduce((a,b)=>a.concat(b.groups),[]);
     const notes=banks.map(b=>b.note).filter(Boolean);   // 只有頂層通則；分組專屬說明掛在 group.note
 
-    const b=el('div','wbBox');
+    const b=el('div','wbBox');b.setAttribute('data-ve-root','');
     const hd=el('div','wbHd');
     // 標題跟著實際掛載走：掛了主題級字詞搭配就寫出是哪一個主題，只有題目級就說是這一題的。
     // 硬寫一個主題名會在沒有主題的卡片上騙人——六張卡裡只有一張真的有主題。
@@ -924,6 +925,7 @@ function card(it){
     hd.appendChild(btn);b.appendChild(hd);
     if(!nSrc)b.appendChild(noSrc);
     notes.forEach(n=>b.appendChild(el('p','wbNote',n)));
+    if(window.VE){const vb=document.createElement('div');vb.innerHTML=VE.bar({scope:'這一區的全部單字、片語與字詞搭配',file:'essay_vocab'});b.appendChild(vb.firstChild);}
 
     groups.forEach(g=>{
       const gd=el('div','wbGrp');
@@ -931,7 +933,7 @@ function card(it){
       if(g.note)gd.appendChild(el('p','wbNote',g.note));   // 說明住在它說明的那一組裡
       const ul=document.createElement('ul');ul.className='wbList';
       (g.entries||[]).forEach(e=>{
-        const li=document.createElement('li');
+        const li=document.createElement('li');li.setAttribute('data-ve-w',e.w);li.setAttribute('data-ve-d',e.zh||'');
         li.appendChild(el('span','wbW',e.w));
         // 音標：只有單字附（讀全站表 kk_data.json）；片語與多字條目只放喇叭
         if(window.KK && !/\s/.test(String(e.w).trim())){ const k=KK.el(e.w); if(k) li.appendChild(k); }
