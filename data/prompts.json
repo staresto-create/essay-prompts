@@ -1,6 +1,6 @@
 {
  "version": "1.0",
- "updated": "2026-10-30",
+ "updated": "2026-11-11",
  "count": 67,
  "items": [
   {
@@ -100,7 +100,7 @@
       "entries": [
        {
         "w": "push a stroller",
-        "zh": "推著嬰兒推車",
+        "zh": "推著嬰兒推車（寵物推車也用 stroller）",
         "own": true
        },
        {
@@ -110,7 +110,7 @@
        },
        {
         "w": "an increasing tendency for sb to V",
-        "zh": "越來越多人傾向……",
+        "zh": "（某人做某事）的趨勢越來越明顯",
         "src": "104年學測 Q5、98年學測 Q5",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/gsat/#q-V0350",
@@ -138,7 +138,7 @@
        },
        {
         "w": "affection",
-        "zh": "關愛",
+        "zh": "關愛、疼愛",
         "src": "106年指考 Q2、98年指考 Q28、84年聯考 Q5",
         "srcUrl": [
          "https://staresto-create.github.io/JCEE-vocab-questions/zhikao/#q-ZK0052",
@@ -200,7 +200,7 @@
        },
        {
         "w": "the birth rate keeps falling",
-        "zh": "出生率一年比一年低",
+        "zh": "出生率持續下降",
         "own": true
        },
        {

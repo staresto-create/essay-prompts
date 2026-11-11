@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="color-scheme" content="light">
+<title>作文檢查表（列印版）｜英文作文題目</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#e9e6df;font-family:"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;color:#111}
+.bar{position:sticky;top:0;background:#fff;border-bottom:1px solid #bbb;padding:8px 12px 10px;font-size:16px;line-height:1.6;z-index:5}
+.bar a{color:#2F5D50}
+.row{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-top:6px}
+.bar b{margin-right:4px}
+.bar button,.bar select{font:inherit;font-size:16px;padding:6px 16px;border:1px solid #333;background:#fff;color:#111;border-radius:22px;min-height:44px}
+.bar select{border-radius:8px;max-width:100%}
+.bar button[aria-pressed=true]{background:#222;color:#fff}
+.bar button.go{background:#2F5D50;border-color:#2F5D50;color:#fff;font-weight:700}
+.bar button:disabled{opacity:.45}
+.bar button:focus-visible,.bar select:focus-visible,.bar a:focus-visible{outline:3px solid #2F5D50;outline-offset:2px}
+.note{font-size:14px;color:#444;margin:4px 0 0}
+#msg{font-size:15px;color:#7A3F0A;margin:4px 0 0}
+#stage{overflow-x:hidden}#scaler{transform-origin:top left}
+.sheet{width:210mm;height:297mm;overflow:hidden;background:#fff;margin:12px auto;padding:10mm 14mm 8mm;box-shadow:0 1px 6px #0003}
+.meta{font-size:10pt;color:#333;border-bottom:1px solid #000;padding-bottom:1.5mm;margin-bottom:2mm}
+.prompt{font-size:10.5pt;line-height:1.55;margin:1.5mm 0}
+figure{margin:1mm 0;text-align:center}figure img{max-width:100%;height:38mm;object-fit:contain}
+h2{font-size:10.5pt;margin:4mm 0 1mm}h2 small{font-weight:400;font-size:9.5pt;color:#333}
+table{border-collapse:collapse;width:100%;font-size:10pt}
+td,th{border:1px solid #000;padding:0 1.5mm;height:6.2mm;text-align:left;line-height:1.2}
+th{font-weight:700}
+td.ck,td.yn,th.yn,th.ck{width:14mm;text-align:center}
+.wl{height:11.4mm;border-bottom:1px solid #000}.lines{margin-top:1mm}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:4mm;align-items:start}.two td{height:8.4mm}.two table{table-layout:fixed}.two th.yn,.two td.yn{width:11mm}
+#wtab{table-layout:fixed}#wtab th:nth-child(1){width:50%}#wtab th.ck{width:14mm}
+.foot{font-size:8pt;color:#555;margin-top:2mm}
+@media (max-width:600px){.bar{position:static}}
+@media print{
+  body{background:#fff}.bar{display:none}
+  #scaler{transform:none!important;width:auto!important;margin:0!important}
+  #stage{height:auto!important;overflow:visible!important}
+  .sheet{margin:0;box-shadow:none;break-after:page}.sheet:last-child{break-after:auto}
+  @page{size:A4;margin:0}
+}
+</style>
+</head>
+<body>
+<div class="bar">
+<a href="../">← 回英文作文題目</a>
+<div class="row"><label for="pick"><b>題目：</b></label><select id="pick"></select></div>
+<div class="row"><b>字詞表：</b><button id="b1" type="button" aria-pressed="true">帶入本題庫的字詞</button><button id="b2" type="button" aria-pressed="false">全部留白</button><button id="go" class="go" type="button" disabled><span aria-hidden="true">🖨 </span>列印</button></div>
+<p class="note">一張 A4 紙，正反兩面。列印設定：A4、縮放 100%、雙面列印（長邊翻頁）。字詞表只帶入英文和中文，不含練習句和參考答案。</p>
+<p id="msg" role="status"></p>
+</div>
+<div id="stage"><div id="scaler"><div id="sheets"></div></div></div>
+<script>
+(function(){
+  var $=function(id){return document.getElementById(id)};
+  var ITEMS=Object.create(null),ORDER=[],CUR=null,MODE=true;
+  var NUM={'一':1,'二':2,'兩':2,'三':3,'四':4};
+  function esc(t){return String(t==null?'':t).replace(/[&<>"']/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]})}
+  function reqText(it){
+    var p=it.prompt.replace(/一百二十/g,'120'),m;
+    if((m=p.match(/(\d+)\s*(?:至|到|-|－|~)\s*(\d+)\s*個?(?:單詞|字)/)))return '字數在 '+m[1]+' 至 '+m[2]+' 個單詞之間';
+    if((m=p.match(/約\s*(\d+)\s*個?(?:單詞|字)/)))return '字數約 '+m[1]+' 個單詞';
+    if((m=p.match(/至少\s*(\d+)\s*個?(?:單詞|字)/)))return '字數至少 '+m[1]+' 個單詞';
+    if(it.year&&Number(it.year)>=101||it.self)return '字數至少 120 個單詞';
+    return '字數符合題目的要求';
+  }
+  function wordRows(it){
+    var wb=it.wordBank;
+    if((!wb||!wb.groups)&&it.sameAs&&ITEMS[it.sameAs])wb=ITEMS[it.sameAs].wordBank;
+    if(!wb||!wb.groups)return[];
+    var g=null;wb.groups.forEach(function(x){if(!g&&/活用型/.test(x.name))g=x});
+    if(!g)g=wb.groups[0];if(!g)return[];
+    var es=g.entries.filter(function(e){return e.own}).concat(g.entries.filter(function(e){return !e.own}));
+    return es.slice(0,10).map(function(e){
+      var zh=e.zh||'';
+      var i=zh.indexOf('（');
+      if(zh.length>14&&i>1)zh=zh.slice(0,i);
+      return [e.w,zh];
+    });
+  }
+  function lines(n){var s='';for(var i=0;i<n;i++)s+='<div class="wl"></div>';return s}
+  function blank(){return '<tr><td></td><td></td><td class="ck"></td></tr>'}
+  function yn(t){return '<tr><td>'+t+'</td><td class="yn"></td><td class="yn"></td></tr>'}
+  function build(){
+    var it=CUR,rows=wordRows(it),use=MODE&&rows.length>0;
+    var tb='';
+    for(var i=0;i<10;i++){
+      if(use&&rows[i])tb+='<tr><td>'+esc(rows[i][0])+'</td><td>'+esc(rows[i][1])+'</td><td class="ck"></td></tr>';
+      else tb+=blank();
+    }
+    var hint=use?'寫的時候盡量用上，用到的在右欄打勾':'先列出 10 個想用的字詞；寫的時候盡量用上，用到的在右欄打勾';
+    var req=reqText(it),pm=it.prompt.match(/分\s*([一二兩三四])\s*段/);
+    if(!pm){var mx=0;(it.prompt.match(/第\s*([一二三四])\s*段/g)||[]).forEach(function(x){var n=NUM[x.replace(/[^一二三四]/g,'')];if(n>mx)mx=n});if(mx>=2)pm=[0,['','','兩','三','四'][mx]];}
+    var parts=[];if(!/符合題目/.test(req))parts.push(req.replace('字數',''));if(pm)parts.push('文分'+pm[1]+'段');
+    var meta='<b>英文作文　'+esc(it.title)+'</b>　班級＿＿＿＿　座號＿＿＿＿　姓名＿＿＿＿＿＿'+(parts.length?'　（'+esc(parts.join('，'))+'）':'');
+    var fig='';
+    if(it.hasImage&&it.imgs.length)it.imgs.forEach(function(f){fig+='<figure><img src="../images/'+esc(f)+'" alt="題目圖片"></figure>'});
+    var p1='<div class="sheet" id="p1"><div class="meta">'+meta+'</div><div class="prompt">'+esc(it.prompt)+'</div>'+fig+
+      '<h2>動筆前：先想字詞 <small>'+hint+'</small></h2><table id="wtab"><tr><th>字／片語／句型</th><th>中文</th><th class="ck">用到了</th></tr><tbody>'+tb+'</tbody></table><div class="lines" id="l1"></div></div>';
+    var r1=[req,'題目規定分幾段，就分幾段','題目要求的每一件事都寫到，並有具體、完整的細節','有開頭、發展、結尾，前後連貫，轉承語用得恰當'];
+    var r2=['每個句子都完整（有主詞，也有動詞）','沒有只用逗號連接兩個句子','拼字都對（than／then 這類容易混的字要留意）','時態用得恰當，單複數正確，主詞和動詞一致','用字精確、得宜','句首大寫、句末有標點','整篇出聲念或默念一遍，沒有念起來不順的地方'];
+    var p2='<div class="sheet" id="p2"><div class="meta">英文作文（續）　班級＿＿＿＿　座號＿＿＿＿　姓名＿＿＿＿＿＿</div><div class="lines" id="l2"></div>'+
+      '<h2>寫完了：兩輪檢查 <small>先做第一輪，改完再做第二輪。勾 N 的項目，直接在作文上修改。</small></h2>'+
+      '<div class="two"><table><tr><th>第一輪：形式、內容、組織</th><th class="yn">Y</th><th class="yn">N</th></tr>'+r1.map(function(t){return yn(esc(t))}).join('')+'</table>'+
+      '<table><tr><th>第二輪：語言</th><th class="yn">Y</th><th class="yn">N</th></tr>'+r2.map(function(t){return yn(esc(t))}).join('')+'</table></div>'+
+      '<div class="foot" id="ft">檢查項目參考大考中心英文作文評分指標與閱卷評分原則整理。英文作文題目・staresto-create.github.io/essay-prompts・免費資源，請勿販售</div></div>';
+    $('sheets').innerHTML=p1+p2;
+    fitLines();
+  }
+  function bottomLimit(sh){var r=sh.getBoundingClientRect();return r.bottom-parseFloat(getComputedStyle(sh).paddingBottom)}
+  function fill(sh,box,last,max){
+    var n=0;box.innerHTML='';
+    while(n<max){
+      box.insertAdjacentHTML('beforeend','<div class="wl"></div>');n++;
+      if(last.getBoundingClientRect().bottom>bottomLimit(sh)-1){box.lastChild.remove();n--;break}
+    }
+    return n;
+  }
+  function fitLines(){
+    var sc=$('scaler');sc.style.transform='none';sc.style.width='794px';
+    var s1=$('p1'),b1=$('l1'),img=s1.querySelector('figure img'),n1=0,hs=[38,32,26,20];
+    for(var i=0;i<hs.length;i++){
+      if(img)img.style.height=hs[i]+'mm';
+      n1=fill(s1,b1,b1,30);
+      if(n1>=9||!img)break;
+    }
+    var s2=$('p2'),n2=fill(s2,$('l2'),$('ft'),30);
+    var warn=(document.documentElement.clientWidth<820?'預覽已縮小，列印出來是 A4 實際大小。':'');
+    if(n1<6)warn+=' 這一題的題目或圖片較長，第一面書寫用的橫線只剩 '+n1+' 條，可以接著寫在第二面。';
+    $('msg').textContent=warn;
+    resize();
+  }
+  function resize(){
+    var sc=$('scaler'),w=document.documentElement.clientWidth-16,k=Math.min(1,w/(794+24));
+    sc.style.transform='scale('+k+')';sc.style.width='794px';sc.style.marginLeft='8px';
+    $('stage').style.height=(sc.offsetHeight*k)+'px';
+  }
+  function mode(m){
+    var has=wordRows(CUR).length>0;
+    MODE=m&&has;
+    $('b1').disabled=!has;
+    $('b1').setAttribute('aria-pressed',MODE);$('b2').setAttribute('aria-pressed',!MODE);
+    build();
+  }
+  function setItem(id){
+    CUR=ITEMS[id];
+    var has=wordRows(CUR).length>0;
+    mode(has);
+    if(!has)$('msg').textContent='這一題沒有提供字詞表，已幫你換成留白，可以自己先列字詞。'+($('msg').textContent||'');
+    document.title='作文檢查表（列印版）｜'+CUR.title;
+  }
+  $('b1').onclick=function(){mode(true)};
+  $('b2').onclick=function(){mode(false)};
+  $('go').onclick=function(){try{window.print()}catch(e){$('msg').textContent='這個瀏覽器無法從這裡列印，請用瀏覽器選單裡的「列印」。'}};
+  window.addEventListener('resize',resize);
+  fetch('../data/prompts.json').then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+    d.items.forEach(function(x){
+      ITEMS[x.id]={id:x.id,title:x.isSelfMade?('本題庫自編 '+String(x.id).replace('SELF','')):(x.year+' '+x.exam),prompt:x.prompt,year:x.year,self:!!x.isSelfMade,hasImage:!!x.hasImage,imgs:(x.images||[]).map(function(i){return i.png||i.webp}),wordBank:x.wordBank,sameAs:x.sameAs};
+      ORDER.push(x.id);
+    });
+    var sel=$('pick');
+    ORDER.forEach(function(k){var o=document.createElement('option');o.value=k;o.textContent=ITEMS[k].title;sel.appendChild(o)});
+    var id=new URLSearchParams(location.search).get('id');
+    var miss=!!id&&!ITEMS[id];
+    if(!id||!ITEMS[id])id=ORDER[0];
+    sel.value=id;sel.onchange=function(){setItem(sel.value)};
+    setItem(id);$('go').disabled=false;
+    if(miss)$('msg').textContent='找不到這一題，已先帶入最新一題，請在上方確認題目。'+$('msg').textContent;
+  }).catch(function(){$('msg').textContent='題目資料沒有載入成功，請重新整理頁面，或回到題目頁再按一次。';$('go').disabled=true;$('b1').disabled=true;$('b2').disabled=true;});
+})();
+</script>
+</body>
+</html>

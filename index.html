@@ -486,9 +486,13 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 .prBtn{margin-left:auto;appearance:none;background:none;border:1px solid currentColor;border-radius:14px;color:var(--ad-vseal-fg);font:inherit;font-size:13px;font-weight:700;padding:3px 12px;cursor:pointer;min-height:32px}
 .prBtn:hover{background:var(--ad-vpaper-bg)}
 .print-lines{display:none}
+.acts{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0 4px}
+.actBtn{display:inline-flex;align-items:center;justify-content:center;flex:1 1 auto;min-height:44px;padding:6px 12px;border:1px solid currentColor;border-radius:22px;color:var(--ad-vseal-fg);font-size:14px;font-weight:700;text-decoration:none;line-height:1.3}
+.actBtn:hover{background:var(--ad-vpaper-bg)}
+.actBtn:focus-visible{outline:3px solid currentColor;outline-offset:2px}
 @media print{
   body{background:#fff !important}
-  .prBtn, .toBar, .fnav, .report-btn, .unitbar, .standfirst, .counts, .corner{display:none !important}
+  .prBtn, .acts, .toBar, .fnav, .report-btn, .unitbar, .standfirst, .counts, .corner{display:none !important}
   header.masthead{border-bottom:1px solid #000 !important;background:none !important}
   body.print-one header.masthead{display:none !important}
   .masthead .wrap{padding-top:4mm !important;padding-bottom:3mm !important}
@@ -527,7 +531,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
     <div class="corner"><span>大學入學考試中心　英文考科</span><span>83–115 學年度</span></div>
     <h1><span class="sub">歷屆試題索引</span>英文作文題目</h1>
     <p class="standfirst">學測與指定科目考試的英文作文題目，83 學年度至今全數收錄，每一題都附範文。另有本題庫自編的模擬題，卡片上標明「本題庫自編」。可依年度、文體、主題篩選，圖片題附原卷圖片。免費使用，不需註冊。</p>
-  <p class="standfirst" style="margin-top:8px"><b>想用紙本練習？</b>按題目卡片上的「列印這一題」，會印出題目和書寫用的橫線，不含範文與提示。</p>
+  <p class="standfirst" style="margin-top:8px"><b>想用紙本練習？</b>按題目卡片上的「列印這一題」，會印出題目和書寫用的橫線，不含範文與提示。卡片上還有「作文檢查表（可列印）」，會印出題目、字詞表、書寫用的橫線和兩輪檢查表。作文寫完後，按「寫完請 AI 批改」，AI 只指出錯誤，由你自己改。</p>
     <p class="counts">歷屆題目共 <b id="cTotal">–</b> 題　｜　圖片題 <b id="cPic">–</b> 題　｜　非正式考題 <b id="cUnof">–</b> 題　｜　本題庫自編 <b id="cSelf">–</b> 題</p>
     <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">第一次使用？</span><a href="../JCEE-vocab-questions/howto.html">怎麼使用這個題庫</a><a href="../JCEE-vocab-questions/find.html">找功能</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-stats">全國成績</a><a href="#u-guide">說明</a><a href="#u-list">題目列表</a><a href="#pic=1" id="uPic">看圖題</a><a href="#p=SELF01" id="uSelf">本題庫自編題</a><a href="#u-teachers">老師的貼文與影片</a><a href="#rubric">評分表</a><a href="#selfcheck">寫完逐項檢查</a><a href="#graded-samples">評分樣例</a><a href="#official-table">逐年對照表</a></div><div class="ubnote">支援深色模式（夜間模式），會自動配合手機或電腦的外觀設定。</div></nav>
   </div>
@@ -822,6 +826,12 @@ function card(it){
     d.appendChild(ot);
   }
   d.appendChild(el('p','prompt',it.prompt));
+  // 寫作輔助：列印作文檢查表、寫完請 AI 批改。兩頁都讀 data/prompts.json，用 ?id= 帶入這一題。
+  const acts=el('div','acts');
+  [['📝 作文檢查表（可列印）','worksheet/?id=','印出題目、字詞表、書寫用的橫線和兩輪檢查表（一張 A4，正反兩面）'],['🤖 寫完請 AI 批改','ai-check/?id=','複製指令到 ChatGPT 或 Gemini，AI 只指出錯誤，由你自己改']].forEach(function(x){
+    const a=document.createElement('a');a.className='actBtn';a.href=x[1]+encodeURIComponent(it.id);a.title=x[2];const ic=document.createElement('span');ic.setAttribute('aria-hidden','true');ic.textContent=x[0].slice(0,2)+' ';a.appendChild(ic);a.appendChild(document.createTextNode(x[0].slice(2).trim()));acts.appendChild(a);
+  });
+  d.appendChild(acts);
 
   if(it.promptNote)d.appendChild(el('p','reuse',it.promptNote));
   if(it.reuseNote){
