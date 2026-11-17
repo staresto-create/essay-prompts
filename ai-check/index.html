@@ -166,6 +166,7 @@ var CUR=null;
   function limits(p){
     var q=p.replace(/一百二十/g,'120'),m;
     if((m=q.match(/(\d+)\s*(?:至|到|-|－|~)\s*(\d+)\s*個?(?:單詞|字)/)))return {min:+m[1],max:+m[2]};
+    if(/約\s*120\s*個?(?:單詞|字)/.test(q))return {min:120,max:0};
     if(/約\s*\d+\s*個?(?:單詞|字)/.test(q))return {min:0,max:0};
     if((m=q.match(/至少\s*(\d+)\s*個?(?:單詞|字)/)))return {min:+m[1],max:0};
     return {min:120,max:0};

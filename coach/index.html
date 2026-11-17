@@ -115,7 +115,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
 </header>
 
 <main class="wrap">
-  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">同一站</span><a href="../">歷屆題目</a><a href="../practice/">作文練習題型</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#c1">選一題</a><a href="#c2">選檢查的深度</a><a href="#c3">複製這一段</a></div></nav>
+  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">同一站</span><a href="../">歷屆題目</a><a href="../practice/">作文練習題型</a><a href="../wordcount/">佳作字數統計</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#c1">選一題</a><a href="#c2">選檢查的深度</a><a href="#c3">複製這一段</a></div></nav>
 
   <section>
     <p class="step">STEP 1</p>
@@ -220,7 +220,7 @@ function buildPrompt(item, task, lv){
   L.push(HEAD_TAIL.intro);
   L.push("");
   L.push("【題目】" + title);
-  var wc = /(文長|單詞|字數)/.test(item.prompt) ? "" : "文長至少 120 個單詞。";
+  var wc = /(文長|單詞|字數)/.test(item.prompt) ? (/約\s*120\s*個?單詞/.test(item.prompt) && !/至少/.test(item.prompt) ? "（試題說明：文長至少 120 個單詞。）" : "") : "文長至少 120 個單詞。";
   L.push(item.prompt + wc);
   L.push("");
   L.push("【這一題附了" + pic + "，你看不到，所以我先描述】");
