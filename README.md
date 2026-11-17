@@ -15,6 +15,8 @@
 |---|---|
 | `index.html` | 網站本體，無外部相依套件 |
 | `data/prompts.json` | 67 筆資料（63 題歷屆題目＋4 題自編題） |
+| `wordcount/index.html` | 作文佳作字數統計頁（單檔，資料內嵌） |
+| `data/wordcount.json` | 歷屆佳作逐篇字數（約略值，學測 98–115、指考 98–110，共 366 篇） |
 | `images/` | 32 張圖（28 張原卷圖＋4 張自繪圖），各有 WebP 與 PNG 兩種格式 |
 | `sitemap.xml` | 給搜尋引擎的網址清單 |
 

@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>作文佳作字數統計｜歷屆英文作文題目索引</title>
+<meta name="description" content="大考中心公布的歷屆英文作文佳作共 366 篇，逐篇計算字數：近五年（111–115 年）學測佳作的中位數約 360 字，指考最後五屆（106–110 年）約 290 字；題目的字數規定，多數年度是「至少 120 個單詞」。">
+<link rel="canonical" href="https://staresto-create.github.io/essay-prompts/wordcount/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="作文佳作字數統計｜歷屆英文作文題目索引">
+<meta property="og:description" content="大考中心公布的歷屆英文作文佳作共 366 篇，逐篇計算字數：近五年（111–115 年）學測佳作的中位數約 360 字，指考最後五屆（106–110 年）約 290 字；題目的字數規定，多數年度是「至少 120 個單詞」。">
+<meta property="og:url" content="https://staresto-create.github.io/essay-prompts/wordcount/">
+<meta property="og:site_name" content="歷屆作文題目索引">
+<meta name="robots" content="index,follow">
+<style>
+:root{
+  --paper:#F2F3EF;
+  --card:#FCFCFA;
+  --ink:#1C2321;
+  --ink-soft:#5A625E;
+  --rule:#C7CAC2;
+  --rule-soft:#E2E4DE;
+  --seal:#9E2B25;
+  --wash:#42626C;
+  --focus:#9E2B25;
+  --serif:"Noto Serif TC","Source Han Serif TC","Songti TC","PMingLiU",serif;
+  --sans:"Noto Sans TC","PingFang TC","Microsoft JhengHei","Heiti TC",sans-serif;
+  --mono:ui-monospace,"SFMono-Regular","Menlo","Noto Sans TC","PingFang TC","Microsoft JhengHei","Heiti TC",monospace;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ad-vpaper-bg);color:var(--ad-vink-fg);font-family:var(--sans);font-size:16px;line-height:1.75}
+.wrap{max-width:820px;margin:0 auto;padding:28px 18px 80px}
+.masthead{border-bottom:2px solid var(--ad-vink-border);padding-bottom:14px;margin-bottom:22px}
+.masthead .sub{font-size:13px;letter-spacing:.14em;color:var(--ad-vink-soft-fg)}
+h1{font-family:var(--serif);font-size:29px;margin:6px 0 8px;line-height:1.3}
+.standfirst{color:var(--ad-vink-soft-fg);font-size:15px;margin:0}
+h2{font-family:var(--serif);font-size:22px;margin:38px 0 6px;padding-bottom:5px;border-bottom:1px solid var(--ad-vrule-border)}
+h3{font-size:17px;margin:26px 0 4px}
+.anchor{font-size:13px;color:var(--ad-vink-soft-fg);margin:0 0 12px}
+.note-box{background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-soft-border);border-left:3px solid var(--ad-vwash-border);padding:12px 15px;margin:16px 0;font-size:15px}
+.card{background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-border);padding:18px 20px;margin:16px 0}
+.ts{font-family:var(--serif);font-size:18px;margin:0 0 14px}
+ol.sents{margin:0 0 16px;padding-left:0;list-style:none;counter-reset:s}
+ol.sents li{margin:0 0 8px;padding:9px 12px;border:1px solid var(--ad-vrule-soft-border);background:var(--ad-xFFFFFF-bg);cursor:pointer;font-size:15px}
+ol.sents li:hover{border-color:var(--ad-vwash-border)}
+ol.sents li.sel{border-color:var(--ad-vseal-border);box-shadow:inset 3px 0 0 var(--ad-vseal-border)}
+ol.sents li.right{border-color:var(--ad-x2E6B4F-border);box-shadow:inset 3px 0 0 var(--ad-x2E6B4F-border)}
+ol.sents li.wrong{border-color:var(--ad-vseal-border);background:var(--ad-xFBF2F1-bg)}
+.lbl{font-weight:700;margin-right:7px}
+fieldset{border:0;margin:0 0 12px;padding:0}
+legend{font-size:14px;color:var(--ad-vink-soft-fg);padding:0 0 6px}
+.jlab{font-size:14px;color:var(--ad-vink-soft-fg);margin:0 0 6px}
+.opt{display:block;margin:0 0 5px;font-size:15px;cursor:pointer}
+.opt input{margin-right:8px}
+.qbar{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin:4px 0 0}
+button{font-family:inherit;font-size:15px;padding:7px 15px;border:1.5px solid var(--ad-vink-border);background:transparent;color:var(--ad-vink-fg);cursor:pointer}
+button:hover{background:var(--ad-vink-bg);color:var(--ad-vcard-fg)}
+button.small{font-size:13px;padding:5px 11px}
+button.primary{background:var(--ad-vink-bg);color:var(--ad-vcard-fg)}
+button.primary:hover{background:var(--ad-x000000-bg)}
+button[disabled]{opacity:1;border-color:var(--ad-vrule-border);color:var(--ad-vink-soft-fg);cursor:default}
+button[disabled]:hover{background:transparent;color:var(--ad-vink-fg)}
+.fb{margin:12px 0 0;padding:11px 14px;font-size:15px;display:none}
+.fb.ok{background:var(--ad-xEDF4EF-bg);border-left:3px solid var(--ad-x2E6B4F-border);display:block}
+.fb.no{background:var(--ad-xFBF2F1-bg);border-left:3px solid var(--ad-vseal-border);display:block}
+textarea{width:100%;font-family:inherit;font-size:15px;line-height:1.7;padding:10px 12px;border:1px solid var(--ad-vrule-border);background:var(--ad-xFFFFFF-bg);color:var(--ad-vink-fg);resize:vertical}
+.write{background:var(--ad-xFBF7EC-bg);border:1px solid var(--ad-xE3D9BF-border);padding:15px 17px;margin:14px 0}
+.write h4{margin:0 0 4px;font-size:15px}
+.write p.hint{margin:0 0 10px;font-size:14px;color:var(--ad-vink-soft-fg)}
+.selfcheck{margin-top:12px;padding-top:11px;border-top:1px dashed var(--ad-xD7C9A5-border)}
+.selfcheck .t{font-size:13px;color:var(--ad-x6B5B3E-fg);font-weight:700;margin-bottom:5px}
+.selfcheck label{display:block;font-size:14px;margin:0 0 3px;cursor:pointer}
+.selfcheck input{margin-right:7px}
+.model{margin-top:12px;display:none}
+.model table{width:100%;border-collapse:collapse;font-size:15px}
+.model th{width:82px;text-align:left;background:var(--ad-xF2F2F0-bg);border:1px solid var(--ad-vrule-soft-border);padding:7px 9px;font-weight:400;font-size:13px;color:var(--ad-vink-soft-fg);vertical-align:top}
+.model td{border:1px solid var(--ad-vrule-soft-border);padding:7px 10px}
+.model td.en{font-style:italic}
+.model tr.learn td,.model tr.learn th{background:var(--ad-xFBF7EC-bg);font-size:14px}
+.model .words{font-size:13px;color:var(--ad-vink-soft-fg);line-height:1.7;margin:6px 2px 0}
+table.frame{width:100%;border-collapse:collapse;margin:12px 0;font-size:15px}
+table.frame th{width:34%;text-align:left;background:var(--ad-xF2F2F0-bg);border:1px solid var(--ad-vrule-soft-border);padding:8px 10px;font-weight:400;font-size:14px;vertical-align:middle}
+table.frame th.head{background:var(--ad-xE4E9E6-bg);font-weight:700}
+table.frame td{border:1px solid var(--ad-vrule-soft-border);padding:5px 7px}
+table.frame .lv{font-size:13px;color:var(--ad-vseal-fg);margin-left:6px}
+table.frame input[type=text]{width:100%;font-family:inherit;font-size:15px;padding:6px 8px;border:1px solid var(--ad-vrule-soft-border);background:var(--ad-xFFFFFF-bg);color:var(--ad-vink-fg)}
+.rel{font-size:14px}
+.rel label{margin-right:14px;cursor:pointer;white-space:nowrap}
+.tasks{font-size:14px;background:var(--ad-xF2F2F0-bg);border:1px solid var(--ad-vrule-soft-border);padding:10px 13px;margin:0 0 12px}
+.tasks b{font-weight:700}
+.endings dt{font-weight:700;margin-top:9px}
+.endings dd{margin:0 0 0 0;color:var(--ad-vink-soft-fg);font-size:15px}
+pre.prompt{background:var(--ad-xF2F2F0-bg);border:1px solid var(--ad-vrule-soft-border);padding:13px 15px;font-family:var(--mono);font-size:13px;line-height:1.65;white-space:pre-wrap;margin:10px 0}
+footer{margin-top:54px;padding-top:16px;border-top:1px solid var(--ad-vrule-border);font-size:13px;color:var(--ad-vink-soft-fg)}
+footer a{color:var(--ad-vseal-fg);font-weight:700;text-decoration:underline;text-underline-offset:2px;white-space:nowrap}
+footer .back{display:block;margin-bottom:12px;font-size:14px}
+.toast{position:fixed;left:50%;bottom:26px;transform:translateX(-50%);background:var(--ad-vink-bg);color:var(--ad-vcard-fg);padding:9px 18px;font-size:14px;opacity:0;transition:opacity .2s;pointer-events:none}
+.toast.on{opacity:1}
+@media(max-width:520px){
+  .wrap{padding:20px 13px 60px}
+  h1{font-size:24px}
+  table.frame th{width:44%;font-size:13px}
+  .rel label{display:block;margin:0 0 3px}
+}
+
+/* 深色模式（2026-10-23）：淺色數值與原本相同；只在螢幕、手機或電腦設成深色外觀時生效，列印不受影響。 */
+:root{--ad-vcard-bg:var(--card);--ad-vcard-fg:var(--card);--ad-vfocus-border:var(--focus);--ad-vink-bg:var(--ink);--ad-vink-border:var(--ink);--ad-vink-fg:var(--ink);--ad-vink-soft-border:var(--ink-soft);--ad-vink-soft-fg:var(--ink-soft);--ad-vpaper-bg:var(--paper);--ad-vpaper-fg:var(--paper);--ad-vrule-bg:var(--rule);--ad-vrule-border:var(--rule);--ad-vrule-soft-bg:var(--rule-soft);--ad-vrule-soft-border:var(--rule-soft);--ad-vseal-bg:var(--seal);--ad-vseal-border:var(--seal);--ad-vseal-fg:var(--seal);--ad-vwash-bg:var(--wash);--ad-vwash-border:var(--wash);--ad-vwash-fg:var(--wash);--ad-x000000-bg:#000;--ad-x0E7C72-fg:#0E7C72;--ad-x2C5AA6-fg:#2C5AA6;--ad-x2E6B4F-border:#2E6B4F;--ad-x2F2B24-fg:#2F2B24;--ad-x3E3A31-fg:#3E3A31;--ad-x4A443A-fg:#4A443A;--ad-x5C5342-fg:#5C5342;--ad-x5E6A6F-fg:#5E6A6F;--ad-x5F594C-fg:#5F594C;--ad-x6B5B3E-fg:#6B5B3E;--ad-x6B6455-fg:#6B6455;--ad-x6E5F38-fg:#6E5F38;--ad-x6E6553-fg:#6E6553;--ad-x6F7B80-fg:#6F7B80;--ad-x7A7263-fg:#7A7263;--ad-x8A8271-fg:#8A8271;--ad-x8A8278-fg:#8a8278;--ad-xA3357A-fg:#A3357A;--ad-xA79C84-fg:#A79C84;--ad-xA9540A-fg:#A9540A;--ad-xB9A87A-border:#B9A87A;--ad-xC9BFA6-border:#C9BFA6;--ad-xD7C9A5-border:#D7C9A5;--ad-xD9CFB6-border:#D9CFB6;--ad-xD9E2E6-border:#D9E2E6;--ad-xDED5BF-border:#DED5BF;--ad-xE3D9BF-border:#E3D9BF;--ad-xE3DCC9-border:#E3DCC9;--ad-xE4E9E6-bg:#E4E9E6;--ad-xEDF4EF-bg:#EDF4EF;--ad-xF2E9D2-bg:#F2E9D2;--ad-xF2F2F0-bg:#F2F2F0;--ad-xF4EEDF-bg:#F4EEDF;--ad-xF4EFE2-bg:#F4EFE2;--ad-xF5F9FA-bg:#F5F9FA;--ad-xF6F1E2-bg:#F6F1E2;--ad-xF7F1E1-bg:#F7F1E1;--ad-xFBF2F1-bg:#FBF2F1;--ad-xFBF7EC-bg:#FBF7EC;--ad-xFBF8F0-bg:#FBF8F0;--ad-xFDFBF5-bg:#FDFBF5;--ad-xFFFFFF-bg:#fff;--ad-xFFFFFF-fg:#fff;--ad-xrgba9E2B25a16-bg:rgba(158,43,37,.16);color-scheme:light}
+@media screen and (prefers-color-scheme: dark){
+ :root{--ad-vcard-bg:#1E2322;--ad-vcard-fg:#151918;--ad-vfocus-border:#EAA7A0;--ad-vink-bg:#E8ECEA;--ad-vink-border:#E8ECEA;--ad-vink-fg:#E8ECEA;--ad-vink-soft-border:#B4BCB8;--ad-vink-soft-fg:#B4BCB8;--ad-vpaper-bg:#151918;--ad-vpaper-fg:#151918;--ad-vrule-bg:#434B48;--ad-vrule-border:#434B48;--ad-vrule-soft-bg:#2E3533;--ad-vrule-soft-border:#2E3533;--ad-vseal-bg:#C9625A;--ad-vseal-border:#C9625A;--ad-vseal-fg:#EAA7A0;--ad-vwash-bg:#5F8C99;--ad-vwash-border:#5F8C99;--ad-vwash-fg:#9FC4CF;--ad-x000000-bg:#FFFFFF;--ad-x0E7C72-fg:#B4E9E5;--ad-x2C5AA6-fg:#99B3DD;--ad-x2E6B4F-border:#83B9A0;--ad-x2F2B24-fg:#E1DFDB;--ad-x3E3A31-fg:#D9D7D3;--ad-x4A443A-fg:#D4D1CD;--ad-x5C5342-fg:#CFCBC4;--ad-x5E6A6F-fg:#B9BEC0;--ad-x5F594C-fg:#CAC7C2;--ad-x6B5B3E-fg:#D3CAB9;--ad-x6B6455-fg:#C4C2BC;--ad-x6E5F38-fg:#D7CEB8;--ad-x6E6553-fg:#C5C1BA;--ad-x6F7B80-fg:#B0B4B6;--ad-x7A7263-fg:#BCB9B4;--ad-x8A8271-fg:#B5B1AB;--ad-x8A8278-fg:#C2BFBB;--ad-xA3357A-fg:#D89BC1;--ad-xA79C84-fg:#ACA699;--ad-xA9540A-fg:#E4C1A3;--ad-xB9A87A-border:#9B8C63;--ad-xC9BFA6-border:#796F55;--ad-xD7C9A5-border:#7C6D48;--ad-xD9CFB6-border:#6E6346;--ad-xD9E2E6-border:#3D4B51;--ad-xDED5BF-border:#685D42;--ad-xE3D9BF-border:#695D3C;--ad-xE3DCC9-border:#60573D;--ad-xE4E9E6-bg:#212422;--ad-xEDF4EF-bg:#1B221D;--ad-xF2E9D2-bg:#2D281B;--ad-xF2F2F0-bg:#1F1F1D;--ad-xF4EEDF-bg:#28241A;--ad-xF4EFE2-bg:#27231A;--ad-xF5F9FA-bg:#181F20;--ad-xF6F1E2-bg:#282419;--ad-xF7F1E1-bg:#292418;--ad-xFBF2F1-bg:#241715;--ad-xFBF7EC-bg:#262215;--ad-xFBF8F0-bg:#242015;--ad-xFDFBF5-bg:#242013;--ad-xFFFFFF-bg:#252B29;--ad-xFFFFFF-fg:#151918;--ad-xrgba9E2B25a16-bg:rgba(201,98,90,.32);color-scheme:dark}
+ a:where(:link,:visited){color:var(--ad-vseal-fg)}
+}
+.unitbar{margin:12px 0 18px; font-size:14px; line-height:1.5;}
+.unitbar .ubrow{display:flex; flex-wrap:wrap; align-items:center; gap:6px;}
+.unitbar .ubrow + .ubrow{margin-top:8px;}
+.unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
+.unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
+.unitbar a{color:var(--ad-vseal-fg);}
+.unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
+.unitbar .cur{background:rgba(128,128,128,.2);}
+@media print{.unitbar, .toBar{display:none!important;}}
+.toBar{position:fixed; right:12px; bottom:14px; z-index:20; font-size:12.5px; font-weight:700; line-height:1.3; color:var(--ad-vseal-fg); border:1px solid currentColor; border-radius:999px; padding:5px 11px; text-decoration:none; box-shadow:0 2px 8px rgba(0,0,0,.18);}
+.toBar[hidden]{display:none;}
+/* fold-cue 2026-10-25：全站可展開的區塊統一提示。標題右側一律是「＋ 展開」，展開後變「－ 收合」；舊的箭頭與各式提示字樣一併取代。 */
+details:not(.sh) > summary{list-style:none; cursor:pointer; position:relative; padding-right:92px !important;}
+details:not(.sh) > summary::-webkit-details-marker{display:none;}
+details:not(.sh) > summary::marker{content:"";}
+details:not(.sh) > summary *::before, details:not(.sh) > summary *::after, details:not(.sh) > summary::before{content:none !important;}
+details:not(.sh) > summary::after{content:"＋ 展開" !important; display:block !important; position:absolute !important; right:10px !important; top:50% !important; transform:translateY(-50%) !important; margin:0 !important; padding:2px 10px !important; border:1px solid currentColor !important; border-radius:999px !important; background:transparent !important; color:inherit !important; opacity:.85; font:400 12.5px/1.5 "Noto Sans TC",system-ui,sans-serif !important; letter-spacing:0 !important; text-transform:none !important; white-space:nowrap !important; text-decoration:none !important; width:auto !important; height:auto !important;}
+details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
+@media print{details:not(.sh) > summary::after{display:none !important;}}
+</style>
+<style id="anti-copy">
+/* 防盜用措施（2026-10-14）：畫面浮水印、列印浮水印、頁尾授權聲明 */
+@media screen{body::before{content:"";position:fixed;top:0;left:0;right:0;bottom:0;z-index:2147483000;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22460%22%20height%3D%22240%22%3E%3Cg%20transform%3D%22rotate%28-20%20230%20120%29%22%20font-family%3D%22Noto%20Sans%20TC%2Csans-serif%22%20fill%3D%22%23D9A400%22%20fill-opacity%3D%22.2%22%20text-anchor%3D%22middle%22%3E%3Ctext%20x%3D%22230%22%20y%3D%22112%22%20font-size%3D%2220%22%3E%E6%AD%B7%E5%B1%86%E4%BD%9C%E6%96%87%E9%A1%8C%E7%9B%AE%E7%B4%A2%E5%BC%95%3C%2Ftext%3E%3Ctext%20x%3D%22230%22%20y%3D%22140%22%20font-size%3D%2214%22%3Estaresto-create.github.io%2Fessay-prompts%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E");background-repeat:repeat;}}
+@media print{body::after{content:"歷屆作文題目索引\A staresto-create.github.io/essay-prompts\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
+.cc-note{font-size:12px;line-height:1.8;color:var(--ad-x8A8278-fg);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
+</style>
+<style>
+:root{--gc:#2a78d6;--jc:#D65A24;--gap:rgba(158,43,37,.10);--gapt:#9E2B25}
+@media screen and (prefers-color-scheme: dark){:root{--gc:#3987e5;--jc:#f07a45;--gap:rgba(234,167,160,.14);--gapt:#EAA7A0}}
+p.small{font-size:14.5px;color:var(--ad-vink-soft-fg)}
+.tiles{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:14px 0}
+.tile{background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-soft-border);border-left-width:3px;border-radius:2px;padding:12px 14px;min-width:0}
+.tile.g{border-left-color:var(--gc)}.tile.j{border-left-color:var(--jc)}.tile.r{border-left-color:var(--ad-vseal-border);grid-column:1/3}
+.tile .tl{font-size:13.5px;color:var(--ad-vink-soft-fg)}
+.tile .big{font-family:var(--mono);font-size:34px;font-weight:700;line-height:1.2;white-space:nowrap}
+.tile .big small{font-family:var(--sans);font-size:15px;font-weight:600}
+.tile .ts2{font-size:13.5px;color:var(--ad-vink-soft-fg);line-height:1.6}
+.chart{margin:8px 0}.chart svg{display:block;margin:0 auto;max-width:100%}
+.chart svg text{fill:var(--ad-vink-soft-fg);font-size:13px;font-family:var(--sans)}
+.chart svg .cn{fill:var(--ad-vink-fg);font-weight:700}
+.chart svg .yr{fill:var(--ad-vink-fg)}
+.chart svg .gp{fill:var(--gapt)}
+.chart svg .row{cursor:pointer}.chart svg .row:focus{outline:none}.chart svg .row:focus .rb{stroke:var(--ad-vfocus-border);stroke-width:2}
+.chart svg .rb{fill:transparent;stroke:transparent}
+.chart svg .row.sel .rb{fill:var(--ad-vrule-soft-border)}
+.facts{margin:6px 0 10px;padding-left:1.2em;font-size:15px}
+.seg{display:grid;grid-template-columns:1fr 1fr;max-width:380px;margin:6px 0 8px}
+.seg button{min-height:44px;border-radius:0;font-size:15px}.seg button:first-child{border-right-width:0}
+.seg button[aria-pressed=true]{background:var(--ad-vink-bg);color:var(--ad-vcard-fg)}
+.info{background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-soft-border);padding:10px 13px;font-size:15px;margin:6px 0 0;min-height:3.4em}
+table.wc{border-collapse:collapse;width:100%;font-size:14.5px;margin:10px 0}
+table.wc caption{text-align:left;font-weight:700;padding:6px 0}
+table.wc th,table.wc td{padding:7px 8px;border-bottom:1px solid var(--ad-vrule-soft-border);text-align:right;white-space:nowrap;font-variant-numeric:tabular-nums}
+table.wc th[scope=row],table.wc thead th:first-child{text-align:left}
+table.wc thead th{color:var(--ad-vink-soft-fg);font-weight:600;text-align:right}table.wc thead th:first-child{text-align:left}
+table.wc td.m{font-weight:700}
+table.wc tr.sec th{background:var(--ad-xF2F2F0-bg);text-align:left}
+table.wc tr.old td,table.wc tr.old th{color:var(--ad-vink-soft-fg)}
+details.tbl summary{padding:10px 12px;border:1px solid var(--ad-vrule-border);background:var(--ad-vcard-bg);font-weight:700}
+@media(max-width:380px){.tile .big{font-size:30px}}
+@media print{
+ @page{size:A4 portrait;margin:12mm}
+ body{font-size:10.5pt}
+ .seg,.info,.toBar,noscript,details.tbl summary{display:none!important}
+ .tiles,.chart svg,.note-box{break-inside:avoid}
+ h2{break-after:avoid}
+ .yearsec{display:none}
+ .chart svg{max-width:120mm}
+ table.wc{font-size:9pt}
+ details.tbl{display:block}
+}
+.wrap p a,.wrap li a{color:var(--ad-vseal-fg);font-weight:700;text-underline-offset:2px}
+.nw{white-space:nowrap}
+
+</style>
+</head>
+<body>
+<div class="wrap">
+<div class="masthead">
+  <div class="sub">大考中心英文考科｜作文佳作</div>
+  <h1>大考英文作文佳作字數統計</h1>
+  <p class="standfirst">近五年學測公布的 46 篇佳作，中間一半約 340–420 字，最短約 270 字；指考 106–110 年的 50 篇，中間一半約 270–330 字，最短約 200 字。</p>
+</div>
+
+<nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">同一站</span><a href="../">歷屆題目</a><a href="../practice/">作文練習題型</a><a href="../coach/">寫完逐項檢查</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#u-key">重點數字</a><a href="#u-dist">字數分布</a><a href="#u-years">各年比較</a><a href="#u-table">數字表</a><a href="#u-note">資料說明</a></div></nav>
+
+<p>本頁統計大考中心公布的歷屆英文作文佳作，共 366 篇（學測 98–115 年、指考 98–110 年），逐篇計算字數。佳作是大考中心從考生答案卷中選出、在網站上公布的作文，公布的是手寫答案卷的掃描影像。本頁的「字」指英文單詞，年度指學年度（例如 115 年學測，就是 115 學年度學測）。</p>
+<p>指考英文作文的資料只到 110 年。大考中心的《111 學年度分科測驗工作報告》寫明，111 學年度起指定科目考試改稱分科測驗，並取消英文考科（<a href="https://www.ceec.edu.tw/files/file_pool/1/0n115349073464370939/111%E5%AD%B8%E5%B9%B4%E5%BA%A6%E5%88%86%E7%A7%91%E6%B8%AC%E9%A9%97%E5%B7%A5%E4%BD%9C%E5%A0%B1%E5%91%8A.pdf" target="_blank" rel="noopener">報告全文 ↗</a>）。</p>
+<p class="small">中位數：把同一組作文依字數由少排到多，排在最中間那一篇的字數；如果篇數是雙數，就取中間兩篇的平均。和平均數相比，中位數比較不會被特別長或特別短的一兩篇拉高或拉低。</p>
+<p class="small">中間一半：把作文依字數排好，去掉最短的四分之一和最長的四分之一，剩下那一半作文的字數範圍。</p>
+
+<h2 id="u-key">重點數字</h2>
+<div class="tiles">
+  <div class="tile g"><div class="tl">學測 111–115 年　<span class="nw">46 篇</span></div><div class="big"><small>約</small> 360 <small>字</small></div><div class="ts2">佳作字數的中位數</div><div class="ts2">中間一半約 340–420 字，最短約 270 字</div></div>
+  <div class="tile j"><div class="tl">指考 106–110 年　<span class="nw">50 篇</span></div><div class="big"><small>約</small> 290 <small>字</small></div><div class="ts2">佳作字數的中位數</div><div class="ts2">中間一半約 270–330 字，最短約 200 字</div></div>
+  <div class="tile r"><div class="tl">題目規定的字數</div><div class="big"><small>至少</small> 120 <small>個單詞</small></div><div class="ts2">多數年度的題目這樣寫。上面兩組的最短佳作，學測約 270 字、指考約 200 字。</div></div>
+</div>
+
+<h2 id="u-dist">最近五屆佳作的字數分布</h2>
+<p class="anchor">學測取 111–115 年，指考取最後五屆 106–110 年。每 50 字一組，長條上的數字是該組的篇數。紅色虛線是 120 字，淡紅色區塊標出 120 字到最短那一組之間的空白。</p>
+<div id="hist" class="chart"></div>
+<ul class="facts">
+  <li>學測 300 字以上的佳作：41／46 篇（近九成）。</li>
+  <li>指考 250 字以上的佳作：41／50 篇（約八成）。</li>
+  <li>未滿 300 字的佳作：學測 5／46 篇，指考 32／50 篇。</li>
+</ul>
+<div class="note-box">這些是大考中心公布的佳作，每年 7–15 篇；本頁沒有未公布的考生作文的字數，所以無法從這些資料看出字數和得分的關係。</div>
+
+<div class="yearsec">
+<h2 id="u-years">各年佳作字數</h2>
+<p class="anchor">橫軸與上圖相同。每一列是一個年度；按一下那一列，圖下方會列出該年每一篇的字數。</p>
+<div class="seg" role="group" aria-label="年份範圍"><button type="button" id="b5" aria-pressed="true">最近五屆</button><button type="button" id="b102" aria-pressed="false">102 年起</button></div>
+<div id="years" class="chart"></div>
+<p class="info" id="info" aria-live="polite">按一下某一年，這裡會列出該年每一篇佳作的字數。</p>
+<noscript><p class="note-box">上面的圖需要開啟 JavaScript 才能顯示；每年的數字都列在下面的數字表裡。</p></noscript>
+
+</div>
+<h2 id="u-table">各年數字表</h2>
+<details class="tbl" id="tbl"><summary>學測 98–115 年、指考 98–110 年（點開看）</summary>
+<table class="wc"><caption>學測（單位：字，約略值，四捨五入到十位）</caption><thead><tr><th scope="col">年度</th><th scope="col">篇數</th><th scope="col">最短</th><th scope="col">中位數</th><th scope="col">最長</th></tr></thead><tbody><tr><th scope="row">115 年</th><td>10</td><td>350</td><td class="m">370</td><td>450</td></tr><tr><th scope="row">114 年</th><td>7</td><td>350</td><td class="m">440</td><td>460</td></tr><tr><th scope="row">113 年</th><td>10</td><td>290</td><td class="m">370</td><td>490</td></tr><tr><th scope="row">112 年</th><td>9</td><td>280</td><td class="m">330</td><td>430</td></tr><tr><th scope="row">111 年</th><td>10</td><td>270</td><td class="m">340</td><td>440</td></tr><tr><th scope="row">110 年</th><td>11</td><td>220</td><td class="m">320</td><td>460</td></tr><tr><th scope="row">109 年</th><td>12</td><td>260</td><td class="m">320</td><td>400</td></tr><tr><th scope="row">108 年</th><td>12</td><td>300</td><td class="m">380</td><td>450</td></tr><tr><th scope="row">107 年</th><td>14</td><td>260</td><td class="m">370</td><td>490</td></tr><tr><th scope="row">106 年</th><td>13</td><td>250</td><td class="m">380</td><td>480</td></tr><tr><th scope="row">105 年</th><td>15</td><td>220</td><td class="m">320</td><td>460</td></tr><tr><th scope="row">104 年</th><td>15</td><td>200</td><td class="m">320</td><td>410</td></tr><tr><th scope="row">103 年</th><td>13</td><td>240</td><td class="m">360</td><td>440</td></tr><tr><th scope="row">102 年</th><td>14</td><td>240</td><td class="m">360</td><td>530</td></tr><tr class="old"><th scope="row">101 年</th><td>15</td><td>210</td><td class="m">310</td><td>360</td></tr><tr class="old"><th scope="row">100 年</th><td>10</td><td>190</td><td class="m">310</td><td>450</td></tr><tr class="old"><th scope="row">99 年</th><td>10</td><td>170</td><td class="m">250</td><td>330</td></tr><tr class="old"><th scope="row">98 年</th><td>13</td><td>200</td><td class="m">220</td><td>290</td></tr></tbody></table><table class="wc"><caption>指考（單位：字，約略值，四捨五入到十位）</caption><thead><tr><th scope="col">年度</th><th scope="col">篇數</th><th scope="col">最短</th><th scope="col">中位數</th><th scope="col">最長</th></tr></thead><tbody><tr><th scope="row">110 年</th><td>9</td><td>290</td><td class="m">330</td><td>370</td></tr><tr><th scope="row">109 年</th><td>11</td><td>270</td><td class="m">290</td><td>400</td></tr><tr><th scope="row">108 年</th><td>10</td><td>240</td><td class="m">280</td><td>440</td></tr><tr><th scope="row">107 年</th><td>7</td><td>240</td><td class="m">370</td><td>410</td></tr><tr><th scope="row">106 年</th><td>13</td><td>200</td><td class="m">270</td><td>310</td></tr><tr><th scope="row">105 年</th><td>14</td><td>220</td><td class="m">280</td><td>390</td></tr><tr><th scope="row">104 年</th><td>15</td><td>240</td><td class="m">310</td><td>380</td></tr><tr><th scope="row">103 年</th><td>14</td><td>270</td><td class="m">310</td><td>420</td></tr><tr><th scope="row">102 年</th><td>12</td><td>240</td><td class="m">300</td><td>390</td></tr><tr class="old"><th scope="row">101 年</th><td>13</td><td>200</td><td class="m">240</td><td>420</td></tr><tr class="old"><th scope="row">100 年</th><td>15</td><td>180</td><td class="m">250</td><td>360</td></tr><tr class="old"><th scope="row">99 年</th><td>10</td><td>210</td><td class="m">240</td><td>380</td></tr><tr class="old"><th scope="row">98 年</th><td>10</td><td>160</td><td class="m">240</td><td>280</td></tr></tbody></table>
+<p class="small">灰色的 98–101 年：這幾年的掃描檔字跡較淡，辨識出的字數可能比實際少，所以只供參考，上面的圖也沒有畫這幾年。</p>
+</details>
+
+<h2 id="u-note">資料說明</h2>
+<p class="small">本頁的字數是用文字辨識軟體讀取佳作的手寫掃描檔，再計算英文單字數（題目中稱為「單詞」）而得，所以都是約略值，每篇四捨五入到十位。大考中心每年公布的佳作篇數不一（7 至 15 篇），篇數較少的年度，中位數也比較容易受單一篇作文影響。</p>
+<p class="small">題目對字數的規定，多數年度寫的是「至少 120 個單詞」；也有寫法不同的年度，例如 98 指考「約 120 至 150 個單詞」、100 學測「約 100 至 120 個單詞」、109 學測「約 120 個單詞」。圖上的 120 字虛線，是以多數年度的規定為準。</p>
+
+<footer>
+  <a class="back" href="../">← 回歷屆作文題目索引</a>
+  佳作的原文版權屬於財團法人大學入學考試中心基金會，本頁只統計字數，用於非營利的教學與參考。<br>
+  © 2026 staresto-create ZZSH · 免費、無廣告的非營利自學題庫 · <a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms">📖 使用與著作權</a>
+<p class="cc-note">本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant" target="_blank" rel="license noopener">CC BY-NC 4.0</a>（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。試題來源與完整說明請見<a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms">使用與著作權</a>。</p>
+</footer>
+</div>
+<script>
+(function(){
+var D={"G":{"111":[266,311,312,328,338,339,353,355,424,435],"110":[217,261,268,301,303,319,321,339,358,375,461],"109":[259,264,271,301,306,311,333,359,362,376,386,402],"108":[299,320,325,326,374,377,389,390,427,441,451,453],"107":[257,263,283,309,339,343,367,373,377,384,397,406,419,491],"106":[246,330,335,367,368,371,375,377,380,391,409,455,479],"105":[220,249,259,269,295,311,321,324,328,363,369,376,413,416,463],"104":[198,277,277,278,283,303,314,324,330,337,339,348,367,375,407],"103":[242,325,332,333,341,358,360,374,379,387,408,430,436],"102":[241,310,332,336,347,352,354,363,370,408,442,449,473,526],"101":[213,223,234,241,262,290,303,307,312,336,337,340,348,354,359],"99":[169,205,216,225,247,256,257,274,317,334],"98":[199,202,212,214,217,221,221,232,270,271,273,275,291],"100":[193,235,250,273,305,311,333,359,364,445],"112":[283,296,297,311,330,347,360,378,433],"113":[293,323,350,357,368,377,421,435,449,485],"114":[348,376,418,435,439,439,456],"115":[347,357,359,364,365,369,373,396,403,448]},"J":{"110":[293,299,312,314,329,349,359,362,370],"109":[272,274,278,285,289,294,294,331,369,384,403],"108":[235,241,267,273,280,285,289,295,331,437],"107":[243,246,283,373,382,393,414],"106":[199,217,238,242,248,267,268,276,285,291,292,294,314],"104":[236,255,261,265,278,293,299,305,306,307,308,334,353,357,380],"103":[266,277,280,283,301,304,308,312,322,332,337,360,392,417],"102":[241,245,260,276,284,299,300,312,322,339,355,388],"101":[199,206,214,217,230,237,238,242,243,265,291,338,423],"99":[213,220,222,226,228,246,248,291,323,382],"98":[163,168,214,232,232,242,246,259,260,281],"105":[217,241,263,267,270,278,279,285,297,312,352,354,384,392],"100":[183,208,214,219,229,231,232,248,251,255,262,286,300,312,363]}};
+var L=76,R=10,X0=100,X1=550;
+var cw=function(){var e=document.getElementById('hist');return Math.max(300,Math.min(640,e.clientWidth||340))};
+var W=cw();
+function sx(v){return L+(v-X0)/(X1-X0)*(W-L-R)}
+function r10(v){return Math.floor((v+5)/10)*10}
+function med(a){var s=a.slice().sort(function(x,y){return x-y}),n=s.length;return n%2?s[(n-1)/2]:(s[n/2-1]+s[n/2])/2}
+function pool(k,a,b){var r=[];for(var y=a;y<=b;y++)(D[k][y]||[]).forEach(function(v){r.push(v)});return r}
+function grid(H,top){var s='';for(var v=100;v<=550;v+=50){s+='<line x1="'+sx(v)+'" x2="'+sx(v)+'" y1="'+top+'" y2="'+(H-22)+'" stroke="var(--ad-vrule-soft-border)"/>';if(v%100==0&&v<=500)s+='<text x="'+sx(v)+'" y="'+(H-6)+'" text-anchor="middle">'+v+'</text>'}return s}
+function floorLine(H,top,label){return '<line x1="'+sx(120)+'" x2="'+sx(120)+'" y1="'+top+'" y2="'+(H-22)+'" stroke="var(--gapt)" stroke-dasharray="4 3" stroke-width="1.5"/>'+(label?'<text class="gp" x="'+(sx(120)+4)+'" y="'+(top+12)+'" style="font-weight:700">120 字</text>':'')}
+function hist(k,name,col,a,b){
+ var arr=pool(k,a,b),bins={};arr.forEach(function(v){var q=Math.floor(v/50)*50;bins[q]=(bins[q]||0)+1});
+ var mx=24,top=46,BH=96,H=top+BH+24,u=BH/mx,mn=r10(Math.min.apply(null,arr)),bl=Math.floor(Math.min.apply(null,arr)/50)*50;
+ var s='<svg width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" role="img" aria-label="'+name+' '+a+'–'+b+' 年佳作字數分組長條圖，各組篇數詳見下方文字">';
+ s+='<text class="cn" x="'+L+'" y="16"><tspan style="fill:'+col+'">●</tspan> '+name+' '+a+'–'+b+' 年（'+arr.length+' 篇）</text>'+grid(H,top);
+ var gw=sx(bl)-sx(120);
+ s+='<rect x="'+sx(120)+'" y="'+top+'" width="'+gw+'" height="'+BH+'" fill="var(--gap)"/>';
+ s+=floorLine(H,top,true);
+ s+='<text class="gp" x="'+L+'" y="34">最短的佳作約 '+mn+' 字，比 120 字多約 '+(mn-120)+' 字</text>';
+ Object.keys(bins).forEach(function(q){q=+q;var n=bins[q],x=sx(q)+1.5,w=sx(q+50)-sx(q)-3,h=n*u,y=top+BH-h;
+  s+='<rect x="'+x+'" y="'+y+'" width="'+w+'" height="'+h+'" fill="'+col+'" rx="2"><title>'+name+' '+q+'–'+(q+49)+' 字：'+n+' 篇</title></rect><text class="cn" x="'+(x+w/2)+'" y="'+(y-4)+'" text-anchor="middle">'+n+'</text>'});
+ return s+'</svg>'}
+var rowsMeta={};
+function years(k,name,col,a,b,mode){
+ var ys=[];for(var y=b;y>=a;y--)if(D[k][y])ys.push(y);
+ var RH=mode=='dots'?42:36,top=30,H=top+ys.length*RH+24;
+ var s='<svg width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" role="group" aria-label="'+name+'各年佳作字數，每一列可選取，詳見下方數字表">';
+ s+='<text class="cn" x="'+L+'" y="16"><tspan style="fill:'+col+'">●</tspan> '+name+'</text>'+grid(H,top)+floorLine(H,top,false);
+ ys.forEach(function(y,i){
+  var arr=D[k][y],cy=top+i*RH+RH/2,m=r10(med(arr)),id=k+y;
+  rowsMeta[id]=y+' 年'+name+'（'+arr.length+' 篇）：'+arr.map(r10).join('、')+' 字；中位數約 '+m+' 字。';
+  s+='<g class="row" tabindex="0" role="button" data-row="'+id+'" aria-label="'+rowsMeta[id]+'"><rect class="rb" x="0" y="'+(cy-RH/2)+'" width="'+W+'" height="'+RH+'"/>';
+  s+='<text class="yr" x="'+(L-6)+'" y="'+(cy+4)+'" text-anchor="end">'+y+'（'+arr.length+'）</text>';
+  if(mode=='dots'){
+   s+='<line x1="'+sx(m)+'" x2="'+sx(m)+'" y1="'+(cy-16)+'" y2="'+(cy+16)+'" stroke="var(--ad-vink-fg)" stroke-width="2.5" stroke-linecap="round"/>';
+   var cnt={},used={};arr.forEach(function(v){var r=r10(v);cnt[r]=(cnt[r]||0)+1});
+   arr.forEach(function(v){var r=r10(v),j=used[r]=(used[r]||0)+1,off=(j-1-(cnt[r]-1)/2)*8;
+    s+='<circle cx="'+sx(v)+'" cy="'+(cy+off)+'" r="4.5" fill="'+col+'" stroke="var(--ad-vpaper-bg)" stroke-width="1.5"/>'});
+  }else{
+   s+='<line x1="'+sx(Math.min.apply(null,arr))+'" x2="'+sx(Math.max.apply(null,arr))+'" y1="'+cy+'" y2="'+cy+'" stroke="'+col+'" stroke-width="2.5" stroke-linecap="round"/><circle cx="'+sx(m)+'" cy="'+cy+'" r="5.5" fill="'+col+'" stroke="var(--ad-vpaper-bg)" stroke-width="2"/>';
+  }
+  s+='</g>';
+ });
+ return s+'</svg>'}
+var mode5=true;
+function draw(){
+ W=cw();rowsMeta={};
+ document.getElementById('hist').innerHTML=hist('G','學測','var(--gc)',111,115)+hist('J','指考','var(--jc)',106,110);
+ var g=mode5?[111,115]:[102,115],j=mode5?[106,110]:[102,110],md=mode5?'dots':'range';
+ document.getElementById('years').innerHTML=years('G','學測','var(--gc)',g[0],g[1],md)+years('J','指考','var(--jc)',j[0],j[1],md);
+ document.getElementById('b5').setAttribute('aria-pressed',mode5);document.getElementById('b102').setAttribute('aria-pressed',!mode5);
+}
+var info=document.getElementById('info');
+function show(g){if(g&&g.getAttribute){info.textContent=rowsMeta[g.getAttribute('data-row')]||'';document.querySelectorAll('#years .row').forEach(function(r){r.classList.remove('sel');r.removeAttribute('aria-current')});g.classList.add('sel');g.setAttribute('aria-current','true');var r=info.getBoundingClientRect();if(r.bottom>innerHeight||r.top<0)info.scrollIntoView({block:'nearest'})}}
+var yr=document.getElementById('years');
+yr.addEventListener('click',function(e){show(e.target.closest('.row'))});
+yr.addEventListener('keydown',function(e){if(e.key==='Enter'||e.key===' '){var g=e.target.closest('.row');if(g){e.preventDefault();show(g)}}});
+document.getElementById('b5').onclick=function(){mode5=true;info.textContent='按一下某一年，這裡會列出該年每一篇佳作的字數。';draw()};
+document.getElementById('b102').onclick=function(){mode5=false;info.textContent='按一下某一年，這裡會列出該年每一篇佳作的字數。';draw()};
+draw();
+var tm;addEventListener('resize',function(){clearTimeout(tm);tm=setTimeout(function(){if(cw()!==W)draw()},150)});
+var wasOpen=false;addEventListener('beforeprint',function(){var d=document.getElementById('tbl');wasOpen=d.open;d.open=true});addEventListener('afterprint',function(){document.getElementById('tbl').open=wasOpen});
+})();
+
+</script>
+<a class="toBar" id="toBar" href="#unitbar" hidden>↑ 單元列</a>
+<script>
+/* 單元列：連到收合區塊的錨點會先展開；「↑ 單元列」在單元列捲出畫面後才出現 */
+(function(){
+  var bar=document.getElementById('unitbar'), to=document.getElementById('toBar');
+  if(bar) bar.addEventListener('click',function(e){
+    var a=e.target.closest&&e.target.closest('a[href^="#"]'); if(!a) return;
+    var t=document.getElementById(a.getAttribute('href').slice(1)); if(!t) return;
+    var d=t.tagName==='DETAILS'?t:t.closest('details'); if(d) d.open=true;
+  });
+  if(to){
+    to.addEventListener('click',function(e){e.preventDefault(); if(bar) bar.scrollIntoView({block:'center'});});
+    function bg(){
+      var c=getComputedStyle(document.body).backgroundColor;
+      if(!c||c==='rgba(0, 0, 0, 0)'||c==='transparent') c=getComputedStyle(document.documentElement).backgroundColor;
+      if(!c||c==='rgba(0, 0, 0, 0)'||c==='transparent') c='#fff';
+      to.style.background=c;
+    }
+    if('IntersectionObserver' in window && bar){
+      new IntersectionObserver(function(es){
+        var r=es[0], hide=r.isIntersecting||r.boundingClientRect.top>=0;
+        if(!hide) bg();
+        to.hidden=hide;
+      }).observe(bar);
+    }
+  }
+})();
+</script>
+</body>
+</html>
