@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>寫法模組：三種議論寫法｜歷屆英文作文題目索引</title>
+<meta name="description" content="雙面刃、根本原因、長遠影響：三種學測、指考議論類作文最常用的寫法，附兩段分工、核心句型、常見錯誤與站上可練習的題目。免費使用。">
+<style>
+:root{
+  --paper:#F2F3EF;
+  --card:#FCFCFA;
+  --ink:#1C2321;
+  --ink-soft:#5A625E;
+  --rule:#C7CAC2;
+  --rule-soft:#E2E4DE;
+  --seal:#9E2B25;
+  --wash:#42626C;
+  --focus:#9E2B25;
+  --serif:"Noto Serif TC","Source Han Serif TC","Songti TC","PMingLiU",serif;
+  --sans:"Noto Sans TC","PingFang TC","Microsoft JhengHei","Heiti TC",sans-serif;
+  --mono:ui-monospace,"SFMono-Regular","Menlo","Noto Sans TC","PingFang TC","Microsoft JhengHei","Heiti TC",monospace;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--ad-vpaper-bg);color:var(--ad-vink-fg);
+     font-family:var(--sans);font-size:16px;line-height:1.75;}
+.wrap{max-width:1080px;margin:0 auto;padding:0 20px}
+header.masthead{border-bottom:3px double var(--ad-vink-border);background:var(--ad-vpaper-bg)}
+.masthead .wrap{padding-top:34px;padding-bottom:22px}
+.corner{font-family:var(--mono);font-size:12px;letter-spacing:.08em;
+  color:var(--ad-vink-soft-fg);display:flex;justify-content:space-between;flex-wrap:wrap;gap:8px;
+  border-bottom:1px solid var(--ad-vrule-soft-border);padding-bottom:6px;margin-bottom:18px;}
+h1{font-family:var(--serif);font-weight:700;font-size:clamp(26px,5vw,40px);
+   line-height:1.25;letter-spacing:.02em;margin:0 0 10px;}
+h1 .sub{display:block;font-size:.45em;font-weight:400;letter-spacing:.22em;
+        color:var(--ad-vink-soft-fg);margin-bottom:10px}
+.standfirst{max-width:44em;margin:0;color:var(--ad-vink-soft-fg);font-size:15px}
+main{padding-bottom:60px}
+section{margin-top:30px}
+h2{font-family:var(--serif);font-size:20px;margin:0 0 6px;letter-spacing:.02em}
+.step{font-family:var(--mono);font-size:12px;letter-spacing:.1em;color:var(--ad-vseal-fg);margin:0 0 2px}
+.hint{color:var(--ad-vink-soft-fg);font-size:14px;margin:0 0 14px;max-width:52em}
+.qgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(228px,1fr));gap:9px}
+.q{font:inherit;font-size:14px;text-align:left;cursor:pointer;
+   background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-border);border-radius:5px;
+   padding:9px 11px;line-height:1.55;color:var(--ad-vink-fg)}
+.q:hover{border-color:var(--ad-vink-soft-border)}
+.q[aria-pressed="true"]{border-color:var(--ad-vseal-border);border-width:2px;padding:8px 10px;background:var(--ad-xFFFFFF-bg)}
+.q b{display:block;font-family:var(--mono);font-size:12px;letter-spacing:.06em;
+     color:var(--ad-vink-soft-fg);font-weight:400;margin-bottom:2px}
+.q[aria-pressed="true"] b{color:var(--ad-vseal-fg)}
+.lv{display:flex;gap:9px;flex-wrap:wrap}
+.lvb{font:inherit;font-size:14px;cursor:pointer;background:var(--ad-vcard-bg);
+     border:1px solid var(--ad-vrule-border);border-radius:999px;padding:8px 17px;color:var(--ad-vink-fg)}
+.lvb:hover{border-color:var(--ad-vink-soft-border)}
+.lvb[aria-pressed="true"]{background:var(--ad-vink-bg);color:var(--ad-xFFFFFF-fg);border-color:var(--ad-vink-border)}
+.lvnote{font-size:13px;color:var(--ad-vink-soft-fg);margin-top:8px}
+.outhd{display:flex;align-items:center;justify-content:space-between;gap:12px;flex-wrap:wrap;margin-bottom:8px}
+.copy{font:inherit;font-size:14px;cursor:pointer;background:var(--ad-vink-bg);color:var(--ad-xFFFFFF-fg);
+      border:1px solid var(--ad-vink-border);border-radius:5px;padding:8px 18px}
+.copy:disabled{background:var(--ad-vrule-bg);border-color:var(--ad-vrule-border);cursor:default}
+.copied{font-size:13px;color:var(--ad-vseal-fg)}
+textarea#out{width:100%;min-height:340px;font-family:var(--mono);font-size:13px;
+  line-height:1.7;color:var(--ad-vink-fg);background:var(--ad-xFFFFFF-bg);border:1px solid var(--ad-vrule-border);
+  border-radius:5px;padding:12px 13px;resize:vertical}
+.after{background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-soft-border);border-radius:6px;
+       padding:14px 16px;margin-top:18px;font-size:14px;color:var(--ad-vink-soft-fg)}
+.after b{color:var(--ad-vink-fg)}
+.after ol{margin:8px 0 0;padding-left:1.3em}
+.after li{margin-bottom:5px}
+.foot{margin-top:34px;border-top:1px solid var(--ad-vrule-soft-border);padding-top:14px;
+      font-size:13px;color:var(--ad-vink-soft-fg)}
+.foot a{color:var(--ad-vwash-fg)}
+.warn{color:var(--ad-vseal-fg)}
+
+/* 深色模式（2026-10-23）：淺色數值與原本相同；只在螢幕、手機或電腦設成深色外觀時生效，列印不受影響。 */
+:root{--ad-vcard-bg:var(--card);--ad-vcard-fg:var(--card);--ad-vfocus-border:var(--focus);--ad-vink-bg:var(--ink);--ad-vink-border:var(--ink);--ad-vink-fg:var(--ink);--ad-vink-soft-border:var(--ink-soft);--ad-vink-soft-fg:var(--ink-soft);--ad-vpaper-bg:var(--paper);--ad-vpaper-fg:var(--paper);--ad-vrule-bg:var(--rule);--ad-vrule-border:var(--rule);--ad-vrule-soft-bg:var(--rule-soft);--ad-vrule-soft-border:var(--rule-soft);--ad-vseal-bg:var(--seal);--ad-vseal-border:var(--seal);--ad-vseal-fg:var(--seal);--ad-vwash-bg:var(--wash);--ad-vwash-border:var(--wash);--ad-vwash-fg:var(--wash);--ad-x000000-bg:#000;--ad-x0E7C72-fg:#0E7C72;--ad-x2C5AA6-fg:#2C5AA6;--ad-x2E6B4F-border:#2E6B4F;--ad-x2F2B24-fg:#2F2B24;--ad-x3E3A31-fg:#3E3A31;--ad-x4A443A-fg:#4A443A;--ad-x5C5342-fg:#5C5342;--ad-x5E6A6F-fg:#5E6A6F;--ad-x5F594C-fg:#5F594C;--ad-x6B5B3E-fg:#6B5B3E;--ad-x6B6455-fg:#6B6455;--ad-x6E5F38-fg:#6E5F38;--ad-x6E6553-fg:#6E6553;--ad-x6F7B80-fg:#6F7B80;--ad-x7A7263-fg:#7A7263;--ad-x8A8271-fg:#8A8271;--ad-x8A8278-fg:#8a8278;--ad-xA3357A-fg:#A3357A;--ad-xA79C84-fg:#A79C84;--ad-xA9540A-fg:#A9540A;--ad-xB9A87A-border:#B9A87A;--ad-xC9BFA6-border:#C9BFA6;--ad-xD7C9A5-border:#D7C9A5;--ad-xD9CFB6-border:#D9CFB6;--ad-xD9E2E6-border:#D9E2E6;--ad-xDED5BF-border:#DED5BF;--ad-xE3D9BF-border:#E3D9BF;--ad-xE3DCC9-border:#E3DCC9;--ad-xE4E9E6-bg:#E4E9E6;--ad-xEDF4EF-bg:#EDF4EF;--ad-xF2E9D2-bg:#F2E9D2;--ad-xF2F2F0-bg:#F2F2F0;--ad-xF4EEDF-bg:#F4EEDF;--ad-xF4EFE2-bg:#F4EFE2;--ad-xF5F9FA-bg:#F5F9FA;--ad-xF6F1E2-bg:#F6F1E2;--ad-xF7F1E1-bg:#F7F1E1;--ad-xFBF2F1-bg:#FBF2F1;--ad-xFBF7EC-bg:#FBF7EC;--ad-xFBF8F0-bg:#FBF8F0;--ad-xFDFBF5-bg:#FDFBF5;--ad-xFFFFFF-bg:#fff;--ad-xFFFFFF-fg:#fff;--ad-xrgba9E2B25a16-bg:rgba(158,43,37,.16);color-scheme:light}
+@media screen and (prefers-color-scheme: dark){
+ :root{--ad-vcard-bg:#1E2322;--ad-vcard-fg:#151918;--ad-vfocus-border:#EAA7A0;--ad-vink-bg:#E8ECEA;--ad-vink-border:#E8ECEA;--ad-vink-fg:#E8ECEA;--ad-vink-soft-border:#B4BCB8;--ad-vink-soft-fg:#B4BCB8;--ad-vpaper-bg:#151918;--ad-vpaper-fg:#151918;--ad-vrule-bg:#434B48;--ad-vrule-border:#434B48;--ad-vrule-soft-bg:#2E3533;--ad-vrule-soft-border:#2E3533;--ad-vseal-bg:#C9625A;--ad-vseal-border:#C9625A;--ad-vseal-fg:#EAA7A0;--ad-vwash-bg:#5F8C99;--ad-vwash-border:#5F8C99;--ad-vwash-fg:#9FC4CF;--ad-x000000-bg:#FFFFFF;--ad-x0E7C72-fg:#B4E9E5;--ad-x2C5AA6-fg:#99B3DD;--ad-x2E6B4F-border:#83B9A0;--ad-x2F2B24-fg:#E1DFDB;--ad-x3E3A31-fg:#D9D7D3;--ad-x4A443A-fg:#D4D1CD;--ad-x5C5342-fg:#CFCBC4;--ad-x5E6A6F-fg:#B9BEC0;--ad-x5F594C-fg:#CAC7C2;--ad-x6B5B3E-fg:#D3CAB9;--ad-x6B6455-fg:#C4C2BC;--ad-x6E5F38-fg:#D7CEB8;--ad-x6E6553-fg:#C5C1BA;--ad-x6F7B80-fg:#B0B4B6;--ad-x7A7263-fg:#BCB9B4;--ad-x8A8271-fg:#B5B1AB;--ad-x8A8278-fg:#C2BFBB;--ad-xA3357A-fg:#D89BC1;--ad-xA79C84-fg:#ACA699;--ad-xA9540A-fg:#E4C1A3;--ad-xB9A87A-border:#9B8C63;--ad-xC9BFA6-border:#796F55;--ad-xD7C9A5-border:#7C6D48;--ad-xD9CFB6-border:#6E6346;--ad-xD9E2E6-border:#3D4B51;--ad-xDED5BF-border:#685D42;--ad-xE3D9BF-border:#695D3C;--ad-xE3DCC9-border:#60573D;--ad-xE4E9E6-bg:#212422;--ad-xEDF4EF-bg:#1B221D;--ad-xF2E9D2-bg:#2D281B;--ad-xF2F2F0-bg:#1F1F1D;--ad-xF4EEDF-bg:#28241A;--ad-xF4EFE2-bg:#27231A;--ad-xF5F9FA-bg:#181F20;--ad-xF6F1E2-bg:#282419;--ad-xF7F1E1-bg:#292418;--ad-xFBF2F1-bg:#241715;--ad-xFBF7EC-bg:#262215;--ad-xFBF8F0-bg:#242015;--ad-xFDFBF5-bg:#242013;--ad-xFFFFFF-bg:#252B29;--ad-xFFFFFF-fg:#151918;--ad-xrgba9E2B25a16-bg:rgba(201,98,90,.32);color-scheme:dark}
+ a:where(:link,:visited){color:var(--ad-vseal-fg)}
+}
+.unitbar{margin:12px 0 18px; font-size:14px; line-height:1.5;}
+.unitbar .ubrow{display:flex; flex-wrap:wrap; align-items:center; gap:6px;}
+.unitbar .ubrow + .ubrow{margin-top:8px;}
+.unitbar .ublab{font-size:12px; font-weight:700; letter-spacing:.06em; border:1px solid currentColor; border-radius:12px; padding:2px 10px; opacity:.75; white-space:nowrap;}
+.unitbar a, .unitbar .cur{display:inline-block; border:1px solid rgba(128,128,128,.45); border-radius:14px; padding:3px 11px; white-space:nowrap; font-weight:700; text-decoration:none;}
+.unitbar a{color:var(--ad-vseal-fg);}
+.unitbar a:hover{text-decoration:underline; text-underline-offset:3px;}
+.unitbar .cur{background:rgba(128,128,128,.2);}
+@media print{.unitbar, .toBar{display:none!important;}}
+/* fold-cue 2026-10-25：全站可展開的區塊統一提示。標題右側一律是「＋ 展開」，展開後變「－ 收合」；舊的箭頭與各式提示字樣一併取代。 */
+details:not(.sh) > summary{list-style:none; cursor:pointer; position:relative; padding-right:92px !important;}
+details:not(.sh) > summary::-webkit-details-marker{display:none;}
+details:not(.sh) > summary::marker{content:"";}
+details:not(.sh) > summary *::before, details:not(.sh) > summary *::after, details:not(.sh) > summary::before{content:none !important;}
+details:not(.sh) > summary::after{content:"＋ 展開" !important; display:block !important; position:absolute !important; right:10px !important; top:50% !important; transform:translateY(-50%) !important; margin:0 !important; padding:2px 10px !important; border:1px solid currentColor !important; border-radius:999px !important; background:transparent !important; color:inherit !important; opacity:.85; font:400 12.5px/1.5 "Noto Sans TC",system-ui,sans-serif !important; letter-spacing:0 !important; text-transform:none !important; white-space:nowrap !important; text-decoration:none !important; width:auto !important; height:auto !important;}
+details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
+@media print{details:not(.sh) > summary::after{display:none !important;}}
+</style>
+<style id="anti-copy">
+/* 防盜用措施（2026-10-14）：畫面浮水印、列印浮水印、頁尾授權聲明 */
+@media screen{body::before{content:"";position:fixed;top:0;left:0;right:0;bottom:0;z-index:2147483000;pointer-events:none;background-image:url("data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22460%22%20height%3D%22240%22%3E%3Cg%20transform%3D%22rotate%28-20%20230%20120%29%22%20font-family%3D%22Noto%20Sans%20TC%2Csans-serif%22%20fill%3D%22%23D9A400%22%20fill-opacity%3D%22.2%22%20text-anchor%3D%22middle%22%3E%3Ctext%20x%3D%22230%22%20y%3D%22112%22%20font-size%3D%2220%22%3E%E6%AD%B7%E5%B1%86%E4%BD%9C%E6%96%87%E9%A1%8C%E7%9B%AE%E7%B4%A2%E5%BC%95%3C%2Ftext%3E%3Ctext%20x%3D%22230%22%20y%3D%22140%22%20font-size%3D%2214%22%3Estaresto-create.github.io%2Fessay-prompts%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fsvg%3E");background-repeat:repeat;}}
+@media print{body::after{content:"歷屆作文題目索引\A staresto-create.github.io/essay-prompts\A 免費資源，請勿販售";white-space:pre;position:fixed;top:42%;left:0;right:0;text-align:center;transform:rotate(-25deg);font-family:"Noto Sans TC",sans-serif;font-size:26pt;line-height:1.7;color:#c8c8c8;z-index:2147483000;pointer-events:none;}}
+.cc-note{font-size:12px;line-height:1.8;color:var(--ad-x8A8278-fg);margin:12px auto;max-width:60em;padding:0 1em;}.cc-note a{color:inherit;}
+</style>
+<style>
+.mod{background:var(--ad-vcard-bg);border:1px solid var(--ad-vrule-border);border-radius:6px;padding:16px 18px;margin-top:18px}
+.mod h2{margin-bottom:10px}
+.mod dl{margin:0}
+.mod dt{font-weight:700;margin-top:10px;font-size:14px}
+.mod dd{margin:2px 0 0;font-size:15px}
+.mod ul.pat{list-style:none;padding:0;margin:6px 0 0}
+.mod ul.pat li{padding:6px 0;border-top:1px dotted var(--ad-vrule-border);font-size:15px}
+.mod ul.pat .en{font-family:Georgia,"Times New Roman",serif;font-size:16px;display:block}
+.mod ul.pat .zh{font-size:13px;color:var(--ad-vink-soft-fg)}
+.mod .tag{font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--ad-vseal-fg)}
+.mod .qs a{display:inline-block;margin:2px 8px 2px 0}
+.mod .sug{font-size:12px;color:var(--ad-vink-soft-fg)}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="wrap">
+    <div class="corner"><span>大學入學考試中心　英文考科</span><span>寫法模組</span></div>
+    <h1><span class="sub">歷屆英文作文題目索引</span>三種議論寫法</h1>
+    <p class="standfirst">很多題目看起來不同，寫法其實相通。先看題目要你做什麼，再選一種寫法，比背萬用句型有用。下面三種，是學測、指考議論類題目最常用得上的。看圖敘事或純描述的題目，不一定套得上，所以每個模組都標明適用的題目。</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <nav class="unitbar" id="unitbar" aria-label="本頁單元"><div class="ubrow"><span class="ublab">同一站</span><a href="../">歷屆題目</a><a href="../practice/">作文練習題型</a></div><div class="ubrow"><span class="ublab">本頁單元</span><a href="#m1">雙面刃</a><a href="#m2">根本原因</a><a href="#m3">長遠影響</a></div></nav>
+  <section class="mod" id="m1">
+    <p class="step">模組 1</p>
+    <h2>雙面刃</h2>
+    <dl>
+      <dt>適用題目</dt><dd>題目要你評價一件事，而且好處和壞處你都說得出具體例子。</dd>
+      <dt>第一段</dt><dd>好處和壞處各舉一個例子。</dd>
+      <dt>第二段</dt><dd>表明你的立場，並說明在什麼條件下這個立場才成立。</dd>
+      <dt>核心句型 <span class="sug">（本題庫建議）</span></dt><dd><ul class="pat"><li><span class="en">A is a double-edged sword for B.</span><span class="zh">A 對 B 來說有好有壞。</span></li><li><span class="en">On the one hand, ... On the other hand, ...</span><span class="zh">一方面……另一方面……</span></li><li><span class="en">I still believe the benefits outweigh the drawbacks, as long as ...</span><span class="zh">只要……，我仍然認為好處多於壞處。</span></li></ul></dd>
+      <dt>常見錯誤</dt><dd>不要寫成 <i>created a double-edged sword effects</i>。double-edged sword 是名詞片語，前面用 be 動詞，要說明對象就接 for，例如 <i>Social media is a double-edged sword for teenagers.</i>。</dd>
+      <dt>站上可練習的題目</dt><dd><span class="qs"><a href="../#p=E114_GSAT">114 學測 颱風假</a><a href="../#p=E110_JCEE">110 指考 英語授課</a><a href="../#p=E96_JCEE">96 指考 沒有電的世界</a></span></dd>
+    </dl>
+  </section>
+  <section class="mod" id="m2">
+    <p class="step">模組 2</p>
+    <h2>根本原因</h2>
+    <dl>
+      <dt>適用題目</dt><dd>題目要你說明某個現象的成因。</dd>
+      <dt>第一段</dt><dd>點出現象，再寫一到兩個成因，每個成因配一個事例。</dd>
+      <dt>第二段</dt><dd>針對原因提出做法，而不是只處理表面問題。</dd>
+      <dt>核心句型 <span class="sug">（本題庫建議）</span></dt><dd><ul class="pat"><li><span class="en">A stems largely from B.</span><span class="zh">A 主要來自 B。</span></li><li><span class="en">A can be traced back to B.</span><span class="zh">A 可以追溯到 B。</span></li><li><span class="en">Instead of treating only the symptoms, we should deal with the cause.</span><span class="zh">我們不該只處理表面症狀，而要解決原因。</span></li></ul></dd>
+      <dt>常見錯誤</dt><dd>不要寫成 <i>A is stemmed from B</i>。stem from 是不及物動詞，沒有被動，要寫 <i>A stems from B</i>。成因寫一兩個就夠，多了每個都寫不具體。</dd>
+      <dt>站上可練習的題目</dt><dd><span class="qs"><a href="../#p=E105_JCEE">105 指考 碩士清潔隊員</a><a href="../#p=E115_GSAT">115 學測 寵物（第二段的「原因」）</a></span></dd>
+    </dl>
+  </section>
+  <section class="mod" id="m3">
+    <p class="step">模組 3</p>
+    <h2>長遠影響</h2>
+    <dl>
+      <dt>適用題目</dt><dd>題目談經驗或學習，重點在對未來的價值。</dd>
+      <dt>第一段</dt><dd>說明眼前的困難或過程。</dd>
+      <dt>第二段</dt><dd>說明長遠的價值，而且要連到具體的能力。</dd>
+      <dt>核心句型 <span class="sug">（本題庫建議）</span></dt><dd><ul class="pat"><li><span class="en">A paves the way for B.</span><span class="zh">A 為 B 鋪路。</span></li><li><span class="en">A lays the foundation for B.</span><span class="zh">A 為 B 打下基礎。</span></li><li><span class="en">In the long run, ...</span><span class="zh">長遠來看……</span></li></ul></dd>
+      <dt>常見錯誤</dt><dd>pave the way 後面接 for，不接 to。也不要只寫「對未來有幫助」，要寫是哪一種能力，例如「學會獨立規劃行程」。</dd>
+      <dt>站上可練習的題目</dt><dd><span class="qs"><a href="../#p=E93_JCEE">93 指考 旅行是最好的老師</a><a href="../#p=E104_JCEE">104 指考 學習經驗的感想（第二段）</a></span></dd>
+    </dl>
+  </section>
+
+  <p class="foot">
+    題目出自大學入學考試中心歷年試題。句型已對照 Oxford Learner's Dictionaries 與 Merriam-Webster 核對，說明為本題庫自寫。<br>
+    <a href="../">回到歷屆英文作文題目索引</a>
+  </p>
+</main>
+
+<p class="cc-note">本題庫自己寫的部分（解析、中譯、分類、標註與編排）採用 <a href="https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hant" target="_blank" rel="license noopener">CC BY-NC 4.0</a>（姓名標示─非商業性）授權：可以分享，但須註明出處，不得用於商業用途。試題來源與完整說明請見<a href="https://staresto-create.github.io/JCEE-vocab-questions/#terms">使用與著作權</a>。</p>
+</body>
+</html>

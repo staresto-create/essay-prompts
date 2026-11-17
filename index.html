@@ -550,7 +550,7 @@ details[open]:not(.sh) > summary::after{content:"－ 收合" !important;}
   <section class="togo" aria-labelledby="togoH">
     <h2 id="togoH">寫之前，先練習三件事</h2>
     <p>這一頁 67 道題目（63 題歷屆題目，加上 4 題本題庫自編題）都附了單字、片語與字詞搭配，以及練習句，可以直接照著練習；其中有 3 題參考試卷的題目沿用歷屆考題，卡片上有連結可以跳到原題去看。另有一頁練習不綁定特定題目，而是把動筆前的三件事拆開來單獨練習：寫出主題句、找出離題的句子、把兩段大綱搭起來，共八個題組。題組陸續增補中；情境取自七個歷屆學測作文題，頁面上的英文句子是本題庫自己寫的，不是歷屆試題，也不是考生佳作。</p>
-    <p><a href="practice/">前往作文練習題型 →</a></p>
+    <p><a href="practice/">前往作文練習題型 →</a>　<a href="modules/">三種議論寫法（雙面刃、根本原因、長遠影響）→</a></p>
   </section>
 
   <section class="togo" id="u-teachers" aria-labelledby="teachH">
@@ -871,6 +871,17 @@ function card(it){
       return p;
     };
     if(g.intro)body.appendChild(el('p','bsIntro',g.intro));
+    // 寫法模組：這題適合套用的議論寫法，連到 modules/ 頁。欄位 modules[{id,name}] 是選配。
+    if(g.modules&&g.modules.length){
+      const mp=el('p','rgNote');
+      mp.appendChild(document.createTextNode('這題可以用的寫法：'));
+      g.modules.forEach((m,i)=>{
+        const a=document.createElement('a');a.href='modules/#'+m.id;a.textContent=m.name+' →';
+        if(i)mp.appendChild(document.createTextNode('　'));
+        mp.appendChild(a);
+      });
+      body.appendChild(mp);
+    }
     (g.secs||[]).forEach(sec=>{
       body.appendChild(el('div','mdH',sec.h));
       sec.p.forEach(t=>body.appendChild(rich('rgNote',t)));
